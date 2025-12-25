@@ -1,0 +1,180 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ecoattachmentemporium/0.0.1": {
+        "dependencies": {
+          "SPTarkov.Common": "4.0.3",
+          "SPTarkov.DI": "4.0.3",
+          "SPTarkov.Server.Core": "4.0.3",
+          "WTT-ServerCommonLib": "2.0.0"
+        },
+        "runtime": {
+          "ecoattachmentemporium.dll": {}
+        }
+      },
+      "FastCloner/3.3.16": {
+        "runtime": {
+          "lib/net8.0/FastCloner.dll": {
+            "assemblyVersion": "3.3.16.0",
+            "fileVersion": "3.3.16.0"
+          }
+        }
+      },
+      "JetBrains.Annotations/2025.2.2": {
+        "runtime": {
+          "lib/netstandard2.0/JetBrains.Annotations.dll": {
+            "assemblyVersion": "4242.42.42.42",
+            "fileVersion": "2025.2.2.0"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.9": {
+        "runtime": {
+          "lib/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.925.41916"
+          }
+        }
+      },
+      "SemanticVersioning/3.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/SemanticVersioning.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      },
+      "SPTarkov.Common/4.0.3": {
+        "dependencies": {
+          "SemanticVersioning": "3.0.0"
+        },
+        "runtime": {
+          "lib/net9.0/SPTarkov.Common.dll": {
+            "assemblyVersion": "4.0.2.0",
+            "fileVersion": "4.0.2.0"
+          }
+        }
+      },
+      "SPTarkov.DI/4.0.3": {
+        "dependencies": {
+          "JetBrains.Annotations": "2025.2.2",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.9"
+        },
+        "runtime": {
+          "lib/net9.0/SPTarkov.DI.dll": {
+            "assemblyVersion": "4.0.2.0",
+            "fileVersion": "4.0.2.0"
+          }
+        }
+      },
+      "SPTarkov.Server.Core/4.0.3": {
+        "dependencies": {
+          "FastCloner": "3.3.16",
+          "SPTarkov.Common": "4.0.3",
+          "SPTarkov.DI": "4.0.3",
+          "System.IO.Hashing": "9.0.9"
+        },
+        "runtime": {
+          "lib/net9.0/SPTarkov.Server.Core.dll": {
+            "assemblyVersion": "4.0.2.0",
+            "fileVersion": "4.0.2.0"
+          }
+        }
+      },
+      "System.IO.Hashing/9.0.9": {
+        "runtime": {
+          "lib/net9.0/System.IO.Hashing.dll": {
+            "assemblyVersion": "9.0.0.9",
+            "fileVersion": "9.0.925.41916"
+          }
+        }
+      },
+      "WTT-ServerCommonLib/2.0.0": {
+        "dependencies": {
+          "SPTarkov.Server.Core": "4.0.3"
+        },
+        "runtime": {
+          "lib/net9.0/WTT-ServerCommonLib.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ecoattachmentemporium/0.0.1": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FastCloner/3.3.16": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3469qHsau6KXmOnLSR7DvvId+NwXuXKAvtDoJVJMDpRRaHLT7DU8IY2G4osMAbXyUfrlbrmXGI5HrlMwQUUjow==",
+      "path": "fastcloner/3.3.16",
+      "hashPath": "fastcloner.3.3.16.nupkg.sha512"
+    },
+    "JetBrains.Annotations/2025.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0X56ZRizuHdrnPpgXjWV7f2tQO1FlQg5O1967OGKnI/4ZRNOK642J8L7brM1nYvrxTTU5TP1yRyXLRLaXLPQ8A==",
+      "path": "jetbrains.annotations/2025.2.2",
+      "hashPath": "jetbrains.annotations.2025.2.2.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/hymojfWbE9AlDOa0mczR44m00Jj+T3+HZO0ZnVTI032fVycI0ZbNOVFP6kqZMcXiLSYXzR2ilcwaRi6dzeGyA==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/9.0.9",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.9.0.9.nupkg.sha512"
+    },
+    "SemanticVersioning/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RR+8GbPQ/gjDqov/1QN1OPoUlbUruNwcL3WjWCeLw+MY7+od/ENhnkYxCfAC6rQLIu3QifaJt3kPYyP3RumqMQ==",
+      "path": "semanticversioning/3.0.0",
+      "hashPath": "semanticversioning.3.0.0.nupkg.sha512"
+    },
+    "SPTarkov.Common/4.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lROprZmqP7SX4qNV5g+QUVzP+Wj25q47boJM4ejcgbWHLGGj8OCcqpB9Pvn9HYsCg8k/TvS3cRS008mQ1rltMg==",
+      "path": "sptarkov.common/4.0.3",
+      "hashPath": "sptarkov.common.4.0.3.nupkg.sha512"
+    },
+    "SPTarkov.DI/4.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-B2cPKgLZRoqlPt17N/mfG2z6WS8zrFJ499S7Xcn+JrPKg/ycaxeJQIDiNxaJdWPE3p1jZpEh9ywnDRW9zFKTnA==",
+      "path": "sptarkov.di/4.0.3",
+      "hashPath": "sptarkov.di.4.0.3.nupkg.sha512"
+    },
+    "SPTarkov.Server.Core/4.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jRNV3F0AtLp0OT0kfEYy/sepNBrywHlcHr+/wqeoqytZfHRnQtYoUxREYkX50qf2N3mUY8TbGv3YfnFELjeB/g==",
+      "path": "sptarkov.server.core/4.0.3",
+      "hashPath": "sptarkov.server.core.4.0.3.nupkg.sha512"
+    },
+    "System.IO.Hashing/9.0.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hcGHdlcKtox37LQZBLYJ3GdTlHx16F5tL96Rt8iaFscCAJW9IZt3asQbyuJMjcM9oyrn3Yh2454VY2fU0d/stw==",
+      "path": "system.io.hashing/9.0.9",
+      "hashPath": "system.io.hashing.9.0.9.nupkg.sha512"
+    },
+    "WTT-ServerCommonLib/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1TpG1GoR6Hdui5Vbt4phYw47EQqnKQO4OZsHYLMMn/6KfiBMBMiacqgGQJqPQ3S9x6VMEbv892mmHJSODjfHdQ==",
+      "path": "wtt-servercommonlib/2.0.0",
+      "hashPath": "wtt-servercommonlib.2.0.0.nupkg.sha512"
+    }
+  }
+}
