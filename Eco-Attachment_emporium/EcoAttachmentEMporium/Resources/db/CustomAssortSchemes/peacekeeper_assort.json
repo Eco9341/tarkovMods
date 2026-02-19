@@ -1,0 +1,166 @@
+   {
+   "PEACEKEEPER": {
+  "items": [
+    {
+      "_id": "6939f7b9e539c37b200ff43a",
+      "_tpl": "6923adaa56bff0144c0a9aa3",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 1,
+        "UnlimitedCount": false,
+        "Repairable": {
+          "Durability": 100,
+          "MaxDurability": 100
+        },
+        "FireMode": {
+          "FireMode": "single"
+        },
+        "BuyRestrictionMax": 1
+      }
+    },
+    {
+      "_id": "6939ee5ae539c37b200e188a",
+      "_tpl": "55802f5d4bdc2dac148b458f",
+      "parentId": "6939f7b9e539c37b200ff43a",
+      "slotId": "mod_pistol_grip"
+    },
+    {
+      "_id": "6939ee5ae539c37b200e188b",
+      "_tpl": "5cf12a15d7f00c05464b293f",
+      "parentId": "6939f7b9e539c37b200ff43a",
+      "slotId": "mod_magazine"
+    },
+    {
+      "_id": "6939ee5ae539c37b200e188c",
+      "_tpl": "6924fcff356087e2080c5556",
+      "parentId": "6939f7b9e539c37b200ff43a",
+      "slotId": "mod_stock"
+    },
+    {
+      "_id": "6939ee5ae539c37b200e188d",
+      "_tpl": "6924fcff356087e2080c5558",
+      "parentId": "6939f7b9e539c37b200ff43a",
+      "slotId": "mod_handguard"
+    },
+    {
+      "_id": "6939ee5ae539c37b200e188e",
+      "_tpl": "6924fcff356087e2080c5554",
+      "parentId": "6939f7b9e539c37b200ff43a",
+      "slotId": "mod_barrel"
+    },
+    {
+      "_id": "6939ee5ae539c37b200e188f",
+      "_tpl": "5a34fd2bc4a282329a73b4c5",
+      "parentId": "6939ee5ae539c37b200e188e",
+      "slotId": "mod_muzzle"
+    },
+    {
+      "_id": "693ec87c6f778361045c4203",
+      "_tpl": "68f2ccf08570c57d280acc22",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 1,
+        "UnlimitedCount": false,
+        "Repairable": {
+          "Durability": 100,
+          "MaxDurability": 100
+        },
+        "FireMode": {
+          "FireMode": "fullauto"
+        },
+        "BuyRestrictionMax": 1
+      }
+    },
+    {
+      "_id": "6939eae876ff9b5300fd6b24",
+      "_tpl": "660ea4453786cc0af808a1be",
+      "parentId": "693ec87c6f778361045c4203",
+      "slotId": "mod_magazine"
+    },
+    {
+      "_id": "6939eae876ff9b5300fd6b25",
+      "_tpl": "68f6cbc3642aa0894f001493",
+      "parentId": "693ec87c6f778361045c4203",
+      "slotId": "mod_barrel"
+    },
+    {
+      "_id": "6939eae876ff9b5300fd6b26",
+      "_tpl": "68f6cbc3642aa0894f001495",
+      "parentId": "693ec87c6f778361045c4203",
+      "slotId": "mod_handguard"
+    },
+    {
+      "_id": "6939eae876ff9b5300fd6b27",
+      "_tpl": "68f6cbc3642aa0894f001498",
+      "parentId": "693ec87c6f778361045c4203",
+      "slotId": "mod_sight_rear",
+      "upd": {
+        "Sight": {
+          "ScopesCurrentCalibPointIndexes": [
+            0
+          ],
+          "ScopesSelectedModes": [
+            0
+          ],
+          "SelectedScope": 0,
+          "ScopeZoomValue": 0
+        }
+      }
+    },
+    {
+      "_id": "6939eae876ff9b5300fd6b28",
+      "_tpl": "68f6cbc3642aa0894f001494",
+      "parentId": "693ec87c6f778361045c4203",
+      "slotId": "mod_pistolgrip_000"
+    },
+    {
+      "_id": "6939eae876ff9b5300fd6b29",
+      "_tpl": "5a34fd2bc4a282329a73b4c5",
+      "parentId": "6939eae876ff9b5300fd6b25",
+      "slotId": "mod_muzzle"
+    },
+    {
+      "_id": "6939eae876ff9b5300fd6b2a",
+      "_tpl": "68f6cbc3642aa0894f001499",
+      "parentId": "6939eae876ff9b5300fd6b25",
+      "slotId": "mod_sight_front",
+      "upd": {
+        "Sight": {
+          "ScopesCurrentCalibPointIndexes": [
+            0
+          ],
+          "ScopesSelectedModes": [
+            0
+          ],
+          "SelectedScope": 0,
+          "ScopeZoomValue": 0
+        }
+      }
+    }
+  ],
+  "barter_scheme": {
+    "6939f7b9e539c37b200ff43a": [
+      [
+        {
+          "count": 89348,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "693ec87c6f778361045c4203": [
+      [
+        {
+          "count": 156272,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ]
+  },
+  "loyal_level_items": {
+    "6939f7b9e539c37b200ff43a": 2,
+    "693ec87c6f778361045c4203": 3
+  }
+    }
+}

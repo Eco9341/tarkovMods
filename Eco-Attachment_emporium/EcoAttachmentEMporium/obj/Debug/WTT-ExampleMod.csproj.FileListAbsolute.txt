@@ -1,0 +1,103 @@
+Q:\Games\SPT_401\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\WTT-ExampleMod-0.0.1\Resources\bundles.json
+Q:\Games\SPT_401\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\WTT-ExampleMod-0.0.1\WTT-ExampleMod.staticwebassets.endpoints.json
+Q:\Games\SPT_401\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\WTT-ExampleMod-0.0.1\WTT-ExampleMod.deps.json
+Q:\Games\SPT_401\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\WTT-ExampleMod-0.0.1\WTT-ExampleMod.dll
+Q:\Games\SPT_401\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\WTT-ExampleMod-0.0.1\WTT-ExampleMod.pdb
+Q:\Games\SPT_401\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\obj\Debug\WTT-ExampleMod.csproj.AssemblyReference.cache
+Q:\Games\SPT_401\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\obj\Debug\rpswa.dswa.cache.json
+Q:\Games\SPT_401\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\obj\Debug\WTT-ExampleMod.GeneratedMSBuildEditorConfig.editorconfig
+Q:\Games\SPT_401\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\obj\Debug\WTT-ExampleMod.AssemblyInfoInputs.cache
+Q:\Games\SPT_401\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\obj\Debug\WTT-ExampleMod.AssemblyInfo.cs
+Q:\Games\SPT_401\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\obj\Debug\WTT-ExampleMod.csproj.CoreCompileInputs.cache
+Q:\Games\SPT_401\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\obj\Debug\rjimswa.dswa.cache.json
+Q:\Games\SPT_401\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\obj\Debug\rjsmrazor.dswa.cache.json
+Q:\Games\SPT_401\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\obj\Debug\rjsmcshtml.dswa.cache.json
+Q:\Games\SPT_401\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\obj\Debug\scopedcss\bundle\WTT-ExampleMod.styles.css
+Q:\Games\SPT_401\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\obj\Debug\staticwebassets.build.json
+Q:\Games\SPT_401\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\obj\Debug\staticwebassets.build.json.cache
+Q:\Games\SPT_401\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\obj\Debug\staticwebassets.development.json
+Q:\Games\SPT_401\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\obj\Debug\staticwebassets.build.endpoints.json
+Q:\Games\SPT_401\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\obj\Debug\WTT-ExampleMod.dll
+Q:\Games\SPT_401\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\obj\Debug\refint\WTT-ExampleMod.dll
+Q:\Games\SPT_401\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\obj\Debug\WTT-ExampleMod.pdb
+Q:\Games\SPT_401\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\obj\Debug\ref\WTT-ExampleMod.dll
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\bundles.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Eco-Attachment-Emporium.staticwebassets.endpoints.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Eco-Attachment-Emporium.deps.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Eco-Attachment-Emporium.dll
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Eco-Attachment-Emporium.pdb
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\obj\Debug\WTT-ExampleMod.csproj.AssemblyReference.cache
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\obj\Debug\WTT-ExampleMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\obj\Debug\WTT-ExampleMod.AssemblyInfoInputs.cache
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\obj\Debug\WTT-ExampleMod.AssemblyInfo.cs
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\obj\Debug\WTT-ExampleMod.csproj.CoreCompileInputs.cache
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\obj\Debug\scopedcss\bundle\Eco-Attachment-Emporium.styles.css
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\obj\Debug\staticwebassets.build.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\obj\Debug\staticwebassets.development.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\obj\Debug\staticwebassets.build.endpoints.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\obj\Debug\staticwebassets\msbuild.Eco-Attachment-Emporium.Microsoft.AspNetCore.StaticWebAssets.props
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\obj\Debug\staticwebassets\msbuild.Eco-Attachment-Emporium.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\obj\Debug\staticwebassets\msbuild.build.Eco-Attachment-Emporium.props
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\obj\Debug\staticwebassets\msbuild.buildMultiTargeting.Eco-Attachment-Emporium.props
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\obj\Debug\staticwebassets\msbuild.buildTransitive.Eco-Attachment-Emporium.props
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\obj\Debug\staticwebassets.pack.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\obj\Debug\Eco-Attachment-Emporium.dll
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\obj\Debug\refint\Eco-Attachment-Emporium.dll
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\obj\Debug\Eco-Attachment-Emporium.pdb
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\obj\Debug\ref\Eco-Attachment-Emporium.dll
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomAssortSchemes\jaeger_assort.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomAssortSchemes\mechanic_assort.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomAssortSchemes\peacekeeper_assort.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomAssortSchemes\prapor_assort.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomAssortSchemes\skier_assort.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\416_Handguards.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\AC_TX_XC.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\AK105_new.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\AK12K.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\AK12M1.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\AK12SK.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\AK74M_new.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\AK_Mags.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\AK_Stuff.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\AMT_HardBaller.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\Anaconda_Riser.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\AR15_Mags.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\AR_15_handguards.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\AR_15_Receivers.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\AR_15_Stocks.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\AS_1.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\As_Val_Mod_3_5.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\Beretta_1301.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\BM59.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\BRN180.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\Clutch_CH.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\dbal_pad.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\Foregrips.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\IronSights.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\Keymod_adapter.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\Kochevnik.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\Lasers.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\LR300.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\M240.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\M60A3 Kit.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\M700.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\MK12_Mod0.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\MK22_HushPuppy.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\Mounts.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\Norinco_m14.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\PistolGrips.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\PKM_Zenitco_kit.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\PPK_20.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\SAK21.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\Scar_H_Mags.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\Scope.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\Sport_Kits.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\SR1.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\SR_3M_handguard.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\SUR300.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\SureFire.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\svd_short.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\USPS.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\VPO185.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\Warn_metal.json
+C:\SPT 4.0\MOD_DEV\WTT-ExampleMod\WTT-ExampleMod\bin\Debug\-0.0.1\Resources\db\CustomItems\Zastava_m19.json

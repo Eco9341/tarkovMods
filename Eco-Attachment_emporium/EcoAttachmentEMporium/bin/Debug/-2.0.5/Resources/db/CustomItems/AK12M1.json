@@ -1,0 +1,1114 @@
+{
+  "68ed85275e9a77cf70058337": {
+    "itemTplToClone": "6499849fc93611967b034949",
+    "parentId": "5447b5f14bdc2d61278b4567",
+    "handbookParentId": "5b5f78fc86f77409407a7f90",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/AK12M1/weapon_ak12m1_container.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": true,
+      "CanRequireOnRagfair": false,
+      "Ergonomics": 42,
+      "Slots": [
+        {
+          "_name": "mod_gas_block",
+          "_id": "6499849fc93611967b03494b",
+          "_parent": "6499849fc93611967b034949",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "649ec107961514b22506b10c"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_launcher",
+          "_id": "6499849fc93611967b03494c",
+          "_parent": "6499849fc93611967b034949",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5648b62b4bdc2d9d488b4585",
+                  "62e7e7bbe6da9612f743f1e0"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_muzzle",
+          "_id": "6499849fc93611967b03494d",
+          "_parent": "6499849fc93611967b034949",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "649ec2af961514b22506b10f",
+                  "64c196ad26a15b84aa07132f"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_pistol_grip",
+          "_id": "6499849fc93611967b03494e",
+          "_parent": "6499849fc93611967b034949",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68ed85275e9a77cf7005833a"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_reciever",
+          "_id": "6499849fc93611967b03494f",
+          "_parent": "6499849fc93611967b034949",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68ed85275e9a77cf70058338"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_stock_001",
+          "_id": "6499849fc93611967b034951",
+          "_parent": "6499849fc93611967b034949",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68ed85275e9a77cf7005833c",
+                  "68ed85275e9a77cf7005833b",
+                  "5ac50c185acfc400163398d4",
+                  "5cf50fc5d7f00c056c53f83c",
+                  "5beec8b20db834001961942a",
+                  "6386300124a1dc425c00577a",
+                  "649ec87d8007560a9001ab36",
+                  "6761779c48fa5c377e06fc3f"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_magazine",
+          "_id": "6499849fc93611967b034952",
+          "_parent": "6499849fc93611967b034949",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex": -1,
+                "Filter": [
+                  "564ca9df4bdc2d35148b4569",
+                  "564ca99c4bdc2d16268b4589",
+                  "55d480c04bdc2d1d4e8b456a",
+                  "5cbdaf89ae9215000e5b9c94",
+                  "55d481904bdc2d8c2f8b456a",
+                  "55d482194bdc2d1d4e8b456b",
+                  "55d4837c4bdc2d1d4e8b456c",
+                  "5aaa4194e5b5b055d06310a5",
+                  "5bed61680db834001d2c45ab",
+                  "5bed625c0db834001c062946",
+                  "649ec30cb013f04a700e60fb",
+                  "64b9e265c94d0d15c5027e35"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c394bdc2dae468b4577"
+        },
+        {
+          "_name": "mod_charge",
+          "_id": "6499849fc93611967b034954",
+          "_parent": "6499849fc93611967b034949",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6130ca3fd92c473c77020dbd",
+                  "5648ac824bdc2ded0b8b457d"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_handguard",
+          "_id": "649ed407b013f04a700e60fe",
+          "_parent": "6499849fc93611967b034949",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68ed85275e9a77cf70058339"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Kalashnikov AK-12 M-1 5.45x39 assault rifle",
+        "shortName": "AK-12 M-1",
+        "description": "A modernized variant of the AK-12 platform."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 46345,
+    "handbookPriceRoubles": 29473,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
+      }
+    ],
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+  "_id": "6939f7b9e539c37b200ff45e",
+  "_type": "Preset",
+  "_changeWeaponName": false,
+  "_name": "AK12M1",
+  "_parent": "6939f7b9e539c37b200ff45f",
+  "_items": [
+    {
+      "_id": "6939f7b9e539c37b200ff45f",
+      "_tpl": "68ed85275e9a77cf70058337",
+      "upd": {
+        "Repairable": {
+          "Durability": 100,
+          "MaxDurability": 100
+        },
+        "FireMode": {
+          "FireMode": "single"
+        },
+        "Foldable": {
+          "Folded": false
+        }
+      }
+    },
+    {
+      "_id": "6939f7b9e539c37b200ff460",
+      "_tpl": "649ec107961514b22506b10c",
+      "parentId": "6939f7b9e539c37b200ff45f",
+      "slotId": "mod_gas_block"
+    },
+    {
+      "_id": "6939f7b9e539c37b200ff461",
+      "_tpl": "649ec2af961514b22506b10f",
+      "parentId": "6939f7b9e539c37b200ff45f",
+      "slotId": "mod_muzzle"
+    },
+    {
+      "_id": "6939f7b9e539c37b200ff462",
+      "_tpl": "68ed85275e9a77cf7005833a",
+      "parentId": "6939f7b9e539c37b200ff45f",
+      "slotId": "mod_pistol_grip"
+    },
+    {
+      "_id": "6939f7b9e539c37b200ff463",
+      "_tpl": "68ed85275e9a77cf70058338",
+      "parentId": "6939f7b9e539c37b200ff45f",
+      "slotId": "mod_reciever"
+    },
+    {
+      "_id": "6939f7b9e539c37b200ff464",
+      "_tpl": "68ed85275e9a77cf7005833b",
+      "parentId": "6939f7b9e539c37b200ff45f",
+      "slotId": "mod_stock_001"
+    },
+    {
+      "_id": "6939f7b9e539c37b200ff465",
+      "_tpl": "55d480c04bdc2d1d4e8b456a",
+      "parentId": "6939f7b9e539c37b200ff45f",
+      "slotId": "mod_magazine"
+    },
+    {
+      "_id": "6939f7b9e539c37b200ff466",
+      "_tpl": "5648ac824bdc2ded0b8b457d",
+      "parentId": "6939f7b9e539c37b200ff45f",
+      "slotId": "mod_charge"
+    },
+    {
+      "_id": "6939f7b9e539c37b200ff467",
+      "_tpl": "68ed85275e9a77cf70058339",
+      "parentId": "6939f7b9e539c37b200ff45f",
+      "slotId": "mod_handguard"
+    },
+    {
+      "_id": "6939f7b9e539c37b200ff468",
+      "_tpl": "68ed85275e9a77cf7005833d",
+      "parentId": "6939f7b9e539c37b200ff463",
+      "slotId": "mod_sight_rear",
+      "upd": {
+        "Sight": {
+          "ScopesCurrentCalibPointIndexes": [
+            0
+          ],
+          "ScopesSelectedModes": [
+            0
+          ],
+          "SelectedScope": 0,
+          "ScopeZoomValue": 0
+        }
+      }
+    }
+  ],
+  "_encyclopedia": "68ed85275e9a77cf70058337"
+      }
+    ],
+    "traders": {
+      "PRAPOR": {
+        "690a9521b92ab495d00df8ad": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 45828,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Level2": 2000,
+        "Level3": 2200,
+        "Name": "AK74",
+        "Templates": [
+          "68ed85275e9a77cf70058337"
+        ]
+      }
+    ]
+  },
+  "68ed85275e9a77cf70058338": {
+    "itemTplToClone": "649ec2f3961514b22506b111",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/AK12M1/ak12m1_dustcover.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_sight_rear",
+          "_id": "649ec2f3961514b22506b113",
+          "_parent": "649ec2f3961514b22506b111",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68ed85275e9a77cf7005833d"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_scope",
+          "_id": "649ec2f3961514b22506b112",
+          "_parent": "649ec2f3961514b22506b111",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57ac965c24597706be5f975c",
+                  "57aca93d2459771f2c7e26db",
+                  "544a3f024bdc2d1d388b4568",
+                  "544a3a774bdc2d3a388b4567",
+                  "5d2dc3e548f035404a1a4798",
+                  "57adff4f24597737f373b6e6",
+                  "5c0517910db83400232ffee5",
+                  "591c4efa86f7741030027726",
+                  "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f",
+                  "558022b54bdc2dac148b458d",
+                  "5c07dd120db834001c39092d",
+                  "5c0a2cec0db834001b7ce47d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "5c0505e00db834001b735073",
+                  "609a63b6e2ff132951242d09",
+                  "584984812459776a704a82a6",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "5dfe6104585a0c3e995c7b82",
+                  "544a3d0a4bdc2d1b388b4567",
+                  "5d1b5e94d7ad1a2b865a96b0",
+                  "609bab8b455afd752b2e6138",
+                  "58d39d3d86f77445bb794ae7",
+                  "616554fe50224f204c1da2aa",
+                  "5c7d55f52e221644f31bff6a",
+                  "616584766ef05c2ce828ef57",
+                  "5b3b6dc75acfc47a8773fb1e",
+                  "615d8d878004cc50514c3233",
+                  "5b2389515acfc4771e1be0c0",
+                  "577d128124597739d65d0e56",
+                  "618b9643526131765025ab35",
+                  "618bab21526131765025ab3f",
+                  "5c86592b2e2216000e69e77c",
+                  "5a37ca54c4a282000d72296a",
+                  "5d0a29fed7ad1a002769ad08",
+                  "5c064c400db834001d23f468",
+                  "58d2664f86f7747fec5834f6",
+                  "57c69dd424597774c03b7bbc",
+                  "5b3b99265acfc4704b4a1afb",
+                  "5aa66a9be5b5b0214e506e89",
+                  "5aa66c72e5b5b00016327c93",
+                  "5c1cdd302e221602b3137250",
+                  "61714b2467085e45ef140b2c",
+                  "6171407e50224f204c1da3c5",
+                  "61713cc4d8e3106d9806c109",
+                  "5b31163c5acfc400153b71cb",
+                  "5a33b652c4a28232996e407c",
+                  "5a33b2c9c4a282000c5a9511",
+                  "59db7eed86f77461f8380365",
+                  "5a1ead28fcdbcb001912fa9f",
+                  "5dff77c759400025ea5150cf",
+                  "626bb8532c923541184624b4",
+                  "62811f461d5df4475f46a332",
+                  "63fc449f5bd61c6cf3784a88",
+                  "6478641c19d732620e045e17",
+                  "6477772ea8a38bb2050ed4db",
+                  "64785e7c19d732620e045e15",
+                  "65392f611406374f82152ba5",
+                  "653931da5db71d30ab1d6296",
+                  "655f13e0a246670fb0373245",
+                  "6567e751a715f85433025998",
+                  "67641a851b2899700609901a",
+                  "6761759e7ee06333f108bf86"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "ConflictingItems": [
+        "6499849fc93611967b034949"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Kalashnikov AK-12 M-1 dust cover",
+        "shortName": "AK-12 M-1",
+        "description": "Dust cover for the Kalashnikov AK-12 M-1 assault rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_reciever"
+    ],
+    "fleaPriceRoubles": 3694,
+    "handbookPriceRoubles": 2321,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 10
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "690a9521b92ab495d00df8ae": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 6096,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "AK",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68ed85275e9a77cf70058339": {
+    "itemTplToClone": "649ec127c93611967b034957",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/AK12M1/ak12m1_handguard.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "62e7e7bbe6da9612f743f1e0"
+      ],
+    "Slots": [
+      {
+        "_name": "mod_mount_001",
+        "_id": "649ec127c93611967b034959",
+        "_parent": "649ec127c93611967b034957",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5beecbb80db834001d2c465e"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_mount_000",
+        "_id": "649ec127c93611967b034959",
+        "_parent": "649ec127c93611967b034957",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5beecbb80db834001d2c465e"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_tactical",
+        "_id": "649ec127c93611967b03495a",
+        "_parent": "649ec127c93611967b034957",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "558022b54bdc2dac148b458d",
+                "58491f3324597764bc48fa02",
+                "584924ec24597768f12ae244",
+                "5b30b0dc5acfc400153b7124",
+                "6165ac8c290d254f5e6b2f6c",
+                "584984812459776a704a82a6",
+                "59f9d81586f7744c7506ee62",
+                "570fd721d2720bc5458b4596",
+                "57ae0171245977343c27bfcf",
+                "58d39d3d86f77445bb794ae7",
+                "616554fe50224f204c1da2aa",
+                "615d8d878004cc50514c3233",
+                "577d128124597739d65d0e56",
+                "58d2664f86f7747fec5834f6",
+                "5649a2464bdc2d91118b45a8",
+                "61714b2467085e45ef140b2c",
+                "5b31163c5acfc400153b71cb",
+                "5a33b652c4a28232996e407c",
+                "5a33b2c9c4a282000c5a9511",
+                "570fd6c2d2720bc6458b457f",
+                "570fd79bd2720bc7458b4583",
+                "60a23797a37c940de7062d02",
+                "5d2da1e948f035477b1ce2ba",
+                "5c7d55f52e221644f31bff6a",
+                "616584766ef05c2ce828ef57",
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5d10b49bd7ad1a1a560708b0",
+                "5c06595c0db834001a66af6c",
+                "61605d88ffa6e502ac5e7eeb",
+                "5c5952732e2216398b5abda2",
+                "64785e7c19d732620e045e15",
+                "644a3df63b0b6f03e101e065",
+                "6477772ea8a38bb2050ed4db",
+                "655f13e0a246670fb0373245"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_foregrip",
+        "_id": "649ec127c93611967b03495b",
+        "_parent": "649ec127c93611967b034957",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5c7fc87d2e221644f31c0298",
+                "5cda9bcfd7f00c0c0b53e900",
+                "59f8a37386f7747af3328f06",
+                "619386379fb0c665d5490dbe",
+                "5c87ca002e221600114cb150",
+                "588226d124597767ad33f787",
+                "588226dd24597767ad33f789",
+                "588226e62459776e3e094af7",
+                "588226ef24597767af46e39c",
+                "59fc48e086f77463b1118392",
+                "5fce0cf655375d18a253eff0",
+                "5cf4fb76d7f00c065703d3ac",
+                "5b057b4f5acfc4771e1bd3e9",
+                "5c791e872e2216001219c40a",
+                "558032614bdc2de7118b4585",
+                "58c157be86f77403c74b2bb6",
+                "58c157c886f774032749fb06",
+                "5f6340d3ca442212f4047eb2",
+                "591af28e86f77414a27a9e1d",
+                "5c1cd46f2e22164bef5cfedb",
+                "5c1bc4812e22164bef5cfde7",
+                "5c1bc5612e221602b5429350",
+                "5c1bc5af2e221602b412949b",
+                "5c1bc5fb2e221602b1779b32",
+                "5c1bc7432e221602b412949d",
+                "5c1bc7752e221602b1779b34",
+                "64806bdd26c80811d408d37a",
+                "64807a29e5ffe165600abc97",
+                "648067db042be0705c0b3009",
+                "65169d5b30425317755f8e25",
+                "655df24fdf80b12750626d0a",
+                "655dccfdbdcc6b5df71382b6",
+                "661e52e29c8b4dadef008577",
+                "661e53149c8b4dadef008579",
+                "661e52415be02310ed07a07a",
+                "661e52b5b099f32c28003586"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_sight_front",
+        "_id": "5ea16acdfadf1d18c87b078b",
+        "_parent": "5ea16acdfadf1d18c87b0784",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "697fb4a38af47aeb89079626"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      }
+    ]
+    },
+    "locales": {
+      "en": {
+        "name": "Kalashnikov AK-12 M-1 handguard",
+        "shortName": "AK-12 M-1",
+        "description": "Handguard for the Kalashnikov AK-12 M-1 assault rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 8913,
+    "handbookPriceRoubles": 5754,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PRAPOR": {
+        "690a9521b92ab495d00df8af": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 14707,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "68ed85275e9a77cf7005833a": {
+    "itemTplToClone": "5beec8ea0db834001a6f9dbf",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/AK12M1/ak12m1_pgrip.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "6499849fc93611967b034949"
+      ],
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Kalashnikov AK-12 M-1 pistol grip",
+        "shortName": "AK-12 M-1",
+        "description": "Pistol grip for the Kalashnikov AK-12 M-1 assault rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_pistol_grip"
+    ],
+    "fleaPriceRoubles": 1725,
+    "handbookPriceRoubles": 1465,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 9
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "690a9521b92ab495d00df8b0": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3274,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "AK",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68ed85275e9a77cf7005833b": {
+    "itemTplToClone": "6761779c48fa5c377e06fc3f",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/AK12M1/ak12m1_stock_lowered.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Kalashnikov AK-12 M-1 Stock With Lowered Cheek Rest",
+        "shortName": "AK-12 M-1",
+        "description": "Stock with lowered cheek rest for the Kalashnikov AK-12 M-1 assault rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_stock_001"
+    ],
+    "fleaPriceRoubles": 21523,
+    "handbookPriceRoubles": 18954,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 9
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "690a9521b92ab495d00df8b1": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 27919,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "AK",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68ed85275e9a77cf7005833c": {
+    "itemTplToClone": "6761779c48fa5c377e06fc3f",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/AK12M1/ak12m1_stock_rised.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": 3,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Kalashnikov AK-12 M-1 Stock With Rised Cheek Rest",
+        "shortName": "AK-12 M-1",
+        "description": "Stock with rised cheek rest for the Kalashnikov AK-12 M-1 assault rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_stock_001"
+    ],
+    "fleaPriceRoubles": 21523,
+    "handbookPriceRoubles": 18954,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 9
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "690a9521b92ab495d00df8b2": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 27919,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "AK",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68ed85275e9a77cf7005833d": {
+    "itemTplToClone": "5bc09a18d4351e003562b68e",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/AK12M1/ak12m1_irons.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "6499849fc93611967b034949"
+      ],
+      "ExaminedByDefault": true
+    },
+    "locales": {
+      "en": {
+        "name": "Kalashnikov AK-12 M-1 rear sight",
+        "shortName": "AK-12 M-1",
+        "description": "Rear sight for the Kalashnikov AK-12 M-1 assault rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_sight_rear"
+    ],
+    "fleaPriceRoubles": 920,
+    "handbookPriceRoubles": 876,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "690a9521b92ab495d00df8b3": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1518,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  }
+}

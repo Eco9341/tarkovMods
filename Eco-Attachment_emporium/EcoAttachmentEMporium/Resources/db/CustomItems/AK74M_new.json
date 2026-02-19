@@ -1,0 +1,439 @@
+{
+  "68e1040726e57f736103f02c": {
+    "itemTplToClone": "5ac4cd105acfc40016339859",
+    "parentId": "5447b5f14bdc2d61278b4567",
+    "handbookParentId": "5b5f78fc86f77409407a7f90",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/AK74M/ak74m_norod_container.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+          {
+            "_name": "mod_gas_block",
+            "_id": "5ac4cd105acfc4001633985c",
+            "_parent": "5ac4cd105acfc40016339859",
+            "_props": {
+              "filters": [
+                {
+                  "Filter": [
+                    "5a01ad4786f77450561fda02",
+                    "59c6633186f7740cf0493bb9",
+                    "59d64ec286f774171d1e0a42",
+                    "59e649f986f77411d949b246",
+                    "5b237e425acfc4771e1be0b6",
+                    "59ccfdba86f7747f2109a587",
+                    "5cf656f2d7f00c06585fb6eb",
+                    "5d4aab30a4b9365435358c55",
+                    "68dd9032a83c8f7ea2083f44"
+                  ],
+                  "Shift": 0
+                }
+              ]
+            },
+            "_required": true,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+          },
+          {
+            "_name": "mod_launcher",
+            "_id": "5ac4cd105acfc4001633985d",
+            "_parent": "5ac4cd105acfc40016339859",
+            "_props": {
+              "filters": [
+                {
+                  "Filter": [
+                    "5648b62b4bdc2d9d488b4585",
+                    "62e7e7bbe6da9612f743f1e0"
+                  ],
+                  "Shift": 0
+                }
+              ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+          },
+          {
+            "_name": "mod_muzzle",
+            "_id": "5ac4cd105acfc4001633985e",
+            "_parent": "5ac4cd105acfc40016339859",
+            "_props": {
+              "filters": [
+                {
+                  "Filter": [
+                    "5ac72e945acfc43f3b691116",
+                    "5ac7655e5acfc40016339a19",
+                    "5649aa744bdc2ded0b8b457e",
+                    "5f633f791b231926f2329f13",
+                    "5943eeeb86f77412d6384f6b",
+                    "5cc9a96cd7f00c011c04e04a",
+                    "615d8f5dd92c473c770212ef",
+                    "5649ab884bdc2ded0b8b457f",
+                    "57dc324a24597759501edc20",
+                    "59bffc1f86f77435b128b872",
+                    "593d493f86f7745e6b2ceb22",
+                    "564caa3d4bdc2d17108b458e",
+                    "57ffb0e42459777d047111c5",
+                    "5e21ca18e4d47f0da15e77dd"
+                  ],
+                  "Shift": 0
+                }
+              ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+          },
+          {
+            "_name": "mod_pistol_grip",
+            "_id": "5ac4cd105acfc4001633985f",
+            "_parent": "5ac4cd105acfc40016339859",
+            "_props": {
+              "filters": [
+                {
+                  "Filter": [
+                    "5f6341043ada5942720e2dc5",
+                    "6087e663132d4d12c81fd96b",
+                    "623c3be0484b5003161840dc",
+                    "5beec8ea0db834001a6f9dbf",
+                    "5649ad3f4bdc2df8348b4585",
+                    "5649ade84bdc2d1b2b8b4587",
+                    "59e62cc886f77440d40b52a1",
+                    "5a0071d486f77404e23a12b2",
+                    "57e3dba62459770f0c32322b",
+                    "5cf54404d7f00c108840b2ef",
+                    "5e2192a498a36665e8337386",
+                    "5b30ac585acfc433000eb79c",
+                    "59e6318286f77444dd62c4cc",
+                    "5cf50850d7f00c056e24104c",
+                    "5cf508bfd7f00c056e24104e",
+                    "628a664bccaab13006640e47",
+                    "628c9ab845c59e5b80768a81",
+                    "5947f92f86f77427344a76b1",
+                    "5947fa2486f77425b47c1a9b",
+                    "5c6bf4aa2e2216001219b0ae",
+                    "5649ae4a4bdc2d1b2b8b4588",
+                    "5998517986f7746017232f7e",
+                    "63f4da90f31d4a33b87bd054",
+                    "648ae3e356c6310a830fc291",
+                    "651580dc71a4f10aec4b6056"
+                  ],
+                  "Shift": 0
+                }
+              ]
+            },
+            "_required": true,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+          },
+          {
+            "_name": "mod_reciever",
+            "_id": "5ac4cd105acfc40016339860",
+            "_parent": "5ac4cd105acfc40016339859",
+            "_props": {
+              "filters": [
+                {
+                  "Filter": [
+                    "5649af094bdc2df8348b4586",
+                    "5ac50da15acfc4001718d287",
+                    "5d2c76ed48f03532f2136169",
+                    "5d2c770c48f0354b4a07c100",
+                    "628a665a86cbd9750d2ff5e5",
+                    "5d2c772c48f0355d95672c25",
+                    "5649af884bdc2d1b2b8b4589",
+                    "68dd9032a83c8f7ea2083f45",
+                    "68dd9032a83c8f7ea2083f46"
+                  ],
+                  "Shift": 0
+                }
+              ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+          },
+          {
+            "_name": "mod_sight_rear",
+            "_id": "5ac4cd105acfc40016339861",
+            "_parent": "5ac4cd105acfc40016339859",
+            "_props": {
+              "filters": [
+                {
+                  "Filter": [
+                    "5ac733a45acfc400192630e2",
+                    "5649b0544bdc2d1b2b8b458a",
+                    "5ac72e475acfc400180ae6fe",
+                    "628a7b23b0f75035732dd565",
+                    "5649d9a14bdc2d79388b4580",
+                    "5bf3f59f0db834001a6fa060",
+                    "649ec2cec93611967b03495e"
+                  ],
+                  "Shift": 0
+                }
+              ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+          },
+          {
+            "_name": "mod_stock",
+            "_id": "5ac4cd105acfc40016339862",
+            "_parent": "5ac4cd105acfc40016339859",
+            "_props": {
+              "filters": [
+                {
+                  "Filter": [
+                    "5ac50c185acfc400163398d4",
+                    "5cf50fc5d7f00c056c53f83c",
+                    "5ac78eaf5acfc4001926317a",
+                    "5beec8b20db834001961942a",
+                    "6386300124a1dc425c00577a",
+                    "649ec87d8007560a9001ab36",
+                    "6761779c48fa5c377e06fc3f"
+                  ],
+                  "Shift": 0
+                }
+              ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+          },
+          {
+            "_name": "mod_magazine",
+            "_id": "5ac4cd105acfc40016339863",
+            "_parent": "5ac4cd105acfc40016339859",
+            "_props": {
+              "filters": [
+                {
+                  "AnimationIndex": -1,
+                  "Filter": [
+                    "564ca9df4bdc2d35148b4569",
+                    "564ca99c4bdc2d16268b4589",
+                    "55d480c04bdc2d1d4e8b456a",
+                    "5cbdaf89ae9215000e5b9c94",
+                    "55d481904bdc2d8c2f8b456a",
+                    "55d482194bdc2d1d4e8b456b",
+                    "55d4837c4bdc2d1d4e8b456c",
+                    "5aaa4194e5b5b055d06310a5",
+                    "5bed61680db834001d2c45ab",
+                    "5bed625c0db834001c062946",
+                    "649ec30cb013f04a700e60fb",
+                    "64b9e265c94d0d15c5027e35"
+                  ]
+                }
+              ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c394bdc2dae468b4577"
+          },
+          {
+            "_name": "mod_mount_000",
+            "_id": "5ac4cd105acfc40016339864",
+            "_parent": "5ac4cd105acfc40016339859",
+            "_props": {
+              "filters": [
+                {
+                  "Filter": [
+                    "5947db3f86f77447880cf76f",
+                    "6113d6c3290d254f5e6b27db",
+                    "57486e672459770abd687134",
+                    "618a5d5852ecee1505530b2a",
+                    "5c82342f2e221644f31c060e",
+                    "576fd4ec2459777f0b518431",
+                    "5c82343a2e221644f31c0611",
+                    "5cf638cbd7f00c06595bc936",
+                    "5a7c74b3e899ef0014332c29",
+                    "591ee00d86f774592f7b841e",
+                    "5d0a29ead7ad1a0026013f27",
+                    "618a75c9a3884f56c957ca1b",
+                    "57acb6222459771ec34b5cb0",
+                    "5c61a40d2e2216001403158d",
+                    "5c90c3622e221601da359851",
+                    "638db77630c4240f9e06f8b6",
+                    "63d114019e35b334d82302f7",
+                    "6544d4187c5457729210d277",
+                    "65f1b1176dbd6c5ba2082eed"
+                  ],
+                  "Shift": 0
+                }
+              ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+          },
+          {
+            "_name": "mod_charge",
+            "_id": "5ac4cd105acfc40016339865",
+            "_parent": "5ac4cd105acfc40016339859",
+            "_props": {
+              "filters": [
+                {
+                  "Filter": [
+                    "6130ca3fd92c473c77020dbd",
+                    "5648ac824bdc2ded0b8b457d"
+                  ],
+                  "Shift": 0
+                }
+              ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+          }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Kalashnikov AK-74M 5.45x39 assault rifle (no Barrel Rod)",
+        "shortName": "AK-74M",
+        "description": "A variant of the AK-74M without a barrel rod."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 22716,
+    "handbookPriceRoubles": 16251,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
+      }
+    ],
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+          {
+            "_id": "6939f7b9e539c37b200ff4ff",
+            "_type": "Preset",
+            "_changeWeaponName": false,
+            "_name": "ak74m Base",
+            "_parent": "6939f7b9e539c37b200ff500",
+            "_items": [
+              {
+                "_id": "6939f7b9e539c37b200ff500",
+                "_tpl": "68e1040726e57f736103f02c",
+                "upd": {
+                  "Repairable": {
+                    "Durability": 100,
+                    "MaxDurability": 100
+                  },
+                  "FireMode": {
+                    "FireMode": "single"
+                  },
+                  "Foldable": {
+                    "Folded": false
+                  }
+                }
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff501",
+                "_tpl": "68dd9032a83c8f7ea2083f44",
+                "parentId": "6939f7b9e539c37b200ff500",
+                "slotId": "mod_gas_block"
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff502",
+                "_tpl": "5649aa744bdc2ded0b8b457e",
+                "parentId": "6939f7b9e539c37b200ff500",
+                "slotId": "mod_muzzle"
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff503",
+                "_tpl": "5649ae4a4bdc2d1b2b8b4588",
+                "parentId": "6939f7b9e539c37b200ff500",
+                "slotId": "mod_pistol_grip"
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff504",
+                "_tpl": "68dd9032a83c8f7ea2083f45",
+                "parentId": "6939f7b9e539c37b200ff500",
+                "slotId": "mod_reciever"
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff505",
+                "_tpl": "5ac72e475acfc400180ae6fe",
+                "parentId": "6939f7b9e539c37b200ff500",
+                "slotId": "mod_sight_rear",
+                "upd": {
+                  "Sight": {
+                    "ScopesCurrentCalibPointIndexes": [
+                      0
+                    ],
+                    "ScopesSelectedModes": [
+                      0
+                    ],
+                    "SelectedScope": 0,
+                    "ScopeZoomValue": 0
+                  }
+                }
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff506",
+                "_tpl": "5ac78eaf5acfc4001926317a",
+                "parentId": "6939f7b9e539c37b200ff500",
+                "slotId": "mod_stock"
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff507",
+                "_tpl": "55d480c04bdc2d1d4e8b456a",
+                "parentId": "6939f7b9e539c37b200ff500",
+                "slotId": "mod_magazine"
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff508",
+                "_tpl": "68e257fb2a8dbe0b9903bb2c",
+                "parentId": "6939f7b9e539c37b200ff501",
+                "slotId": "mod_handguard"
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff509",
+                "_tpl": "59ecc3dd86f7746dc827481c",
+                "parentId": "6939f7b9e539c37b200ff506",
+                "slotId": "mod_stock"
+              }
+            ],
+            "_encyclopedia": "68e1040726e57f736103f02c"
+          }
+    ],
+    "traders": {
+      "MECHANIC": {
+        "690a9521b92ab495d00df8b4": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 26181,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Level2": 2000,
+        "Level3": 2200,
+        "Name": "AK74",
+        "Templates": [
+          "68e1040726e57f736103f02c"
+        ]
+      }
+    ]
+  }
+}

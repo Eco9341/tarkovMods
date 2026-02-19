@@ -1,0 +1,594 @@
+{
+  "692acecad829da17240a60c3": {
+    "itemTplToClone": "5e81c3cbac2bb513793cdc75",
+    "parentId": "5447b5cf4bdc2d65278b4567",
+    "handbookParentId": "5b5f792486f77447ed5636b3",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/AMT_HardBaller/amt_hardballer_container.bundle",
+        "rcid": ""
+      },
+        "Slots": [
+            {
+                "_name": "mod_barrel",
+                "_id": "5e81c3cbac2bb513793cdc77",
+                "_parent": "5e81c3cbac2bb513793cdc75",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "692acecad829da17240a60ca"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": true,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_pistol_grip",
+                "_id": "5e81c3cbac2bb513793cdc78",
+                "_parent": "5e81c3cbac2bb513793cdc75",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "692af926d829da17240a60d0",
+                        "692af926d829da17240a60d2"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": true,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_reciever",
+                "_id": "5e81c3cbac2bb513793cdc79",
+                "_parent": "5e81c3cbac2bb513793cdc75",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "692acecad829da17240a60c5"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": true,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_magazine",
+                "_id": "5e81c3cbac2bb513793cdc7a",
+                "_parent": "5e81c3cbac2bb513793cdc75",
+                "_props": {
+                "filters": [
+                    {
+                    "AnimationIndex": 0,
+                    "Filter": [
+                        "5e81c4ca763d9f754677befa",
+                        "5f3e77b26cda304dcc634057",
+                        "5ef3448ab37dfd6af863525c"
+                    ]
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c394bdc2dae468b4577"
+            },
+            {
+                "_name": "mod_hammer",
+                "_id": "5e820703ac2bb513793cdd0d",
+                "_parent": "5e81c3cbac2bb513793cdc75",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "692acecad829da17240a60c8"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": true,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            }
+        ]
+    },
+    "locales": {
+      "en": {
+        "name": "AMT Hardballer Longslide .45 ACP pistol",
+        "shortName": "AMT",
+        "description": "AMT Hardballer are a series of pistols that are part of the 1911 platform (based on the .45 ACP M1911) made by Arcadia Machine & Tool (AMT) from 1977 to 2002. The Hardballer was the first entirely stainless steel 1911 pattern pistol. Other features included adjustable rear sights and a lengthened grip safety. The pistol was notably featured in a variety of media including Hitman and Terminator."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 14521,
+    "handbookPriceRoubles": 8632,
+    "addtoTraders": false,
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+          {
+            "_id": "6939f7b9e539c37b200ff4b4",
+            "_type": "Preset",
+            "_changeWeaponName": false,
+            "_name": "AMT Base",
+            "_parent": "6939f7b9e539c37b200ff4b5",
+            "_items": [
+              {
+                "_id": "6939f7b9e539c37b200ff4b5",
+                "_tpl": "692acecad829da17240a60c3",
+                "upd": {
+                  "Repairable": {
+                    "Durability": 100,
+                    "MaxDurability": 100
+                  },
+                  "FireMode": {
+                    "FireMode": "single"
+                  }
+                }
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff4b6",
+                "_tpl": "692acecad829da17240a60ca",
+                "parentId": "6939f7b9e539c37b200ff4b5",
+                "slotId": "mod_barrel"
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff4b7",
+                "_tpl": "692af926d829da17240a60d0",
+                "parentId": "6939f7b9e539c37b200ff4b5",
+                "slotId": "mod_pistol_grip"
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff4b8",
+                "_tpl": "692acecad829da17240a60c5",
+                "parentId": "6939f7b9e539c37b200ff4b5",
+                "slotId": "mod_reciever"
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff4b9",
+                "_tpl": "5e81c4ca763d9f754677befa",
+                "parentId": "6939f7b9e539c37b200ff4b5",
+                "slotId": "mod_magazine"
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff4ba",
+                "_tpl": "692acecad829da17240a60c8",
+                "parentId": "6939f7b9e539c37b200ff4b5",
+                "slotId": "mod_hammer"
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff4bc",
+                "_tpl": "692af926d829da17240a60ce",
+                "parentId": "6939f7b9e539c37b200ff4b8",
+                "slotId": "mod_sight_rear",
+                "upd": {
+                  "Sight": {
+                    "ScopesCurrentCalibPointIndexes": [
+                      0
+                    ],
+                    "ScopesSelectedModes": [
+                      0
+                    ],
+                    "SelectedScope": 0,
+                    "ScopeZoomValue": 0
+                  }
+                }
+              }
+            ],
+            "_encyclopedia": "692acecad829da17240a60c3"
+          }
+    ],
+    "traders": {
+      "SKIER": {
+        "692acecad829da17240a60c4": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 18234,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": [],
+    "masterySections": [
+      {
+        "Level2": 150,
+        "Level3": 200,
+        "Name": "m1911",
+        "Templates": [
+          "692acecad829da17240a60c3"
+        ]
+      }
+    ]
+  },
+  "692acecad829da17240a60c5": {
+    "itemTplToClone": "5e81edc13397a21db957f6a1",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/AMT_HardBaller/amt_slide.bundle",
+        "rcid": ""
+      },
+        "Slots": [
+            {
+                "_name": "mod_sight_rear",
+                "_id": "5e81edc13397a21db957f6a3",
+                "_parent": "5e81edc13397a21db957f6a1",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "692af926d829da17240a60ce"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            }
+        ],
+        "Weight": 0.61,
+        "Ergonomics": 6,
+        "CoolFactor": 0.91,
+        "DurabilityBurnModificator": 1,
+        "HeatFactor": 1.102
+    },
+    "locales": {
+      "en": {
+        "name": "AMT Hardballer .45 ACP Slide",
+        "shortName": "AMT Slide",
+        "description": "the stainless steel slide for the AMT HardBaller Pistol. Much longer compared to the standard Colt."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 5921,
+    "handbookPriceRoubles": 4721,
+    "addtoTraders": true,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "692acecad829da17240a60c6": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 7382,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": []
+  },
+  "692acecad829da17240a60c8": {
+    "itemTplToClone": "5e81c550763d9f754677befd",
+    "parentId": "5a74651486f7744e73386dd1",
+    "handbookParentId": "5b5f74cc86f77447ec5d770a",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/AMT_HardBaller/amt_hammer.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "AMT Hardballer .45 ACP Hammer",
+        "shortName": "AMT H",
+        "description": "the Hammer for the AMT HardBaller Pistol."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 458,
+    "handbookPriceRoubles": 293,
+    "addtoTraders": true,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "692acecad829da17240a60c9": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 542,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": []
+  },
+  "692acecad829da17240a60ca": {
+    "itemTplToClone": "5e81c519cb2b95385c177551",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/AMT_HardBaller/amt_barrel.bundle",
+        "rcid": ""
+      },
+        "CoolFactor": 1.05,
+        "DeviationCurve": 2.25,
+        "DeviationMax": 11,
+        "DurabilityBurnModificator": 1,
+        "HeatFactor": 1.2,
+        "Recoil": -6,
+        "Ergonomics": -8,
+        "Weight": 0.130
+    },
+    "locales": {
+      "en": {
+        "name": "AMT Hardballer .45 ACP 177mm Barrel",
+        "shortName": "AMT 177mm",
+        "description": "the barrel for the AMT HardBaller Pistol."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 1823,
+    "handbookPriceRoubles": 1252,
+    "addtoTraders": true,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "692acecad829da17240a60cb": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 2138,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": []
+  },
+  "692af926d829da17240a60ce": {
+    "itemTplToClone": "5e81ee4dcb2b95385c177582",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/AMT_HardBaller/amt_rear.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "AMT Hardballer .45 ACP Rear Sight",
+        "shortName": "AMT RS",
+        "description": "the adjustable rear sight for the AMT HardBaller Pistol."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 721,
+    "handbookPriceRoubles": 321,
+    "addtoTraders": true,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "692af926d829da17240a60cf": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 895,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": []
+  },
+  "692af926d829da17240a60d0": {
+    "itemTplToClone": "5e81c6bf763d9f754677beff",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/AMT_HardBaller/amt_grip.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "AMT Hardballer .45 ACP Standard Grip",
+        "shortName": "AMT",
+        "description": "the standard grip for the AMT HardBaller Pistol."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 912,
+    "handbookPriceRoubles": 531,
+    "addtoTraders": true,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "692af926d829da17240a60d1": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1186,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": []
+  },
+  "692af926d829da17240a60d2": {
+    "itemTplToClone": "5e81c6bf763d9f754677beff",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/AMT_HardBaller/amt_grip_laser.bundle",
+        "rcid": ""
+      },
+        "Slots": [
+            {
+                "_name": "mod_mount",
+                "_id": "5e81edc13397a21db957f6a3",
+                "_parent": "5e81edc13397a21db957f6a1",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "692af926d829da17240a60d4"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            }
+        ]
+    },
+    "locales": {
+      "en": {
+        "name": "AMT Hardballer .45 ACP Grip with laser mount",
+        "shortName": "AMT",
+        "description": "the special grip for the AMT HardBaller Pistol. allows to fit the side weaver mount"
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 912,
+    "handbookPriceRoubles": 531,
+    "addtoTraders": true,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "692af926d829da17240a60d3": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1352,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": []
+  },
+  "692af926d829da17240a60d4": {
+    "itemTplToClone": "5cc9c20cd7f00c001336c65d",
+    "parentId": "55818b164bdc2ddc698b456c",
+    "handbookParentId": "5b5f73c486f77447ec5d7704",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/AMT_HardBaller/amt_laser.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.10,
+      "Ergonomics": -2
+    },
+    "locales": {
+      "en": {
+        "name": "Laser Products Model 7",
+        "shortName": "LPC 7",
+        "description": "The Laser Products LPC Model 7 laser aiming device is widely regarded as a milestone product in the firearms industry, an accessory that redefined what was possible in tactical shooting."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 9583,
+    "handbookPriceRoubles": 8271,
+    "addtoTraders": true,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "692af926d829da17240a60d5": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 12911,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": []
+  }
+}

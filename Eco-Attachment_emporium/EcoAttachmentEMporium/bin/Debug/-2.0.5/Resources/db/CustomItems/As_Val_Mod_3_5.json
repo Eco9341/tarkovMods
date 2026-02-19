@@ -1,0 +1,532 @@
+{
+  "68cb3efead1826a46f088e15": {
+    "itemTplToClone": "57838c962459774a1651ec63",
+    "parentId": "550aa4cd4bdc2dd8348b456c",
+    "handbookParentId": "5b5f731a86f774093e6cb4f9",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/AS_VAL_MOD_3_5/as_val_modified_silencer.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": 4,
+      "Velocity": -0.85,
+      "DurabilityBurnModificator": 1.7,
+      "HeatFactor": 1.13,
+      "muzzleModType": "silencer",
+      "ConflictingItems": [
+        "651178336cad06c37c049eb4",
+        "6565bb7eb4b12a56eb04b084"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Modified AS-VAL Suppressor",
+        "shortName": "MOD",
+        "description": "A modified AS-VAL suppressor made by some nostalgic pmc. Provides better ergonomics than the standard issue suppressor."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 8000,
+    "handbookPriceRoubles": 4000,
+    "addtoStaticLootContainers": true,
+    "addtoragfair": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "MECHANIC": {
+        "690a9521b92ab495d00df8fc": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": false,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 12500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "68cc8c8364bcae283b0e0a75": {
+    "itemTplToClone": "57c450252459772d28133253",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/AS_VAL_MOD_3_5/as_val_zenitco.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "5a69a2ed8dc32e000d46d1f1"
+      ],
+      "Ergonomics": -6,
+      "Recoil": -7,
+      "Slots": [
+        {
+          "_name": "mod_stock",
+          "_id": "68b5e474fbf78a6b59000001",
+          "_parent": "68b5e34459bf769d25000001",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "59ecc3dd86f7746dc827481c",
+                  "5b222d405acfc400153af4fe"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Modified Zenitco Stock Adapter",
+        "shortName": "MOD",
+        "description": "A modified Zenitco stock adapter made by some nostalgic pmc. Provides better ergonomics than the standard issue stock."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_stock"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 9000,
+    "handbookPriceRoubles": 5000,
+    "addtoStaticLootContainers": true,
+    "addtoragfair": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "MECHANIC": {
+        "690a9521b92ab495d00df8fd": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": false,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 23000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "68cc8c8364bcae283b0e0a6b": {
+    "itemTplToClone": "6565bb7eb4b12a56eb04b084",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/AS_VAL_MOD_3_5/as_val_full_handguard.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "Ergonomics": 11,
+      "Weight": 0.9,
+      "Recoil": 3,
+      "ConflictingItems": [
+        "5dff8db859400025ea5150d4",
+        "67069c8cee8138ed2f05ad34",
+        "67069cbbb29a2cd33803338c",
+        "57c44dd02459772d2e0ae249",
+        "57838c962459774a1651ec63"
+      ],
+      "Slots": [
+        {
+          "_name": "mod_foregrip",
+          "_id": "685b0d77e261a4215c0ec3f6",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be4895acfc400170e2dd5",
+                  "57cffb66245977632f391a99",
+                  "57cffcd624597763133760c5",
+                  "57cffcdd24597763f5110006",
+                  "57cffce524597763b31685d8",
+                  "651a8e529829226ceb67c319",
+                  "651a8bf3a8520e48047bf708",
+                  "665d5d9e338229cfd6078da1",
+                  "665edce564fb556f940ab32a"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical_000",
+          "_id": "685b0d732d2113c83e740c83",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "5c06595c0db834001a66af6c",
+                  "5a7b483fe899ef0016170d15",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5c5952732e2216398b5abda2",
+                  "644a3df63b0b6f03e101e065"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_001",
+          "_id": "685b0d72aa3e1c7094b24b96",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "669a6a4a525be1d2d004b8eb",
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_000",
+          "_id": "685b0d6f6a3667abbc0d1a5c",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "669a6a4a525be1d2d004b8eb",
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_scope",
+          "_id": "820ebcb157637eb51c0dc456",
+          "_parent": "7422ca92107da0fc0e26f7d9",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "57ac965c24597706be5f975c",
+                  "57aca93d2459771f2c7e26db",
+                  "544a3f024bdc2d1d388b4568",
+                  "544a3a774bdc2d3a388b4567",
+                  "5d2dc3e548f035404a1a4798",
+                  "57adff4f24597737f373b6e6",
+                  "5c0517910db83400232ffee5",
+                  "591c4efa86f7741030027726",
+                  "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f",
+                  "558022b54bdc2dac148b458d",
+                  "5c07dd120db834001c39092d",
+                  "5c0a2cec0db834001b7ce47d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "5c0505e00db834001b735073",
+                  "609a63b6e2ff132951242d09",
+                  "584984812459776a704a82a6",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "5dfe6104585a0c3e995c7b82",
+                  "544a3d0a4bdc2d1b388b4567",
+                  "5d1b5e94d7ad1a2b865a96b0",
+                  "609bab8b455afd752b2e6138",
+                  "58d39d3d86f77445bb794ae7",
+                  "616554fe50224f204c1da2aa",
+                  "5c7d55f52e221644f31bff6a",
+                  "616584766ef05c2ce828ef57",
+                  "5b3b6dc75acfc47a8773fb1e",
+                  "615d8d878004cc50514c3233",
+                  "5b2389515acfc4771e1be0c0",
+                  "577d128124597739d65d0e56",
+                  "618b9643526131765025ab35",
+                  "618bab21526131765025ab3f",
+                  "5c86592b2e2216000e69e77c",
+                  "5a37ca54c4a282000d72296a",
+                  "5d0a29fed7ad1a002769ad08",
+                  "5c064c400db834001d23f468",
+                  "58d2664f86f7747fec5834f6",
+                  "57c69dd424597774c03b7bbc",
+                  "5b3b99265acfc4704b4a1afb",
+                  "5aa66a9be5b5b0214e506e89",
+                  "5aa66c72e5b5b00016327c93",
+                  "5c1cdd302e221602b3137250",
+                  "61714b2467085e45ef140b2c",
+                  "6171407e50224f204c1da3c5",
+                  "61713cc4d8e3106d9806c109",
+                  "5b31163c5acfc400153b71cb",
+                  "5a33b652c4a28232996e407c",
+                  "5a33b2c9c4a282000c5a9511",
+                  "59db7eed86f77461f8380365",
+                  "5a1ead28fcdbcb001912fa9f",
+                  "5dff77c759400025ea5150cf",
+                  "626bb8532c923541184624b4",
+                  "62811f461d5df4475f46a332",
+                  "63fc449f5bd61c6cf3784a88",
+                  "64785e7c19d732620e045e15",
+                  "6477772ea8a38bb2050ed4db",
+                  "6478641c19d732620e045e17",
+                  "65392f611406374f82152ba5",
+                  "653931da5db71d30ab1d6296",
+                  "655f13e0a246670fb0373245",
+                  "6567e751a715f85433025998",
+                  "68bd7b4d8ce7029b6409b4a2",
+                  "68bd7b4d8ce7029b6409b4a3"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_id": "7eb7847fad747c9d6d27ae2e",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount",
+          "_parent": "2d354131a3d7dfa66a6b7d11",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5649a2464bdc2d91118b45a8",
+                  "68bb6be346d4437fb40002e0"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "cd196daceabd50e86b9ef52e",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_sight_front",
+          "_parent": "2d354131a3d7dfa66a6b7d11",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ba26b01d4351e0085325a51",
+                  "5dfa3d950dee1b22f862eae0",
+                  "5c17804b2e2216152006c02f",
+                  "5fb6567747ce63734e3fa1dc",
+                  "5bc09a30d4351e00367fb7c8",
+                  "5c18b90d2e2216152142466b",
+                  "5fc0fa362770a0045c59c677",
+                  "5894a73486f77426d259076c",
+                  "55d4af3a4bdc2d972f8b456f"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_name": "mod_mount_002",
+          "_id": "687d152a043a51011519d121",
+          "_parent": "687d1376e117012beefbd6a7",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "67112695fe5c8bf33f02476d",
+                  "59e0bdb186f774156f04ce82",
+                  "623c2f652febb22c2777d8d7",
+                  "67111094d1758189fc0bd223"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_sight_rear",
+          "_id": "687d152a043a51011519d121",
+          "_parent": "687d1376e117012beefbd6a7",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5bb20e49d4351e3bac1212de",
+                  "5ba26b17d4351e00367f9bdd",
+                  "5dfa3d7ac41b2312ea33362a",
+                  "5c1780312e221602b66cc189",
+                  "5fb6564947ce63734e3fa1da",
+                  "5bc09a18d4351e003562b68e",
+                  "5c18b9192e2216398b5a8104",
+                  "5fc0fa957283c4046c58147e",
+                  "5894a81786f77427140b8347",
+                  "55d5f46a4bdc2d1b198b4567",
+                  "5ae30bad5acfc400185c2dc4",
+                  "66ba29d44744d98a4df0073b",
+                  "66ba297b859e57cf91e38a5d"
+                ]
+              }
+            ]
+          },
+          "_proto": "55d30c394bdc2dae468b4577",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "AS VAL Mod 3.5 Full Handguard",
+        "shortName": "MOD",
+        "description": "AS VAL Mod 3.5 Made by some nostalgic pmc. Adds additional configuration options to the AS VAL."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "fleaPriceRoubles": 18000,
+    "handbookPriceRoubles": 15000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 9
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "690a9521b92ab495d00df8fe": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 30000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "AK",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  }
+}

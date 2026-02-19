@@ -1,0 +1,383 @@
+{
+  "68f81206649d20371001c4e2": {
+    "itemTplToClone": "5c471cb32e221602b177afaa",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/SVD_Short/svd_short_barrel.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "5e5699df2161e06ac158df6f",
+        "5e56991336989c75ab4f03f6",
+        "5c471c6c2e221602b66cd9ae"
+      ],
+      "ExtraSizeLeft": 1,
+      "Weight": 0.7,
+      "Ergonomics": -3,
+      "RecoilForceBack": 175,
+      "RecoilForceUp": 90,
+      "Recoil": 4,
+      "Width": 2,
+      "DoubleActionAccuracyPenaltyMult": 1,
+      "Slots": [
+        {
+          "_name": "mod_muzzle",
+          "_id": "5c471cb32e221602b177afac",
+          "_parent": "68f81206649d20371001c4e2",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68f81206649d20371001c4e5"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_gas_block",
+          "_id": "5c471cb32e221602b177afad",
+          "_parent": "5c471cb32e221602b177afaa",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68f81206649d20371001c4e3"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "SVD 7.62x54R 186mm barrel",
+        "shortName": "SVD 186mm",
+        "description": "A 186mm barrel for the SVD sniper rifle chambered in 7.62x54R ammo."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 15303,
+    "handbookPriceRoubles": 12403,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PRAPOR": {
+        "690a9521b92ab495d00df97f": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 17053,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "68f81206649d20371001c4e3": {
+    "itemTplToClone": "5c471c842e221615214259b5",
+    "parentId": "56ea9461d2720b67698b456f",
+    "handbookParentId": "5b5f760586f774093e6cb509",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/SVD_Short/svd_short_gasblock.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "5c471cb32e221602b177afaa"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "SVDS gas tube",
+        "shortName": "Sport",
+        "description": "A modified gas tube for SVDS sniper rifles. Gas tubes channel the travel direction of gas piston."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_gas_block"
+    ],
+    "fleaPriceRoubles": 2520,
+    "handbookPriceRoubles": 1890,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 10
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "690a9521b92ab495d00df980": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 4158,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "AK",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68f81206649d20371001c4e4": {
+    "itemTplToClone": "5c471c6c2e221602b66cd9ae",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/SVD_Short/svd_short_handguard.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "5c471cb32e221602b177afaa"
+      ],
+      "Weight": 0.14,
+      "Slots": [
+        {
+          "_name": "mod_foregrip",
+          "_id": "5c471cb32e221602b177afac",
+          "_parent": "5c471c6c2e221602b66cd9ae",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "59e0bed186f774156f04ce84"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "SVDS polymer handguard",
+        "shortName": "SVDS",
+        "description": "A shortened version of the polymer handguard for the SVDS sniper rifle that replaced the classic wooden one. Manufactured by Izhmash."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "fleaPriceRoubles": 1580,
+    "handbookPriceRoubles": 1230,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 10
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "690a9521b92ab495d00df981": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 2012,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "AK",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68f81206649d20371001c4e5": {
+    "itemTplToClone": "5e01ea19e9dc277128008c0b",
+    "parentId": "550aa4cd4bdc2dd8348b456c",
+    "handbookParentId": "5b5f731a86f774093e6cb4f9",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/SVD_Short/svd_short_silencer.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "SVDS 7.62x54R sound suppressor",
+        "shortName": "SVDS 7.62x54R",
+        "description": "The SVDS 7.62x54R sound suppressor is designed for the SVDS sniper rifle. It reduces the sound signature and muzzle flash of the weapon when firing, making it more suitable for stealth operations. Manufactured by Izhmash."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 41253,
+    "handbookPriceRoubles": 19472,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 98
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 98
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 98
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 98
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 98
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 98
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "690a9521b92ab495d00df982": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 68472,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

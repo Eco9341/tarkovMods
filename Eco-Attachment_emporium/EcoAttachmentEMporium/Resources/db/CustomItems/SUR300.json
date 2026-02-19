@@ -1,0 +1,2080 @@
+{
+  "68d96442d7aac8a7a904daf0": {
+    "itemTplToClone": "5fbcc3e4d6fa9c00c571bb58",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/SUR300/sur300_receiver.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "5fbc226eca32ed67276c155d",
+        "5fbc227aa56d053a3543f79e"
+      ],
+      "Ergonomics": 9,
+      "Slots": [
+        {
+          "_name": "mod_scope",
+          "_id": "820ebcb157637eb51c0dc456",
+          "_parent": "7422ca92107da0fc0e26f7d9",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "57ac965c24597706be5f975c",
+                  "57aca93d2459771f2c7e26db",
+                  "544a3f024bdc2d1d388b4568",
+                  "544a3a774bdc2d3a388b4567",
+                  "5d2dc3e548f035404a1a4798",
+                  "57adff4f24597737f373b6e6",
+                  "5c0517910db83400232ffee5",
+                  "591c4efa86f7741030027726",
+                  "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f",
+                  "558022b54bdc2dac148b458d",
+                  "5c07dd120db834001c39092d",
+                  "5c0a2cec0db834001b7ce47d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "5c0505e00db834001b735073",
+                  "609a63b6e2ff132951242d09",
+                  "584984812459776a704a82a6",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "5dfe6104585a0c3e995c7b82",
+                  "544a3d0a4bdc2d1b388b4567",
+                  "5d1b5e94d7ad1a2b865a96b0",
+                  "609bab8b455afd752b2e6138",
+                  "58d39d3d86f77445bb794ae7",
+                  "616554fe50224f204c1da2aa",
+                  "5c7d55f52e221644f31bff6a",
+                  "616584766ef05c2ce828ef57",
+                  "5b3b6dc75acfc47a8773fb1e",
+                  "615d8d878004cc50514c3233",
+                  "5b2389515acfc4771e1be0c0",
+                  "577d128124597739d65d0e56",
+                  "618b9643526131765025ab35",
+                  "618bab21526131765025ab3f",
+                  "5c86592b2e2216000e69e77c",
+                  "5a37ca54c4a282000d72296a",
+                  "5d0a29fed7ad1a002769ad08",
+                  "5c064c400db834001d23f468",
+                  "58d2664f86f7747fec5834f6",
+                  "57c69dd424597774c03b7bbc",
+                  "5b3b99265acfc4704b4a1afb",
+                  "5aa66a9be5b5b0214e506e89",
+                  "5aa66c72e5b5b00016327c93",
+                  "5c1cdd302e221602b3137250",
+                  "61714b2467085e45ef140b2c",
+                  "6171407e50224f204c1da3c5",
+                  "61713cc4d8e3106d9806c109",
+                  "5b31163c5acfc400153b71cb",
+                  "5a33b652c4a28232996e407c",
+                  "5a33b2c9c4a282000c5a9511",
+                  "59db7eed86f77461f8380365",
+                  "5a1ead28fcdbcb001912fa9f",
+                  "5dff77c759400025ea5150cf",
+                  "626bb8532c923541184624b4",
+                  "62811f461d5df4475f46a332",
+                  "63fc449f5bd61c6cf3784a88",
+                  "64785e7c19d732620e045e15",
+                  "6477772ea8a38bb2050ed4db",
+                  "6478641c19d732620e045e17",
+                  "65392f611406374f82152ba5",
+                  "653931da5db71d30ab1d6296",
+                  "655f13e0a246670fb0373245",
+                  "6567e751a715f85433025998"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_id": "66b9deb378a119575cc0df4a",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_sight_rear",
+          "_parent": "66b9dea12d41f261a932bb8e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5bb20e49d4351e3bac1212de",
+                  "5ba26b17d4351e00367f9bdd",
+                  "5dfa3d7ac41b2312ea33362a",
+                  "5c1780312e221602b66cc189",
+                  "5fb6564947ce63734e3fa1da",
+                  "5bc09a18d4351e003562b68e",
+                  "5c18b9192e2216398b5a8104",
+                  "5fc0fa957283c4046c58147e",
+                  "5894a81786f77427140b8347",
+                  "55d5f46a4bdc2d1b198b4567",
+                  "5ae30bad5acfc400185c2dc4",
+                  "68b4b24e27658b8b0d02439a",
+                  "68b4b24e27658b8b0d0243a1",
+                  "68c6e7ae55918f7c4f044d53",
+                  "68c6e7ae55918f7c4f044d54",
+                  "68c72885cac1ff3d420fceb1",
+                  "68c72885cac1ff3d420fceb2",
+                  "68c734bdcac1ff3d420fceb4",
+                  "68c734bdcac1ff3d420fceb5"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "63828e48d94d972c8458f3bb",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_tactical",
+          "_parent": "2d354131a3d7dfa66a6b7d11",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "5c06595c0db834001a66af6c",
+                  "5a7b483fe899ef0016170d15",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5c5952732e2216398b5abda2",
+                  "644a3df63b0b6f03e101e065",
+                  "68d7db2929420f94ff04cb15"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_name": "mod_mount",
+          "_id": "687d1548a3720cc582274c32",
+          "_parent": "687d1376e117012beefbd6a7",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5649a2464bdc2d91118b45a8",
+                  "68bb6be346d4437fb40002e0"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_handguard",
+          "_id": "687d1548a3720cc582274c32",
+          "_parent": "687d1376e117012beefbd6a7",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68d96442d7aac8a7a904daf4",
+                  "68d96442d7aac8a7a904daf3",
+                  "68d96442d7aac8a7a904daf5",
+                  "68d96442d7aac8a7a904daf6",
+                  "68d96442d7aac8a7a904daf7",
+                  "68d96442d7aac8a7a904daf8"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_barrel",
+          "_id": "687d1548a3720cc582274c32",
+          "_parent": "687d1376e117012beefbd6a7",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5fbbfabed5cb881a7363194e",
+                  "5fbbfacda56d053a3543f799"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "SUR300 Upper Receiver",
+        "shortName": "SUR300",
+        "description": " The SUR300 upper receiver is a high-quality firearm component designed for the MCX rifle. Crafted with precision and durability in mind, this upper receiver enhances the overall performance and reliability of the weapon. It features a robust construction that can withstand rigorous use in various conditions, making it ideal for both professional and recreational shooters. The SUR300 upper receiver is compatible with a range of accessories, allowing users to customize their firearm to suit their specific needs and preferences. Whether for tactical applications or sport shooting, this upper receiver is a valuable addition to any firearm enthusiast's collection."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_reciever"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 44572,
+    "handbookPriceRoubles": 29111,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "690a9521b92ab495d00df973": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 320,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "68d96442d7aac8a7a904daf1": {
+    "itemTplToClone": "5fbcc3e4d6fa9c00c571bb58",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/SUR300/sur300_receiver_fde.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "5fbc226eca32ed67276c155d",
+        "5fbc227aa56d053a3543f79e"
+      ],
+      "Ergonomics": 9,
+      "Slots": [
+        {
+          "_name": "mod_scope",
+          "_id": "820ebcb157637eb51c0dc456",
+          "_parent": "7422ca92107da0fc0e26f7d9",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "57ac965c24597706be5f975c",
+                  "57aca93d2459771f2c7e26db",
+                  "544a3f024bdc2d1d388b4568",
+                  "544a3a774bdc2d3a388b4567",
+                  "5d2dc3e548f035404a1a4798",
+                  "57adff4f24597737f373b6e6",
+                  "5c0517910db83400232ffee5",
+                  "591c4efa86f7741030027726",
+                  "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f",
+                  "558022b54bdc2dac148b458d",
+                  "5c07dd120db834001c39092d",
+                  "5c0a2cec0db834001b7ce47d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "5c0505e00db834001b735073",
+                  "609a63b6e2ff132951242d09",
+                  "584984812459776a704a82a6",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "5dfe6104585a0c3e995c7b82",
+                  "544a3d0a4bdc2d1b388b4567",
+                  "5d1b5e94d7ad1a2b865a96b0",
+                  "609bab8b455afd752b2e6138",
+                  "58d39d3d86f77445bb794ae7",
+                  "616554fe50224f204c1da2aa",
+                  "5c7d55f52e221644f31bff6a",
+                  "616584766ef05c2ce828ef57",
+                  "5b3b6dc75acfc47a8773fb1e",
+                  "615d8d878004cc50514c3233",
+                  "5b2389515acfc4771e1be0c0",
+                  "577d128124597739d65d0e56",
+                  "618b9643526131765025ab35",
+                  "618bab21526131765025ab3f",
+                  "5c86592b2e2216000e69e77c",
+                  "5a37ca54c4a282000d72296a",
+                  "5d0a29fed7ad1a002769ad08",
+                  "5c064c400db834001d23f468",
+                  "58d2664f86f7747fec5834f6",
+                  "57c69dd424597774c03b7bbc",
+                  "5b3b99265acfc4704b4a1afb",
+                  "5aa66a9be5b5b0214e506e89",
+                  "5aa66c72e5b5b00016327c93",
+                  "5c1cdd302e221602b3137250",
+                  "61714b2467085e45ef140b2c",
+                  "6171407e50224f204c1da3c5",
+                  "61713cc4d8e3106d9806c109",
+                  "5b31163c5acfc400153b71cb",
+                  "5a33b652c4a28232996e407c",
+                  "5a33b2c9c4a282000c5a9511",
+                  "59db7eed86f77461f8380365",
+                  "5a1ead28fcdbcb001912fa9f",
+                  "5dff77c759400025ea5150cf",
+                  "626bb8532c923541184624b4",
+                  "62811f461d5df4475f46a332",
+                  "63fc449f5bd61c6cf3784a88",
+                  "64785e7c19d732620e045e15",
+                  "6477772ea8a38bb2050ed4db",
+                  "6478641c19d732620e045e17",
+                  "65392f611406374f82152ba5",
+                  "653931da5db71d30ab1d6296",
+                  "655f13e0a246670fb0373245",
+                  "6567e751a715f85433025998",
+                  "68bd7b4d8ce7029b6409b4a2",
+                  "68bd7b4d8ce7029b6409b4a3"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_id": "66b9deb378a119575cc0df4a",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_sight_rear",
+          "_parent": "66b9dea12d41f261a932bb8e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5bb20e49d4351e3bac1212de",
+                  "5ba26b17d4351e00367f9bdd",
+                  "5dfa3d7ac41b2312ea33362a",
+                  "5c1780312e221602b66cc189",
+                  "5fb6564947ce63734e3fa1da",
+                  "5bc09a18d4351e003562b68e",
+                  "5c18b9192e2216398b5a8104",
+                  "5fc0fa957283c4046c58147e",
+                  "5894a81786f77427140b8347",
+                  "55d5f46a4bdc2d1b198b4567",
+                  "5ae30bad5acfc400185c2dc4",
+                  "68b4b24e27658b8b0d02439a",
+                  "68b4b24e27658b8b0d0243a1",
+                  "68c6e7ae55918f7c4f044d53",
+                  "68c6e7ae55918f7c4f044d54",
+                  "68c72885cac1ff3d420fceb1",
+                  "68c72885cac1ff3d420fceb2",
+                  "68c734bdcac1ff3d420fceb4",
+                  "68c734bdcac1ff3d420fceb5"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "63828e48d94d972c8458f3bb",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_tactical",
+          "_parent": "2d354131a3d7dfa66a6b7d11",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "5c06595c0db834001a66af6c",
+                  "5a7b483fe899ef0016170d15",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5c5952732e2216398b5abda2",
+                  "644a3df63b0b6f03e101e065",
+                  "68d7db2929420f94ff04cb15"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_name": "mod_mount",
+          "_id": "687d1548a3720cc582274c32",
+          "_parent": "687d1376e117012beefbd6a7",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5649a2464bdc2d91118b45a8",
+                  "68bb6be346d4437fb40002e0"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_handguard",
+          "_id": "687d1548a3720cc582274c32",
+          "_parent": "687d1376e117012beefbd6a7",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68d96442d7aac8a7a904daf4",
+                  "68d96442d7aac8a7a904daf3",
+                  "68d96442d7aac8a7a904daf5",
+                  "68d96442d7aac8a7a904daf6",
+                  "68d96442d7aac8a7a904daf7",
+                  "68d96442d7aac8a7a904daf8"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_barrel",
+          "_id": "687d1548a3720cc582274c32",
+          "_parent": "687d1376e117012beefbd6a7",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5fbbfabed5cb881a7363194e",
+                  "5fbbfacda56d053a3543f799"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "SUR300 Upper Receiver (FDE)",
+        "shortName": "SUR300",
+        "description": " The SUR300 upper receiver is a high-quality firearm component designed for the MCX rifle. Crafted with precision and durability in mind, this upper receiver enhances the overall performance and reliability of the weapon. It features a robust construction that can withstand rigorous use in various conditions, making it ideal for both professional and recreational shooters. The SUR300 upper receiver is compatible with a range of accessories, allowing users to customize their firearm to suit their specific needs and preferences. Whether for tactical applications or sport shooting, this upper receiver is a valuable addition to any firearm enthusiast's collection. FDE Color Variant."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_reciever"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 44572,
+    "handbookPriceRoubles": 29111,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "690a9521b92ab495d00df974": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 320,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "68d96442d7aac8a7a904daf4": {
+    "itemTplToClone": "5fbc226eca32ed67276c155d",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/SUR300/sur300_handguard3.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "5fbcc3e4d6fa9c00c571bb58"
+      ],
+      "Slots": [
+        {
+          "_name": "mod_foregrip",
+          "_id": "685b0d77e261a4215c0ec3f6",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be4895acfc400170e2dd5",
+                  "57cffb66245977632f391a99",
+                  "57cffcd624597763133760c5",
+                  "57cffcdd24597763f5110006",
+                  "57cffce524597763b31685d8",
+                  "651a8e529829226ceb67c319",
+                  "651a8bf3a8520e48047bf708",
+                  "665d5d9e338229cfd6078da1",
+                  "665edce564fb556f940ab32a",
+                  "68c48eb7c91390fb930e8d94",
+                  "68c48eb7c91390fb930e8d95"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_000",
+          "_id": "685b0d732d2113c83e740c83",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "669a6a4a525be1d2d004b8eb",
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_001",
+          "_id": "685b0d72aa3e1c7094b24b96",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "669a6a4a525be1d2d004b8eb",
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_002",
+          "_id": "685b0d6f6a3667abbc0d1a5c",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "669a6a4a525be1d2d004b8eb",
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "671126b049e181972e0681fa"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_sight_front",
+          "_id": "687d14bee3983ab820df72df",
+          "_parent": "687d1376e117012beefbd6a7",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ba26b01d4351e0085325a51",
+                  "5dfa3d950dee1b22f862eae0",
+                  "5c17804b2e2216152006c02f",
+                  "5fb6567747ce63734e3fa1dc",
+                  "5bc09a30d4351e00367fb7c8",
+                  "5c18b90d2e2216152142466b",
+                  "5fc0fa362770a0045c59c677",
+                  "5894a73486f77426d259076c",
+                  "55d4af3a4bdc2d972f8b456f",
+                  "68b4b24e27658b8b0d024399",
+                  "68b4b24e27658b8b0d02439b",
+                  "68c6e7ae55918f7c4f044d55",
+                  "68c72885cac1ff3d420fceb0",
+                  "68c72885cac1ff3d420fceaf",
+                  "68c6e7ae55918f7c4f044d56",
+                  "68c734bdcac1ff3d420fceb3",
+                  "68c734bdcac1ff3d420fceb6"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "SUR300 Medium Length Handguard",
+        "shortName": "SUR300",
+        "description": "The SUR300 handguard is a high-quality firearm accessory designed for the MCX rifle. This medium-length handguard offers a perfect balance between maneuverability and stability, making it ideal for various shooting applications. Crafted from durable materials, the SUR300 handguard provides excellent heat resistance and structural integrity, ensuring reliable performance during extended use. Its modular design allows for easy attachment of accessories such as grips, lights, and lasers, enhancing the overall functionality of the firearm. The SUR300 handguard is a versatile and essential component for any MCX rifle setup, catering to both tactical and recreational shooters."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 18657,
+    "handbookPriceRoubles": 12200,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "690a9521b92ab495d00df975": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 150,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "68d96442d7aac8a7a904daf3": {
+    "itemTplToClone": "5fbc226eca32ed67276c155d",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/SUR300/sur300_handguard3_fde.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "5fbcc3e4d6fa9c00c571bb58"
+      ],
+      "Slots": [
+        {
+          "_name": "mod_foregrip",
+          "_id": "685b0d77e261a4215c0ec3f6",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be4895acfc400170e2dd5",
+                  "57cffb66245977632f391a99",
+                  "57cffcd624597763133760c5",
+                  "57cffcdd24597763f5110006",
+                  "57cffce524597763b31685d8",
+                  "651a8e529829226ceb67c319",
+                  "651a8bf3a8520e48047bf708",
+                  "665d5d9e338229cfd6078da1",
+                  "665edce564fb556f940ab32a",
+                  "68c48eb7c91390fb930e8d94",
+                  "68c48eb7c91390fb930e8d95"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_000",
+          "_id": "685b0d732d2113c83e740c83",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "669a6a4a525be1d2d004b8eb",
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_001",
+          "_id": "685b0d72aa3e1c7094b24b96",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "669a6a4a525be1d2d004b8eb",
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_002",
+          "_id": "685b0d6f6a3667abbc0d1a5c",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "669a6a4a525be1d2d004b8eb",
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "671126b049e181972e0681fa"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_sight_front",
+          "_id": "687d14bee3983ab820df72df",
+          "_parent": "687d1376e117012beefbd6a7",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ba26b01d4351e0085325a51",
+                  "5dfa3d950dee1b22f862eae0",
+                  "5c17804b2e2216152006c02f",
+                  "5fb6567747ce63734e3fa1dc",
+                  "5bc09a30d4351e00367fb7c8",
+                  "5c18b90d2e2216152142466b",
+                  "5fc0fa362770a0045c59c677",
+                  "5894a73486f77426d259076c",
+                  "55d4af3a4bdc2d972f8b456f",
+                  "68b4b24e27658b8b0d024399",
+                  "68b4b24e27658b8b0d02439b",
+                  "68c6e7ae55918f7c4f044d55",
+                  "68c72885cac1ff3d420fceb0",
+                  "68c72885cac1ff3d420fceaf",
+                  "68c6e7ae55918f7c4f044d56",
+                  "68c734bdcac1ff3d420fceb3",
+                  "68c734bdcac1ff3d420fceb6"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "SUR300 Medium Length Handguard (FDE)",
+        "shortName": "SUR300",
+        "description": "The SUR300 handguard is a high-quality firearm accessory designed for the MCX rifle. This medium-length handguard offers a perfect balance between maneuverability and stability, making it ideal for various shooting applications. Crafted from durable materials, the SUR300 handguard provides excellent heat resistance and structural integrity, ensuring reliable performance during extended use. Its modular design allows for easy attachment of accessories such as grips, lights, and lasers, enhancing the overall functionality of the firearm. The SUR300 handguard is a versatile and essential component for any MCX rifle setup, catering to both tactical and recreational shooters. FDE Color Variant."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 18657,
+    "handbookPriceRoubles": 12200,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "690a9521b92ab495d00df976": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 150,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "68d96442d7aac8a7a904daf5": {
+    "itemTplToClone": "5fbc226eca32ed67276c155d",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/SUR300/sur300_handguard2.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "5fbcc3e4d6fa9c00c571bb58"
+      ],
+      "Slots": [
+        {
+          "_name": "mod_foregrip",
+          "_id": "685b0d77e261a4215c0ec3f6",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be4895acfc400170e2dd5",
+                  "57cffb66245977632f391a99",
+                  "57cffcd624597763133760c5",
+                  "57cffcdd24597763f5110006",
+                  "57cffce524597763b31685d8",
+                  "651a8e529829226ceb67c319",
+                  "651a8bf3a8520e48047bf708",
+                  "665d5d9e338229cfd6078da1",
+                  "665edce564fb556f940ab32a",
+                  "68c48eb7c91390fb930e8d94",
+                  "68c48eb7c91390fb930e8d95"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_000",
+          "_id": "685b0d732d2113c83e740c83",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "669a6a4a525be1d2d004b8eb",
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_001",
+          "_id": "685b0d72aa3e1c7094b24b96",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "669a6a4a525be1d2d004b8eb",
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_002",
+          "_id": "685b0d6f6a3667abbc0d1a5c",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "669a6a4a525be1d2d004b8eb",
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "671126b049e181972e0681fa"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_sight_front",
+          "_id": "687d14bee3983ab820df72df",
+          "_parent": "687d1376e117012beefbd6a7",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ba26b01d4351e0085325a51",
+                  "5dfa3d950dee1b22f862eae0",
+                  "5c17804b2e2216152006c02f",
+                  "5fb6567747ce63734e3fa1dc",
+                  "5bc09a30d4351e00367fb7c8",
+                  "5c18b90d2e2216152142466b",
+                  "5fc0fa362770a0045c59c677",
+                  "5894a73486f77426d259076c",
+                  "55d4af3a4bdc2d972f8b456f",
+                  "68b4b24e27658b8b0d024399",
+                  "68b4b24e27658b8b0d02439b",
+                  "68c6e7ae55918f7c4f044d55",
+                  "68c72885cac1ff3d420fceb0",
+                  "68c72885cac1ff3d420fceaf",
+                  "68c6e7ae55918f7c4f044d56",
+                  "68c734bdcac1ff3d420fceb3",
+                  "68c734bdcac1ff3d420fceb6"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "SUR300 Medium Length Handguard (Alt)",
+        "shortName": "SUR300",
+        "description": "The SUR300 handguard is a high-quality firearm accessory designed for the MCX rifle. This medium-length handguard offers a perfect balance between maneuverability and stability, making it ideal for various shooting applications. Crafted from durable materials, the SUR300 handguard provides excellent heat resistance and structural integrity, ensuring reliable performance during extended use. Its modular design allows for easy attachment of accessories such as grips, lights, and lasers, enhancing the overall functionality of the firearm. The SUR300 handguard is a versatile and essential component for any MCX rifle setup, catering to both tactical and recreational shooters. Alternative variant."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 18657,
+    "handbookPriceRoubles": 12200,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "690a9521b92ab495d00df977": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 150,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "68d96442d7aac8a7a904daf6": {
+    "itemTplToClone": "5fbc226eca32ed67276c155d",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/SUR300/sur300_handguard2_fde.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "5fbcc3e4d6fa9c00c571bb58"
+      ],
+      "Slots": [
+        {
+          "_name": "mod_foregrip",
+          "_id": "685b0d77e261a4215c0ec3f6",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be4895acfc400170e2dd5",
+                  "57cffb66245977632f391a99",
+                  "57cffcd624597763133760c5",
+                  "57cffcdd24597763f5110006",
+                  "57cffce524597763b31685d8",
+                  "651a8e529829226ceb67c319",
+                  "651a8bf3a8520e48047bf708",
+                  "665d5d9e338229cfd6078da1",
+                  "665edce564fb556f940ab32a",
+                  "68c48eb7c91390fb930e8d94",
+                  "68c48eb7c91390fb930e8d95"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_000",
+          "_id": "685b0d732d2113c83e740c83",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "669a6a4a525be1d2d004b8eb",
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_001",
+          "_id": "685b0d72aa3e1c7094b24b96",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "669a6a4a525be1d2d004b8eb",
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_002",
+          "_id": "685b0d6f6a3667abbc0d1a5c",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "669a6a4a525be1d2d004b8eb",
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "671126b049e181972e0681fa"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_sight_front",
+          "_id": "687d14bee3983ab820df72df",
+          "_parent": "687d1376e117012beefbd6a7",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ba26b01d4351e0085325a51",
+                  "5dfa3d950dee1b22f862eae0",
+                  "5c17804b2e2216152006c02f",
+                  "5fb6567747ce63734e3fa1dc",
+                  "5bc09a30d4351e00367fb7c8",
+                  "5c18b90d2e2216152142466b",
+                  "5fc0fa362770a0045c59c677",
+                  "5894a73486f77426d259076c",
+                  "55d4af3a4bdc2d972f8b456f",
+                  "68b4b24e27658b8b0d024399",
+                  "68b4b24e27658b8b0d02439b",
+                  "68c6e7ae55918f7c4f044d55",
+                  "68c72885cac1ff3d420fceb0",
+                  "68c72885cac1ff3d420fceaf",
+                  "68c6e7ae55918f7c4f044d56",
+                  "68c734bdcac1ff3d420fceb3",
+                  "68c734bdcac1ff3d420fceb6"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "SUR300 Medium Length Handguard (Alt FDE)",
+        "shortName": "SUR300",
+        "description": "The SUR300 handguard is a high-quality firearm accessory designed for the MCX rifle. This medium-length handguard offers a perfect balance between maneuverability and stability, making it ideal for various shooting applications. Crafted from durable materials, the SUR300 handguard provides excellent heat resistance and structural integrity, ensuring reliable performance during extended use. Its modular design allows for easy attachment of accessories such as grips, lights, and lasers, enhancing the overall functionality of the firearm. The SUR300 handguard is a versatile and essential component for any MCX rifle setup, catering to both tactical and recreational shooters. Alternative variant in FDE Color."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 18657,
+    "handbookPriceRoubles": 12200,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "690a9521b92ab495d00df978": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 150,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "68d96442d7aac8a7a904daf7": {
+    "itemTplToClone": "5fbc227aa56d053a3543f79e",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/SUR300/sur300_handguard.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "5fbcc3e4d6fa9c00c571bb58"
+      ],
+      "Slots": [
+        {
+          "_name": "mod_foregrip",
+          "_id": "685b0d77e261a4215c0ec3f6",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be4895acfc400170e2dd5",
+                  "57cffb66245977632f391a99",
+                  "57cffcd624597763133760c5",
+                  "57cffcdd24597763f5110006",
+                  "57cffce524597763b31685d8",
+                  "651a8e529829226ceb67c319",
+                  "651a8bf3a8520e48047bf708",
+                  "665d5d9e338229cfd6078da1",
+                  "665edce564fb556f940ab32a",
+                  "68c48eb7c91390fb930e8d94",
+                  "68c48eb7c91390fb930e8d95"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_000",
+          "_id": "685b0d732d2113c83e740c83",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "669a6a4a525be1d2d004b8eb",
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_001",
+          "_id": "685b0d72aa3e1c7094b24b96",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "669a6a4a525be1d2d004b8eb",
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_002",
+          "_id": "685b0d6f6a3667abbc0d1a5c",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "669a6a4a525be1d2d004b8eb",
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "671126b049e181972e0681fa"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_sight_front",
+          "_id": "687d14bee3983ab820df72df",
+          "_parent": "687d1376e117012beefbd6a7",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ba26b01d4351e0085325a51",
+                  "5dfa3d950dee1b22f862eae0",
+                  "5c17804b2e2216152006c02f",
+                  "5fb6567747ce63734e3fa1dc",
+                  "5bc09a30d4351e00367fb7c8",
+                  "5c18b90d2e2216152142466b",
+                  "5fc0fa362770a0045c59c677",
+                  "5894a73486f77426d259076c",
+                  "55d4af3a4bdc2d972f8b456f",
+                  "68b4b24e27658b8b0d024399",
+                  "68b4b24e27658b8b0d02439b",
+                  "68c6e7ae55918f7c4f044d55",
+                  "68c72885cac1ff3d420fceb0",
+                  "68c72885cac1ff3d420fceaf",
+                  "68c6e7ae55918f7c4f044d56",
+                  "68c734bdcac1ff3d420fceb3",
+                  "68c734bdcac1ff3d420fceb6"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "SUR300 Long Length Handguard",
+        "shortName": "SUR300",
+        "description": "The SUR300 handguard is a high-quality firearm accessory designed for the MCX rifle. This Long-length handguard offers enhanced stability and improved heat dissipation, making it ideal for sustained shooting sessions. Crafted from durable materials, the SUR300 handguard provides excellent structural integrity and reliability during extended use. Its modular design allows for easy attachment of accessories such as grips, lights, and lasers, enhancing the overall functionality of the firearm. The SUR300 handguard is a versatile and essential component for any MCX rifle setup, catering to both tactical and recreational shooters."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 18657,
+    "handbookPriceRoubles": 12200,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "690a9521b92ab495d00df979": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 150,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "68d96442d7aac8a7a904daf8": {
+    "itemTplToClone": "5fbc227aa56d053a3543f79e",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/SUR300/sur300_handguard_fde.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "5fbcc3e4d6fa9c00c571bb58"
+      ],
+      "Slots": [
+        {
+          "_name": "mod_foregrip",
+          "_id": "685b0d77e261a4215c0ec3f6",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be4895acfc400170e2dd5",
+                  "57cffb66245977632f391a99",
+                  "57cffcd624597763133760c5",
+                  "57cffcdd24597763f5110006",
+                  "57cffce524597763b31685d8",
+                  "651a8e529829226ceb67c319",
+                  "651a8bf3a8520e48047bf708",
+                  "665d5d9e338229cfd6078da1",
+                  "665edce564fb556f940ab32a",
+                  "68c48eb7c91390fb930e8d94",
+                  "68c48eb7c91390fb930e8d95"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_000",
+          "_id": "685b0d732d2113c83e740c83",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "669a6a4a525be1d2d004b8eb",
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_001",
+          "_id": "685b0d72aa3e1c7094b24b96",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "669a6a4a525be1d2d004b8eb",
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_002",
+          "_id": "685b0d6f6a3667abbc0d1a5c",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "669a6a4a525be1d2d004b8eb",
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "671126b049e181972e0681fa"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_sight_front",
+          "_id": "687d14bee3983ab820df72df",
+          "_parent": "687d1376e117012beefbd6a7",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ba26b01d4351e0085325a51",
+                  "5dfa3d950dee1b22f862eae0",
+                  "5c17804b2e2216152006c02f",
+                  "5fb6567747ce63734e3fa1dc",
+                  "5bc09a30d4351e00367fb7c8",
+                  "5c18b90d2e2216152142466b",
+                  "5fc0fa362770a0045c59c677",
+                  "5894a73486f77426d259076c",
+                  "55d4af3a4bdc2d972f8b456f",
+                  "68b4b24e27658b8b0d024399",
+                  "68b4b24e27658b8b0d02439b",
+                  "68c6e7ae55918f7c4f044d55",
+                  "68c72885cac1ff3d420fceb0",
+                  "68c72885cac1ff3d420fceaf",
+                  "68c6e7ae55918f7c4f044d56",
+                  "68c734bdcac1ff3d420fceb3",
+                  "68c734bdcac1ff3d420fceb6"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "SUR300 Long Length Handguard (FDE)",
+        "shortName": "SUR300",
+        "description": "The SUR300 handguard is a high-quality firearm accessory designed for the MCX rifle. This Long-length handguard offers enhanced stability and improved heat dissipation, making it ideal for sustained shooting sessions. Crafted from durable materials, the SUR300 handguard provides excellent structural integrity and reliability during extended use. Its modular design allows for easy attachment of accessories such as grips, lights, and lasers, enhancing the overall functionality of the firearm. The SUR300 handguard is a versatile and essential component for any MCX rifle setup, catering to both tactical and recreational shooters. Variant in FDE Color."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 18657,
+    "handbookPriceRoubles": 12200,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "690a9521b92ab495d00df97a": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 150,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "68d96442d7aac8a7a904daf9": {
+    "itemTplToClone": "5fbcc640016cce60e8341acc",
+    "parentId": "55818a6f4bdc2db9688b456b",
+    "handbookParentId": "5b5f751486f77447ec5d770c",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/SUR300/sur300_charge.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "Ergonomics": 3
+    },
+    "locales": {
+      "en": {
+        "name": "SUR300 Charging Handle",
+        "shortName": "SUR300",
+        "description": "The SUR300 Charging Handle is a high-quality firearm accessory designed for the MCX rifle platform. This charging handle is engineered to provide reliable and smooth operation, allowing for quick and efficient chambering of rounds. Crafted from durable materials, the SUR300 Charging Handle offers excellent strength and longevity, ensuring it can withstand the rigors of regular use. Its ergonomic design enhances user comfort and control during operation, making it an essential component for any MCX rifle setup. The SUR300 Charging Handle is a versatile and practical addition for both tactical and recreational shooters."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_charge"
+    ],
+    "fleaPriceRoubles": 1400,
+    "handbookPriceRoubles": 750,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3000
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "690a9521b92ab495d00df97b": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 21,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68d96442d7aac8a7a904dafa": {
+    "itemTplToClone": "5fbcc640016cce60e8341acc",
+    "parentId": "55818a6f4bdc2db9688b456b",
+    "handbookParentId": "5b5f751486f77447ec5d770c",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/SUR300/sur300_charge_fde.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "Ergonomics": 3
+    },
+    "locales": {
+      "en": {
+        "name": "SUR300 Charging Handle (FDE)",
+        "shortName": "SUR300",
+        "description": "The SUR300 Charging Handle is a high-quality firearm accessory designed for the MCX rifle platform. This charging handle is engineered to provide reliable and smooth operation, allowing for quick and efficient chambering of rounds. Crafted from durable materials, the SUR300 Charging Handle offers excellent strength and longevity, ensuring it can withstand the rigors of regular use. Its ergonomic design enhances user comfort and control during operation, making it an essential component for any MCX rifle setup. The SUR300 Charging Handle is a versatile and practical addition for both tactical and recreational shooters. Variant in FDE Color."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_charge"
+    ],
+    "fleaPriceRoubles": 1400,
+    "handbookPriceRoubles": 750,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3000
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "690a9521b92ab495d00df97c": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 21,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68e95e883eb804510c028a86": {
+    "itemTplToClone": "5fbbfacda56d053a3543f799",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/SUR300/sur300_barrel.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "Slots": [
+        {
+          "_name": "mod_muzzle",
+          "_id": "5fbbfacda56d053a3543f79b",
+          "_parent": "5fbbfacda56d053a3543f799",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5dfa3cd1b33c0951220c079b",
+                  "5fbc22ccf24b94483f726483",
+                  "5fbe7618d6fa9c00c571bb6c"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_gas_block",
+          "_id": "5fbbfacda56d053a3543f79c",
+          "_parent": "5fbbfacda56d053a3543f799",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68e95e883eb804510c028a87"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "SUR300 Medium Length Barrel",
+        "shortName": "SUR300",
+        "description": "The SUR300 Medium Length Barrel is designed for optimal performance and accuracy, made from high-quality materials to ensure durability and reliability in various combat situations."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "fleaPriceRoubles": 19418,
+    "handbookPriceRoubles": 18542,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "690a9521b92ab495d00df97d": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 442,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68e95e883eb804510c028a87": {
+    "itemTplToClone": "5fbc210bf24b94483f726481",
+    "parentId": "56ea9461d2720b67698b456f",
+    "handbookParentId": "5b5f760586f774093e6cb509",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/SUR300/sur300_gasblock.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "SUR300 Gas Block",
+        "shortName": "SUR300",
+        "description": "The SUR300 Gas Block is designed for optimal performance and reliability, made from high-quality materials to ensure durability in various combat situations."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_gas_block"
+    ],
+    "fleaPriceRoubles": 4500,
+    "handbookPriceRoubles": 3245,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "690a9521b92ab495d00df97e": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 77,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,2626 @@
+{
+  "68e6df79cf0bb22665098f60": {
+    "itemTplToClone": "606587252535c57a13424cfd",
+    "parentId": "5447b5f14bdc2d61278b4567",
+    "handbookParentId": "5b5f78fc86f77409407a7f90",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Zastava/zastava_container.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ExtraSizeRight": 1,
+      "Ergonomics": 72,
+      "Weight": 2.0,
+      "Slots": [
+        {
+          "_name": "mod_pistol_grip",
+          "_id": "606587252535c57a13424cff",
+          "_parent": "606587252535c57a13424cfd",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68e6df79cf0bb22665098f66",
+                  "68e84293bc3a402bbb07e123"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_magazine",
+          "_id": "606587252535c57a13424d00",
+          "_parent": "606587252535c57a13424cfd",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex": -1,
+                "Filter": [
+                  "59e5d83b86f7745aed03d262",
+                  "5a01c29586f77474660c694c",
+                  "5ac66bea5acfc43b321d4aec",
+                  "59d625f086f774661516605d",
+                  "5b1fd4e35acfc40018633c39",
+                  "5a0060fc86f7745793204432",
+                  "59e5f5a486f7746c530b3ce2",
+                  "5b1fb3e15acfc4001637f068",
+                  "59d6272486f77466146386ff",
+                  "5e21a3c67e40bd02257a008a",
+                  "5cbdc23eae9215001136a407",
+                  "5c6175362e221600133e3b94",
+                  "59fafc5086f7740dbe19f6c3",
+                  "59fafc9386f774067d462453",
+                  "6272874a6c47bd74f92e2087",
+                  "64b9cf0ac12b9c38db26923a"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c394bdc2dae468b4577"
+        },
+        {
+          "_name": "mod_reciever",
+          "_id": "606587252535c57a13424d01",
+          "_parent": "606587252535c57a13424cfd",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68e6df79cf0bb22665098f62",
+                  "68e84293bc3a402bbb07e120"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_stock_001",
+          "_id": "606587252535c57a13424d02",
+          "_parent": "606587252535c57a13424cfd",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68e6df79cf0bb22665098f65",
+                  "68e84293bc3a402bbb07e122"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_charge",
+          "_id": "606587252535c57a13424d03",
+          "_parent": "606587252535c57a13424cfd",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68e6df79cf0bb22665098f64",
+                  "68e84293bc3a402bbb07e121"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Zastava M19 MCS 7.62x39 assault rifle",
+        "shortName": "M19",
+        "description": "The Zastava M19 rifle is based on the well-tested Kalashnikov principle, chambered in the 6.5 mm Grendel or 7.62x39 mm cartridge. It is gas operated with a rotating bolt locking system. The reliability of functioning in different climatic and field conditions has been confirmed by strict testing methods in accordance with military standards. The M19 is a modular rifle, depending on the task and mission, can use 7.62 mm or 6.5 mm barrels. The modification is reflected in the construction of the cross latch on the receiver, which enables easy and quick replacement of the barrel, without disassembling the rifle and without using tools.[3] In addition to barrels in different calibers, within a single caliber there are different barrel lengths (254 mm and 415 mm), which allows the rifle to quickly adapt to a variety of combat situations, so that basically the same rifle can be used as a submachine gun, assault rifle, light machine gun or designated marksman rifle. Changing the caliber of the rifle also requires changing the magazine, and the magazine are clearly marked and noticeably different. Magazine capacity for caliber 7.62x39 mm is 30 rounds and for caliber 6.5 mm magazine capacity can be 25 and 20 rounds."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 94422,
+    "handbookPriceRoubles": 70654,
+    "addtoTraders": false,
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+{
+  "_id": "6939f7b9e539c37b200ff47c",
+  "_type": "Preset",
+  "_changeWeaponName": false,
+  "_name": "Zastava Base",
+  "_parent": "6939f7b9e539c37b200ff47d",
+  "_items": [
+    {
+      "_id": "6939f7b9e539c37b200ff47d",
+      "_tpl": "68e6df79cf0bb22665098f60",
+      "upd": {
+        "Repairable": {
+          "Durability": 100,
+          "MaxDurability": 100
+        },
+        "FireMode": {
+          "FireMode": "single"
+        }
+      }
+    },
+    {
+      "_id": "6939f7b9e539c37b200ff47e",
+      "_tpl": "68e6df79cf0bb22665098f66",
+      "parentId": "6939f7b9e539c37b200ff47d",
+      "slotId": "mod_pistol_grip"
+    },
+    {
+      "_id": "6939f7b9e539c37b200ff47f",
+      "_tpl": "59d6272486f77466146386ff",
+      "parentId": "6939f7b9e539c37b200ff47d",
+      "slotId": "mod_magazine"
+    },
+    {
+      "_id": "6939f7b9e539c37b200ff480",
+      "_tpl": "68e6df79cf0bb22665098f62",
+      "parentId": "6939f7b9e539c37b200ff47d",
+      "slotId": "mod_reciever"
+    },
+    {
+      "_id": "6939f7b9e539c37b200ff481",
+      "_tpl": "68e6df79cf0bb22665098f65",
+      "parentId": "6939f7b9e539c37b200ff47d",
+      "slotId": "mod_stock_001"
+    },
+    {
+      "_id": "6939f7b9e539c37b200ff482",
+      "_tpl": "68e6df79cf0bb22665098f64",
+      "parentId": "6939f7b9e539c37b200ff47d",
+      "slotId": "mod_charge"
+    },
+    {
+      "_id": "6939f7b9e539c37b200ff484",
+      "_tpl": "68e6df79cf0bb22665098f61",
+      "parentId": "6939f7b9e539c37b200ff480",
+      "slotId": "mod_barrel"
+    },
+    {
+      "_id": "6939f7b9e539c37b200ff485",
+      "_tpl": "68e6df79cf0bb22665098f63",
+      "parentId": "6939f7b9e539c37b200ff480",
+      "slotId": "mod_handguard"
+    },
+    {
+      "_id": "6939f7b9e539c37b200ff486",
+      "_tpl": "68e6df79cf0bb22665098f69",
+      "parentId": "6939f7b9e539c37b200ff480",
+      "slotId": "mod_sight_rear",
+      "upd": {
+        "Sight": {
+          "ScopesCurrentCalibPointIndexes": [
+            0
+          ],
+          "ScopesSelectedModes": [
+            0
+          ],
+          "SelectedScope": 0,
+          "ScopeZoomValue": 0
+        }
+      }
+    },
+    {
+      "_id": "6939f7b9e539c37b200ff487",
+      "_tpl": "5a34fd2bc4a282329a73b4c5",
+      "parentId": "6939f7b9e539c37b200ff484",
+      "slotId": "mod_muzzle"
+    }
+  ],
+  "_encyclopedia": "68e6df79cf0bb22665098f60"
+}
+    ],
+    "traders": {
+      "PRAPOR": {
+        "690a9521b92ab495d00df983": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 170000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": [],
+    "masterySections": [
+      {
+        "Level2": 600,
+        "Level3": 1300,
+        "Name": "Zastava M19",
+        "Templates": [
+          "68e6df79cf0bb22665098f60"
+        ]
+      }
+    ]
+  },
+  "68e6df79cf0bb22665098f63": {
+    "itemTplToClone": "6065880c132d4d12c81fd8da",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Zastava/zastava_handguard.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "606587252535c57a13424cfd"
+      ],
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "Slots": [
+        {
+          "_name": "mod_mount_001",
+          "_id": "687d1408fd9614d66983fe4b",
+          "_parent": "687d1376e117012beefbd6a7",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "59e0bdb186f774156f04ce82",
+                  "67111094d1758189fc0bd223"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_002",
+          "_id": "687d14bf2a5895d58c8a57fd",
+          "_parent": "687d1376e117012beefbd6a7",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "59e0bdb186f774156f04ce82",
+                  "67111094d1758189fc0bd223"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_foregrip",
+          "_id": "687d152d0daf88c74f8c9d93",
+          "_parent": "687d1376e117012beefbd6a7",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c7fc87d2e221644f31c0298",
+                  "5cda9bcfd7f00c0c0b53e900",
+                  "59f8a37386f7747af3328f06",
+                  "5a7dbfc1159bd40016548fde",
+                  "619386379fb0c665d5490dbe",
+                  "5c87ca002e221600114cb150",
+                  "588226d124597767ad33f787",
+                  "588226dd24597767ad33f789",
+                  "588226e62459776e3e094af7",
+                  "588226ef24597767af46e39c",
+                  "59fc48e086f77463b1118392",
+                  "5fce0cf655375d18a253eff0",
+                  "5cf4fb76d7f00c065703d3ac",
+                  "5b057b4f5acfc4771e1bd3e9",
+                  "5c791e872e2216001219c40a",
+                  "558032614bdc2de7118b4585",
+                  "58c157be86f77403c74b2bb6",
+                  "58c157c886f774032749fb06",
+                  "5f6340d3ca442212f4047eb2",
+                  "591af28e86f77414a27a9e1d",
+                  "5c1cd46f2e22164bef5cfedb",
+                  "5c1bc4812e22164bef5cfde7",
+                  "5c1bc5612e221602b5429350",
+                  "5c1bc5af2e221602b412949b",
+                  "5c1bc5fb2e221602b1779b32",
+                  "5c1bc7432e221602b412949d",
+                  "5c1bc7752e221602b1779b34",
+                  "64806bdd26c80811d408d37a",
+                  "64807a29e5ffe165600abc97",
+                  "648067db042be0705c0b3009",
+                  "65169d5b30425317755f8e25",
+                  "655df24fdf80b12750626d0a",
+                  "655dccfdbdcc6b5df71382b6",
+                  "661e52e29c8b4dadef008577",
+                  "661e53149c8b4dadef008579",
+                  "661e52415be02310ed07a07a",
+                  "661e52b5b099f32c28003586"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Zastava M19 Handguard",
+        "shortName": "M19 HG",
+        "description": "The Zastava M19 handguard is designed to provide a comfortable grip and enhance the overall handling of the rifle. It features a modular design that allows for the attachment of various accessories, such as foregrips, lights, and lasers, making it a versatile choice for different combat scenarios."
+      }
+    },
+  "addtoInventorySlots": [],
+  "addtoModSlots": false,
+  "modSlot": [
+      "mod_handguard"
+    ],
+    "fleaPriceRoubles": 756,
+    "handbookPriceRoubles": 5242,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "690a9521b92ab495d00df984": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 11034,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68e6df79cf0bb22665098f61": {
+    "itemTplToClone": "6065878ac9cf8012264142fd",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Zastava/zastava_barrel.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "606587252535c57a13424cfd"
+      ],
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "Slots": [
+        {
+          "_id": "62c6dd965795677ad39019f6",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "2d354131a3d7dfa66a6b7d11",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7d693d5acfc43bca706a3d",
+                  "5a34fd2bc4a282329a73b4c5",
+                  "6065c6e7132d4d12c81fd8e1",
+                  "5d1f819086f7744b355c219b",
+                  "5dcbe965e4ed22586443a79d",
+                  "5d026791d7ad1a04a067ea63",
+                  "5dfa3cd1b33c0951220c079b",
+                  "5cdd7685d7f00c000f260ed2",
+                  "5c878e9d2e2216000f201903",
+                  "5d02677ad7ad1a04a15c0f95",
+                  "5bbdb8bdd4351e4502011460",
+                  "5cdd7693d7f00c0010373aa5",
+                  "607ffb988900dc2d9a55b6e4",
+                  "615d8eb350224f204c1da1cf",
+                  "5d443f8fa4b93678dd4a01aa",
+                  "5c7954d52e221600106f4cc7",
+                  "5fbc22ccf24b94483f726483",
+                  "59bffc1f86f77435b128b872",
+                  "5cf78496d7f00c065703d6ca",
+                  "5fbe7618d6fa9c00c571bb6c",
+                  "618178aa1cb55961fa0fdc80",
+                  "628a66b41d5e41750e314f34",
+                  "6130c43c67085e45ef1405a1",
+                  "612e0e3c290d254f5e6b291d",
+                  "6642f63667f5cb56a00662eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Zastava M19 7.62x39 16.3 inch barrel",
+        "shortName": "M19 16.3\"",
+        "description": "The Zastava M19 barrel is designed for optimal performance and accuracy, made from high-quality materials to ensure durability and reliability in various combat situations."
+      }
+    },
+  "addtoInventorySlots": [],
+  "addtoModSlots": false,
+  "modSlot": [
+      "mod_barrel"
+    ],
+    "fleaPriceRoubles": 26300,
+    "handbookPriceRoubles": 21000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "690a9521b92ab495d00df985": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 36820,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68e6df79cf0bb22665098f62": {
+    "itemTplToClone": "606587a88900dc2d9a55b659",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Zastava/zastava_upper.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "606587252535c57a13424cfd"
+      ],
+      "Ergonomics": 12,
+      "Slots": [
+        {
+          "_name": "mod_scope",
+          "_id": "606587a88900dc2d9a55b65b",
+          "_parent": "606587a88900dc2d9a55b659",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57ac965c24597706be5f975c",
+                  "57aca93d2459771f2c7e26db",
+                  "544a3f024bdc2d1d388b4568",
+                  "544a3a774bdc2d3a388b4567",
+                  "5d2dc3e548f035404a1a4798",
+                  "57adff4f24597737f373b6e6",
+                  "5c0517910db83400232ffee5",
+                  "591c4efa86f7741030027726",
+                  "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f",
+                  "558022b54bdc2dac148b458d",
+                  "5c07dd120db834001c39092d",
+                  "5c0a2cec0db834001b7ce47d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "5c0505e00db834001b735073",
+                  "609a63b6e2ff132951242d09",
+                  "584984812459776a704a82a6",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "5dfe6104585a0c3e995c7b82",
+                  "544a3d0a4bdc2d1b388b4567",
+                  "5d1b5e94d7ad1a2b865a96b0",
+                  "609bab8b455afd752b2e6138",
+                  "58d39d3d86f77445bb794ae7",
+                  "616554fe50224f204c1da2aa",
+                  "5c7d55f52e221644f31bff6a",
+                  "616584766ef05c2ce828ef57",
+                  "5b3b6dc75acfc47a8773fb1e",
+                  "615d8d878004cc50514c3233",
+                  "5b2389515acfc4771e1be0c0",
+                  "577d128124597739d65d0e56",
+                  "618b9643526131765025ab35",
+                  "618bab21526131765025ab3f",
+                  "5c86592b2e2216000e69e77c",
+                  "5a37ca54c4a282000d72296a",
+                  "5d0a29fed7ad1a002769ad08",
+                  "5c064c400db834001d23f468",
+                  "58d2664f86f7747fec5834f6",
+                  "57c69dd424597774c03b7bbc",
+                  "5b3b99265acfc4704b4a1afb",
+                  "5aa66a9be5b5b0214e506e89",
+                  "5aa66c72e5b5b00016327c93",
+                  "5c1cdd302e221602b3137250",
+                  "61714b2467085e45ef140b2c",
+                  "6171407e50224f204c1da3c5",
+                  "61713cc4d8e3106d9806c109",
+                  "5b31163c5acfc400153b71cb",
+                  "5a33b652c4a28232996e407c",
+                  "5a33b2c9c4a282000c5a9511",
+                  "59db7eed86f77461f8380365",
+                  "5a1ead28fcdbcb001912fa9f",
+                  "5dff77c759400025ea5150cf",
+                  "626bb8532c923541184624b4",
+                  "62811f461d5df4475f46a332",
+                  "63fc449f5bd61c6cf3784a88",
+                  "6477772ea8a38bb2050ed4db",
+                  "6478641c19d732620e045e17",
+                  "64785e7c19d732620e045e15",
+                  "653931da5db71d30ab1d6296",
+                  "65392f611406374f82152ba5",
+                  "655f13e0a246670fb0373245",
+                  "6567e751a715f85433025998",
+                  "67641a851b2899700609901a",
+                  "6761759e7ee06333f108bf86"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_barrel",
+          "_id": "606587a88900dc2d9a55b65c",
+          "_parent": "606587a88900dc2d9a55b659",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68e6df79cf0bb22665098f61",
+                  "68e84293bc3a402bbb07e11f",
+                  "68e95e883eb804510c028a84",
+                  "68e95e883eb804510c028a85"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_handguard",
+          "_id": "606587a88900dc2d9a55b65d",
+          "_parent": "606587a88900dc2d9a55b659",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68e6df79cf0bb22665098f63",
+                  "68e84293bc3a402bbb07e11e"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_sight_rear",
+          "_id": "606587a88900dc2d9a55b65e",
+          "_parent": "606587a88900dc2d9a55b659",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68e6df79cf0bb22665098f69",
+                  "68e84293bc3a402bbb07e124"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical",
+          "_id": "687d487caf0a170fbea2e6b4",
+          "_parent": "687d1376e117012beefbd6a7",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "5c06595c0db834001a66af6c",
+                  "5a7b483fe899ef0016170d15",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5c5952732e2216398b5abda2",
+                  "644a3df63b0b6f03e101e065",
+                  "68d7db2929420f94ff04cb15"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount",
+          "_id": "687d1548a3720cc582274c32",
+          "_parent": "687d1376e117012beefbd6a7",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5649a2464bdc2d91118b45a8",
+                  "68bb6be346d4437fb40002e0"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Zastava M19 Upper Receiver",
+        "shortName": "M19",
+        "description": "In line with modern assault rifle trends, the M19 has an integrated top cover and gas chamber upper lining with a long \"Picatinny\" rail that accepts all types of optoelectronic sights, as well as a shutter-release handle that allows rehearsal with both left and right hands and a fire control on the left side of the handle suitable for handling."
+      }
+    },
+  "addtoInventorySlots": [],
+  "addtoModSlots": false,
+  "modSlot": [
+      "mod_reciever"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 44572,
+    "handbookPriceRoubles": 29111,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PRAPOR": {
+        "690a9521b92ab495d00df986": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 61421,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "68e6df79cf0bb22665098f64": {
+    "itemTplToClone": "606587bd6d0bd7580617bacc",
+    "parentId": "55818a6f4bdc2db9688b456b",
+    "handbookParentId": "5b5f751486f77447ec5d770c",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Zastava/zastava_ch.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "606587252535c57a13424cfd"
+      ],
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Zastava M19 standard charging handle",
+        "shortName": "M19 CH.",
+        "description": "The Zastava M19 charging handle is designed for reliable and smooth operation, allowing the user to easily chamber a round or clear a malfunction. It features an ambidextrous design, making it suitable for both left and right-handed shooters."
+      }
+    },
+  "addtoInventorySlots": [],
+  "addtoModSlots": false,
+  "modSlot": [
+      "mod_charge"
+    ],
+    "fleaPriceRoubles": 3000,
+    "handbookPriceRoubles": 2500,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "690a9521b92ab495d00df987": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 4070,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68e6df79cf0bb22665098f65": {
+    "itemTplToClone": "618167528004cc50514c34f9",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Zastava/zastava_stock.bundle",
+        "rcid": ""
+      },
+    "ExtraSizeDown": 0,
+    "ExtraSizeLeft": 0,
+    "ExtraSizeRight": 1,
+    "ExtraSizeUp": 0,
+    "Width": 2,
+      "Slots": [],
+      "ConflictingItems": [
+        "606587252535c57a13424cfd"
+      ],
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Zastava M19 folding stock",
+        "shortName": "M19 FS",
+        "description": "The folding-telescopic buttstock has an adjustable cheek rest, the rear handle is ergonomically improved and with the front handle it allows a firmer and more stable grip, especially during burst firing. The frame holder button has been expanded to make it easier to remove and replace the frame."
+      }
+    },
+  "addtoInventorySlots": [],
+  "addtoModSlots": false,
+  "modSlot": [
+      "mod_stock_001"
+    ],
+    "fleaPriceRoubles": 18800,
+    "handbookPriceRoubles": 15040,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "690a9521b92ab495d00df988": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 27356,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68e6df79cf0bb22665098f66": {
+    "itemTplToClone": "5a339805c4a2826c6e06d73d",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Zastava/zastava_pgrip.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "Zastava M19 Pistol Grip",
+        "shortName": "M19 PG",
+        "description": "The Zastava M19 Pistol Grip is designed for improved ergonomics and control."
+      }
+    },
+  "addtoInventorySlots": [],
+  "addtoModSlots": false,
+  "modSlot": [
+      "mod_pistol_grip"
+    ],
+    "fleaPriceRoubles": 6500,
+    "handbookPriceRoubles": 4530,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 35
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "690a9521b92ab495d00df989": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 9100,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": []
+  },
+  "68e6df79cf0bb22665098f69": {
+    "itemTplToClone": "5bc09a18d4351e003562b68e",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Zastava/zastava_rear.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "606587252535c57a13424cfd"
+      ],
+      "ExaminedByDefault": true,
+      "sightModType": "iron"
+    },
+    "locales": {
+      "en": {
+        "name": "Zastava M19 standard rear sight",
+        "shortName": "M19 RS",
+        "description": "The Zastava M19 rear sight is a robust and reliable component designed to provide accurate aiming capabilities. It features adjustable settings for windage and elevation, allowing the shooter to fine-tune their aim for various distances and conditions. The sight is constructed from durable materials to withstand the rigors of combat and harsh environments."
+      }
+    },
+  "addtoInventorySlots": [],
+  "addtoModSlots": false,
+  "modSlot": [
+      "mod_sight_rear"
+    ],
+    "fleaPriceRoubles": 908,
+    "handbookPriceRoubles": 876,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "690a9521b92ab495d00df98a": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1136,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68e84293bc3a402bbb07e11d": {
+    "itemTplToClone": "606587252535c57a13424cfd",
+    "parentId": "5447b5f14bdc2d61278b4567",
+    "handbookParentId": "5b5f78fc86f77409407a7f90",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Zastava/zastava_fde_container.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ExtraSizeRight": 1,
+      "Ergonomics": 72,
+      "Weight": 2.0,
+      "Slots": [
+        {
+          "_name": "mod_pistol_grip",
+          "_id": "606587252535c57a13424cff",
+          "_parent": "606587252535c57a13424cfd",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68e6df79cf0bb22665098f66",
+                  "68e84293bc3a402bbb07e123"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_magazine",
+          "_id": "606587252535c57a13424d00",
+          "_parent": "606587252535c57a13424cfd",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex": -1,
+                "Filter": [
+                  "59e5d83b86f7745aed03d262",
+                  "5a01c29586f77474660c694c",
+                  "5ac66bea5acfc43b321d4aec",
+                  "59d625f086f774661516605d",
+                  "5b1fd4e35acfc40018633c39",
+                  "5a0060fc86f7745793204432",
+                  "59e5f5a486f7746c530b3ce2",
+                  "5b1fb3e15acfc4001637f068",
+                  "59d6272486f77466146386ff",
+                  "5e21a3c67e40bd02257a008a",
+                  "5cbdc23eae9215001136a407",
+                  "5c6175362e221600133e3b94",
+                  "59fafc5086f7740dbe19f6c3",
+                  "59fafc9386f774067d462453",
+                  "6272874a6c47bd74f92e2087",
+                  "64b9cf0ac12b9c38db26923a"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c394bdc2dae468b4577"
+        },
+        {
+          "_name": "mod_reciever",
+          "_id": "606587252535c57a13424d01",
+          "_parent": "606587252535c57a13424cfd",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68e6df79cf0bb22665098f62",
+                  "68e84293bc3a402bbb07e120"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_stock_001",
+          "_id": "606587252535c57a13424d02",
+          "_parent": "606587252535c57a13424cfd",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68e6df79cf0bb22665098f65",
+                  "68e84293bc3a402bbb07e122"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_charge",
+          "_id": "606587252535c57a13424d03",
+          "_parent": "606587252535c57a13424cfd",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68e6df79cf0bb22665098f64",
+                  "68e84293bc3a402bbb07e121"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Zastava M19 MCS 7.62x39 assault rifle (FDE)",
+        "shortName": "M19",
+        "description": "The Zastava M19 rifle is based on the well-tested Kalashnikov principle, chambered in the 6.5 mm Grendel or 7.62x39 mm cartridge. It is gas operated with a rotating bolt locking system. The reliability of functioning in different climatic and field conditions has been confirmed by strict testing methods in accordance with military standards. The M19 is a modular rifle, depending on the task and mission, can use 7.62 mm or 6.5 mm barrels. The modification is reflected in the construction of the cross latch on the receiver, which enables easy and quick replacement of the barrel, without disassembling the rifle and without using tools.[3] In addition to barrels in different calibers, within a single caliber there are different barrel lengths (254 mm and 415 mm), which allows the rifle to quickly adapt to a variety of combat situations, so that basically the same rifle can be used as a submachine gun, assault rifle, light machine gun or designated marksman rifle. Changing the caliber of the rifle also requires changing the magazine, and the magazine are clearly marked and noticeably different. Magazine capacity for caliber 7.62x39 mm is 30 rounds and for caliber 6.5 mm magazine capacity can be 25 and 20 rounds."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 94422,
+    "handbookPriceRoubles": 70654,
+    "addtoTraders": false,
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+            {
+              "_id": "6939f7b9e539c37b200ff46d",
+              "_type": "Preset",
+              "_changeWeaponName": false,
+              "_name": "Zastava FDE Base",
+              "_parent": "6939f7b9e539c37b200ff46e",
+              "_items": [
+                {
+                  "_id": "6939f7b9e539c37b200ff46e",
+                  "_tpl": "68e84293bc3a402bbb07e11d",
+                  "upd": {
+                    "Repairable": {
+                      "Durability": 100,
+                      "MaxDurability": 100
+                    },
+                    "FireMode": {
+                      "FireMode": "single"
+                    }
+                  }
+                },
+                {
+                  "_id": "6939f7b9e539c37b200ff46f",
+                  "_tpl": "68e84293bc3a402bbb07e123",
+                  "parentId": "6939f7b9e539c37b200ff46e",
+                  "slotId": "mod_pistol_grip"
+                },
+                {
+                  "_id": "6939f7b9e539c37b200ff470",
+                  "_tpl": "59fafc9386f774067d462453",
+                  "parentId": "6939f7b9e539c37b200ff46e",
+                  "slotId": "mod_magazine"
+                },
+                {
+                  "_id": "6939f7b9e539c37b200ff471",
+                  "_tpl": "68e84293bc3a402bbb07e120",
+                  "parentId": "6939f7b9e539c37b200ff46e",
+                  "slotId": "mod_reciever"
+                },
+                {
+                  "_id": "6939f7b9e539c37b200ff472",
+                  "_tpl": "68e84293bc3a402bbb07e122",
+                  "parentId": "6939f7b9e539c37b200ff46e",
+                  "slotId": "mod_stock_001"
+                },
+                {
+                  "_id": "6939f7b9e539c37b200ff473",
+                  "_tpl": "68e84293bc3a402bbb07e121",
+                  "parentId": "6939f7b9e539c37b200ff46e",
+                  "slotId": "mod_charge"
+                },
+                {
+                  "_id": "6939f7b9e539c37b200ff475",
+                  "_tpl": "68e95e883eb804510c028a85",
+                  "parentId": "6939f7b9e539c37b200ff471",
+                  "slotId": "mod_barrel"
+                },
+                {
+                  "_id": "6939f7b9e539c37b200ff476",
+                  "_tpl": "68e84293bc3a402bbb07e11e",
+                  "parentId": "6939f7b9e539c37b200ff471",
+                  "slotId": "mod_handguard"
+                },
+                {
+                  "_id": "6939f7b9e539c37b200ff477",
+                  "_tpl": "68e84293bc3a402bbb07e124",
+                  "parentId": "6939f7b9e539c37b200ff471",
+                  "slotId": "mod_sight_rear",
+                  "upd": {
+                    "Sight": {
+                      "ScopesCurrentCalibPointIndexes": [
+                        0
+                      ],
+                      "ScopesSelectedModes": [
+                        0
+                      ],
+                      "SelectedScope": 0,
+                      "ScopeZoomValue": 0
+                    }
+                  }
+                },
+                {
+                  "_id": "6939f7b9e539c37b200ff478",
+                  "_tpl": "10c1dae2a05599e8a2b59cda",
+                  "parentId": "6939ef19e539c37b200e1b0e",
+                  "slotId": "mod_muzzle"
+                }
+              ],
+              "_encyclopedia": "68e84293bc3a402bbb07e11d"
+            }
+    ],
+    "traders": {
+      "PRAPOR": {
+        "690a9521b92ab495d00df98b": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 170000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": [],
+    "masterySections": [
+      {
+        "Level2": 600,
+        "Level3": 1300,
+        "Name": "Zastava M19",
+        "Templates": [
+          "68e84293bc3a402bbb07e11d"
+        ]
+      }
+    ]
+  },
+  "68e84293bc3a402bbb07e11e": {
+    "itemTplToClone": "6065880c132d4d12c81fd8da",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Zastava/zastava_handguard_fde.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "606587252535c57a13424cfd"
+      ],
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "Slots": [
+        {
+          "_name": "mod_mount_001",
+          "_id": "687d1408fd9614d66983fe4b",
+          "_parent": "687d1376e117012beefbd6a7",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "59e0bdb186f774156f04ce82",
+                  "67111094d1758189fc0bd223"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_002",
+          "_id": "687d14bf2a5895d58c8a57fd",
+          "_parent": "687d1376e117012beefbd6a7",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "59e0bdb186f774156f04ce82",
+                  "67111094d1758189fc0bd223"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_foregrip",
+          "_id": "687d152d0daf88c74f8c9d93",
+          "_parent": "687d1376e117012beefbd6a7",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c7fc87d2e221644f31c0298",
+                  "5cda9bcfd7f00c0c0b53e900",
+                  "59f8a37386f7747af3328f06",
+                  "5a7dbfc1159bd40016548fde",
+                  "619386379fb0c665d5490dbe",
+                  "5c87ca002e221600114cb150",
+                  "588226d124597767ad33f787",
+                  "588226dd24597767ad33f789",
+                  "588226e62459776e3e094af7",
+                  "588226ef24597767af46e39c",
+                  "59fc48e086f77463b1118392",
+                  "5fce0cf655375d18a253eff0",
+                  "5cf4fb76d7f00c065703d3ac",
+                  "5b057b4f5acfc4771e1bd3e9",
+                  "5c791e872e2216001219c40a",
+                  "558032614bdc2de7118b4585",
+                  "58c157be86f77403c74b2bb6",
+                  "58c157c886f774032749fb06",
+                  "5f6340d3ca442212f4047eb2",
+                  "591af28e86f77414a27a9e1d",
+                  "5c1cd46f2e22164bef5cfedb",
+                  "5c1bc4812e22164bef5cfde7",
+                  "5c1bc5612e221602b5429350",
+                  "5c1bc5af2e221602b412949b",
+                  "5c1bc5fb2e221602b1779b32",
+                  "5c1bc7432e221602b412949d",
+                  "5c1bc7752e221602b1779b34",
+                  "64806bdd26c80811d408d37a",
+                  "64807a29e5ffe165600abc97",
+                  "648067db042be0705c0b3009",
+                  "65169d5b30425317755f8e25",
+                  "655df24fdf80b12750626d0a",
+                  "655dccfdbdcc6b5df71382b6",
+                  "661e52e29c8b4dadef008577",
+                  "661e53149c8b4dadef008579",
+                  "661e52415be02310ed07a07a",
+                  "661e52b5b099f32c28003586"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Zastava M19 handguard (FDE)",
+        "shortName": "M19 HG",
+        "description": "The Zastava M19 handguard is designed to provide a comfortable grip and enhance the overall handling of the rifle. It features a modular design that allows for the attachment of various accessories, such as foregrips, lights, and lasers, making it a versatile choice for different combat scenarios. FDE (Flat Dark Earth) color variant."
+      }
+    },
+  "addtoInventorySlots": [],
+  "addtoModSlots": false,
+  "modSlot": [
+      "mod_handguard"
+    ],
+    "fleaPriceRoubles": 756,
+    "handbookPriceRoubles": 5242,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "690a9521b92ab495d00df98c": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 11034,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68e84293bc3a402bbb07e11f": {
+    "itemTplToClone": "6065878ac9cf8012264142fd",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Zastava/zastava_barrel_fde.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "606587252535c57a13424cfd"
+      ],
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "Slots": [
+        {
+          "_id": "62c6dd965795677ad39019f6",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "2d354131a3d7dfa66a6b7d11",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7d693d5acfc43bca706a3d",
+                  "5a34fd2bc4a282329a73b4c5",
+                  "6065c6e7132d4d12c81fd8e1",
+                  "5d1f819086f7744b355c219b",
+                  "5dcbe965e4ed22586443a79d",
+                  "5d026791d7ad1a04a067ea63",
+                  "5dfa3cd1b33c0951220c079b",
+                  "5cdd7685d7f00c000f260ed2",
+                  "5c878e9d2e2216000f201903",
+                  "5d02677ad7ad1a04a15c0f95",
+                  "5bbdb8bdd4351e4502011460",
+                  "5cdd7693d7f00c0010373aa5",
+                  "607ffb988900dc2d9a55b6e4",
+                  "615d8eb350224f204c1da1cf",
+                  "5d443f8fa4b93678dd4a01aa",
+                  "5c7954d52e221600106f4cc7",
+                  "5fbc22ccf24b94483f726483",
+                  "59bffc1f86f77435b128b872",
+                  "5cf78496d7f00c065703d6ca",
+                  "5fbe7618d6fa9c00c571bb6c",
+                  "618178aa1cb55961fa0fdc80",
+                  "628a66b41d5e41750e314f34",
+                  "6130c43c67085e45ef1405a1",
+                  "612e0e3c290d254f5e6b291d",
+                  "6642f63667f5cb56a00662eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Zastava M19 7.62x39 16.3 inch barrel (FDE)",
+        "shortName": "M19 16.3\"",
+        "description": "The Zastava M19 barrel is designed for optimal performance and accuracy, made from high-quality materials to ensure durability and reliability in various combat situations. FDE (Flat Dark Earth) color variant."
+      }
+    },
+  "addtoInventorySlots": [],
+  "addtoModSlots": false,
+  "modSlot": [
+      "mod_barrel"
+    ],
+    "fleaPriceRoubles": 26300,
+    "handbookPriceRoubles": 21000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "690a9521b92ab495d00df98d": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 36820,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68e84293bc3a402bbb07e120": {
+    "itemTplToClone": "606587a88900dc2d9a55b659",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Zastava/zastava_upper_fde.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "606587252535c57a13424cfd"
+      ],
+      "Ergonomics": 12,
+      "Slots": [
+        {
+          "_name": "mod_scope",
+          "_id": "606587a88900dc2d9a55b65b",
+          "_parent": "606587a88900dc2d9a55b659",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57ac965c24597706be5f975c",
+                  "57aca93d2459771f2c7e26db",
+                  "544a3f024bdc2d1d388b4568",
+                  "544a3a774bdc2d3a388b4567",
+                  "5d2dc3e548f035404a1a4798",
+                  "57adff4f24597737f373b6e6",
+                  "5c0517910db83400232ffee5",
+                  "591c4efa86f7741030027726",
+                  "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f",
+                  "558022b54bdc2dac148b458d",
+                  "5c07dd120db834001c39092d",
+                  "5c0a2cec0db834001b7ce47d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "5c0505e00db834001b735073",
+                  "609a63b6e2ff132951242d09",
+                  "584984812459776a704a82a6",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "5dfe6104585a0c3e995c7b82",
+                  "544a3d0a4bdc2d1b388b4567",
+                  "5d1b5e94d7ad1a2b865a96b0",
+                  "609bab8b455afd752b2e6138",
+                  "58d39d3d86f77445bb794ae7",
+                  "616554fe50224f204c1da2aa",
+                  "5c7d55f52e221644f31bff6a",
+                  "616584766ef05c2ce828ef57",
+                  "5b3b6dc75acfc47a8773fb1e",
+                  "615d8d878004cc50514c3233",
+                  "5b2389515acfc4771e1be0c0",
+                  "577d128124597739d65d0e56",
+                  "618b9643526131765025ab35",
+                  "618bab21526131765025ab3f",
+                  "5c86592b2e2216000e69e77c",
+                  "5a37ca54c4a282000d72296a",
+                  "5d0a29fed7ad1a002769ad08",
+                  "5c064c400db834001d23f468",
+                  "58d2664f86f7747fec5834f6",
+                  "57c69dd424597774c03b7bbc",
+                  "5b3b99265acfc4704b4a1afb",
+                  "5aa66a9be5b5b0214e506e89",
+                  "5aa66c72e5b5b00016327c93",
+                  "5c1cdd302e221602b3137250",
+                  "61714b2467085e45ef140b2c",
+                  "6171407e50224f204c1da3c5",
+                  "61713cc4d8e3106d9806c109",
+                  "5b31163c5acfc400153b71cb",
+                  "5a33b652c4a28232996e407c",
+                  "5a33b2c9c4a282000c5a9511",
+                  "59db7eed86f77461f8380365",
+                  "5a1ead28fcdbcb001912fa9f",
+                  "5dff77c759400025ea5150cf",
+                  "626bb8532c923541184624b4",
+                  "62811f461d5df4475f46a332",
+                  "63fc449f5bd61c6cf3784a88",
+                  "6477772ea8a38bb2050ed4db",
+                  "6478641c19d732620e045e17",
+                  "64785e7c19d732620e045e15",
+                  "653931da5db71d30ab1d6296",
+                  "65392f611406374f82152ba5",
+                  "655f13e0a246670fb0373245",
+                  "6567e751a715f85433025998",
+                  "67641a851b2899700609901a",
+                  "6761759e7ee06333f108bf86"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_barrel",
+          "_id": "606587a88900dc2d9a55b65c",
+          "_parent": "606587a88900dc2d9a55b659",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68e6df79cf0bb22665098f61",
+                  "68e84293bc3a402bbb07e11f",
+                  "68e95e883eb804510c028a84",
+                  "68e95e883eb804510c028a85"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_handguard",
+          "_id": "606587a88900dc2d9a55b65d",
+          "_parent": "606587a88900dc2d9a55b659",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68e6df79cf0bb22665098f63",
+                  "68e84293bc3a402bbb07e11e"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_sight_rear",
+          "_id": "606587a88900dc2d9a55b65e",
+          "_parent": "606587a88900dc2d9a55b659",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68e6df79cf0bb22665098f69",
+                  "68e84293bc3a402bbb07e124"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical",
+          "_id": "687d487caf0a170fbea2e6b4",
+          "_parent": "687d1376e117012beefbd6a7",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "5c06595c0db834001a66af6c",
+                  "5a7b483fe899ef0016170d15",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5c5952732e2216398b5abda2",
+                  "644a3df63b0b6f03e101e065",
+                  "68d7db2929420f94ff04cb15"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount",
+          "_id": "687d1548a3720cc582274c32",
+          "_parent": "687d1376e117012beefbd6a7",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5649a2464bdc2d91118b45a8",
+                  "68bb6be346d4437fb40002e0"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Zastava M19 upper receiver (FDE)",
+        "shortName": "M19",
+        "description": "In line with modern assault rifle trends, the M19 has an integrated top cover and gas chamber upper lining with a long \"Picatinny\" rail that accepts all types of optoelectronic sights, as well as a shutter-release handle that allows rehearsal with both left and right hands and a fire control on the left side of the handle suitable for handling. FDE (Flat Dark Earth) color variant."
+      }
+    },
+  "addtoInventorySlots": [],
+  "addtoModSlots": false,
+  "modSlot": [
+      "mod_reciever"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 44572,
+    "handbookPriceRoubles": 29111,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PRAPOR": {
+        "690a9521b92ab495d00df98e": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 61421,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "68e84293bc3a402bbb07e121": {
+    "itemTplToClone": "606587bd6d0bd7580617bacc",
+    "parentId": "55818a6f4bdc2db9688b456b",
+    "handbookParentId": "5b5f751486f77447ec5d770c",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Zastava/zastava_ch_fde.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "606587252535c57a13424cfd"
+      ],
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Zastava M19 standard charging handle (FDE)",
+        "shortName": "M19 CH.",
+        "description": "The Zastava M19 charging handle is designed for reliable and smooth operation, allowing the user to easily chamber a round or clear a malfunction. It features an ambidextrous design, making it suitable for both left and right-handed shooters. FDE (Flat Dark Earth) color variant."
+      }
+    },
+  "addtoInventorySlots": [],
+  "addtoModSlots": false,
+  "modSlot": [
+      "mod_charge"
+    ],
+    "fleaPriceRoubles": 3000,
+    "handbookPriceRoubles": 2500,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "690a9521b92ab495d00df98f": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 4070,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68e84293bc3a402bbb07e122": {
+    "itemTplToClone": "618167528004cc50514c34f9",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Zastava/zastava_stock_fde.bundle",
+        "rcid": ""
+      },
+      "ExtraSizeDown": 0,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 1,
+      "ExtraSizeUp": 0,
+      "Width": 2,
+      "Slots": [],
+      "ConflictingItems": [
+        "606587252535c57a13424cfd"
+      ],
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Zastava M19 folding stock (FDE)",
+        "shortName": "M19",
+        "description": "The folding-telescopic buttstock has an adjustable cheek rest, the rear handle is ergonomically improved and with the front handle it allows a firmer and more stable grip, especially during burst firing. The frame holder button has been expanded to make it easier to remove and replace the frame. FDE (Flat Dark Earth) color variant."
+      }
+    },
+  "addtoInventorySlots": [],
+  "addtoModSlots": false,
+  "modSlot": [
+      "mod_stock_001"
+    ],
+    "fleaPriceRoubles": 18800,
+    "handbookPriceRoubles": 15040,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "690a9521b92ab495d00df990": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 27356,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68e84293bc3a402bbb07e123": {
+    "itemTplToClone": "5a339805c4a2826c6e06d73d",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Zastava/zastava_pgrip_fde.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "606587252535c57a13424cfd"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Zastava M19 pistol grip (FDE)",
+        "shortName": "M19 PG",
+        "description": "The Zastava M19 Pistol Grip is designed for improved ergonomics and control. FDE (Flat Dark Earth) color variant."
+      }
+    },
+  "addtoInventorySlots": [],
+  "addtoModSlots": false,
+  "modSlot": [
+      "mod_pistol_grip"
+    ],
+    "fleaPriceRoubles": 6500,
+    "handbookPriceRoubles": 4530,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 35
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "690a9521b92ab495d00df991": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 9100,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": []
+  },
+  "68e84293bc3a402bbb07e124": {
+    "itemTplToClone": "5bc09a18d4351e003562b68e",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Zastava/zastava_rear_fde.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "sightModType": "iron"
+    },
+    "locales": {
+      "en": {
+        "name": "Zastava M19 stndard rear sight (FDE)",
+        "shortName": "M19 RS",
+        "description": "The Zastava M19 rear sight is a robust and reliable component designed to provide accurate aiming capabilities. It features adjustable settings for windage and elevation, allowing the shooter to fine-tune their aim for various distances and conditions. The sight is constructed from durable materials to withstand the rigors of combat and harsh environments. FDE (Flat Dark Earth) color variant."
+      }
+    },
+  "addtoInventorySlots": [],
+  "addtoModSlots": false,
+  "modSlot": [
+      "mod_sight_rear"
+    ],
+    "fleaPriceRoubles": 908,
+    "handbookPriceRoubles": 876,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "690a9521b92ab495d00df992": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1136,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68e95e883eb804510c028a84": {
+    "itemTplToClone": "60658776f2cb2e02a42ace2b",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Zastava/zastava_barrel_small.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "606587252535c57a13424cfd"
+      ],
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "Slots": [
+        {
+          "_id": "62c6dd965795677ad39019f6",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "2d354131a3d7dfa66a6b7d11",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7d693d5acfc43bca706a3d",
+                  "5a34fd2bc4a282329a73b4c5",
+                  "6065c6e7132d4d12c81fd8e1",
+                  "5d1f819086f7744b355c219b",
+                  "5dcbe965e4ed22586443a79d",
+                  "5d026791d7ad1a04a067ea63",
+                  "5dfa3cd1b33c0951220c079b",
+                  "5cdd7685d7f00c000f260ed2",
+                  "5c878e9d2e2216000f201903",
+                  "5d02677ad7ad1a04a15c0f95",
+                  "5bbdb8bdd4351e4502011460",
+                  "5cdd7693d7f00c0010373aa5",
+                  "607ffb988900dc2d9a55b6e4",
+                  "615d8eb350224f204c1da1cf",
+                  "5d443f8fa4b93678dd4a01aa",
+                  "5c7954d52e221600106f4cc7",
+                  "5fbc22ccf24b94483f726483",
+                  "59bffc1f86f77435b128b872",
+                  "5cf78496d7f00c065703d6ca",
+                  "5fbe7618d6fa9c00c571bb6c",
+                  "618178aa1cb55961fa0fdc80",
+                  "628a66b41d5e41750e314f34",
+                  "6130c43c67085e45ef1405a1",
+                  "612e0e3c290d254f5e6b291d",
+                  "6642f63667f5cb56a00662eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Zastava M19 7.62x39 10 inch barrel",
+        "shortName": "M19 10\"",
+        "description": "The Zastava M19 barrel is designed for optimal performance and accuracy, made from high-quality materials to ensure durability and reliability in various combat situations."
+      }
+    },
+  "addtoInventorySlots": [],
+  "addtoModSlots": false,
+  "modSlot": [
+      "mod_barrel"
+    ],
+    "fleaPriceRoubles": 26300,
+    "handbookPriceRoubles": 21000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "690a9521b92ab495d00df993": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 36820,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68e95e883eb804510c028a85": {
+    "itemTplToClone": "60658776f2cb2e02a42ace2b",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Zastava/zastava_barrel_small_fde.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "606587252535c57a13424cfd"
+      ],
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "Slots": [
+        {
+          "_id": "62c6dd965795677ad39019f6",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "2d354131a3d7dfa66a6b7d11",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7d693d5acfc43bca706a3d",
+                  "5a34fd2bc4a282329a73b4c5",
+                  "6065c6e7132d4d12c81fd8e1",
+                  "5d1f819086f7744b355c219b",
+                  "5dcbe965e4ed22586443a79d",
+                  "5d026791d7ad1a04a067ea63",
+                  "5dfa3cd1b33c0951220c079b",
+                  "5cdd7685d7f00c000f260ed2",
+                  "5c878e9d2e2216000f201903",
+                  "5d02677ad7ad1a04a15c0f95",
+                  "5bbdb8bdd4351e4502011460",
+                  "5cdd7693d7f00c0010373aa5",
+                  "607ffb988900dc2d9a55b6e4",
+                  "615d8eb350224f204c1da1cf",
+                  "5d443f8fa4b93678dd4a01aa",
+                  "5c7954d52e221600106f4cc7",
+                  "5fbc22ccf24b94483f726483",
+                  "59bffc1f86f77435b128b872",
+                  "5cf78496d7f00c065703d6ca",
+                  "5fbe7618d6fa9c00c571bb6c",
+                  "618178aa1cb55961fa0fdc80",
+                  "628a66b41d5e41750e314f34",
+                  "6130c43c67085e45ef1405a1",
+                  "612e0e3c290d254f5e6b291d",
+                  "6642f63667f5cb56a00662eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Zastava M19 7.62x39 10 inch barrel (FDE)",
+        "shortName": "Zastava M19",
+        "description": "The Zastava M19 barrel is designed for optimal performance and accuracy, made from high-quality materials to ensure durability and reliability in various combat situations. FDE (Flat Dark Earth) color variant."
+      }
+    },
+  "addtoInventorySlots": [],
+  "addtoModSlots": false,
+  "modSlot": [
+      "mod_barrel"
+    ],
+    "fleaPriceRoubles": 26300,
+    "handbookPriceRoubles": 21000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "690a9521b92ab495d00df994": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 36820,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  }
+}

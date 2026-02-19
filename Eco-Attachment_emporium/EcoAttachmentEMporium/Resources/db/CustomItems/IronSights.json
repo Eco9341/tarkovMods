@@ -1,0 +1,1738 @@
+{
+  "68b4b24e27658b8b0d024399": {
+    "itemTplToClone": "5bc09a30d4351e00367fb7c8",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/VLTOR_CASV_M4/tar21frontsight.bundle",
+        "rcid": ""
+      },
+      "Slots": [],
+      "ExaminedByDefault": true,
+      "Ergonomics": 2,
+      "Weight": 0.1
+    },
+    "locales": {
+      "en": {
+        "name": "RexTac TAR-21 Front Sight",
+        "shortName": "TAR F",
+        "description": "Custom Troy A-frame style front sight."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_sight_front"
+    ],
+    "fleaPriceRoubles": 8250,
+    "handbookPriceRoubles": 4699,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3000
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "690a9521b92ab495d00df930": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 8200,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68b4b24e27658b8b0d02439a": {
+    "itemTplToClone": "5bc09a18d4351e003562b68e",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/VLTOR_CASV_M4/tar21rearsight.bundle",
+        "rcid": ""
+      },
+      "Slots": [],
+      "ExaminedByDefault": true,
+      "Ergonomics": 2,
+      "Weight": 0.1
+    },
+    "locales": {
+      "en": {
+        "name": "RexTac TAR-21 Rear Sight",
+        "shortName": "TAR R",
+        "description": "Rear iron sight that looks like it was made by Troy. However the aperture is very wide, probably because 'Peep sights work in real life, not in games'"
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_sight_rear"
+    ],
+    "fleaPriceRoubles": 8250,
+    "handbookPriceRoubles": 4699,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3000
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "690a9521b92ab495d00df931": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 8200,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68b4b24e27658b8b0d02439b": {
+    "itemTplToClone": "5bc09a30d4351e00367fb7c8",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/VLTOR_CASV_M4/tar21frontsightfde.bundle",
+        "rcid": ""
+      },
+      "Slots": [],
+      "ExaminedByDefault": true,
+      "Ergonomics": 2,
+      "Weight": 0.1
+    },
+    "locales": {
+      "en": {
+        "name": "RexTac TAR-21 Front Sight FDE",
+        "shortName": "TAR F",
+        "description": "Custom Troy A-frame style front sight."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_sight_front"
+    ],
+    "fleaPriceRoubles": 8250,
+    "handbookPriceRoubles": 4699,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3000
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "690a9521b92ab495d00df932": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 8200,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68b4b24e27658b8b0d0243a1": {
+    "itemTplToClone": "5bc09a18d4351e003562b68e",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/VLTOR_CASV_M4/tar21rearsightfde.bundle",
+        "rcid": ""
+      },
+      "Slots": [],
+      "ExaminedByDefault": true,
+      "Ergonomics": 2,
+      "Weight": 0.1
+    },
+    "locales": {
+      "en": {
+        "name": "RexTac TAR-21 Rear Sight FDE",
+        "shortName": "TAR R",
+        "description": "Rear iron sight that looks like it was made by Troy. However the aperture is very wide, probably because 'Peep sights work in real life, not in games'"
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_sight_rear"
+    ],
+    "fleaPriceRoubles": 8250,
+    "handbookPriceRoubles": 4699,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3000
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "690a9521b92ab495d00df933": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 8200,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68c6e7ae55918f7c4f044d53": {
+    "itemTplToClone": "5bc09a18d4351e003562b68e",
+    "parentId": "55818ad54bdc2ddc698b4569",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/IronSights/sidewinder_back.bundle",
+        "rcid": ""
+      },
+      "Slots": [],
+      "ExaminedByDefault": true,
+      "Ergonomics": 3,
+      "Weight": 0.11,
+      "sightModType": "iron"
+    },
+    "locales": {
+      "en": {
+        "name": "Strike Industries Sidewinder Rear Sight",
+        "shortName": "WIND",
+        "description": "The Sidewinder 2 is the next evolution of our wildly successful Sidewinder back-up iron sights. After receiving feedback from competition shooters and military personnel in the field, the sights have been upgraded to easily handle not only 5.56 but larger calibers as well as harsher environments. Keeping our same design concept, the Sidewinders offer the on the go option for 45 degree offset or traditional in line capabilities. all in one package."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_sight_rear"
+    ],
+    "fleaPriceRoubles": 12500,
+    "handbookPriceRoubles": 7499,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "690a9521b92ab495d00df934": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 12000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68c6e7ae55918f7c4f044d54": {
+    "itemTplToClone": "5bc09a18d4351e003562b68e",
+    "parentId": "55818ad54bdc2ddc698b4569",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/IronSights/sidewinder_back_red.bundle",
+        "rcid": ""
+      },
+      "Slots": [],
+      "ExaminedByDefault": true,
+      "Ergonomics": 3,
+      "Weight": 0.11,
+      "sightModType": "iron"
+    },
+    "locales": {
+      "en": {
+        "name": "Strike Industries Sidewinder Rear Sight (Red)",
+        "shortName": "WIND",
+        "description": "The Sidewinder 2 is the next evolution of our wildly successful Sidewinder back-up iron sights. After receiving feedback from competition shooters and military personnel in the field, the sights have been upgraded to easily handle not only 5.56 but larger calibers as well as harsher environments. Keeping our same design concept, the Sidewinders offer the on the go option for 45 degree offset or traditional in line capabilities. all in one package."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_sight_rear"
+    ],
+    "fleaPriceRoubles": 12500,
+    "handbookPriceRoubles": 7499,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "690a9521b92ab495d00df935": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 12000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68c6e7ae55918f7c4f044d55": {
+    "itemTplToClone": "5bc09a30d4351e00367fb7c8",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/IronSights/sidewinder_front.bundle",
+        "rcid": ""
+      },
+      "Slots": [],
+      "ExaminedByDefault": true,
+      "Ergonomics": 3,
+      "Weight": 0.11,
+      "sightModType": "iron"
+    },
+    "locales": {
+      "en": {
+        "name": "Strike Industries Sidewinder Front Sight",
+        "shortName": "WIND",
+        "description": "The Sidewinder 2 is the next evolution of our wildly successful Sidewinder back-up iron sights. After receiving feedback from competition shooters and military personnel in the field, the sights have been upgraded to easily handle not only 5.56 but larger calibers as well as harsher environments. Keeping our same design concept, the Sidewinders offer the on the go option for 45 degree offset or traditional in line capabilities. all in one package."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_sight_front"
+    ],
+    "fleaPriceRoubles": 12500,
+    "handbookPriceRoubles": 7499,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "690a9521b92ab495d00df936": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 12000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68c72885cac1ff3d420fceb0": {
+    "itemTplToClone": "5bc09a30d4351e00367fb7c8",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/IronSights/sidewinder_front_red.bundle",
+        "rcid": ""
+      },
+      "Slots": [],
+      "ExaminedByDefault": true,
+      "Ergonomics": 3,
+      "Weight": 0.11,
+      "sightModType": "iron"
+    },
+    "locales": {
+      "en": {
+        "name": "Strike Industries Sidewinder Front Sight (Red)",
+        "shortName": "WIND",
+        "description": "The Sidewinder 2 is the next evolution of our wildly successful Sidewinder back-up iron sights. After receiving feedback from competition shooters and military personnel in the field, the sights have been upgraded to easily handle not only 5.56 but larger calibers as well as harsher environments. Keeping our same design concept, the Sidewinders offer the on the go option for 45 degree offset or traditional in line capabilities. all in one package."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_sight_front"
+    ],
+    "fleaPriceRoubles": 12500,
+    "handbookPriceRoubles": 7499,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "690a9521b92ab495d00df937": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 12000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68c72885cac1ff3d420fceaf": {
+    "itemTplToClone": "5bc09a30d4351e00367fb7c8",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/IronSights/sidewinder_front_folded.bundle",
+        "rcid": ""
+      },
+      "Slots": [],
+      "ExaminedByDefault": true,
+      "Ergonomics": 3,
+      "Weight": 0.11,
+      "sightModType": "iron"
+    },
+    "locales": {
+      "en": {
+        "name": "Strike Industries Sidewinder Front Sight Folded",
+        "shortName": "WIND",
+        "description": "The Sidewinder 2 is the next evolution of our wildly successful Sidewinder back-up iron sights. After receiving feedback from competition shooters and military personnel in the field, the sights have been upgraded to easily handle not only 5.56 but larger calibers as well as harsher environments. Keeping our same design concept, the Sidewinders offer the on the go option for 45 degree offset or traditional in line capabilities. all in one package. For some reason, this version seems to be stuck."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_sight_front"
+    ],
+    "fleaPriceRoubles": 12500,
+    "handbookPriceRoubles": 7499,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "690a9521b92ab495d00df938": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 8000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68c6e7ae55918f7c4f044d56": {
+    "itemTplToClone": "5bc09a30d4351e00367fb7c8",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/IronSights/sidewinder_front_red_folded.bundle",
+        "rcid": ""
+      },
+      "Slots": [],
+      "ExaminedByDefault": true,
+      "Ergonomics": 3,
+      "Weight": 0.11,
+      "sightModType": "iron"
+    },
+    "locales": {
+      "en": {
+        "name": "Strike Industries Sidewinder Front Sight (Red) Folded",
+        "shortName": "WIND",
+        "description": "The Sidewinder 2 is the next evolution of our wildly successful Sidewinder back-up iron sights. After receiving feedback from competition shooters and military personnel in the field, the sights have been upgraded to easily handle not only 5.56 but larger calibers as well as harsher environments. Keeping our same design concept, the Sidewinders offer the on the go option for 45 degree offset or traditional in line capabilities. all in one package. For some reason, this version seems to be stuck."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_sight_front"
+    ],
+    "fleaPriceRoubles": 12500,
+    "handbookPriceRoubles": 7499,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "690a9521b92ab495d00df939": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 8000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68c72885cac1ff3d420fceb1": {
+    "itemTplToClone": "5bc09a18d4351e003562b68e",
+    "parentId": "55818ad54bdc2ddc698b4569",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/IronSights/sidewinder_back_folded.bundle",
+        "rcid": ""
+      },
+      "Slots": [],
+      "ExaminedByDefault": true,
+      "Ergonomics": 3,
+      "Weight": 0.11,
+      "sightModType": "iron"
+    },
+    "locales": {
+      "en": {
+        "name": "Strike Industries Sidewinder Rear Sight Folded",
+        "shortName": "WIND",
+        "description": "The Sidewinder 2 is the next evolution of our wildly successful Sidewinder back-up iron sights. After receiving feedback from competition shooters and military personnel in the field, the sights have been upgraded to easily handle not only 5.56 but larger calibers as well as harsher environments. Keeping our same design concept, the Sidewinders offer the on the go option for 45 degree offset or traditional in line capabilities. all in one package. For some reason, this version seems to be stuck."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_sight_rear"
+    ],
+    "fleaPriceRoubles": 12500,
+    "handbookPriceRoubles": 7499,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "690a9521b92ab495d00df93a": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 8000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68c72885cac1ff3d420fceb2": {
+    "itemTplToClone": "5bc09a18d4351e003562b68e",
+    "parentId": "55818ad54bdc2ddc698b4569",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/IronSights/sidewinder_back_folded_red.bundle",
+        "rcid": ""
+      },
+      "Slots": [],
+      "ExaminedByDefault": true,
+      "Ergonomics": 3,
+      "Weight": 0.11,
+      "sightModType": "iron"
+    },
+    "locales": {
+      "en": {
+        "name": "Strike Industries Sidewinder Rear Sight (Red) Folded",
+        "shortName": "WIND",
+        "description": "The Sidewinder 2 is the next evolution of our wildly successful Sidewinder back-up iron sights. After receiving feedback from competition shooters and military personnel in the field, the sights have been upgraded to easily handle not only 5.56 but larger calibers as well as harsher environments. Keeping our same design concept, the Sidewinders offer the on the go option for 45 degree offset or traditional in line capabilities. all in one package. For some reason, this version seems to be stuck."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_sight_rear"
+    ],
+    "fleaPriceRoubles": 12500,
+    "handbookPriceRoubles": 7499,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "690a9521b92ab495d00df93b": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 8000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68c734bdcac1ff3d420fceb3": {
+    "itemTplToClone": "5bc09a30d4351e00367fb7c8",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/IronSights/sidewinder_front_fde_folded.bundle",
+        "rcid": ""
+      },
+      "Slots": [],
+      "ExaminedByDefault": true,
+      "Ergonomics": 3,
+      "Weight": 0.11,
+      "sightModType": "iron"
+    },
+    "locales": {
+      "en": {
+        "name": "Strike Industries Sidewinder Front Sight (FDE) Folded",
+        "shortName": "WIND",
+        "description": "The Sidewinder 2 is the next evolution of our wildly successful Sidewinder back-up iron sights. After receiving feedback from competition shooters and military personnel in the field, the sights have been upgraded to easily handle not only 5.56 but larger calibers as well as harsher environments. Keeping our same design concept, the Sidewinders offer the on the go option for 45 degree offset or traditional in line capabilities. all in one package. For some reason, this version seems to be stuck."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_sight_front"
+    ],
+    "fleaPriceRoubles": 12500,
+    "handbookPriceRoubles": 7499,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "690a9521b92ab495d00df93c": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 8000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68c734bdcac1ff3d420fceb4": {
+    "itemTplToClone": "5bc09a18d4351e003562b68e",
+    "parentId": "55818ad54bdc2ddc698b4569",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/IronSights/sidewinder_back_folded_fde.bundle",
+        "rcid": ""
+      },
+      "Slots": [],
+      "ExaminedByDefault": true,
+      "Ergonomics": 3,
+      "Weight": 0.11,
+      "sightModType": "iron"
+    },
+    "locales": {
+      "en": {
+        "name": "Strike Industries Sidewinder Rear Sight (FDE) Folded",
+        "shortName": "WIND",
+        "description": "The Sidewinder 2 is the next evolution of our wildly successful Sidewinder back-up iron sights. After receiving feedback from competition shooters and military personnel in the field, the sights have been upgraded to easily handle not only 5.56 but larger calibers as well as harsher environments. Keeping our same design concept, the Sidewinders offer the on the go option for 45 degree offset or traditional in line capabilities. all in one package. For some reason, this version seems to be stuck."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_sight_rear"
+    ],
+    "fleaPriceRoubles": 12500,
+    "handbookPriceRoubles": 7499,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "690a9521b92ab495d00df93d": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 8000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68c734bdcac1ff3d420fceb5": {
+    "itemTplToClone": "5bc09a18d4351e003562b68e",
+    "parentId": "55818ad54bdc2ddc698b4569",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/IronSights/sidewinder_back_fde.bundle",
+        "rcid": ""
+      },
+      "Slots": [],
+      "ExaminedByDefault": true,
+      "Ergonomics": 3,
+      "Weight": 0.11,
+      "sightModType": "iron"
+    },
+    "locales": {
+      "en": {
+        "name": "Strike Industries Sidewinder Rear Sight (FDE)",
+        "shortName": "WIND",
+        "description": "The Sidewinder 2 is the next evolution of our wildly successful Sidewinder back-up iron sights. After receiving feedback from competition shooters and military personnel in the field, the sights have been upgraded to easily handle not only 5.56 but larger calibers as well as harsher environments. Keeping our same design concept, the Sidewinders offer the on the go option for 45 degree offset or traditional in line capabilities. all in one package."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_sight_rear"
+    ],
+    "fleaPriceRoubles": 12500,
+    "handbookPriceRoubles": 7499,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "690a9521b92ab495d00df93e": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 12000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68c734bdcac1ff3d420fceb6": {
+    "itemTplToClone": "5bc09a30d4351e00367fb7c8",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/IronSights/sidewinder_front_fde.bundle",
+        "rcid": ""
+      },
+      "Slots": [],
+      "ExaminedByDefault": true,
+      "Ergonomics": 3,
+      "Weight": 0.11,
+      "sightModType": "iron"
+    },
+    "locales": {
+      "en": {
+        "name": "Strike Industries Sidewinder Front Sight (FDE)",
+        "shortName": "WIND",
+        "description": "The Sidewinder 2 is the next evolution of our wildly successful Sidewinder back-up iron sights. After receiving feedback from competition shooters and military personnel in the field, the sights have been upgraded to easily handle not only 5.56 but larger calibers as well as harsher environments. Keeping our same design concept, the Sidewinders offer the on the go option for 45 degree offset or traditional in line capabilities. all in one package."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_sight_front"
+    ],
+    "fleaPriceRoubles": 12500,
+    "handbookPriceRoubles": 7499,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "690a9521b92ab495d00df93f": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 12000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6953fb73a080184e990e0530": {
+    "itemTplToClone": "5bc09a18d4351e003562b68e",
+    "parentId": "55818ad54bdc2ddc698b4569",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/IronSights/hk_canted_rear.bundle",
+        "rcid": ""
+      },
+      "Slots": [],
+      "ExaminedByDefault": true,
+      "Ergonomics": 2,
+      "Weight": 0.098,
+      "sightModType": "iron"
+    },
+    "locales": {
+      "en": {
+        "name": "ERATAC® Rear Sight",
+        "shortName": "ERATAC",
+        "description": "The ERATAC® backup-sight has been expertly designed to provide a durable and reliable sight that can endure the toughest conditions while maintaining the precision required for competitive shooting. Its innovative construction combines essential steel components with high-grade aluminum, resulting in a sight that features a minimalistic design, lightweight structure, and low profile."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_sight_rear"
+    ],
+    "fleaPriceRoubles": 12500,
+    "handbookPriceRoubles": 7499,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "6953fb73a080184e990e0531": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 12000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6953fb73a080184e990e0532": {
+    "itemTplToClone": "5bc09a30d4351e00367fb7c8",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/IronSights/hk_canted_front.bundle",
+        "rcid": ""
+      },
+      "Slots": [],
+      "ExaminedByDefault": true,
+      "Ergonomics": 2,
+      "Weight": 0.098,
+      "sightModType": "iron"
+    },
+    "locales": {
+      "en": {
+        "name": "ERATAC® Front Sight",
+        "shortName": "ERATAC",
+        "description": "The ERATAC® backup-sight has been expertly designed to provide a durable and reliable sight that can endure the toughest conditions while maintaining the precision required for competitive shooting. Its innovative construction combines essential steel components with high-grade aluminum, resulting in a sight that features a minimalistic design, lightweight structure, and low profile."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_sight_front"
+    ],
+    "fleaPriceRoubles": 12500,
+    "handbookPriceRoubles": 7499,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "6953fb73a080184e990e0533": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 12000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6953fce4a080184e990e0534": {
+    "itemTplToClone": "5bc09a18d4351e003562b68e",
+    "parentId": "55818ad54bdc2ddc698b4569",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/IronSights/hk_canted_rear_fde.bundle",
+        "rcid": ""
+      },
+      "Slots": [],
+      "ExaminedByDefault": true,
+      "Ergonomics": 2,
+      "Weight": 0.098,
+      "sightModType": "iron"
+    },
+    "locales": {
+      "en": {
+        "name": "ERATAC® Rear Sight FDE",
+        "shortName": "ERATAC",
+        "description": "The ERATAC® backup-sight has been expertly designed to provide a durable and reliable sight that can endure the toughest conditions while maintaining the precision required for competitive shooting. Its innovative construction combines essential steel components with high-grade aluminum, resulting in a sight that features a minimalistic design, lightweight structure, and low profile."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_sight_rear"
+    ],
+    "fleaPriceRoubles": 12500,
+    "handbookPriceRoubles": 7499,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "6953fce4a080184e990e0535": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 12000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6953fce4a080184e990e0536": {
+    "itemTplToClone": "5bc09a30d4351e00367fb7c8",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/IronSights/hk_canted_front_fde.bundle",
+        "rcid": ""
+      },
+      "Slots": [],
+      "ExaminedByDefault": true,
+      "Ergonomics": 2,
+      "Weight": 0.098,
+      "sightModType": "iron"
+    },
+    "locales": {
+      "en": {
+        "name": "ERATAC® Front Sight FDE",
+        "shortName": "ERATAC",
+        "description": "The ERATAC® backup-sight has been expertly designed to provide a durable and reliable sight that can endure the toughest conditions while maintaining the precision required for competitive shooting. Its innovative construction combines essential steel components with high-grade aluminum, resulting in a sight that features a minimalistic design, lightweight structure, and low profile."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_sight_front"
+    ],
+    "fleaPriceRoubles": 12500,
+    "handbookPriceRoubles": 7499,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "6953fce4a080184e990e0537": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 12000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  }
+}

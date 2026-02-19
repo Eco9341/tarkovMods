@@ -1,0 +1,246 @@
+{
+  "68bd7b4d8ce7029b6409b4a2": {
+    "itemTplToClone": "5c064c400db834001d23f468",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Anaconda_Riser/anaconda_picatinny_riser.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.085,
+      "Accuracy": 2,
+      "ExtraSizeUp": 2,
+      "Conflictingitems": [],
+      "Slots": [
+        {
+          "_name": "mod_scope",
+          "_id": "006c68f92a368d4b93703de9",
+          "_parent": "2e681ada9836f6e030080191",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "6165ac8c290d254f5e6b2f6c",
+                  "584984812459776a704a82a6",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "609bab8b455afd752b2e6138",
+                  "58d39d3d86f77445bb794ae7",
+                  "616554fe50224f204c1da2aa",
+                  "615d8d878004cc50514c3233",
+                  "577d128124597739d65d0e56",
+                  "58d2664f86f7747fec5834f6",
+                  "61714b2467085e45ef140b2c",
+                  "5b31163c5acfc400153b71cb",
+                  "5a33b652c4a28232996e407c",
+                  "5a33b2c9c4a282000c5a9511"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Anaconda Picatinny Riser",
+        "shortName": "ANACONDA",
+        "description": "Joke Riser made by Anaconda Arms. Designed to raise the sight line of rifles and other weapons with low-mounted optics. Made from lightweight aluminum alloy, it is both durable and corrosion-resistant. The riser features a Picatinny rail on top, allowing for easy attachment of various optics and accessories. Its sleek design ensures minimal added weight, making it an ideal choice for enhancing your rifle's performance without compromising maneuverability."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_scope",
+      "mod_scope_000",
+      "mod_scope_001"
+    ],
+    "fleaPriceRoubles": 14300,
+    "handbookPriceRoubles": 2900,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2000
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "690a9521b92ab495d00df8c6": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3950,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68bd7b4d8ce7029b6409b4a3": {
+    "itemTplToClone": "5c064c400db834001d23f468",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Anaconda_Riser/anaconda_picatinny_riser_fde.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.085,
+      "Accuracy": 2,
+      "ExtraSizeUp": 2,
+      "Conflictingitems": [],
+      "Slots": [
+        {
+          "_name": "mod_scope",
+          "_id": "006c68f92a368d4b93703de9",
+          "_parent": "2e681ada9836f6e030080191",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "6165ac8c290d254f5e6b2f6c",
+                  "584984812459776a704a82a6",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "609bab8b455afd752b2e6138",
+                  "58d39d3d86f77445bb794ae7",
+                  "616554fe50224f204c1da2aa",
+                  "615d8d878004cc50514c3233",
+                  "577d128124597739d65d0e56",
+                  "58d2664f86f7747fec5834f6",
+                  "61714b2467085e45ef140b2c",
+                  "5b31163c5acfc400153b71cb",
+                  "5a33b652c4a28232996e407c",
+                  "5a33b2c9c4a282000c5a9511"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Anaconda Picatinny Riser (FDE)",
+        "shortName": "ANACONDA",
+        "description": "Joke Riser made by Anaconda Arms. Designed to raise the sight line of rifles and other weapons with low-mounted optics. Made from lightweight aluminum alloy, it is both durable and corrosion-resistant. The riser features a Picatinny rail on top, allowing for easy attachment of various optics and accessories. Its sleek design ensures minimal added weight, making it an ideal choice for enhancing your rifle's performance without compromising maneuverability. FDE Color."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_scope",
+      "mod_scope_000",
+      "mod_scope_001"
+    ],
+    "fleaPriceRoubles": 14300,
+    "handbookPriceRoubles": 2900,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2000
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "690a9521b92ab495d00df8c7": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3950,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  }
+}

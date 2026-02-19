@@ -1,0 +1,80 @@
+{
+  "68cf3ff71ba9b90c5b08665c": {
+    "itemTplToClone": "66012d64c752a02bbe05e69b",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/M60A3_Kit/m60a3_handguard.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "Weight": -0.5,
+      "Ergonomics": 7
+    },
+    "locales": {
+      "en": {
+        "name": "M60A3 Handguard",
+        "shortName": "A3",
+        "description": "M60A3 handguard, It included a forward pistol grip. Provides better heat dissipation and reduces the overall weight of the weapon."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "fleaPriceRoubles": 12000,
+    "handbookPriceRoubles": 5000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 9
+      }
+    ],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "690a9521b92ab495d00df948": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 20430,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

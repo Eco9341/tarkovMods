@@ -1,0 +1,787 @@
+{
+  "6992dc7e206da73f74008a8b": {
+    "itemTplToClone": "59984ab886f7743e98271174",
+    "parentId": "5447b5e04bdc2d62278b4567",
+    "handbookParentId": "5b5f796a86f774093f2ed3c0",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/VPO185/weapon_vpo185_container.bundle",
+        "rcid": ""
+      },
+        "Foldable": false,
+        "Ergonomics": 38,
+        "Weight": 1.4,
+        "Slots": [
+        {
+            "_name": "mod_pistol_grip",
+            "_id": "59985d9386f7742a0913990a",
+            "_parent": "59984ab886f7743e98271174",
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "6992dc7e206da73f74008a8d"
+                ],
+                "Shift": 0
+                }
+            ]
+            },
+            "_required": true,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_stock_001",
+            "_id": "59985e2686f77427a674c43e",
+            "_parent": "59984ab886f7743e98271174",
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "6992f2d2206da73f74008a90"
+                ],
+                "Shift": 0
+                }
+            ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_magazine",
+            "_id": "59985e5086f77427a674c448",
+            "_parent": "59984ab886f7743e98271174",
+            "_props": {
+            "filters": [
+                {
+                "AnimationIndex": -1,
+                "Filter": [
+                    "5998529a86f774647f44f421",
+                    "599860ac86f77436b225ed1a",
+                    "5c0673fb0db8340023300271",
+                    "5c0672ed0db834001b7353f3",
+                    "6749c40822a2740bb408d066",
+                    "6992f2d2206da73f74008a92"
+                ]
+                }
+            ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c394bdc2dae468b4577"
+        },
+        {
+            "_name": "mod_muzzle",
+            "_id": "59985e8f86f77427a674c44d",
+            "_parent": "59984ab886f7743e98271174",
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "5998597786f77414ea6da093",
+                    "5998598e86f7740b3f498a86",
+                    "59bffc1f86f77435b128b872",
+                    "5a9fb739a2750c003215717f",
+                    "5c6165902e22160010261b28",
+                    "5a32a064c4a28200741e22de",
+                    "59bfc5c886f7743bf6794e62",
+                    "69932eb32acba6fa1005b328"
+                ],
+                "Shift": 0
+                }
+            ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_sight_rear",
+            "_id": "5c0e2f26d174af02a9625119",
+            "_parent": "5c0e2f26d174af02a9625114",
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "5bb20e49d4351e3bac1212de",
+                    "5ba26b17d4351e00367f9bdd",
+                    "5dfa3d7ac41b2312ea33362a",
+                    "5c1780312e221602b66cc189",
+                    "5fb6564947ce63734e3fa1da",
+                    "5bc09a18d4351e003562b68e",
+                    "5c18b9192e2216398b5a8104",
+                    "5fc0fa957283c4046c58147e",
+                    "5894a81786f77427140b8347",
+                    "55d5f46a4bdc2d1b198b4567",
+                    "5ae30bad5acfc400185c2dc4"
+                ],
+                "Shift": 0
+                }
+            ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_scope_000",
+            "_id": "5c0e2f26d174af02a9625116",
+            "_parent": "5c0e2f26d174af02a9625114",
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "57ac965c24597706be5f975c",
+                    "57aca93d2459771f2c7e26db",
+                    "544a3f024bdc2d1d388b4568",
+                    "544a3a774bdc2d3a388b4567",
+                    "5d2dc3e548f035404a1a4798",
+                    "57adff4f24597737f373b6e6",
+                    "5c0517910db83400232ffee5",
+                    "591c4efa86f7741030027726",
+                    "570fd79bd2720bc7458b4583",
+                    "570fd6c2d2720bc6458b457f",
+                    "558022b54bdc2dac148b458d",
+                    "5c07dd120db834001c39092d",
+                    "5c0a2cec0db834001b7ce47d",
+                    "58491f3324597764bc48fa02",
+                    "584924ec24597768f12ae244",
+                    "5b30b0dc5acfc400153b7124",
+                    "6165ac8c290d254f5e6b2f6c",
+                    "60a23797a37c940de7062d02",
+                    "5d2da1e948f035477b1ce2ba",
+                    "5c0505e00db834001b735073",
+                    "609a63b6e2ff132951242d09",
+                    "584984812459776a704a82a6",
+                    "59f9d81586f7744c7506ee62",
+                    "570fd721d2720bc5458b4596",
+                    "57ae0171245977343c27bfcf",
+                    "5dfe6104585a0c3e995c7b82",
+                    "544a3d0a4bdc2d1b388b4567",
+                    "5d1b5e94d7ad1a2b865a96b0",
+                    "609bab8b455afd752b2e6138",
+                    "58d39d3d86f77445bb794ae7",
+                    "616554fe50224f204c1da2aa",
+                    "5c7d55f52e221644f31bff6a",
+                    "616584766ef05c2ce828ef57",
+                    "5b3b6dc75acfc47a8773fb1e",
+                    "615d8d878004cc50514c3233",
+                    "5b2389515acfc4771e1be0c0",
+                    "577d128124597739d65d0e56",
+                    "618b9643526131765025ab35",
+                    "618bab21526131765025ab3f",
+                    "5c86592b2e2216000e69e77c",
+                    "5a37ca54c4a282000d72296a",
+                    "5d0a29fed7ad1a002769ad08",
+                    "5c064c400db834001d23f468",
+                    "58d2664f86f7747fec5834f6",
+                    "57c69dd424597774c03b7bbc",
+                    "5b3b99265acfc4704b4a1afb",
+                    "5aa66a9be5b5b0214e506e89",
+                    "5aa66c72e5b5b00016327c93",
+                    "5c1cdd302e221602b3137250",
+                    "61714b2467085e45ef140b2c",
+                    "6171407e50224f204c1da3c5",
+                    "61713cc4d8e3106d9806c109",
+                    "5b31163c5acfc400153b71cb",
+                    "5a33b652c4a28232996e407c",
+                    "5a33b2c9c4a282000c5a9511",
+                    "59db7eed86f77461f8380365",
+                    "5a1ead28fcdbcb001912fa9f",
+                    "5dff77c759400025ea5150cf",
+                    "626bb8532c923541184624b4",
+                    "62811f461d5df4475f46a332",
+                    "63fc449f5bd61c6cf3784a88",
+                    "6477772ea8a38bb2050ed4db",
+                    "6478641c19d732620e045e17",
+                    "64785e7c19d732620e045e15",
+                    "65392f611406374f82152ba5",
+                    "653931da5db71d30ab1d6296",
+                    "655f13e0a246670fb0373245",
+                    "6567e751a715f85433025998",
+                    "6761759e7ee06333f108bf86",
+                    "67641a851b2899700609901a"
+                ],
+                "Shift": 0
+                }
+            ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_foregrip",
+            "_id": "5ea16ada09aa976f2e7a51c5",
+            "_parent": "5ea16ada09aa976f2e7a51be",
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "57cffb66245977632f391a99",
+                    "57cffcd624597763133760c5",
+                    "57cffcdd24597763f5110006",
+                    "57cffce524597763b31685d8",
+                    "5b7be4895acfc400170e2dd5",
+                    "651a8bf3a8520e48047bf708",
+                    "651a8e529829226ceb67c319",
+                    "665d5d9e338229cfd6078da1",
+                    "665edce564fb556f940ab32a"
+                ],
+                "Shift": 0
+                }
+            ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_sight_front",
+            "_id": "5ea16ada09aa976f2e7a51c6",
+            "_parent": "5ea16ada09aa976f2e7a51be",
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "5ba26b01d4351e0085325a51",
+                    "5dfa3d950dee1b22f862eae0",
+                    "5c17804b2e2216152006c02f",
+                    "5fb6567747ce63734e3fa1dc",
+                    "5bc09a30d4351e00367fb7c8",
+                    "5c18b90d2e2216152142466b",
+                    "5fc0fa362770a0045c59c677",
+                    "5894a73486f77426d259076c",
+                    "55d4af3a4bdc2d972f8b456f"
+                ],
+                "Shift": 0
+                }
+            ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_tactical_000",
+            "_id": "5ea16ada09aa976f2e7a51c0",
+            "_parent": "5ea16ada09aa976f2e7a51be",
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "5b7be47f5acfc400170e2dd2",
+                    "6269220d70b6c02e665f2635",
+                    "6269545d0e57f218e4548ca2",
+                    "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+                }
+            ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_tactical_001",
+            "_id": "5ea16ada09aa976f2e7a51c1",
+            "_parent": "5ea16ada09aa976f2e7a51be",
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "5b7be47f5acfc400170e2dd2",
+                    "6269220d70b6c02e665f2635",
+                    "6269545d0e57f218e4548ca2",
+                    "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+                }
+            ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_tactical",
+            "_id": "5ea16ada09aa976f2e7a51c3",
+            "_parent": "5ea16ada09aa976f2e7a51be",
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "57fd23e32459772d0805bcf1",
+                    "544909bb4bdc2d6f028b4577",
+                    "5d10b49bd7ad1a1a560708b0",
+                    "5c06595c0db834001a66af6c",
+                    "5a7b483fe899ef0016170d15",
+                    "61605d88ffa6e502ac5e7eeb",
+                    "5c5952732e2216398b5abda2",
+                    "644a3df63b0b6f03e101e065"
+                ],
+                "Shift": 0
+                }
+            ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+        ],
+        "weapFireType": [
+        "single"
+        ]
+    },
+    "locales": {
+      "en": {
+        "name": "Molot VPO-185 9x19mm carbine",
+        "shortName": "VPO-185",
+        "description": "The Molot VPO-185 carbine was first announced in 2019, and it sales in Russia commenced in early 2021. Developed by the Molot Oruzhie Ltd in the city of Vyatskye Polyany, this pistol caliber carbine is suitable mostly for plinking or home defense. A dedicated “IPSC PCC special” version of this carbine is still in the works at the moment of this writing (February 2021). It seems that original intent was to produce a less expensive competitor to the highly popular Saiga-9 pistol caliber carbine by Kalashnikov group, but initial pricing for the VPO-185 is very close to that of Saiga-9."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 29743,
+    "handbookPriceRoubles": 17361,
+    "addtoTraders": false,
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+          {
+            "_id": "699623c85de7079d74792406",
+            "_type": "Preset",
+            "_changeWeaponName": false,
+            "_name": "VPO 185",
+            "_parent": "699623c85de7079d74792407",
+            "_items": [
+              {
+                "_id": "699623c85de7079d74792407",
+                "_tpl": "6992dc7e206da73f74008a8b",
+                "upd": {
+                  "Repairable": {
+                    "Durability": 100,
+                    "MaxDurability": 100
+                  },
+                  "FireMode": {
+                    "FireMode": "single"
+                  }
+                }
+              },
+              {
+                "_id": "699623c45de7079d7479236f",
+                "_tpl": "6992dc7e206da73f74008a8d",
+                "parentId": "699623c85de7079d74792407",
+                "slotId": "mod_pistol_grip"
+              },
+              {
+                "_id": "699623c45de7079d74792370",
+                "_tpl": "6992f2d2206da73f74008a90",
+                "parentId": "699623c85de7079d74792407",
+                "slotId": "mod_stock_001"
+              },
+              {
+                "_id": "699623c45de7079d74792371",
+                "_tpl": "6992f2d2206da73f74008a92",
+                "parentId": "699623c85de7079d74792407",
+                "slotId": "mod_magazine"
+              },
+              {
+                "_id": "699623c45de7079d74792372",
+                "_tpl": "5998597786f77414ea6da093",
+                "parentId": "699623c85de7079d74792407",
+                "slotId": "mod_muzzle"
+              },
+              {
+                "_id": "699623c45de7079d74792373",
+                "_tpl": "5bc09a18d4351e003562b68e",
+                "parentId": "699623c85de7079d74792407",
+                "slotId": "mod_sight_rear",
+                "upd": {
+                  "Sight": {
+                    "ScopesCurrentCalibPointIndexes": [
+                      0
+                    ],
+                    "ScopesSelectedModes": [
+                      0
+                    ],
+                    "SelectedScope": 0,
+                    "ScopeZoomValue": 0
+                  }
+                }
+              },
+              {
+                "_id": "699623c45de7079d74792374",
+                "_tpl": "5bc09a30d4351e00367fb7c8",
+                "parentId": "699623c85de7079d74792407",
+                "slotId": "mod_sight_front",
+                "upd": {
+                  "Sight": {
+                    "ScopesCurrentCalibPointIndexes": [
+                      0
+                    ],
+                    "ScopesSelectedModes": [
+                      0
+                    ],
+                    "SelectedScope": 0,
+                    "ScopeZoomValue": 0
+                  }
+                }
+              },
+              {
+                "_id": "699623c45de7079d74792375",
+                "_tpl": "5649be884bdc2d79388b4577",
+                "parentId": "699623c45de7079d74792370",
+                "slotId": "mod_stock"
+              },
+              {
+                "_id": "699623c45de7079d74792376",
+                "_tpl": "602e620f9b513876d4338d9a",
+                "parentId": "699623c45de7079d74792375",
+                "slotId": "mod_stock_000"
+              }
+            ],
+            "_encyclopedia": "6992dc7e206da73f74008a8b"
+          }
+    ],
+    "traders": {
+      "PRAPOR": {
+        "6992dc7e206da73f74008a8c": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 27919,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": [],
+    "masterySections": [
+      {
+        "Level2": 175,
+        "Level3": 350,
+        "Name": "VPO-185",
+        "Templates": [
+          "6992dc7e206da73f74008a8b"
+        ]
+      }
+    ]
+  },
+  "6992dc7e206da73f74008a8d": {
+    "itemTplToClone": "5649ae4a4bdc2d1b2b8b4588",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/VPO185/vpo185_grip.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "VPO-185 Pistol Grip",
+        "shortName": "VPO-185",
+        "description": "The VPO-185 pistol grip is an ergonomic pistol grip for the Molot VPO-185 carbine."
+      }
+    },
+  "addtoInventorySlots": [],
+  "addtoModSlots": false,
+  "modSlot": [
+      "mod_pistol_grip"
+    ],
+    "fleaPriceRoubles": 2100,
+    "handbookPriceRoubles": 1300,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 9
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6992dc7e206da73f74008a8e": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 5000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+    ]
+  },
+  "6992f2d2206da73f74008a90": {
+    "itemTplToClone": "58ac1bf086f77420ed183f9f",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/VPO185/vpo185_stock_adapter.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "VPO-185 Stock Adapter",
+        "shortName": "VPO-185",
+        "description": "An adapter for the VPO-185 carbine stock."
+      }
+    },
+  "addtoInventorySlots": [],
+  "addtoModSlots": false,
+  "modSlot": [
+      "mod_stock"
+    ],
+    "fleaPriceRoubles": 2889,
+    "handbookPriceRoubles": 1700,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 9
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6992f2d2206da73f74008a91": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 6750,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+    ]
+  },
+  "6992f2d2206da73f74008a92": {
+    "itemTplToClone": "5c0672ed0db834001b7353f3",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/VPO185/vpo185_mag.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "VPO-185 30-round magazine",
+        "shortName": "VPO-185",
+        "description": "A 30-round magazine for the VPO-185 carbine."
+      }
+    },
+  "addtoInventorySlots": [],
+  "addtoModSlots": true,
+  "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 3350,
+    "handbookPriceRoubles": 1700,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 9
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6992f2d2206da73f74008a93": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 6198,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+    ]
+  },
+  "69932eb32acba6fa1005b328": {
+    "itemTplToClone": "5926d33d86f77410de68ebc0",
+    "parentId": "550aa4cd4bdc2dd8348b456c",
+    "handbookParentId": "5b5f731a86f774093e6cb4f9",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/VPO185/vpo185_silencer.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "VPO-185 9x19 sound suppressor",
+        "shortName": "VPO-185 9x19",
+        "description": "A sound suppressor for the VPO-185 carbine, chambered in 9x19mm Parabellum."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 21382,
+    "handbookPriceRoubles": 19472,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 98
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 98
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 98
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 98
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 98
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 98
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "69932eb32acba6fa1005b329": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 41253,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

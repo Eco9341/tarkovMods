@@ -1,0 +1,222 @@
+{
+  "69075ee9f4b1abd5ba0a1bb2": {
+    "itemTplToClone": "5b7be47f5acfc400170e2dd2",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Keymod/keymod_adapter.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_tactical",
+          "_id": "0a9d00f6e1c4f989c5c1cf31",
+          "_parent": "3bb492961679d189031bdf40",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5a9d6d00a2750c5c985b5305",
+                  "59e0bdb186f774156f04ce82",
+                  "59e0be5d86f7742d48765bd2",
+                  "623c2f652febb22c2777d8d7",
+                  "67111094d1758189fc0bd223"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Keymod Adapter for M-LOK Mounts (side)",
+        "shortName": "Keymod Adapter",
+        "description": "An adapter for mounting Keymod accessories onto M-LOK rails."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_tactical_001",
+      "mod_tactical_002",
+      "mod_tactical_003",
+      "mod_mount_000",
+      "mod_mount_001",
+      "mod_mount_002"
+    ],
+    "fleaPriceRoubles": 8420,
+    "handbookPriceRoubles": 1000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2800
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2800
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2800
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2800
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2800
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2800
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "690a9521b92ab495d00df940": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1200,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "69075ee9f4b1abd5ba0a1bb3": {
+    "itemTplToClone": "5b7be4895acfc400170e2dd5",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Keymod/keymod_adapter.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_foregrip",
+          "_id": "0a9d00f6e1c4f989c5c1cf31",
+          "_parent": "3bb492961679d189031bdf40",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "615d8fd3290d254f5e6b2edc",
+                  "5fc0f9b5d724d907e2077d82",
+                  "5fc0f9cbd6fa9c00c571bb90",
+                  "5a9d6d13a2750c00164f6b03",
+                  "59e0bed186f774156f04ce84",
+                  "623c2f4242aee3103f1c44b7"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Keymod Adapter for M-LOK Mounts (lower)",
+        "shortName": "Keymod Adapter",
+        "description": "An adapter for mounting Keymod accessories onto M-LOK rails."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 8420,
+    "handbookPriceRoubles": 1000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2800
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2800
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2800
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2800
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2800
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2800
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "690a9521b92ab495d00df941": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1200,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  }
+}

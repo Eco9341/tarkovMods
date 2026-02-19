@@ -1,0 +1,832 @@
+{
+  "68f2ccf08570c57d280acc22": {
+    "itemTplToClone": "661ceb1b9311543c7104149b",
+    "parentId": "5447bed64bdc2d97278b4568",
+    "handbookParentId": "5b5f79a486f77409407a7f94",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/M240/m240_container.bundle",
+        "rcid": ""
+      },
+      "RecoilForceBack": 200,
+      "Weight": 6.5,
+      "Slots": [
+        {
+          "_name": "mod_magazine",
+          "_id": "661ceb1b9311543c7104149c",
+          "_parent": "661ceb1b9311543c7104149b",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex": -1,
+                "Filter": [
+                  "660ea4453786cc0af808a1be"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c394bdc2dae468b4577"
+        },
+        {
+          "_name": "mod_barrel",
+          "_id": "661ceb1b9311543c7104149e",
+          "_parent": "661ceb1b9311543c7104149b",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68f6cbc3642aa0894f001493"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_handguard",
+          "_id": "661ceb1b9311543c7104149f",
+          "_parent": "661ceb1b9311543c7104149b",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68f6cbc3642aa0894f001495"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_sight_rear",
+          "_id": "661ceb1b9311543c710414a0",
+          "_parent": "661ceb1b9311543c7104149b",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68f6cbc3642aa0894f001498"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_pistolgrip_000",
+          "_id": "661ceb1b9311543c710414a1",
+          "_parent": "661ceb1b9311543c7104149b",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68f6cbc3642aa0894f001494"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_scope",
+          "_id": "66b3596cc8ba42098765c8b9",
+          "_parent": "661ceb1b9311543c7104149b",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57ac965c24597706be5f975c",
+                  "57aca93d2459771f2c7e26db",
+                  "544a3f024bdc2d1d388b4568",
+                  "544a3a774bdc2d3a388b4567",
+                  "5d2dc3e548f035404a1a4798",
+                  "57adff4f24597737f373b6e6",
+                  "5c0517910db83400232ffee5",
+                  "591c4efa86f7741030027726",
+                  "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f",
+                  "558022b54bdc2dac148b458d",
+                  "5c07dd120db834001c39092d",
+                  "5c0a2cec0db834001b7ce47d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "5c0505e00db834001b735073",
+                  "609a63b6e2ff132951242d09",
+                  "584984812459776a704a82a6",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "5d1b5e94d7ad1a2b865a96b0",
+                  "609bab8b455afd752b2e6138",
+                  "58d39d3d86f77445bb794ae7",
+                  "616554fe50224f204c1da2aa",
+                  "5c7d55f52e221644f31bff6a",
+                  "616584766ef05c2ce828ef57",
+                  "5b3b6dc75acfc47a8773fb1e",
+                  "615d8d878004cc50514c3233",
+                  "577d128124597739d65d0e56",
+                  "5c064c400db834001d23f468",
+                  "58d2664f86f7747fec5834f6",
+                  "5c1cdd302e221602b3137250",
+                  "61714b2467085e45ef140b2c",
+                  "5b31163c5acfc400153b71cb",
+                  "5a33b652c4a28232996e407c",
+                  "5a33b2c9c4a282000c5a9511",
+                  "59db7eed86f77461f8380365",
+                  "5a1ead28fcdbcb001912fa9f",
+                  "626bb8532c923541184624b4",
+                  "63fc449f5bd61c6cf3784a88",
+                  "6477772ea8a38bb2050ed4db",
+                  "6478641c19d732620e045e17",
+                  "64785e7c19d732620e045e15",
+                  "65392f611406374f82152ba5",
+                  "653931da5db71d30ab1d6296",
+                  "655f13e0a246670fb0373245",
+                  "62811f461d5df4475f46a332",
+                  "5b2389515acfc4771e1be0c0",
+                  "618b9643526131765025ab35",
+                  "618bab21526131765025ab3f",
+                  "5a37ca54c4a282000d72296a",
+                  "57c69dd424597774c03b7bbc",
+                  "5b3b99265acfc4704b4a1afb",
+                  "5aa66a9be5b5b0214e506e89",
+                  "5aa66c72e5b5b00016327c93",
+                  "6171407e50224f204c1da3c5",
+                  "61713cc4d8e3106d9806c109",
+                  "6567e751a715f85433025998",
+                  "5dff77c759400025ea5150cf",
+                  "5c86592b2e2216000e69e77c",
+                  "67641a851b2899700609901a"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "bFirerate": 750,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Barrett M240 LSW 7.62x51mm",
+        "shortName": "M240",
+        "description": "The Barrett M240 LSW is a lightweight, air-cooled, gas-operated, belt-fed machine gun. It is chambered in 7.62x51mm NATO and is designed for sustained fire in support of infantry operations."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 63423,
+    "handbookPriceRoubles": 45220,
+    "addtoTraders": false,
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+          {
+            "_id": "693ec87c6f778361045c4206",
+            "_type": "Preset",
+            "_changeWeaponName": false,
+            "_name": "M240LSW",
+            "_parent": "693ec87c6f778361045c4207",
+            "_items": [
+              {
+                "_id": "693ec87c6f778361045c4207",
+                "_tpl": "68f2ccf08570c57d280acc22",
+                "upd": {
+                  "Repairable": {
+                    "Durability": 100,
+                    "MaxDurability": 100
+                  },
+                  "FireMode": {
+                    "FireMode": "fullauto"
+                  }
+                }
+              },
+              {
+                "_id": "693ec87c6f778361045c4208",
+                "_tpl": "660ea4453786cc0af808a1be",
+                "parentId": "693ec87c6f778361045c4207",
+                "slotId": "mod_magazine"
+              },
+              {
+                "_id": "693ec87c6f778361045c4209",
+                "_tpl": "68f6cbc3642aa0894f001493",
+                "parentId": "693ec87c6f778361045c4207",
+                "slotId": "mod_barrel"
+              },
+              {
+                "_id": "693ec87c6f778361045c420a",
+                "_tpl": "68f6cbc3642aa0894f001495",
+                "parentId": "693ec87c6f778361045c4207",
+                "slotId": "mod_handguard"
+              },
+              {
+                "_id": "693ec87c6f778361045c420b",
+                "_tpl": "68f6cbc3642aa0894f001498",
+                "parentId": "693ec87c6f778361045c4207",
+                "slotId": "mod_sight_rear",
+                "upd": {
+                  "Sight": {
+                    "ScopesCurrentCalibPointIndexes": [
+                      0
+                    ],
+                    "ScopesSelectedModes": [
+                      0
+                    ],
+                    "SelectedScope": 0,
+                    "ScopeZoomValue": 0
+                  }
+                }
+              },
+              {
+                "_id": "693ec87c6f778361045c420c",
+                "_tpl": "68f6cbc3642aa0894f001494",
+                "parentId": "693ec87c6f778361045c4207",
+                "slotId": "mod_pistolgrip_000"
+              },
+              {
+                "_id": "693ec87c6f778361045c420d",
+                "_tpl": "5a34fd2bc4a282329a73b4c5",
+                "parentId": "693ec87c6f778361045c4209",
+                "slotId": "mod_muzzle"
+              },
+              {
+                "_id": "693ec87c6f778361045c420e",
+                "_tpl": "68f6cbc3642aa0894f001499",
+                "parentId": "693ec87c6f778361045c4209",
+                "slotId": "mod_sight_front",
+                "upd": {
+                  "Sight": {
+                    "ScopesCurrentCalibPointIndexes": [
+                      0
+                    ],
+                    "ScopesSelectedModes": [
+                      0
+                    ],
+                    "SelectedScope": 0,
+                    "ScopeZoomValue": 0
+                  }
+                }
+              }
+            ],
+            "_encyclopedia": "68f2ccf08570c57d280acc22"
+          }
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "690a9521b92ab495d00df942": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 73123,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": [],
+    "masterySections": [
+      {
+        "Level2": 150,
+        "Level3": 200,
+        "Name": "M60",
+        "Templates": [
+          "68f2ccf08570c57d280acc22"
+        ]
+      }
+    ]
+  },
+  "68f6cbc3642aa0894f001494": {
+    "itemTplToClone": "66152060a031cbb5570e3466",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/M240/m240_trigger.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "Barret M240 LSW 7.62x51 trigger group",
+        "shortName": "M240 trigger group",
+        "description": "The trigger group for the Barrett M240 LSW machine gun, essential for firing the weapon."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_pistolgrip_000"
+    ],
+    "fleaPriceRoubles": 7546,
+    "handbookPriceRoubles": 5432,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 35
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "690a9521b92ab495d00df943": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 118,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": []
+  },
+  "68f6cbc3642aa0894f001495": {
+    "itemTplToClone": "66012d003dff5074ed002e2c",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/M240/m240_handguard.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_tactical_000",
+          "_id": "687d1408fd9614d66983fe4b",
+          "_parent": "687d1376e117012beefbd6a7",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a9d6d00a2750c5c985b5305",
+                  "59e0bdb186f774156f04ce82",
+                  "59e0be5d86f7742d48765bd2",
+                  "623c2f652febb22c2777d8d7",
+                  "67111094d1758189fc0bd223"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical_001",
+          "_id": "687d14bf2a5895d58c8a57fd",
+          "_parent": "687d1376e117012beefbd6a7",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a9d6d00a2750c5c985b5305",
+                  "59e0bdb186f774156f04ce82",
+                  "59e0be5d86f7742d48765bd2",
+                  "623c2f652febb22c2777d8d7",
+                  "67111094d1758189fc0bd223"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_foregrip",
+          "_id": "687d152d0daf88c74f8c9d93",
+          "_parent": "687d1376e117012beefbd6a7",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "615d8fd3290d254f5e6b2edc",
+                  "5fc0f9b5d724d907e2077d82",
+                  "5fc0f9cbd6fa9c00c571bb90",
+                  "5a9d6d13a2750c00164f6b03",
+                  "59e0bed186f774156f04ce84",
+                  "623c2f4242aee3103f1c44b7",
+                  "665d5d9e338229cfd6078da1",
+                  "665edce564fb556f940ab32a",
+                  "68c48eb7c91390fb930e8d94",
+                  "68c48eb7c91390fb930e8d95"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Barret M240 LSW 7.62x51mm Keymod Handguard",
+        "shortName": "M240 Handguard",
+        "description": "A lightweight and durable handguard for the Barret M240 LSW, featuring Keymod attachment points."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 8567,
+    "handbookPriceRoubles": 6432,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "690a9521b92ab495d00df944": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 134,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "68f6cbc3642aa0894f001493": {
+    "itemTplToClone": "66225d88a1c7e3b81600c76f",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/M240/m240_barrel.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_muzzle",
+          "_id": "66225d88a1c7e3b81600c770",
+          "_parent": "66225d88a1c7e3b81600c76f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "612e0d3767085e45ef14057f",
+                  "5b7d693d5acfc43bca706a3d",
+                  "5a34fd2bc4a282329a73b4c5",
+                  "6065c6e7132d4d12c81fd8e1",
+                  "5d1f819086f7744b355c219b",
+                  "5dcbe965e4ed22586443a79d",
+                  "5d026791d7ad1a04a067ea63",
+                  "5dfa3cd1b33c0951220c079b",
+                  "6130c43c67085e45ef1405a1",
+                  "5cdd7685d7f00c000f260ed2",
+                  "5c878e9d2e2216000f201903",
+                  "5d02677ad7ad1a04a15c0f95",
+                  "5bbdb8bdd4351e4502011460",
+                  "5cdd7693d7f00c0010373aa5",
+                  "607ffb988900dc2d9a55b6e4",
+                  "615d8eb350224f204c1da1cf",
+                  "612e0e3c290d254f5e6b291d",
+                  "5d443f8fa4b93678dd4a01aa",
+                  "5c7954d52e221600106f4cc7",
+                  "5fbc22ccf24b94483f726483",
+                  "59bffc1f86f77435b128b872",
+                  "5cf78496d7f00c065703d6ca",
+                  "5fbe7618d6fa9c00c571bb6c",
+                  "628a66b41d5e41750e314f34",
+                  "6601281fc752a02bbe05e696",
+                  "66012a1d3dff5074ed002e2a",
+                  "6642f63667f5cb56a00662eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_sight_front",
+          "_id": "66225d88a1c7e3b81600c771",
+          "_parent": "66225d88a1c7e3b81600c76f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68f6cbc3642aa0894f001499"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Barret M240 LSW 7.62x51 Barrel",
+        "shortName": "M240 Barrel",
+        "description": "A high-quality barrel for the Barret M240 LSW, designed for improved accuracy and performance."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 31623,
+    "handbookPriceRoubles": 24600,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "690a9521b92ab495d00df945": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 391,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "68f6cbc3642aa0894f001498": {
+    "itemTplToClone": "6601268bc752a02bbe05e686",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/M240/m240_rearsight.bundle",
+        "rcid": ""
+      },
+      "Slots": [],
+      "ExaminedByDefault": true
+    },
+    "locales": {
+      "en": {
+        "name": "M240 Rear Sight",
+        "shortName": "M240 RS",
+        "description": "A rear sight designed for the M240 machine gun, providing enhanced accuracy and target acquisition."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_sight_rear"
+    ],
+    "fleaPriceRoubles": 632,
+    "handbookPriceRoubles": 435,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "690a9521b92ab495d00df946": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 10,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68f6cbc3642aa0894f001499": {
+    "itemTplToClone": "6601265f98a610c1aa0ea637",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/M240/m240_frontsight.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true
+    },
+    "locales": {
+      "en": {
+        "name": "M240 Front Sight",
+        "shortName": "M240 FS",
+        "description": "A front sight designed for the M240 machine gun, providing enhanced accuracy and target acquisition."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_sight_front"
+    ],
+    "fleaPriceRoubles": 424,
+    "handbookPriceRoubles": 324,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "690a9521b92ab495d00df947": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 7,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  }
+}

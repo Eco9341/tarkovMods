@@ -1,0 +1,3822 @@
+{
+  "68c48eb7c91390fb930e8d94": {
+    "itemTplToClone": "57cffb66245977632f391a99",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Foregrips/kac_grip.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "Weight": 0.45,
+      "Ergonomics": 5,
+      "ConflictingItems": [],
+      "Slots": [
+        {
+          "_id": "62c6dd965795677ad39019f6",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount",
+          "_parent": "2d354131a3d7dfa66a6b7d11",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68c48eb7c91390fb930e8d96"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Knight's Armament KAC M-LOK Barrier Grip",
+        "shortName": "KAC",
+        "description": "A lightweight foregrip designed for M-LOK handguards. Manufactured by Knight's Armament Company, the Barrier Grip provides a comfortable and secure hold on the weapon, improving control and reducing recoil during rapid fire. Its ergonomic design allows for better handling and maneuverability in various shooting positions."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 15000,
+    "handbookPriceRoubles": 2300,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "690a9521b92ab495d00df92d": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 11800,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68c48eb7c91390fb930e8d95": {
+    "itemTplToClone": "57cffb66245977632f391a99",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Foregrips/kac_finger.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "Weight": 0.37,
+      "Ergonomics": 3,
+      "ConflictingItems": [],
+      "Slots": [
+        {
+          "_id": "62c6dd965795677ad39019f6",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount",
+          "_parent": "2d354131a3d7dfa66a6b7d11",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68c48eb7c91390fb930e8d96"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Knight's Armament KAC M-LOK Finger Stop",
+        "shortName": "KAC",
+        "description": "A compact finger stop designed for M-LOK handguards. Manufactured by Knight's Armament Company, the Finger Stop provides a secure point of contact for the shooter's support hand, enhancing weapon control and stability. Its low-profile design allows for quick transitions and improved handling in various shooting scenarios."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 14500,
+    "handbookPriceRoubles": 2200,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "690a9521b92ab495d00df92e": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 7800,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68c48eb7c91390fb930e8d96": {
+    "itemTplToClone": "57cffb66245977632f391a99",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Foregrips/kac_barrier_stop.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "Weight": 0.37,
+      "Ergonomics": 3,
+      "ConflictingItems": []
+    },
+    "locales": {
+      "en": {
+        "name": "Knight's Armament KAC M-LOK Barrier Stop",
+        "shortName": "KAC",
+        "description": "A compact barrier stop designed for M-LOK handguards. Manufactured by Knight's Armament Company, Aggressive texture for increased traction and stability on most surfaces with integral QD socket. "
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_mount"
+    ],
+    "fleaPriceRoubles": 14500,
+    "handbookPriceRoubles": 2200,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "690a9521b92ab495d00df92f": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 7800,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "69127fcffb534981300b1d7d": {
+    "itemTplToClone": "57cffb66245977632f391a99",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Foregrips/zero_mlok.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.033,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": [],
+      "Slots": [
+        {
+          "_id": "62c6dd965795677ad39019f6",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_foregrip",
+          "_parent": "2d354131a3d7dfa66a6b7d11",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6912857dfb534981300b1d89",
+                  "6912857dfb534981300b1d8b",
+                  "6912857dfb534981300b1d8d",
+                  "6912857dfb534981300b1d8f",
+                  "691287abfb534981300b1d91",
+                  "691287abfb534981300b1d93",
+                  "69139b986a113aba9f0788e8",
+                  "69139b986a113aba9f0788ea",
+                  "69139b986a113aba9f0788ec",
+                  "69139b986a113aba9f0788ee",
+                  "69139b986a113aba9f0788f0",
+                  "6913ab40fb5aa3b32501fa61"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "True North Zero-8 V2 Multi-Angle Grip MLok Mount",
+        "shortName": "Zero",
+        "description": "The latest innovation in True North's grip series, the Zero-8 V2 builds on user feedback to deliver a next-generation upgrade to our popular adjustable-angle grip. Redesigned with new features and enhanced modularity, the V2 is more adaptable, rugged, and performance-driven than ever before."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 859,
+    "handbookPriceRoubles": 784,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "69127fcffb534981300b1d7e": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1101,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "69127fcffb534981300b1d7f": {
+    "itemTplToClone": "57cffb66245977632f391a99",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Foregrips/zero_mlok_fde.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.033,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": [],
+      "Slots": [
+        {
+          "_id": "62c6dd965795677ad39019f6",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_foregrip",
+          "_parent": "2d354131a3d7dfa66a6b7d11",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6912857dfb534981300b1d89",
+                  "6912857dfb534981300b1d8b",
+                  "6912857dfb534981300b1d8d",
+                  "6912857dfb534981300b1d8f",
+                  "691287abfb534981300b1d91",
+                  "691287abfb534981300b1d93",
+                  "69139b986a113aba9f0788e8",
+                  "69139b986a113aba9f0788ea",
+                  "69139b986a113aba9f0788ec",
+                  "69139b986a113aba9f0788ee",
+                  "69139b986a113aba9f0788f0",
+                  "6913ab40fb5aa3b32501fa61"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "True North Zero-8 V2 Multi-Angle Grip MLok Mount FDE",
+        "shortName": "Zero",
+        "description": "The latest innovation in True North's grip series, the Zero-8 V2 builds on user feedback to deliver a next-generation upgrade to our popular adjustable-angle grip. Redesigned with new features and enhanced modularity, the V2 is more adaptable, rugged, and performance-driven than ever before. Flat Dark Earth finish."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 859,
+    "handbookPriceRoubles": 784,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "69127fcffb534981300b1d80": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1101,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "69127fcffb534981300b1d81": {
+    "itemTplToClone": "57cffb66245977632f391a99",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Foregrips/zero_mlok_green.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.033,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": [],
+      "Slots": [
+        {
+          "_id": "62c6dd965795677ad39019f6",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_foregrip",
+          "_parent": "2d354131a3d7dfa66a6b7d11",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6912857dfb534981300b1d89",
+                  "6912857dfb534981300b1d8b",
+                  "6912857dfb534981300b1d8d",
+                  "6912857dfb534981300b1d8f",
+                  "691287abfb534981300b1d91",
+                  "691287abfb534981300b1d93",
+                  "69139b986a113aba9f0788e8",
+                  "69139b986a113aba9f0788ea",
+                  "69139b986a113aba9f0788ec",
+                  "69139b986a113aba9f0788ee",
+                  "69139b986a113aba9f0788f0",
+                  "6913ab40fb5aa3b32501fa61"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "True North Zero-8 V2 Multi-Angle Grip MLok Mount Green",
+        "shortName": "Zero",
+        "description": "The latest innovation in True North's grip series, the Zero-8 V2 builds on user feedback to deliver a next-generation upgrade to our popular adjustable-angle grip. Redesigned with new features and enhanced modularity, the V2 is more adaptable, rugged, and performance-driven than ever before. Olive Green finish."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 859,
+    "handbookPriceRoubles": 784,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "69127fcffb534981300b1d82": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1101,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "69127fcffb534981300b1d83": {
+    "itemTplToClone": "5c1bc5fb2e221602b1779b32",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Foregrips/zero_rail.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.036,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": [
+        "62e7e7bbe6da9612f743f1e0"
+      ],
+      "Slots": [
+        {
+          "_id": "62c6dd965795677ad39019f6",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_foregrip",
+          "_parent": "2d354131a3d7dfa66a6b7d11",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                    "6912857dfb534981300b1d89",
+                    "6912857dfb534981300b1d8b",
+                    "6912857dfb534981300b1d8d",
+                    "6912857dfb534981300b1d8f",
+                    "691287abfb534981300b1d91",
+                    "691287abfb534981300b1d93",
+                    "69139b986a113aba9f0788e8",
+                    "69139b986a113aba9f0788ea",
+                    "69139b986a113aba9f0788ec",
+                    "69139b986a113aba9f0788ee",
+                    "69139b986a113aba9f0788f0",
+                    "6913ab40fb5aa3b32501fa61"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "True North Zero-8 V2 Multi-Angle Grip Picatinny Mount",
+        "shortName": "Zero",
+        "description": "The latest innovation in True North's grip series, the Zero-8 V2 builds on user feedback to deliver a next-generation upgrade to our popular adjustable-angle grip. Redesigned with new features and enhanced modularity, the V2 is more adaptable, rugged, and performance-driven than ever before."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 859,
+    "handbookPriceRoubles": 784,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "69127fcffb534981300b1d84": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1101,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "69127fcffb534981300b1d85": {
+    "itemTplToClone": "5c1bc5fb2e221602b1779b32",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Foregrips/zero_rail_fde.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.036,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": [
+        "62e7e7bbe6da9612f743f1e0"
+      ],
+      "Slots": [
+        {
+          "_id": "62c6dd965795677ad39019f6",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_foregrip",
+          "_parent": "2d354131a3d7dfa66a6b7d11",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                    "6912857dfb534981300b1d89",
+                    "6912857dfb534981300b1d8b",
+                    "6912857dfb534981300b1d8d",
+                    "6912857dfb534981300b1d8f",
+                    "691287abfb534981300b1d91",
+                    "691287abfb534981300b1d93",
+                    "69139b986a113aba9f0788e8",
+                    "69139b986a113aba9f0788ea",
+                    "69139b986a113aba9f0788ec",
+                    "69139b986a113aba9f0788ee",
+                    "69139b986a113aba9f0788f0",
+                    "6913ab40fb5aa3b32501fa61"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "True North Zero-8 V2 Multi-Angle Grip Picatinny Mount FDE",
+        "shortName": "Zero",
+        "description": "The latest innovation in True North's grip series, the Zero-8 V2 builds on user feedback to deliver a next-generation upgrade to our popular adjustable-angle grip. Redesigned with new features and enhanced modularity, the V2 is more adaptable, rugged, and performance-driven than ever before. Flat Dark Earth finish."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 859,
+    "handbookPriceRoubles": 784,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "69127fcffb534981300b1d86": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1101,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6912857dfb534981300b1d87": {
+    "itemTplToClone": "5c1bc5fb2e221602b1779b32",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Foregrips/zero_rail_green.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.036,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": [
+        "62e7e7bbe6da9612f743f1e0"
+      ],
+      "Slots": [
+        {
+          "_id": "62c6dd965795677ad39019f6",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_foregrip",
+          "_parent": "2d354131a3d7dfa66a6b7d11",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                    "6912857dfb534981300b1d89",
+                    "6912857dfb534981300b1d8b",
+                    "6912857dfb534981300b1d8d",
+                    "6912857dfb534981300b1d8f",
+                    "691287abfb534981300b1d91",
+                    "691287abfb534981300b1d93",
+                    "69139b986a113aba9f0788e8",
+                    "69139b986a113aba9f0788ea",
+                    "69139b986a113aba9f0788ec",
+                    "69139b986a113aba9f0788ee",
+                    "69139b986a113aba9f0788f0",
+                    "6913ab40fb5aa3b32501fa61"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "True North Zero-8 V2 Multi-Angle Grip Picatinny Mount Green",
+        "shortName": "Zero",
+        "description": "The latest innovation in True North's grip series, the Zero-8 V2 builds on user feedback to deliver a next-generation upgrade to our popular adjustable-angle grip. Redesigned with new features and enhanced modularity, the V2 is more adaptable, rugged, and performance-driven than ever before. Olive Green finish."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 859,
+    "handbookPriceRoubles": 784,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "6912857dfb534981300b1d88": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1101,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6912857dfb534981300b1d89": {
+    "itemTplToClone": "5c1bc7752e221602b1779b34",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Foregrips/zero_short_grip.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.033,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": []
+    },
+    "locales": {
+      "en": {
+        "name": "True North Zero-8 V2 S-Grip",
+        "shortName": "Zero",
+        "description": "The latest innovation in True North's grip series, the Zero-8 V2 builds on user feedback to deliver a next-generation upgrade to our popular adjustable-angle grip. Redesigned with new features and enhanced modularity, the V2 is more adaptable, rugged, and performance-driven than ever before."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 9853,
+    "handbookPriceRoubles": 6784,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "6912857dfb534981300b1d8a": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 11800,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6912857dfb534981300b1d8b": {
+    "itemTplToClone": "5c1bc7752e221602b1779b34",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Foregrips/zero_short_grip_fde.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.033,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": []
+    },
+    "locales": {
+      "en": {
+        "name": "True North Zero-8 V2 S-Grip FDE",
+        "shortName": "Zero",
+        "description": "The latest innovation in True North's grip series, the Zero-8 V2 builds on user feedback to deliver a next-generation upgrade to our popular adjustable-angle grip. Redesigned with new features and enhanced modularity, the V2 is more adaptable, rugged, and performance-driven than ever before. Flat Dark Earth finish."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 9853,
+    "handbookPriceRoubles": 6784,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "6912857dfb534981300b1d8c": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 11800,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6912857dfb534981300b1d8d": {
+    "itemTplToClone": "5c1bc7752e221602b1779b34",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Foregrips/zero_short_grip_green.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.033,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": []
+    },
+    "locales": {
+      "en": {
+        "name": "True North Zero-8 V2 S-Grip Green",
+        "shortName": "Zero",
+        "description": "The latest innovation in True North's grip series, the Zero-8 V2 builds on user feedback to deliver a next-generation upgrade to our popular adjustable-angle grip. Redesigned with new features and enhanced modularity, the V2 is more adaptable, rugged, and performance-driven than ever before. Olive Green finish."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 9853,
+    "handbookPriceRoubles": 6784,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "6912857dfb534981300b1d8e": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 11800,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6912857dfb534981300b1d8f": {
+    "itemTplToClone": "5cf4fb76d7f00c065703d3ac",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Foregrips/zero_long_grip.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.042,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": []
+    },
+    "locales": {
+      "en": {
+        "name": "True North Zero-8 V2 K-Grip",
+        "shortName": "Zero",
+        "description": "The latest innovation in True North's grip series, the Zero-8 V2 builds on user feedback to deliver a next-generation upgrade to our popular adjustable-angle grip. Redesigned with new features and enhanced modularity, the V2 is more adaptable, rugged, and performance-driven than ever before."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 9853,
+    "handbookPriceRoubles": 6784,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "6912857dfb534981300b1d90": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 11800,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "691287abfb534981300b1d91": {
+    "itemTplToClone": "5cf4fb76d7f00c065703d3ac",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Foregrips/zero_long_grip_fde.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.042,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": []
+    },
+    "locales": {
+      "en": {
+        "name": "True North Zero-8 V2 K-Grip FDE",
+        "shortName": "Zero",
+        "description": "The latest innovation in True North's grip series, the Zero-8 V2 builds on user feedback to deliver a next-generation upgrade to our popular adjustable-angle grip. Redesigned with new features and enhanced modularity, the V2 is more adaptable, rugged, and performance-driven than ever before. Flat Dark Earth finish."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 9853,
+    "handbookPriceRoubles": 6784,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "691287abfb534981300b1d92": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 11800,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "691287abfb534981300b1d93": {
+    "itemTplToClone": "5cf4fb76d7f00c065703d3ac",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Foregrips/zero_long_grip_green.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.042,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": []
+    },
+    "locales": {
+      "en": {
+        "name": "True North Zero-8 V2 K-Grip Green",
+        "shortName": "Zero",
+        "description": "The latest innovation in True North's grip series, the Zero-8 V2 builds on user feedback to deliver a next-generation upgrade to our popular adjustable-angle grip. Redesigned with new features and enhanced modularity, the V2 is more adaptable, rugged, and performance-driven than ever before. Olive Green finish."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 9853,
+    "handbookPriceRoubles": 6784,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "691287abfb534981300b1d94": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 11800,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "69139b986a113aba9f0788e8": {
+    "itemTplToClone": "5c1bc7752e221602b1779b34",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Foregrips/zero_short_grip_rotated.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.033,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": []
+    },
+    "locales": {
+      "en": {
+        "name": "True North Zero-8 V2 8° angle S-Grip",
+        "shortName": "Zero", 
+        "description": "The latest innovation in True North's grip series, the Zero-8 V2 builds on user feedback to deliver a next-generation upgrade to our popular adjustable-angle grip. Redesigned with new features and enhanced modularity, the V2 is more adaptable, rugged, and performance-driven than ever before. Customize your grip angle from 0° to 8° for optimal ergonomics and control."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 9853,
+    "handbookPriceRoubles": 6784,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "69139b986a113aba9f0788e9": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 11800,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "69139b986a113aba9f0788ea": {
+    "itemTplToClone": "5c1bc7752e221602b1779b34",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Foregrips/zero_short_grip_rotated_fde.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.033,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": []
+    },
+    "locales": {
+      "en": {
+        "name": "True North Zero-8 V2 8° angle S-Grip FDE",
+        "shortName": "Zero", 
+        "description": "The latest innovation in True North's grip series, the Zero-8 V2 builds on user feedback to deliver a next-generation upgrade to our popular adjustable-angle grip. Redesigned with new features and enhanced modularity, the V2 is more adaptable, rugged, and performance-driven than ever before. Customize your grip angle from 0° to 8° for optimal ergonomics and control. Flat Dark Earth finish."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 9853,
+    "handbookPriceRoubles": 6784,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "69139b986a113aba9f0788eb": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 11800,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "69139b986a113aba9f0788ec": {
+    "itemTplToClone": "5c1bc7752e221602b1779b34",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Foregrips/zero_short_grip_rotated_green.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.033,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": []
+    },
+    "locales": {
+      "en": {
+        "name": "True North Zero-8 V2 8° angle S-Grip Green",
+        "shortName": "Zero", 
+        "description": "The latest innovation in True North's grip series, the Zero-8 V2 builds on user feedback to deliver a next-generation upgrade to our popular adjustable-angle grip. Redesigned with new features and enhanced modularity, the V2 is more adaptable, rugged, and performance-driven than ever before. Customize your grip angle from 0° to 8° for optimal ergonomics and control. Green finish."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 9853,
+    "handbookPriceRoubles": 6784,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "69139b986a113aba9f0788ed": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 11800,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "69139b986a113aba9f0788ee": {
+    "itemTplToClone": "5cf4fb76d7f00c065703d3ac",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Foregrips/zero_long_grip_rotated.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.042,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": []
+    },
+    "locales": {
+      "en": {
+        "name": "True North Zero-8 V2 8° angle K-Grip",
+        "shortName": "Zero",
+        "description": "The latest innovation in True North's grip series, the Zero-8 V2 builds on user feedback to deliver a next-generation upgrade to our popular adjustable-angle grip. Redesigned with new features and enhanced modularity, the V2 is more adaptable, rugged, and performance-driven than ever before. Customize your grip angle from 0° to 8° for optimal ergonomics and control."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 9853,
+    "handbookPriceRoubles": 6784,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "69139b986a113aba9f0788ef": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 11800,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "69139b986a113aba9f0788f0": {
+    "itemTplToClone": "5cf4fb76d7f00c065703d3ac",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Foregrips/zero_long_grip_rotated_fde.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.042,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": []
+    },
+    "locales": {
+      "en": {
+        "name": "True North Zero-8 V2 8° angle K-Grip FDE",
+        "shortName": "Zero",
+        "description": "The latest innovation in True North's grip series, the Zero-8 V2 builds on user feedback to deliver a next-generation upgrade to our popular adjustable-angle grip. Redesigned with new features and enhanced modularity, the V2 is more adaptable, rugged, and performance-driven than ever before. Customize your grip angle from 0° to 8° for optimal ergonomics and control. Flat Dark Earth finish."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 9853,
+    "handbookPriceRoubles": 6784,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "69139b986a113aba9f0788f1": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 11800,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6913ab40fb5aa3b32501fa61": {
+    "itemTplToClone": "5cf4fb76d7f00c065703d3ac",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Foregrips/zero_long_grip_rotated_green.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.042,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": []
+    },
+    "locales": {
+      "en": {
+        "name": "True North Zero-8 V2 8° angle K-Grip Green",
+        "shortName": "Zero",
+        "description": "The latest innovation in True North's grip series, the Zero-8 V2 builds on user feedback to deliver a next-generation upgrade to our popular adjustable-angle grip. Redesigned with new features and enhanced modularity, the V2 is more adaptable, rugged, and performance-driven than ever before. Customize your grip angle from 0° to 8° for optimal ergonomics and control. Olive Green finish."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 9853,
+    "handbookPriceRoubles": 6784,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "6913ab40fb5aa3b32501fa62": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 11800,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+    "6913ab40fb5aa3b32501fa63": {
+    "itemTplToClone": "57cffb66245977632f391a99",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Foregrips/zero_mlok_rotated.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.033,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": [],
+      "Slots": [
+        {
+          "_id": "62c6dd965795677ad39019f6",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_foregrip",
+          "_parent": "2d354131a3d7dfa66a6b7d11",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                    "6913d3bffb5aa3b32501fa75",
+                    "6913d3bffb5aa3b32501fa77",
+                    "6913d3bffb5aa3b32501fa79",
+                    "6913d437fb5aa3b32501fa7b",
+                    "6913d437fb5aa3b32501fa7d",
+                    "6913d437fb5aa3b32501fa7f",
+                    "6913d437fb5aa3b32501fa81",
+                    "6913d437fb5aa3b32501fa83",
+                    "6913d4b9fb5aa3b32501fa85",
+                    "6913d4b9fb5aa3b32501fa87",
+                    "6913d4b9fb5aa3b32501fa89",
+                    "6913d4b9fb5aa3b32501fa8b"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "True North Zero-8 V2 Multi-Angle Grip MLok Mount Rotated",
+        "shortName": "Zero",
+        "description": "The latest innovation in True North's grip series, the Zero-8 V2 builds on user feedback to deliver a next-generation upgrade to our popular adjustable-angle grip. Redesigned with new features and enhanced modularity, the V2 is more adaptable, rugged, and performance-driven than ever before."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 859,
+    "handbookPriceRoubles": 784,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "6913ab40fb5aa3b32501fa64": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1101,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6913ab40fb5aa3b32501fa65": {
+    "itemTplToClone": "57cffb66245977632f391a99",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Foregrips/zero_mlok_rotated_fde.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.033,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": [],
+      "Slots": [
+        {
+          "_id": "62c6dd965795677ad39019f6",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_foregrip",
+          "_parent": "2d354131a3d7dfa66a6b7d11",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                    "6913d3bffb5aa3b32501fa75",
+                    "6913d3bffb5aa3b32501fa77",
+                    "6913d3bffb5aa3b32501fa79",
+                    "6913d437fb5aa3b32501fa7b",
+                    "6913d437fb5aa3b32501fa7d",
+                    "6913d437fb5aa3b32501fa7f",
+                    "6913d437fb5aa3b32501fa81",
+                    "6913d437fb5aa3b32501fa83",
+                    "6913d4b9fb5aa3b32501fa85",
+                    "6913d4b9fb5aa3b32501fa87",
+                    "6913d4b9fb5aa3b32501fa89",
+                    "6913d4b9fb5aa3b32501fa8b"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "True North Zero-8 V2 Multi-Angle Grip MLok Mount Rotated FDE",
+        "shortName": "Zero",
+        "description": "The latest innovation in True North's grip series, the Zero-8 V2 builds on user feedback to deliver a next-generation upgrade to our popular adjustable-angle grip. Redesigned with new features and enhanced modularity, the V2 is more adaptable, rugged, and performance-driven than ever before. Flat Dark Earth finish."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 859,
+    "handbookPriceRoubles": 784,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "6913ab40fb5aa3b32501fa66": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1101,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6913ab40fb5aa3b32501fa67": {
+    "itemTplToClone": "57cffb66245977632f391a99",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Foregrips/zero_mlok_rotated_green.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.033,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": [],
+      "Slots": [
+        {
+          "_id": "62c6dd965795677ad39019f6",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_foregrip",
+          "_parent": "2d354131a3d7dfa66a6b7d11",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                    "6913d3bffb5aa3b32501fa75",
+                    "6913d3bffb5aa3b32501fa77",
+                    "6913d3bffb5aa3b32501fa79",
+                    "6913d437fb5aa3b32501fa7b",
+                    "6913d437fb5aa3b32501fa7d",
+                    "6913d437fb5aa3b32501fa7f",
+                    "6913d437fb5aa3b32501fa81",
+                    "6913d437fb5aa3b32501fa83",
+                    "6913d4b9fb5aa3b32501fa85",
+                    "6913d4b9fb5aa3b32501fa87",
+                    "6913d4b9fb5aa3b32501fa89",
+                    "6913d4b9fb5aa3b32501fa8b"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "True North Zero-8 V2 Multi-Angle Grip MLok Mount Rotated Green",
+        "shortName": "Zero",
+        "description": "The latest innovation in True North's grip series, the Zero-8 V2 builds on user feedback to deliver a next-generation upgrade to our popular adjustable-angle grip. Redesigned with new features and enhanced modularity, the V2 is more adaptable, rugged, and performance-driven than ever before. Olive Green finish."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 859,
+    "handbookPriceRoubles": 784,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "6913ab40fb5aa3b32501fa68": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1101,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6913ab40fb5aa3b32501fa69": {
+    "itemTplToClone": "5c1bc5fb2e221602b1779b32",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Foregrips/zero_rail_rotated.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.036,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": [
+        "62e7e7bbe6da9612f743f1e0"
+      ],
+      "Slots": [
+        {
+          "_id": "62c6dd965795677ad39019f6",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_foregrip",
+          "_parent": "2d354131a3d7dfa66a6b7d11",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                    "6913d3bffb5aa3b32501fa75",
+                    "6913d3bffb5aa3b32501fa77",
+                    "6913d3bffb5aa3b32501fa79",
+                    "6913d437fb5aa3b32501fa7b",
+                    "6913d437fb5aa3b32501fa7d",
+                    "6913d437fb5aa3b32501fa7f",
+                    "6913d437fb5aa3b32501fa81",
+                    "6913d437fb5aa3b32501fa83",
+                    "6913d4b9fb5aa3b32501fa85",
+                    "6913d4b9fb5aa3b32501fa87",
+                    "6913d4b9fb5aa3b32501fa89",
+                    "6913d4b9fb5aa3b32501fa8b"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "True North Zero-8 V2 Multi-Angle Grip Picatinny Rotated Mount",
+        "shortName": "Zero",
+        "description": "The latest innovation in True North's grip series, the Zero-8 V2 builds on user feedback to deliver a next-generation upgrade to our popular adjustable-angle grip. Redesigned with new features and enhanced modularity, the V2 is more adaptable, rugged, and performance-driven than ever before."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 859,
+    "handbookPriceRoubles": 784,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "6913ab40fb5aa3b32501fa6a": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1101,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6913d3bffb5aa3b32501fa71": {
+    "itemTplToClone": "5c1bc5fb2e221602b1779b32",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Foregrips/zero_rail_rotated_fde.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.036,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": [
+        "62e7e7bbe6da9612f743f1e0"
+      ],
+      "Slots": [
+        {
+          "_id": "62c6dd965795677ad39019f6",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_foregrip",
+          "_parent": "2d354131a3d7dfa66a6b7d11",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                    "6913d3bffb5aa3b32501fa75",
+                    "6913d3bffb5aa3b32501fa77",
+                    "6913d3bffb5aa3b32501fa79",
+                    "6913d437fb5aa3b32501fa7b",
+                    "6913d437fb5aa3b32501fa7d",
+                    "6913d437fb5aa3b32501fa7f",
+                    "6913d437fb5aa3b32501fa81",
+                    "6913d437fb5aa3b32501fa83",
+                    "6913d4b9fb5aa3b32501fa85",
+                    "6913d4b9fb5aa3b32501fa87",
+                    "6913d4b9fb5aa3b32501fa89",
+                    "6913d4b9fb5aa3b32501fa8b"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "True North Zero-8 V2 Multi-Angle Grip Picatinny Mount Rotated FDE",
+        "shortName": "Zero",
+        "description": "The latest innovation in True North's grip series, the Zero-8 V2 builds on user feedback to deliver a next-generation upgrade to our popular adjustable-angle grip. Redesigned with new features and enhanced modularity, the V2 is more adaptable, rugged, and performance-driven than ever before. Flat Dark Earth finish."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 859,
+    "handbookPriceRoubles": 784,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "6913d3bffb5aa3b32501fa72": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1101,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6913d3bffb5aa3b32501fa73": {
+    "itemTplToClone": "5c1bc5fb2e221602b1779b32",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Foregrips/zero_rail_rotated_green.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.036,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": [
+        "62e7e7bbe6da9612f743f1e0"
+      ],
+      "Slots": [
+        {
+          "_id": "62c6dd965795677ad39019f6",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_foregrip",
+          "_parent": "2d354131a3d7dfa66a6b7d11",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                    "6913d3bffb5aa3b32501fa75",
+                    "6913d3bffb5aa3b32501fa77",
+                    "6913d3bffb5aa3b32501fa79",
+                    "6913d437fb5aa3b32501fa7b",
+                    "6913d437fb5aa3b32501fa7d",
+                    "6913d437fb5aa3b32501fa7f",
+                    "6913d437fb5aa3b32501fa81",
+                    "6913d437fb5aa3b32501fa83",
+                    "6913d4b9fb5aa3b32501fa85",
+                    "6913d4b9fb5aa3b32501fa87",
+                    "6913d4b9fb5aa3b32501fa89",
+                    "6913d4b9fb5aa3b32501fa8b"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "True North Zero-8 V2 Multi-Angle Grip Picatinny Mount Rotated Green",
+        "shortName": "Zero",
+        "description": "The latest innovation in True North's grip series, the Zero-8 V2 builds on user feedback to deliver a next-generation upgrade to our popular adjustable-angle grip. Redesigned with new features and enhanced modularity, the V2 is more adaptable, rugged, and performance-driven than ever before. Olive Green finish."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 859,
+    "handbookPriceRoubles": 784,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "6913d3bffb5aa3b32501fa74": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1101,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6913d3bffb5aa3b32501fa75": {
+    "itemTplToClone": "5c1bc7752e221602b1779b34",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Foregrips/zero_short_grip_180.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.033,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": []
+    },
+    "locales": {
+      "en": {
+        "name": "True North Zero-8 V2 S-Grip Rotated",
+        "shortName": "Zero",
+        "description": "The latest innovation in True North's grip series, the Zero-8 V2 builds on user feedback to deliver a next-generation upgrade to our popular adjustable-angle grip. Redesigned with new features and enhanced modularity, the V2 is more adaptable, rugged, and performance-driven than ever before."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 9853,
+    "handbookPriceRoubles": 6784,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "6913d3bffb5aa3b32501fa76": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 11800,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6913d3bffb5aa3b32501fa77": {
+    "itemTplToClone": "5c1bc7752e221602b1779b34",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Foregrips/zero_short_grip_180_fde.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.033,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": []
+    },
+    "locales": {
+      "en": {
+        "name": "True North Zero-8 V2 S-Grip Rotated FDE",
+        "shortName": "Zero",
+        "description": "The latest innovation in True North's grip series, the Zero-8 V2 builds on user feedback to deliver a next-generation upgrade to our popular adjustable-angle grip. Redesigned with new features and enhanced modularity, the V2 is more adaptable, rugged, and performance-driven than ever before. Flat Dark Earth finish."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 9853,
+    "handbookPriceRoubles": 6784,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "6913d3bffb5aa3b32501fa78": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 11800,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6913d3bffb5aa3b32501fa79": {
+    "itemTplToClone": "5c1bc7752e221602b1779b34",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Foregrips/zero_short_grip_180_green.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.033,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": []
+    },
+    "locales": {
+      "en": {
+        "name": "True North Zero-8 V2 S-Grip Rotated Green",
+        "shortName": "Zero",
+        "description": "The latest innovation in True North's grip series, the Zero-8 V2 builds on user feedback to deliver a next-generation upgrade to our popular adjustable-angle grip. Redesigned with new features and enhanced modularity, the V2 is more adaptable, rugged, and performance-driven than ever before. Olive Green finish."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 9853,
+    "handbookPriceRoubles": 6784,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "6913d3bffb5aa3b32501fa7a": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 11800,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6913d437fb5aa3b32501fa7b": {
+    "itemTplToClone": "5cf4fb76d7f00c065703d3ac",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Foregrips/zero_long_grip_180.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.042,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": []
+    },
+    "locales": {
+      "en": {
+        "name": "True North Zero-8 V2 K-Grip Rotated",
+        "shortName": "Zero",
+        "description": "The latest innovation in True North's grip series, the Zero-8 V2 builds on user feedback to deliver a next-generation upgrade to our popular adjustable-angle grip. Redesigned with new features and enhanced modularity, the V2 is more adaptable, rugged, and performance-driven than ever before."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 9853,
+    "handbookPriceRoubles": 6784,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "6913d437fb5aa3b32501fa7c": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 11800,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6913d437fb5aa3b32501fa7d": {
+    "itemTplToClone": "5cf4fb76d7f00c065703d3ac",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Foregrips/zero_long_grip_180_fde.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.042,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": []
+    },
+    "locales": {
+      "en": {
+        "name": "True North Zero-8 V2 K-Grip Rotated FDE",
+        "shortName": "Zero",
+        "description": "The latest innovation in True North's grip series, the Zero-8 V2 builds on user feedback to deliver a next-generation upgrade to our popular adjustable-angle grip. Redesigned with new features and enhanced modularity, the V2 is more adaptable, rugged, and performance-driven than ever before. Flat Dark Earth finish."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 9853,
+    "handbookPriceRoubles": 6784,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "6913d437fb5aa3b32501fa7e": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 11800,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6913d437fb5aa3b32501fa7f": {
+    "itemTplToClone": "5cf4fb76d7f00c065703d3ac",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Foregrips/zero_long_grip_180_green.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.042,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": []
+    },
+    "locales": {
+      "en": {
+        "name": "True North Zero-8 V2 K-Grip Rotated Green",
+        "shortName": "Zero",
+        "description": "The latest innovation in True North's grip series, the Zero-8 V2 builds on user feedback to deliver a next-generation upgrade to our popular adjustable-angle grip. Redesigned with new features and enhanced modularity, the V2 is more adaptable, rugged, and performance-driven than ever before. Olive Green finish."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 9853,
+    "handbookPriceRoubles": 6784,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "6913d437fb5aa3b32501fa80": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 11800,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6913d437fb5aa3b32501fa81": {
+    "itemTplToClone": "5c1bc7752e221602b1779b34",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Foregrips/short_grip_180_rotated.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.033,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": []
+    },
+    "locales": {
+      "en": {
+        "name": "True North Zero-8 V2 8° angle S-Grip Rotated",
+        "shortName": "Zero", 
+        "description": "The latest innovation in True North's grip series, the Zero-8 V2 builds on user feedback to deliver a next-generation upgrade to our popular adjustable-angle grip. Redesigned with new features and enhanced modularity, the V2 is more adaptable, rugged, and performance-driven than ever before. Customize your grip angle from 0° to 8° for optimal ergonomics and control."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 9853,
+    "handbookPriceRoubles": 6784,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "6913d437fb5aa3b32501fa82": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 11800,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6913d437fb5aa3b32501fa83": {
+    "itemTplToClone": "5c1bc7752e221602b1779b34",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Foregrips/short_grip_180_rotated_fde.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.033,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": []
+    },
+    "locales": {
+      "en": {
+        "name": "True North Zero-8 V2 8° angle S-Grip Rotated FDE",
+        "shortName": "Zero", 
+        "description": "The latest innovation in True North's grip series, the Zero-8 V2 builds on user feedback to deliver a next-generation upgrade to our popular adjustable-angle grip. Redesigned with new features and enhanced modularity, the V2 is more adaptable, rugged, and performance-driven than ever before. Customize your grip angle from 0° to 8° for optimal ergonomics and control. Flat Dark Earth finish."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 9853,
+    "handbookPriceRoubles": 6784,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "6913d437fb5aa3b32501fa84": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 11800,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6913d4b9fb5aa3b32501fa85": {
+    "itemTplToClone": "5c1bc7752e221602b1779b34",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Foregrips/short_grip_180_rotated_green.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.033,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": []
+    },
+    "locales": {
+      "en": {
+        "name": "True North Zero-8 V2 8° angle S-Grip Rotated Green",
+        "shortName": "Zero", 
+        "description": "The latest innovation in True North's grip series, the Zero-8 V2 builds on user feedback to deliver a next-generation upgrade to our popular adjustable-angle grip. Redesigned with new features and enhanced modularity, the V2 is more adaptable, rugged, and performance-driven than ever before. Customize your grip angle from 0° to 8° for optimal ergonomics and control. Green finish."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 9853,
+    "handbookPriceRoubles": 6784,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "6913d4b9fb5aa3b32501fa86": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 11800,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6913d4b9fb5aa3b32501fa87": {
+    "itemTplToClone": "5cf4fb76d7f00c065703d3ac",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Foregrips/long_grip_180_rotated.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.042,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": []
+    },
+    "locales": {
+      "en": {
+        "name": "True North Zero-8 V2 8° angle K-Grip Rotated",
+        "shortName": "Zero",
+        "description": "The latest innovation in True North's grip series, the Zero-8 V2 builds on user feedback to deliver a next-generation upgrade to our popular adjustable-angle grip. Redesigned with new features and enhanced modularity, the V2 is more adaptable, rugged, and performance-driven than ever before. Customize your grip angle from 0° to 8° for optimal ergonomics and control."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 9853,
+    "handbookPriceRoubles": 6784,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "6913d4b9fb5aa3b32501fa88": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 11800,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6913d4b9fb5aa3b32501fa89": {
+    "itemTplToClone": "5cf4fb76d7f00c065703d3ac",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Foregrips/long_grip_180_rotated_fde.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.042,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": []
+    },
+    "locales": {
+      "en": {
+        "name": "True North Zero-8 V2 8° angle K-Grip Rotated FDE",
+        "shortName": "Zero",
+        "description": "The latest innovation in True North's grip series, the Zero-8 V2 builds on user feedback to deliver a next-generation upgrade to our popular adjustable-angle grip. Redesigned with new features and enhanced modularity, the V2 is more adaptable, rugged, and performance-driven than ever before. Customize your grip angle from 0° to 8° for optimal ergonomics and control. Flat Dark Earth finish."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 9853,
+    "handbookPriceRoubles": 6784,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "6913d4b9fb5aa3b32501fa8a": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 11800,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6913d4b9fb5aa3b32501fa8b": {
+    "itemTplToClone": "5cf4fb76d7f00c065703d3ac",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Foregrips/long_grip_180_rotated_green.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.042,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": []
+    },
+    "locales": {
+      "en": {
+        "name": "True North Zero-8 V2 8° angle K-Grip Rotated Green",
+        "shortName": "Zero",
+        "description": "The latest innovation in True North's grip series, the Zero-8 V2 builds on user feedback to deliver a next-generation upgrade to our popular adjustable-angle grip. Redesigned with new features and enhanced modularity, the V2 is more adaptable, rugged, and performance-driven than ever before. Customize your grip angle from 0° to 8° for optimal ergonomics and control. Olive Green finish."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 9853,
+    "handbookPriceRoubles": 6784,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "6913d4b9fb5aa3b32501fa8c": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 11800,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  }
+}

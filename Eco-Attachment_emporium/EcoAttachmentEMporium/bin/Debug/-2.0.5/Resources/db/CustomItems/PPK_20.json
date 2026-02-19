@@ -1,0 +1,931 @@
+{
+  "6930aaa9374b0cca3302d7c0": {
+    "itemTplToClone": "59984ab886f7743e98271174",
+    "parentId": "5447b5e04bdc2d62278b4567",
+    "handbookParentId": "5b5f796a86f774093f2ed3c0",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/PPK20/weapon_ppk20_container.bundle",
+        "rcid": ""
+      },
+        "Weight": 1.709,
+        "Foldable": false,
+        "Slots": [
+            {
+                "_name": "mod_pistol_grip",
+                "_id": "59985d9386f7742a0913990a",
+                "_parent": "59984ab886f7743e98271174",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "6930aaa9374b0cca3302d7c6"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": true,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_stock",
+                "_id": "59985e2686f77427a674c43e",
+                "_parent": "59984ab886f7743e98271174",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "6930aaa9374b0cca3302d7c8"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_charge",
+                "_id": "59985e3586f774265b6600af",
+                "_parent": "59984ab886f7743e98271174",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "6130ca3fd92c473c77020dbd",
+                        "5648ac824bdc2ded0b8b457d"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_magazine",
+                "_id": "59985e5086f77427a674c448",
+                "_parent": "59984ab886f7743e98271174",
+                "_props": {
+                "filters": [
+                    {
+                    "AnimationIndex": -1,
+                    "Filter": [
+                        "5998529a86f774647f44f421",
+                        "599860ac86f77436b225ed1a",
+                        "5c0673fb0db8340023300271",
+                        "5c0672ed0db834001b7353f3",
+                        "6749c40822a2740bb408d066"
+                    ]
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c394bdc2dae468b4577"
+            },
+            {
+                "_name": "mod_muzzle",
+                "_id": "59985e8f86f77427a674c44d",
+                "_parent": "59984ab886f7743e98271174",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "5998597786f77414ea6da093",
+                        "5998598e86f7740b3f498a86",
+                        "59bffc1f86f77435b128b872",
+                        "5a9fb739a2750c003215717f",
+                        "5c6165902e22160010261b28",
+                        "5a32a064c4a28200741e22de",
+                        "59bfc5c886f7743bf6794e62"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_reciever",
+                "_id": "59985e9f86f774267339c6c0",
+                "_parent": "59984ab886f7743e98271174",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "6930aaa9374b0cca3302d7c2"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_gas_block",
+                "_id": "59ccd16e86f77428fc798735",
+                "_parent": "59984ab886f7743e98271174",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "6930b5f5374b0cca3302d7cc"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": true,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            }
+        ],
+        "IronSightRange": 200,
+        "bFirerate": 800,
+        "Ergonomics": 40,
+        "HeatFactorByShot": 2.50,
+        "HeatFactorGun": 0.9852,
+        "RecoilForceBack": 300,
+        "RecoilForceUp": 65
+    },
+    "locales": {
+      "en": {
+        "name": "Kalashnikov PPK-20 9x19mm",
+        "shortName": "PPK-20",
+        "description": "The 9x19mm PPK-20 submachine gun, based on the Vityaz-SN, differs from its predecessor by its compact size, lower weight, optional quick-detachable sound and flash suppressor, folding telescopic polymer buttstock, ergonomic pistol grip and ambidextrous fire selector switch."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 20192,
+    "handbookPriceRoubles": 17361,
+    "addtoTraders": false,
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+            {
+        "_changeWeaponName": false,
+        "_encyclopedia": "6930aaa9374b0cca3302d7c0",
+        "_id": "6939c0377e925a1ae90e0532",
+        "_items": [
+          {
+            "_id": "6939c0377e925a1ae90e0531",
+            "_tpl": "6930aaa9374b0cca3302d7c0",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              },
+              "FireMode": {
+                "FireMode": "single"
+              }
+            }
+          },
+          {
+            "_id": "6939c0377e925a1ae90e0533",
+            "_tpl": "6930b5f5374b0cca3302d7cc",
+            "parentId": "6939c0377e925a1ae90e0531",
+            "slotId": "mod_gas_block"
+          },
+          {
+            "_id": "6939c0377e925a1ae90e0537",
+            "_tpl": "5998597786f77414ea6da093",
+            "parentId": "6939c0377e925a1ae90e0531",
+            "slotId": "mod_muzzle"
+          },
+          {
+            "_id": "6939c0377e925a1ae90e0534",
+            "_tpl": "6930aaa9374b0cca3302d7c2",
+            "parentId": "6939c0377e925a1ae90e0531",
+            "slotId": "mod_reciever"
+          },
+          {
+            "_id": "6939c0377e925a1ae90e0539",
+            "_tpl": "6930aaa9374b0cca3302d7c4",
+            "parentId": "6939c0377e925a1ae90e0533",
+            "slotId": "mod_handguard"
+          },
+          {
+            "_id": "6939c0377e925a1ae90e0535",
+            "_tpl": "6930aaa9374b0cca3302d7c6",
+            "parentId": "6939c0377e925a1ae90e0531",
+            "slotId": "mod_pistol_grip"
+          },
+          {
+            "_id": "6939c0377e925a1ae90e0536",
+            "_tpl": "599860ac86f77436b225ed1a",
+            "parentId": "6939c0377e925a1ae90e0531",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "6939c0377e925a1ae90e0538",
+            "_tpl": "6930aaa9374b0cca3302d7c8",
+            "parentId": "6939c0377e925a1ae90e0531",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "6939c0377e925a1ae90e053a",
+            "_tpl": "6930b5f5374b0cca3302d7ce",
+            "parentId": "6939c0377e925a1ae90e0534",
+            "slotId": "mod_sight_rear"
+          }
+        ],
+        "_name": "PPK20Standard",
+        "_parent": "6939c0377e925a1ae90e0531",
+        "_type": "Preset"
+      }
+    ],
+    "traders": {
+    },
+    "staticLootContainers": [],
+    "masterySections": [
+      {
+        "Level2": 175,
+        "Level3": 350,
+        "Name": "PP19",
+        "Templates": [
+          "6930aaa9374b0cca3302d7c0"
+        ]
+      }
+    ]
+  },
+  "6930aaa9374b0cca3302d7c2": {
+    "itemTplToClone": "59985a6c86f77414ec448d17",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/PPK20/ppk20_dustcover.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+      {
+        "_name": "mod_scope",
+        "_id": "59985a6c86f77414ec448d18",
+        "_parent": "59985a6c86f77414ec448d17",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57ac965c24597706be5f975c",
+                "57aca93d2459771f2c7e26db",
+                "544a3f024bdc2d1d388b4568",
+                "544a3a774bdc2d3a388b4567",
+                "5d2dc3e548f035404a1a4798",
+                "57adff4f24597737f373b6e6",
+                "5c0517910db83400232ffee5",
+                "591c4efa86f7741030027726",
+                "570fd79bd2720bc7458b4583",
+                "570fd6c2d2720bc6458b457f",
+                "558022b54bdc2dac148b458d",
+                "5c07dd120db834001c39092d",
+                "5c0a2cec0db834001b7ce47d",
+                "58491f3324597764bc48fa02",
+                "584924ec24597768f12ae244",
+                "5b30b0dc5acfc400153b7124",
+                "6165ac8c290d254f5e6b2f6c",
+                "60a23797a37c940de7062d02",
+                "5d2da1e948f035477b1ce2ba",
+                "5c0505e00db834001b735073",
+                "609a63b6e2ff132951242d09",
+                "584984812459776a704a82a6",
+                "59f9d81586f7744c7506ee62",
+                "570fd721d2720bc5458b4596",
+                "57ae0171245977343c27bfcf",
+                "5dfe6104585a0c3e995c7b82",
+                "5d1b5e94d7ad1a2b865a96b0",
+                "609bab8b455afd752b2e6138",
+                "58d39d3d86f77445bb794ae7",
+                "616554fe50224f204c1da2aa",
+                "5c7d55f52e221644f31bff6a",
+                "616584766ef05c2ce828ef57",
+                "615d8d878004cc50514c3233",
+                "577d128124597739d65d0e56",
+                "58d2664f86f7747fec5834f6",
+                "5c1cdd302e221602b3137250",
+                "61714b2467085e45ef140b2c",
+                "5b31163c5acfc400153b71cb",
+                "5a33b652c4a28232996e407c",
+                "5a33b2c9c4a282000c5a9511",
+                "59db7eed86f77461f8380365",
+                "5a1ead28fcdbcb001912fa9f",
+                "5dff77c759400025ea5150cf",
+                "626bb8532c923541184624b4",
+                "62811f461d5df4475f46a332",
+                "6477772ea8a38bb2050ed4db",
+                "6478641c19d732620e045e17",
+                "64785e7c19d732620e045e15",
+                "65392f611406374f82152ba5",
+                "653931da5db71d30ab1d6296",
+                "655f13e0a246670fb0373245",
+                "67641a851b2899700609901a"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_sight_rear",
+        "_id": "59985a6c86f77414ec448d18",
+        "_parent": "59985a6c86f77414ec448d17",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6930b5f5374b0cca3302d7ce"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      }
+    ]
+    },
+    "locales": {
+      "en": {
+        "name": "Kalashnikov PPK-20 Dust Cover",
+        "shortName": "PPK20",
+        "description": "A standard-issue receiver dust cover for PPK-20 with a top rail for installation of various scopes, manufactured by Izhmash."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 2416,
+    "handbookPriceRoubles": 1921,
+    "addtoTraders": true,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6930aaa9374b0cca3302d7c3": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3987,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": []
+  },
+  "6930aaa9374b0cca3302d7c4": {
+    "itemTplToClone": "649ec127c93611967b034957",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/PPK20/ppk20_handguard.bundle",
+        "rcid": ""
+      },
+        "Weight": 0.102,
+        "Ergonomics": 10,
+        "Slots": [
+            {
+                "_name": "mod_mount_001",
+                "_id": "649ec127c93611967b034959",
+                "_parent": "649ec127c93611967b034957",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "5b7be47f5acfc400170e2dd2",
+                        "6269220d70b6c02e665f2635",
+                        "6269545d0e57f218e4548ca2",
+                        "669a6a4a525be1d2d004b8eb"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_mount_000",
+                "_id": "649ec127c93611967b034959",
+                "_parent": "649ec127c93611967b034957",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "5b7be47f5acfc400170e2dd2",
+                        "6269220d70b6c02e665f2635",
+                        "6269545d0e57f218e4548ca2",
+                        "669a6a4a525be1d2d004b8eb"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_tactical",
+                "_id": "649ec127c93611967b03495a",
+                "_parent": "649ec127c93611967b034957",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "558022b54bdc2dac148b458d",
+                        "58491f3324597764bc48fa02",
+                        "584924ec24597768f12ae244",
+                        "5b30b0dc5acfc400153b7124",
+                        "6165ac8c290d254f5e6b2f6c",
+                        "584984812459776a704a82a6",
+                        "59f9d81586f7744c7506ee62",
+                        "570fd721d2720bc5458b4596",
+                        "57ae0171245977343c27bfcf",
+                        "58d39d3d86f77445bb794ae7",
+                        "616554fe50224f204c1da2aa",
+                        "615d8d878004cc50514c3233",
+                        "577d128124597739d65d0e56",
+                        "58d2664f86f7747fec5834f6",
+                        "5649a2464bdc2d91118b45a8",
+                        "61714b2467085e45ef140b2c",
+                        "5b31163c5acfc400153b71cb",
+                        "5a33b652c4a28232996e407c",
+                        "5a33b2c9c4a282000c5a9511",
+                        "570fd6c2d2720bc6458b457f",
+                        "570fd79bd2720bc7458b4583",
+                        "60a23797a37c940de7062d02",
+                        "5d2da1e948f035477b1ce2ba",
+                        "5c7d55f52e221644f31bff6a",
+                        "616584766ef05c2ce828ef57",
+                        "57fd23e32459772d0805bcf1",
+                        "544909bb4bdc2d6f028b4577",
+                        "5d10b49bd7ad1a1a560708b0",
+                        "5c06595c0db834001a66af6c",
+                        "61605d88ffa6e502ac5e7eeb",
+                        "5c5952732e2216398b5abda2",
+                        "64785e7c19d732620e045e15",
+                        "644a3df63b0b6f03e101e065",
+                        "6477772ea8a38bb2050ed4db",
+                        "655f13e0a246670fb0373245"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_foregrip",
+                "_id": "649ec127c93611967b03495b",
+                "_parent": "649ec127c93611967b034957",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "5c7fc87d2e221644f31c0298",
+                        "5cda9bcfd7f00c0c0b53e900",
+                        "59f8a37386f7747af3328f06",
+                        "619386379fb0c665d5490dbe",
+                        "5c87ca002e221600114cb150",
+                        "588226d124597767ad33f787",
+                        "588226dd24597767ad33f789",
+                        "588226e62459776e3e094af7",
+                        "588226ef24597767af46e39c",
+                        "59fc48e086f77463b1118392",
+                        "5fce0cf655375d18a253eff0",
+                        "5cf4fb76d7f00c065703d3ac",
+                        "5b057b4f5acfc4771e1bd3e9",
+                        "5c791e872e2216001219c40a",
+                        "558032614bdc2de7118b4585",
+                        "58c157be86f77403c74b2bb6",
+                        "58c157c886f774032749fb06",
+                        "5f6340d3ca442212f4047eb2",
+                        "591af28e86f77414a27a9e1d",
+                        "5c1cd46f2e22164bef5cfedb",
+                        "5c1bc4812e22164bef5cfde7",
+                        "5c1bc5612e221602b5429350",
+                        "5c1bc5af2e221602b412949b",
+                        "5c1bc5fb2e221602b1779b32",
+                        "5c1bc7432e221602b412949d",
+                        "5c1bc7752e221602b1779b34",
+                        "64806bdd26c80811d408d37a",
+                        "64807a29e5ffe165600abc97",
+                        "648067db042be0705c0b3009",
+                        "65169d5b30425317755f8e25",
+                        "655df24fdf80b12750626d0a",
+                        "655dccfdbdcc6b5df71382b6",
+                        "661e52e29c8b4dadef008577",
+                        "661e53149c8b4dadef008579",
+                        "661e52415be02310ed07a07a",
+                        "661e52b5b099f32c28003586"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            }
+        ]
+    },
+    "locales": {
+      "en": {
+        "name": "Kalashnikov PPK-20 Handguard",
+        "shortName": "PPK20",
+        "description": "The standard-issue handguard for the PPK-20. Manufactured by Izhmash."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 8913,
+    "handbookPriceRoubles": 6271,
+    "addtoTraders": true,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6930aaa9374b0cca3302d7c5": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 14707,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": [],
+    "masterySections": [
+      {
+        "Name": "AK74",
+        "Templates": [
+          "678fe4a4906c7bd23722c71f"
+        ]
+      }
+    ]
+  },
+  "6930aaa9374b0cca3302d7c6": {
+    "itemTplToClone": "5beec8ea0db834001a6f9dbf",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/PPK20/ppk20_pgrip.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Kalashnikov PPK-20 pistol grip",
+        "shortName": "PPK-20",
+        "description": "Pistol grip for the Kalashnikov PPK-20 submachine gun, manufactured by Izhmash."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_pistol_grip"
+    ],
+    "fleaPriceRoubles": 1725,
+    "handbookPriceRoubles": 1465,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 9
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6930aaa9374b0cca3302d7c7": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3274,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "AK",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6930aaa9374b0cca3302d7c8": {
+    "itemTplToClone": "6761779c48fa5c377e06fc3f",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/PPK20/ppk20_stock.bundle",
+        "rcid": ""
+      },
+        "Weight": 0.278,
+        "Ergonomics": 11,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Kalashnikov PPK-20 Stock",
+        "shortName": "PPK-20",
+        "description": "Telescopic stock for the Kalashnikov PPK-20 submachine gun, manufactured by Izhmash."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_stock_001"
+    ],
+    "fleaPriceRoubles": 21523,
+    "handbookPriceRoubles": 18954,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 9
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6930aaa9374b0cca3302d7c9": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 27919,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "AK",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6930b5f5374b0cca3302d7cc": {
+    "itemTplToClone": "59ccd11386f77428f24a488f",
+    "parentId": "56ea9461d2720b67698b456f",
+    "handbookParentId": "5b5f760586f774093e6cb509",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/PPK20/ppk20_gasblock.bundle",
+        "rcid": ""
+      },
+        "Slots": [
+            {
+                "_name": "mod_handguard",
+                "_id": "59ccd11386f77428f24a4890",
+                "_parent": "59ccd11386f77428f24a488f",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "6930aaa9374b0cca3302d7c4"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": true,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            }
+        ]
+    },
+    "locales": {
+      "en": {
+        "name": "Kalashnikov PPK-20 Gas Block",
+        "shortName": "PPK Gas",
+        "description": "Gas block for the Kalashnikov PPK-20 submachine gun, manufactured by Izhmash."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 1793,
+    "handbookPriceRoubles": 1190,
+    "addtoTraders": true,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6930b5f5374b0cca3302d7cd": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 2959,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": [],
+    "masterySections": [
+      {
+        "Name": "AK74",
+        "Templates": [
+          "678fe4a4906c7bd23722c71f"
+        ]
+      }
+    ]
+  },
+  "6930b5f5374b0cca3302d7ce": {
+    "itemTplToClone": "5bc09a18d4351e003562b68e",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/PPK20/ppk20_rear.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "6499849fc93611967b034949"
+      ],
+      "ExaminedByDefault": true
+    },
+    "locales": {
+      "en": {
+        "name": "Kalashnikov PPK-20 rear sight",
+        "shortName": "PPK RS",
+        "description": "Rear sight for the Kalashnikov PPK-20 submachine gun."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_sight_rear"
+    ],
+    "fleaPriceRoubles": 920,
+    "handbookPriceRoubles": 876,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6930b5f5374b0cca3302d7cf": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1518,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  }
+}

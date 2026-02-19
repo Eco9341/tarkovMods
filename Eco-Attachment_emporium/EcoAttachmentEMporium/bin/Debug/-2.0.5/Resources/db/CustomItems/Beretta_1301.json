@@ -1,0 +1,3213 @@
+{
+  "68fc9d35a95c0e57110beeab": {
+    "itemTplToClone": "56dee2bdd2720bc8328b4567",
+    "parentId": "5447b6094bdc2dc3278b4567",
+    "handbookParentId": "5b5f794b86f77409407a7f92",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Beretta_1301/beretta1301_container.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_barrel",
+          "_id": "56deec06d2720bec348b4567",
+          "_parent": "56dee2bdd2720bc8328b4567",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68fe5b162b85e5d74c05a584",
+                  "68fe896c2b85e5d74c05a5ac",
+                  "68fe896c2b85e5d74c05a5ad"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_handguard",
+          "_id": "56deef95d2720b4c698b4584",
+          "_parent": "56dee2bdd2720bc8328b4567",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68fe57f92b85e5d74c05a575",
+                  "68fe57f92b85e5d74c05a576",
+                  "68fe57f92b85e5d74c05a577",
+                  "68fe57f92b85e5d74c05a578",
+                  "68fe57f92b85e5d74c05a579",
+                  "68fe57f92b85e5d74c05a57a",
+                  "68fe57f92b85e5d74c05a57b",
+                  "68fe57f92b85e5d74c05a57c"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_magazine",
+          "_id": "56deefc4d2720bb1328b4568",
+          "_parent": "56dee2bdd2720bc8328b4567",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex": -1,
+                "Filter": [
+                  "68fe5b162b85e5d74c05a585",
+                  "68fe5b162b85e5d74c05a586"
+                ]
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c394bdc2dae468b4577"
+        },
+        {
+          "_name": "mod_stock",
+          "_id": "56def02cd2720bec348b4569",
+          "_parent": "56dee2bdd2720bc8328b4567",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68fe57f92b85e5d74c05a57d",
+                  "68fe57f92b85e5d74c05a57e",
+                  "68fe5b162b85e5d74c05a57f",
+                  "68fe5b162b85e5d74c05a580",
+                  "68fe5b162b85e5d74c05a581",
+                  "68fe5b162b85e5d74c05a582",
+                  "68fe5b162b85e5d74c05a583"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount",
+          "_id": "56f2a14dd2720bc7308b45a2",
+          "_parent": "56dee2bdd2720bc8328b4567",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68fe5b162b85e5d74c05a587",
+                  "68fe5b162b85e5d74c05a588"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_000",
+          "_id": "58172a6d24597714a658fe64",
+          "_parent": "56dee2bdd2720bc8328b4567",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68fe896c2b85e5d74c05a5b0"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "Ergonomics": 55,
+      "Weight": 1.8,
+      "isChamberLoad": true,
+      "chamberAmmoCount": 1,
+      "isBoltCatch": true
+    },
+    "locales": {
+      "en": {
+        "name": "Beretta 1301 Tactical Marine 12ga semi-automatic shotgun",
+        "shortName": "Beretta 1301",
+        "description": "The Beretta 1301 Tactical, the successor to the Tx4 Storm, began production in Italy in 2014. The Tx4 Storm received poor sales due to its relatively high price tag. As a result, the 1301 employed various cost-saving measures such as changing the rear sights and Picatinny rail from machined metal to polymer, and the removal of rubberized grips found on the forend and grip lifted from the earlier A391 Xtrema 2. Main improvements from the Tx4 Storm includes an enlarged polymer charging handle and an oversized bolt release lever, which doubles as a magazine ejection button when pressed on the rear side or lifted up from the front. It is often viewed as a competitor to the Benelli M4 despite being priced similarly to the cheaper Benelli M2.As of 2024, there are three main Tactical variants: 1301 Tactical (Gen 2 Enhanced), 1301 Tactical LE, and 1301 Tactical Mod.2. Each model comes standard with a traditional stock but can be purchased with a Mesa Tactical Urbino pistol grip stock from the factory. The 1301 Tactical currently has three factory colors: Black, Flat Dark Earth, and Olive Green Drab. A fourth color, Marine, was previously available but discontinued due to the weaker silver finish wearing off quickly. The Mod.2 is additionally available in grey."
+      }
+    },
+    "addtoInventorySlots": [
+      "FirstPrimaryWeapon",
+      "SecondPrimaryWeapon"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 18642,
+    "handbookPriceRoubles": 14424,
+    "addtoTraders": false,
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+        {
+          "_id": "6939f7b9e539c37b200ff4cd",
+          "_type": "Preset",
+          "_changeWeaponName": false,
+          "_name": "B1301 Base",
+          "_parent": "6939f7b9e539c37b200ff4ce",
+          "_items": [
+            {
+              "_id": "6939f7b9e539c37b200ff4ce",
+              "_tpl": "68fc9d35a95c0e57110beeab",
+              "upd": {
+                "Repairable": {
+                  "Durability": 98.79242,
+                  "MaxDurability": 100
+                },
+                "FireMode": {
+                  "FireMode": "single"
+                }
+              }
+            },
+            {
+              "_id": "6939f7b9e539c37b200ff4cf",
+              "_tpl": "68fe5b162b85e5d74c05a584",
+              "parentId": "6939f7b9e539c37b200ff4ce",
+              "slotId": "mod_barrel"
+            },
+            {
+              "_id": "6939f7b9e539c37b200ff4d0",
+              "_tpl": "68fe57f92b85e5d74c05a578",
+              "parentId": "6939f7b9e539c37b200ff4ce",
+              "slotId": "mod_handguard"
+            },
+            {
+              "_id": "6939f7b9e539c37b200ff4d1",
+              "_tpl": "68fe5b162b85e5d74c05a585",
+              "parentId": "6939f7b9e539c37b200ff4ce",
+              "slotId": "mod_magazine"
+            },
+            {
+              "_id": "6939f7b9e539c37b200ff4d2",
+              "_tpl": "68fe5b162b85e5d74c05a581",
+              "parentId": "6939f7b9e539c37b200ff4ce",
+              "slotId": "mod_stock"
+            }
+          ],
+          "_encyclopedia": "68fc9d35a95c0e57110beeab"
+        }
+    ],
+    "traders": {
+      "SKIER": {
+        "690a9521b92ab495d00df8ff": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1707,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": [],
+    "masterySections": [
+      {
+        "Level2": 150,
+        "Level3": 200,
+        "Name": "1301",
+        "Templates": [
+          "68fc9d35a95c0e57110beeab"
+        ]
+      }
+    ]
+  },
+  "68fe896c2b85e5d74c05a5ae": {
+    "itemTplToClone": "56dee2bdd2720bc8328b4567",
+    "parentId": "5447b6094bdc2dc3278b4567",
+    "handbookParentId": "5b5f794b86f77409407a7f92",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Beretta_1301/beretta1301_fde_container.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_barrel",
+          "_id": "56deec06d2720bec348b4567",
+          "_parent": "56dee2bdd2720bc8328b4567",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68fe5b162b85e5d74c05a584",
+                  "68fe896c2b85e5d74c05a5ac",
+                  "68fe896c2b85e5d74c05a5ad"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_handguard",
+          "_id": "56deef95d2720b4c698b4584",
+          "_parent": "56dee2bdd2720bc8328b4567",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68fe57f92b85e5d74c05a575",
+                  "68fe57f92b85e5d74c05a576",
+                  "68fe57f92b85e5d74c05a577",
+                  "68fe57f92b85e5d74c05a578",
+                  "68fe57f92b85e5d74c05a579",
+                  "68fe57f92b85e5d74c05a57a",
+                  "68fe57f92b85e5d74c05a57b",
+                  "68fe57f92b85e5d74c05a57c"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_magazine",
+          "_id": "56deefc4d2720bb1328b4568",
+          "_parent": "56dee2bdd2720bc8328b4567",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex": -1,
+                "Filter": [
+                  "68fe5b162b85e5d74c05a585",
+                  "68fe5b162b85e5d74c05a586"
+                ]
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c394bdc2dae468b4577"
+        },
+        {
+          "_name": "mod_stock",
+          "_id": "56def02cd2720bec348b4569",
+          "_parent": "56dee2bdd2720bc8328b4567",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68fe57f92b85e5d74c05a57d",
+                  "68fe57f92b85e5d74c05a57e",
+                  "68fe5b162b85e5d74c05a57f",
+                  "68fe5b162b85e5d74c05a580",
+                  "68fe5b162b85e5d74c05a581",
+                  "68fe5b162b85e5d74c05a582",
+                  "68fe5b162b85e5d74c05a583"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount",
+          "_id": "56f2a14dd2720bc7308b45a2",
+          "_parent": "56dee2bdd2720bc8328b4567",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68fe5b162b85e5d74c05a587",
+                  "68fe5b162b85e5d74c05a588"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_000",
+          "_id": "58172a6d24597714a658fe64",
+          "_parent": "56dee2bdd2720bc8328b4567",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68fe896c2b85e5d74c05a5b0"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "Ergonomics": 55,
+      "Weight": 1.8,
+      "isChamberLoad": true,
+      "chamberAmmoCount": 1,
+      "isBoltCatch": true
+    },
+    "locales": {
+      "en": {
+        "name": "Beretta 1301 Tactical Marine 12ga semi-automatic shotgun (FDE)",
+        "shortName": "Beretta 1301",
+        "description": "The Beretta 1301 Tactical, the successor to the Tx4 Storm, began production in Italy in 2014. The Tx4 Storm received poor sales due to its relatively high price tag. As a result, the 1301 employed various cost-saving measures such as changing the rear sights and Picatinny rail from machined metal to polymer, and the removal of rubberized grips found on the forend and grip lifted from the earlier A391 Xtrema 2. Main improvements from the Tx4 Storm includes an enlarged polymer charging handle and an oversized bolt release lever, which doubles as a magazine ejection button when pressed on the rear side or lifted up from the front. It is often viewed as a competitor to the Benelli M4 despite being priced similarly to the cheaper Benelli M2.As of 2024, there are three main Tactical variants: 1301 Tactical (Gen 2 Enhanced), 1301 Tactical LE, and 1301 Tactical Mod.2. Each model comes standard with a traditional stock but can be purchased with a Mesa Tactical Urbino pistol grip stock from the factory. The 1301 Tactical currently has three factory colors: Black, Flat Dark Earth, and Olive Green Drab. A fourth color, Marine, was previously available but discontinued due to the weaker silver finish wearing off quickly. The Mod.2 is additionally available in grey."
+      }
+    },
+    "addtoInventorySlots": [
+      "FirstPrimaryWeapon",
+      "SecondPrimaryWeapon"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 18642,
+    "handbookPriceRoubles": 14424,
+    "addtoTraders": false,
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+          {
+            "_id": "6939f7b9e539c37b200ff453",
+            "_type": "Preset",
+            "_changeWeaponName": false,
+            "_name": "B1301 FDE",
+            "_parent": "6939f7b9e539c37b200ff454",
+            "_items": [
+              {
+                "_id": "6939f7b9e539c37b200ff454",
+                "_tpl": "68fe896c2b85e5d74c05a5ae",
+                "upd": {
+                  "Repairable": {
+                    "Durability": 98.06787,
+                    "MaxDurability": 100
+                  },
+                  "FireMode": {
+                    "FireMode": "single"
+                  }
+                }
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff455",
+                "_tpl": "68fe896c2b85e5d74c05a5ac",
+                "parentId": "6939f7b9e539c37b200ff454",
+                "slotId": "mod_barrel"
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff456",
+                "_tpl": "68fe57f92b85e5d74c05a579",
+                "parentId": "6939f7b9e539c37b200ff454",
+                "slotId": "mod_handguard"
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff457",
+                "_tpl": "68fe5b162b85e5d74c05a585",
+                "parentId": "6939f7b9e539c37b200ff454",
+                "slotId": "mod_magazine"
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff458",
+                "_tpl": "68fe5b162b85e5d74c05a582",
+                "parentId": "6939f7b9e539c37b200ff454",
+                "slotId": "mod_stock"
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff459",
+                "_tpl": "560d5e524bdc2d25448b4571",
+                "parentId": "6939f7b9e539c37b200ff454",
+                "slotId": "patron_in_weapon"
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff45a",
+                "_tpl": "560d5e524bdc2d25448b4571",
+                "parentId": "6939ee90e539c37b200e189a",
+                "slotId": "cartridges",
+                "upd": {
+                  "StackObjectsCount": 5
+                }
+              }
+            ],
+            "_encyclopedia": "68fe896c2b85e5d74c05a5ae"
+          }
+    ],
+    "traders": {
+      "SKIER": {
+        "690a9521b92ab495d00df900": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1707,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": [],
+    "masterySections": [
+      {
+        "Level2": 150,
+        "Level3": 200,
+        "Name": "1301",
+        "Templates": [
+          "68fe896c2b85e5d74c05a5ae"
+        ]
+      }
+    ]
+  },
+  "68fe896c2b85e5d74c05a5af": {
+    "itemTplToClone": "56dee2bdd2720bc8328b4567",
+    "parentId": "5447b6094bdc2dc3278b4567",
+    "handbookParentId": "5b5f794b86f77409407a7f92",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Beretta_1301/beretta1301_od_container.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_barrel",
+          "_id": "56deec06d2720bec348b4567",
+          "_parent": "56dee2bdd2720bc8328b4567",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68fe5b162b85e5d74c05a584",
+                  "68fe896c2b85e5d74c05a5ac",
+                  "68fe896c2b85e5d74c05a5ad"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_handguard",
+          "_id": "56deef95d2720b4c698b4584",
+          "_parent": "56dee2bdd2720bc8328b4567",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68fe57f92b85e5d74c05a575",
+                  "68fe57f92b85e5d74c05a576",
+                  "68fe57f92b85e5d74c05a577",
+                  "68fe57f92b85e5d74c05a578",
+                  "68fe57f92b85e5d74c05a579",
+                  "68fe57f92b85e5d74c05a57a",
+                  "68fe57f92b85e5d74c05a57b",
+                  "68fe57f92b85e5d74c05a57c"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_magazine",
+          "_id": "56deefc4d2720bb1328b4568",
+          "_parent": "56dee2bdd2720bc8328b4567",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex": -1,
+                "Filter": [
+                  "68fe5b162b85e5d74c05a585",
+                  "68fe5b162b85e5d74c05a586"
+                ]
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c394bdc2dae468b4577"
+        },
+        {
+          "_name": "mod_stock",
+          "_id": "56def02cd2720bec348b4569",
+          "_parent": "56dee2bdd2720bc8328b4567",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68fe57f92b85e5d74c05a57d",
+                  "68fe57f92b85e5d74c05a57e",
+                  "68fe5b162b85e5d74c05a57f",
+                  "68fe5b162b85e5d74c05a580",
+                  "68fe5b162b85e5d74c05a581",
+                  "68fe5b162b85e5d74c05a582",
+                  "68fe5b162b85e5d74c05a583"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount",
+          "_id": "56f2a14dd2720bc7308b45a2",
+          "_parent": "56dee2bdd2720bc8328b4567",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68fe5b162b85e5d74c05a587",
+                  "68fe5b162b85e5d74c05a588"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_000",
+          "_id": "58172a6d24597714a658fe64",
+          "_parent": "56dee2bdd2720bc8328b4567",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68fe896c2b85e5d74c05a5b0"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "Ergonomics": 55,
+      "Weight": 1.8,
+      "isChamberLoad": true,
+      "chamberAmmoCount": 1,
+      "isBoltCatch": true
+    },
+    "locales": {
+      "en": {
+        "name": "Beretta 1301 Tactical Marine 12ga semi-automatic shotgun (OD Green)",
+        "shortName": "Beretta 1301",
+        "description": "The Beretta 1301 Tactical, the successor to the Tx4 Storm, began production in Italy in 2014. The Tx4 Storm received poor sales due to its relatively high price tag. As a result, the 1301 employed various cost-saving measures such as changing the rear sights and Picatinny rail from machined metal to polymer, and the removal of rubberized grips found on the forend and grip lifted from the earlier A391 Xtrema 2. Main improvements from the Tx4 Storm includes an enlarged polymer charging handle and an oversized bolt release lever, which doubles as a magazine ejection button when pressed on the rear side or lifted up from the front. It is often viewed as a competitor to the Benelli M4 despite being priced similarly to the cheaper Benelli M2.As of 2024, there are three main Tactical variants: 1301 Tactical (Gen 2 Enhanced), 1301 Tactical LE, and 1301 Tactical Mod.2. Each model comes standard with a traditional stock but can be purchased with a Mesa Tactical Urbino pistol grip stock from the factory. The 1301 Tactical currently has three factory colors: Black, Flat Dark Earth, and Olive Green Drab. A fourth color, Marine, was previously available but discontinued due to the weaker silver finish wearing off quickly. The Mod.2 is additionally available in grey."
+      }
+    },
+    "addtoInventorySlots": [
+      "FirstPrimaryWeapon",
+      "SecondPrimaryWeapon"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 18642,
+    "handbookPriceRoubles": 14424,
+    "addtoTraders": false,
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+          {
+            "_id": "6939f7b9e539c37b200ff54e",
+            "_type": "Preset",
+            "_changeWeaponName": false,
+            "_name": "B1301 GREEN Base",
+            "_parent": "6939f7b9e539c37b200ff54f",
+            "_items": [
+              {
+                "_id": "6939f7b9e539c37b200ff54f",
+                "_tpl": "68fe896c2b85e5d74c05a5af",
+                "upd": {
+                  "Repairable": {
+                    "Durability": 100,
+                    "MaxDurability": 100
+                  },
+                  "FireMode": {
+                    "FireMode": "single"
+                  }
+                }
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff550",
+                "_tpl": "68fe896c2b85e5d74c05a5ad",
+                "parentId": "6939f7b9e539c37b200ff54f",
+                "slotId": "mod_barrel"
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff551",
+                "_tpl": "68fe57f92b85e5d74c05a57a",
+                "parentId": "6939f7b9e539c37b200ff54f",
+                "slotId": "mod_handguard"
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff552",
+                "_tpl": "68fe5b162b85e5d74c05a585",
+                "parentId": "6939f7b9e539c37b200ff54f",
+                "slotId": "mod_magazine"
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff553",
+                "_tpl": "68fe5b162b85e5d74c05a583",
+                "parentId": "6939f7b9e539c37b200ff54f",
+                "slotId": "mod_stock"
+              }
+            ],
+            "_encyclopedia": "68fe896c2b85e5d74c05a5af"
+          }
+    ],
+    "traders": {
+      "SKIER": {
+        "690a9521b92ab495d00df901": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1707,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": [],
+    "masterySections": [
+      {
+        "Level2": 150,
+        "Level3": 200,
+        "Name": "1301",
+        "Templates": [
+          "68fe896c2b85e5d74c05a5af"
+        ]
+      }
+    ]
+  },
+  "68fe57f92b85e5d74c05a575": {
+    "itemTplToClone": "5a788068c5856700137e4c8f",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Beretta_1301/handguard_zhukov.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.31,
+      "Ergonomics": 14,
+      "ConflictingItems": [],
+      "Slots": [
+        {
+          "_name": "mod_mount_001",
+          "_id": "649ec127c93611967b034959",
+          "_parent": "649ec127c93611967b034957",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_000",
+          "_id": "649ec127c93611967b03495a",
+          "_parent": "649ec127c93611967b034957",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_foregrip",
+          "_id": "649ec127c93611967b03495b",
+          "_parent": "649ec127c93611967b034957",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57cffb66245977632f391a99",
+                  "57cffcd624597763133760c5",
+                  "57cffcdd24597763f5110006",
+                  "57cffce524597763b31685d8",
+                  "5b7be4895acfc400170e2dd5",
+                  "651a8e529829226ceb67c319",
+                  "651a8bf3a8520e48047bf708",
+                  "665d5d9e338229cfd6078da1",
+                  "665edce564fb556f940ab32a"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "B1301 Magpul Zhukov handguard",
+        "shortName": "Zhukov",
+        "description": "The Magpul Zhukov handguard, designed for the Beretta 1301 shotgun."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 19200,
+    "handbookPriceRoubles": 17564,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "SKIER": {
+        "690a9521b92ab495d00df902": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 378,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "68fe57f92b85e5d74c05a576": {
+    "itemTplToClone": "5a788068c5856700137e4c8f",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Beretta_1301/handguard_zhukov_fde.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.31,
+      "Ergonomics": 14,
+      "ConflictingItems": [],
+      "Slots": [
+        {
+          "_name": "mod_mount_001",
+          "_id": "649ec127c93611967b034959",
+          "_parent": "649ec127c93611967b034957",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_000",
+          "_id": "649ec127c93611967b03495a",
+          "_parent": "649ec127c93611967b034957",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_foregrip",
+          "_id": "649ec127c93611967b03495b",
+          "_parent": "649ec127c93611967b034957",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57cffb66245977632f391a99",
+                  "57cffcd624597763133760c5",
+                  "57cffcdd24597763f5110006",
+                  "57cffce524597763b31685d8",
+                  "5b7be4895acfc400170e2dd5",
+                  "651a8e529829226ceb67c319",
+                  "651a8bf3a8520e48047bf708",
+                  "665d5d9e338229cfd6078da1",
+                  "665edce564fb556f940ab32a"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "B1301 Magpul Zhukov handguard (FDE)",
+        "shortName": "Zhukov",
+        "description": "The Magpul Zhukov handguard, designed for the Beretta 1301 shotgun. Flat Dark Earth color variant."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 19200,
+    "handbookPriceRoubles": 17564,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "SKIER": {
+        "690a9521b92ab495d00df903": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 378,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "68fe57f92b85e5d74c05a577": {
+    "itemTplToClone": "5a788068c5856700137e4c8f",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Beretta_1301/handguard_zhukov_od.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.31,
+      "Ergonomics": 14,
+      "ConflictingItems": [],
+      "Slots": [
+        {
+          "_name": "mod_mount_001",
+          "_id": "649ec127c93611967b034959",
+          "_parent": "649ec127c93611967b034957",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_000",
+          "_id": "649ec127c93611967b03495a",
+          "_parent": "649ec127c93611967b034957",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_foregrip",
+          "_id": "649ec127c93611967b03495b",
+          "_parent": "649ec127c93611967b034957",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57cffb66245977632f391a99",
+                  "57cffcd624597763133760c5",
+                  "57cffcdd24597763f5110006",
+                  "57cffce524597763b31685d8",
+                  "5b7be4895acfc400170e2dd5",
+                  "651a8e529829226ceb67c319",
+                  "651a8bf3a8520e48047bf708",
+                  "665d5d9e338229cfd6078da1",
+                  "665edce564fb556f940ab32a"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "B1301 Magpul Zhukov handguard (OD Green)",
+        "shortName": "Zhukov",
+        "description": "The Magpul Zhukov handguard, designed for the Beretta 1301 shotgun. OD Green color variant."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 19200,
+    "handbookPriceRoubles": 17564,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "SKIER": {
+        "690a9521b92ab495d00df904": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 378,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "68fe57f92b85e5d74c05a578": {
+    "itemTplToClone": "56deed6ed2720b4c698b4583",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Beretta_1301/handguard_standard.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": []
+    },
+    "locales": {
+      "en": {
+        "name": "B1301 standard forearm",
+        "shortName": "B1301",
+        "description": "The standard forearm, designed for the Beretta 1301 shotgun."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 5324,
+    "handbookPriceRoubles": 2324,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "SKIER": {
+        "690a9521b92ab495d00df905": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 60,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "68fe57f92b85e5d74c05a579": {
+    "itemTplToClone": "56deed6ed2720b4c698b4583",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Beretta_1301/handguard_standard_fde.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": []
+    },
+    "locales": {
+      "en": {
+        "name": "B1301 standard forearm (FDE)",
+        "shortName": "B1301",
+        "description": "The standard forearm, designed for the Beretta 1301 shotgun. Flat Dark Earth color variant."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 5324,
+    "handbookPriceRoubles": 2324,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "SKIER": {
+        "690a9521b92ab495d00df906": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 60,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "68fe57f92b85e5d74c05a57a": {
+    "itemTplToClone": "56deed6ed2720b4c698b4583",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Beretta_1301/handguard_standard_od.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": []
+    },
+    "locales": {
+      "en": {
+        "name": "B1301 standard forearm (OD Green)",
+        "shortName": "B1301",
+        "description": "The standard forearm, designed for the Beretta 1301 shotgun. Olive Drab color variant."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 5324,
+    "handbookPriceRoubles": 2324,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "SKIER": {
+        "690a9521b92ab495d00df907": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 60,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "68fe57f92b85e5d74c05a57b": {
+    "itemTplToClone": "5a788068c5856700137e4c8f",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Beretta_1301/handguard_mod2.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.31,
+      "Ergonomics": 14,
+      "ConflictingItems": [],
+      "Slots": [
+        {
+          "_name": "mod_mount_001",
+          "_id": "649ec127c93611967b034959",
+          "_parent": "649ec127c93611967b034957",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_000",
+          "_id": "649ec127c93611967b03495a",
+          "_parent": "649ec127c93611967b034957",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount",
+          "_id": "649ec127c93611967b03495b",
+          "_parent": "649ec127c93611967b034957",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "B1301 Handguard Mod.2",
+        "shortName": "B1301 Mod.2",
+        "description": "The Mod.2 handguard, designed for the Beretta 1301 shotgun."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 14563,
+    "handbookPriceRoubles": 12021,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "SKIER": {
+        "690a9521b92ab495d00df908": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 289,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "68fe57f92b85e5d74c05a57c": {
+    "itemTplToClone": "5a788068c5856700137e4c8f",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Beretta_1301/handguard_mod2_fde.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.31,
+      "Ergonomics": 14,
+      "ConflictingItems": [],
+      "Slots": [
+        {
+          "_name": "mod_mount_001",
+          "_id": "649ec127c93611967b034959",
+          "_parent": "649ec127c93611967b034957",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_000",
+          "_id": "649ec127c93611967b03495a",
+          "_parent": "649ec127c93611967b034957",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount",
+          "_id": "649ec127c93611967b03495b",
+          "_parent": "649ec127c93611967b034957",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "B1301 Handguard Mod.2 (FDE)",
+        "shortName": "B1301 Mod.2",
+        "description": "The Mod.2 handguard, designed for the Beretta 1301 shotgun. Flat Dark Earth color variant."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 14563,
+    "handbookPriceRoubles": 12021,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "SKIER": {
+        "690a9521b92ab495d00df909": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 289,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "68fe57f92b85e5d74c05a57d": {
+    "itemTplToClone": "5a78813bc5856700186c4abe",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Beretta_1301/stock_magpul.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "B1301 Magpul SGA polymer stock for Beretta 1301",
+        "shortName": "B1301 Magpul SGA",
+        "description": "An ergonomic polymer stock for the Remington Model 870 shotgun with a rubber butt-plate, manufactured by Magpul. Modified for use with the Beretta 1301 shotgun."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_stock"
+    ],
+    "fleaPriceRoubles": 14981,
+    "handbookPriceRoubles": 11022,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 23
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "690a9521b92ab495d00df90a": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 352,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68fe57f92b85e5d74c05a57e": {
+    "itemTplToClone": "5a78813bc5856700186c4abe",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Beretta_1301/stock_magpul_fde.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "B1301 Magpul SGA polymer stock for Beretta 1301 (FDE)",
+        "shortName": "B1301 Magpul SGA",
+        "description": "An ergonomic polymer stock for the Remington Model 870 shotgun with a rubber butt-plate, manufactured by Magpul. Modified for use with the Beretta 1301 shotgun. Flat Dark Earth color variant."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_stock"
+    ],
+    "fleaPriceRoubles": 14981,
+    "handbookPriceRoubles": 11022,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 23
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "690a9521b92ab495d00df90b": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 352,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68fe5b162b85e5d74c05a57f": {
+    "itemTplToClone": "5a78813bc5856700186c4abe",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Beretta_1301/stock_magpul_odg.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "B1301 Magpul SGA polymer stock for Beretta 1301 (OD Green)",
+        "shortName": "B1301 Magpul SGA",
+        "description": "An ergonomic polymer stock for the Remington Model 870 shotgun with a rubber butt-plate, manufactured by Magpul. Modified for use with the Beretta 1301 shotgun. OD Green color variant."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_stock"
+    ],
+    "fleaPriceRoubles": 14981,
+    "handbookPriceRoubles": 11022,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 23
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "690a9521b92ab495d00df90c": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 352,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68fe5b162b85e5d74c05a580": {
+    "itemTplToClone": "625eb0faa6e3a82193267ad9",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Beretta_1301/stock_urbino.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Beretta 1301 Mesa Tactical Urbino stock",
+        "shortName": "B1301 Urbino",
+        "description": "The Urbino fixed-length stock with a pistol grip for the Beretta 1301 shotgun manufactured by Mesa Tactical."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_stock"
+    ],
+    "fleaPriceRoubles": 6600,
+    "handbookPriceRoubles": 3423,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 23
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "690a9521b92ab495d00df90d": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 120,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68fe5b162b85e5d74c05a581": {
+    "itemTplToClone": "56083be64bdc2d20478b456f",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Beretta_1301/stock_standard.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Beretta 1301 standard stock",
+        "shortName": "B1301",
+        "description": "The standard stock for the Beretta 1301 shotgun."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_stock"
+    ],
+    "fleaPriceRoubles": 1541,
+    "handbookPriceRoubles": 1123,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 23
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "690a9521b92ab495d00df90e": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 18,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68fe5b162b85e5d74c05a582": {
+    "itemTplToClone": "56083be64bdc2d20478b456f",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Beretta_1301/stock_standard_fde.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Beretta 1301 standard stock (FDE)",
+        "shortName": "B1301",
+        "description": "The standard stock for the Beretta 1301 shotgun. Flat Dark Earth color variant."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_stock"
+    ],
+    "fleaPriceRoubles": 1541,
+    "handbookPriceRoubles": 1123,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 23
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "690a9521b92ab495d00df90f": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 18,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68fe5b162b85e5d74c05a583": {
+    "itemTplToClone": "56083be64bdc2d20478b456f",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Beretta_1301/stock_standard_odg.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Beretta 1301 standard stock (OD Green)",
+        "shortName": "B1301",
+        "description": "The standard stock for the Beretta 1301 shotgun. OD Green color variant."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_stock"
+    ],
+    "fleaPriceRoubles": 1541,
+    "handbookPriceRoubles": 1123,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 23
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "690a9521b92ab495d00df910": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 18,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68fe5b162b85e5d74c05a584": {
+    "itemTplToClone": "6259c2c1d714855d182bad85",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Beretta_1301/beretta_barrel.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_muzzle",
+          "_id": "564e840e4bdc2df55a8b4567",
+          "_parent": "560835c74bdc2dc8488b456f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0111ab0db834001966914d",
+                  "560838c94bdc2d77798b4569",
+                  "5b363dea5acfc4771e1c5e7e"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount",
+          "_id": "5dfe1e7859400025ea5150b2",
+          "_parent": "560835c74bdc2dc8488b456f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Beretta 1301 12ga barrel 470mm",
+        "shortName": "B1301 12ga",
+        "description": "The standard 12-gauge barrel for the Beretta 1301 shotgun."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 500,
+    "handbookPriceRoubles": 232,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "SKIER": {
+        "690a9521b92ab495d00df911": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 6,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "68fe896c2b85e5d74c05a5ac": {
+    "itemTplToClone": "6259c2c1d714855d182bad85",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Beretta_1301/beretta_barrel_fde.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_muzzle",
+          "_id": "564e840e4bdc2df55a8b4567",
+          "_parent": "560835c74bdc2dc8488b456f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0111ab0db834001966914d",
+                  "560838c94bdc2d77798b4569",
+                  "5b363dea5acfc4771e1c5e7e"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount",
+          "_id": "5dfe1e7859400025ea5150b2",
+          "_parent": "560835c74bdc2dc8488b456f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Beretta 1301 12ga barrel 470mm (FDE)",
+        "shortName": "B1301 12ga",
+        "description": "The standard 12-gauge barrel for the Beretta 1301 shotgun. Flat Dark Earth color variant."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 500,
+    "handbookPriceRoubles": 232,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "SKIER": {
+        "690a9521b92ab495d00df912": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 6,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "68fe896c2b85e5d74c05a5ad": {
+    "itemTplToClone": "6259c2c1d714855d182bad85",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Beretta_1301/beretta_barrel_od.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_muzzle",
+          "_id": "564e840e4bdc2df55a8b4567",
+          "_parent": "560835c74bdc2dc8488b456f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0111ab0db834001966914d",
+                  "560838c94bdc2d77798b4569",
+                  "5b363dea5acfc4771e1c5e7e"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount",
+          "_id": "5dfe1e7859400025ea5150b2",
+          "_parent": "560835c74bdc2dc8488b456f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Beretta 1301 12ga barrel 470mm (OD Green)",
+        "shortName": "B1301 12ga",
+        "description": "The standard 12-gauge barrel for the Beretta 1301 shotgun. OD Green color variant."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 500,
+    "handbookPriceRoubles": 232,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "SKIER": {
+        "690a9521b92ab495d00df913": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 6,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "68fe5b162b85e5d74c05a585": {
+    "itemTplToClone": "5882163e24597758206fee8c",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Beretta_1301/mag_small.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Beretta 1301 12ga 5-round magazine",
+        "shortName": "B1301 5rd",
+        "description": "A 5-round magazine for the Beretta 1301 12-gauge shotgun."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 902,
+    "handbookPriceRoubles": 643,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 23
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "690a9521b92ab495d00df914": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 13,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68fe5b162b85e5d74c05a586": {
+    "itemTplToClone": "5882163224597757561aa920",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Beretta_1301/mag_extended.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Beretta 1301 12ga 7-round magazine",
+        "shortName": "B1301 7rd",
+        "description": "A 7-round magazine for the Beretta 1301 12-gauge shotgun."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 1663,
+    "handbookPriceRoubles": 1422,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 23
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "690a9521b92ab495d00df915": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 25,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68fe5b162b85e5d74c05a587": {
+    "itemTplToClone": "625ed7c64d9b6612df732146",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Beretta_1301/beretta_rail.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "Beretta 1301 Picatinny rail",
+        "shortName": "Rail",
+        "description": "A Picatinny rail for mounting scopes on the Beretta 1301 shotgun."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 977,
+    "handbookPriceRoubles": 864,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 54
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 54
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 54
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 54
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 54
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 54
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "690a9521b92ab495d00df916": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1200,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68fe5b162b85e5d74c05a588": {
+    "itemTplToClone": "625ed7c64d9b6612df732146",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Beretta_1301/rail_with_shells.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_scope",
+          "_id": "625ed7c64d9b6612df732148",
+          "_parent": "68fe5b162b85e5d74c05a588",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57ac965c24597706be5f975c",
+                  "57aca93d2459771f2c7e26db",
+                  "544a3f024bdc2d1d388b4568",
+                  "544a3a774bdc2d3a388b4567",
+                  "5d2dc3e548f035404a1a4798",
+                  "57adff4f24597737f373b6e6",
+                  "626bb8532c923541184624b4",
+                  "5c0517910db83400232ffee5",
+                  "591c4efa86f7741030027726",
+                  "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f",
+                  "558022b54bdc2dac148b458d",
+                  "5c07dd120db834001c39092d",
+                  "5c0a2cec0db834001b7ce47d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "5c0505e00db834001b735073",
+                  "609a63b6e2ff132951242d09",
+                  "584984812459776a704a82a6",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "5dfe6104585a0c3e995c7b82",
+                  "5d1b5e94d7ad1a2b865a96b0",
+                  "58d39d3d86f77445bb794ae7",
+                  "616554fe50224f204c1da2aa",
+                  "5c7d55f52e221644f31bff6a",
+                  "616584766ef05c2ce828ef57",
+                  "615d8d878004cc50514c3233",
+                  "577d128124597739d65d0e56",
+                  "58d2664f86f7747fec5834f6",
+                  "61714b2467085e45ef140b2c",
+                  "5b31163c5acfc400153b71cb",
+                  "5a33b652c4a28232996e407c",
+                  "5a33b2c9c4a282000c5a9511",
+                  "59db7eed86f77461f8380365",
+                  "5a1ead28fcdbcb001912fa9f",
+                  "609bab8b455afd752b2e6138",
+                  "6477772ea8a38bb2050ed4db",
+                  "6478641c19d732620e045e17",
+                  "64785e7c19d732620e045e15",
+                  "65392f611406374f82152ba5",
+                  "653931da5db71d30ab1d6296",
+                  "655f13e0a246670fb0373245",
+                  "67641a851b2899700609901a"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount",
+          "_id": "625ed7c64d9b6612df732148",
+          "_parent": "68fe5b162b85e5d74c05a588",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "560d5e524bdc2d25448b4571",
+                  "5d6e6772a4b936088465b17c",
+                  "5d6e67fba4b9361bc73bc779",
+                  "5d6e6806a4b936088465b17e",
+                  "5d6e68dea4b9361bcc29e659",
+                  "5d6e6911a4b9361bd5780d52",
+                  "5c0d591486f7744c505b416f",
+                  "58820d1224597753c90aeb13",
+                  "5d6e68c4a4b9361b93413f79",
+                  "5d6e68a8a4b9360b6c0d54e2",
+                  "5d6e68e6a4b9361c140bcfe0",
+                  "5d6e6869a4b9361c140bcfde",
+                  "5d6e68b3a4b9361bca7e50b5",
+                  "5d6e6891a4b9361bd473feea",
+                  "5d6e689ca4b9361bc8618956",
+                  "5d6e68d1a4b93622fe60e845",
+                  "64b8ee384b75259c590fa89b"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_001",
+          "_id": "625ed7c64d9b6612df732148",
+          "_parent": "68fe5b162b85e5d74c05a588",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "560d5e524bdc2d25448b4571",
+                  "5d6e6772a4b936088465b17c",
+                  "5d6e67fba4b9361bc73bc779",
+                  "5d6e6806a4b936088465b17e",
+                  "5d6e68dea4b9361bcc29e659",
+                  "5d6e6911a4b9361bd5780d52",
+                  "5c0d591486f7744c505b416f",
+                  "58820d1224597753c90aeb13",
+                  "5d6e68c4a4b9361b93413f79",
+                  "5d6e68a8a4b9360b6c0d54e2",
+                  "5d6e68e6a4b9361c140bcfe0",
+                  "5d6e6869a4b9361c140bcfde",
+                  "5d6e68b3a4b9361bca7e50b5",
+                  "5d6e6891a4b9361bd473feea",
+                  "5d6e689ca4b9361bc8618956",
+                  "5d6e68d1a4b93622fe60e845",
+                  "64b8ee384b75259c590fa89b"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_002",
+          "_id": "625ed7c64d9b6612df732148",
+          "_parent": "68fe5b162b85e5d74c05a588",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "560d5e524bdc2d25448b4571",
+                  "5d6e6772a4b936088465b17c",
+                  "5d6e67fba4b9361bc73bc779",
+                  "5d6e6806a4b936088465b17e",
+                  "5d6e68dea4b9361bcc29e659",
+                  "5d6e6911a4b9361bd5780d52",
+                  "5c0d591486f7744c505b416f",
+                  "58820d1224597753c90aeb13",
+                  "5d6e68c4a4b9361b93413f79",
+                  "5d6e68a8a4b9360b6c0d54e2",
+                  "5d6e68e6a4b9361c140bcfe0",
+                  "5d6e6869a4b9361c140bcfde",
+                  "5d6e68b3a4b9361bca7e50b5",
+                  "5d6e6891a4b9361bd473feea",
+                  "5d6e689ca4b9361bc8618956",
+                  "5d6e68d1a4b93622fe60e845",
+                  "64b8ee384b75259c590fa89b"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_003",
+          "_id": "625ed7c64d9b6612df732148",
+          "_parent": "68fe5b162b85e5d74c05a588",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "560d5e524bdc2d25448b4571",
+                  "5d6e6772a4b936088465b17c",
+                  "5d6e67fba4b9361bc73bc779",
+                  "5d6e6806a4b936088465b17e",
+                  "5d6e68dea4b9361bcc29e659",
+                  "5d6e6911a4b9361bd5780d52",
+                  "5c0d591486f7744c505b416f",
+                  "58820d1224597753c90aeb13",
+                  "5d6e68c4a4b9361b93413f79",
+                  "5d6e68a8a4b9360b6c0d54e2",
+                  "5d6e68e6a4b9361c140bcfe0",
+                  "5d6e6869a4b9361c140bcfde",
+                  "5d6e68b3a4b9361bca7e50b5",
+                  "5d6e6891a4b9361bd473feea",
+                  "5d6e689ca4b9361bc8618956",
+                  "5d6e68d1a4b93622fe60e845",
+                  "64b8ee384b75259c590fa89b"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_004",
+          "_id": "625ed7c64d9b6612df732148",
+          "_parent": "68fe5b162b85e5d74c05a588",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "560d5e524bdc2d25448b4571",
+                  "5d6e6772a4b936088465b17c",
+                  "5d6e67fba4b9361bc73bc779",
+                  "5d6e6806a4b936088465b17e",
+                  "5d6e68dea4b9361bcc29e659",
+                  "5d6e6911a4b9361bd5780d52",
+                  "5c0d591486f7744c505b416f",
+                  "58820d1224597753c90aeb13",
+                  "5d6e68c4a4b9361b93413f79",
+                  "5d6e68a8a4b9360b6c0d54e2",
+                  "5d6e68e6a4b9361c140bcfe0",
+                  "5d6e6869a4b9361c140bcfde",
+                  "5d6e68b3a4b9361bca7e50b5",
+                  "5d6e6891a4b9361bd473feea",
+                  "5d6e689ca4b9361bc8618956",
+                  "5d6e68d1a4b93622fe60e845",
+                  "64b8ee384b75259c590fa89b"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_005",
+          "_id": "625ed7c64d9b6612df732148",
+          "_parent": "68fe5b162b85e5d74c05a588",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "560d5e524bdc2d25448b4571",
+                  "5d6e6772a4b936088465b17c",
+                  "5d6e67fba4b9361bc73bc779",
+                  "5d6e6806a4b936088465b17e",
+                  "5d6e68dea4b9361bcc29e659",
+                  "5d6e6911a4b9361bd5780d52",
+                  "5c0d591486f7744c505b416f",
+                  "58820d1224597753c90aeb13",
+                  "5d6e68c4a4b9361b93413f79",
+                  "5d6e68a8a4b9360b6c0d54e2",
+                  "5d6e68e6a4b9361c140bcfe0",
+                  "5d6e6869a4b9361c140bcfde",
+                  "5d6e68b3a4b9361bca7e50b5",
+                  "5d6e6891a4b9361bd473feea",
+                  "5d6e689ca4b9361bc8618956",
+                  "5d6e68d1a4b93622fe60e845",
+                  "64b8ee384b75259c590fa89b"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Beretta 1301 Picatinny rail w/ shells",
+        "shortName": "Shell",
+        "description": "A Picatinny rail for mounting scopes on the Beretta 1301 shotgun with an integrated shell holder."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 2322,
+    "handbookPriceRoubles": 1355,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 54
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 54
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 54
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 54
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 54
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 54
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "690a9521b92ab495d00df917": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3545,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68fe896c2b85e5d74c05a5b0": {
+    "itemTplToClone": "5a789261c5856700186c65d3",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Beretta_1301/mount_clamp.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_tactical_000",
+          "_id": "5a789338c5856700137e6785",
+          "_parent": "68fe896c2b85e5d74c05a5b0",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a800961159bd4315e3a1657",
+                  "5cc9c20cd7f00c001336c65d",
+                  "5d2369418abbc306c62e0c80",
+                  "5b07dd285acfc4001754240d",
+                  "56def37dd2720bec348b456a",
+                  "5a7b483fe899ef0016170d15",
+                  "5a5f1ce64f39f90b401987bc",
+                  "560d657b4bdc2da74d8b4572",
+                  "5b3a337e5acfc4704b4a19a0",
+                  "57d17e212459775a1179a0f5",
+                  "6267c6396b642f77f56f5c1c",
+                  "644a3df63b0b6f03e101e065"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical_001",
+          "_id": "5a789345c58567001601718f",
+          "_parent": "68fe896c2b85e5d74c05a5b0",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a800961159bd4315e3a1657",
+                  "5cc9c20cd7f00c001336c65d",
+                  "5d2369418abbc306c62e0c80",
+                  "5b07dd285acfc4001754240d",
+                  "56def37dd2720bec348b456a",
+                  "5a7b483fe899ef0016170d15",
+                  "5a5f1ce64f39f90b401987bc",
+                  "560d657b4bdc2da74d8b4572",
+                  "5b3a337e5acfc4704b4a19a0",
+                  "57d17e212459775a1179a0f5",
+                  "6267c6396b642f77f56f5c1c",
+                  "644a3df63b0b6f03e101e065"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Beretta 1301 Tactical magazine clamp",
+        "shortName": "MT Clamp",
+        "description": "A magazine clamp for the Beretta 1301 Tactical shotgun produced by Mesa Tactical."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 3456,
+    "handbookPriceRoubles": 2453,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 54
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 54
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 54
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 54
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 54
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 54
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "690a9521b92ab495d00df918": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 5988,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  }
+}

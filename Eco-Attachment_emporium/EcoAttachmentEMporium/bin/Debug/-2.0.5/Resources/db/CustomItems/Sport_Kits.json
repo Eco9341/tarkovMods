@@ -1,0 +1,1474 @@
+{
+  "68d96442d7aac8a7a904dafc": {
+    "itemTplToClone": "5efaf417aeb21837e749c7f2",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/AK_Stuff/zen_sport_1.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "59c6633186f7740cf0493bb9",
+        "59d64ec286f774171d1e0a42",
+        "59e649f986f77411d949b246",
+        "5b237e425acfc4771e1be0b6",
+        "59ccfdba86f7747f2109a587",
+        "5cf656f2d7f00c06585fb6eb",
+        "5d4aab30a4b9365435358c55",
+        "62e7e7bbe6da9612f743f1e0"
+      ],
+      "Slots": [
+        {
+          "_name": "mod_foregrip",
+          "_id": "685b0d77e261a4215c0ec3f6",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68d06cc7bc54e7c1b40cb9cd"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical_000",
+          "_id": "685b0d732d2113c83e740c83",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68d06cc7bc54e7c1b40cb9cf",
+                  "68d06cc7bc54e7c1b40cb9e1"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical_001",
+          "_id": "685b0d72aa3e1c7094b24b96",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68d06cc7bc54e7c1b40cb9cf",
+                  "68d06cc7bc54e7c1b40cb9e1"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical_002",
+          "_id": "685b0d6f6a3667abbc0d1a5c",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68d06cc7bc54e7c1b40cb9cf",
+                  "68d06cc7bc54e7c1b40cb9e1"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_scope",
+          "_id": "685b0d759601b00d3f96ce6a",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "591c4efa86f7741030027726",
+                  "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f",
+                  "558022b54bdc2dac148b458d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "5c0505e00db834001b735073",
+                  "609a63b6e2ff132951242d09",
+                  "584984812459776a704a82a6",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "58d39d3d86f77445bb794ae7",
+                  "616554fe50224f204c1da2aa",
+                  "5c7d55f52e221644f31bff6a",
+                  "616584766ef05c2ce828ef57",
+                  "615d8d878004cc50514c3233",
+                  "577d128124597739d65d0e56",
+                  "58d2664f86f7747fec5834f6",
+                  "5649a2464bdc2d91118b45a8",
+                  "61714b2467085e45ef140b2c",
+                  "5a33b2c9c4a282000c5a9511",
+                  "64785e7c19d732620e045e15",
+                  "644a3df63b0b6f03e101e065",
+                  "655f13e0a246670fb0373245",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "544909bb4bdc2d6f028b4577",
+                  "5c06595c0db834001a66af6c",
+                  "57fd23e32459772d0805bcf1",
+                  "6845a2443b726a816a6ca79e",
+                  "6845a36582114b67fdc12a16",
+                  "6845a394ddfdb4cac936974e",
+                  "6845a930e3dfd938256267a2",
+                  "68bd7b4d8ce7029b6409b4a2",
+                  "68bd7b4d8ce7029b6409b4a3"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical",
+          "_id": "685b0d732d2113c83e740c83",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "591c4efa86f7741030027726",
+                  "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f",
+                  "558022b54bdc2dac148b458d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "5c0505e00db834001b735073",
+                  "609a63b6e2ff132951242d09",
+                  "584984812459776a704a82a6",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "58d39d3d86f77445bb794ae7",
+                  "616554fe50224f204c1da2aa",
+                  "5c7d55f52e221644f31bff6a",
+                  "616584766ef05c2ce828ef57",
+                  "615d8d878004cc50514c3233",
+                  "577d128124597739d65d0e56",
+                  "58d2664f86f7747fec5834f6",
+                  "5649a2464bdc2d91118b45a8",
+                  "61714b2467085e45ef140b2c",
+                  "5a33b2c9c4a282000c5a9511",
+                  "64785e7c19d732620e045e15",
+                  "644a3df63b0b6f03e101e065",
+                  "655f13e0a246670fb0373245",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "544909bb4bdc2d6f028b4577",
+                  "5c06595c0db834001a66af6c",
+                  "57fd23e32459772d0805bcf1",
+                  "6845a2443b726a816a6ca79e",
+                  "6845a36582114b67fdc12a16",
+                  "6845a394ddfdb4cac936974e",
+                  "6845a930e3dfd938256267a2",
+                  "68bd7b4d8ce7029b6409b4a2",
+                  "68bd7b4d8ce7029b6409b4a3",
+                  "68d06cc7bc54e7c1b40cb9cf",
+                  "68d06cc7bc54e7c1b40cb9e1"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Zenit Sport-1 Handguard",
+        "shortName": "Sport-1",
+        "description": "The Zenit Sport-1 handguard is a lightweight and versatile accessory designed for the AK platform. It features multiple mounting points for various attachments, making it ideal for tactical setups. Crafted from high-quality materials, it offers durability and reliability in demanding conditions."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "fleaPriceRoubles": 20000,
+    "handbookPriceRoubles": 10000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 10
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "690a9521b92ab495d00df961": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 78,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "AK",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68d96442d7aac8a7a904db0c": {
+    "itemTplToClone": "5efaf417aeb21837e749c7f2",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/AK_Stuff/zen_sport_1_fde.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "59c6633186f7740cf0493bb9",
+        "59d64ec286f774171d1e0a42",
+        "59e649f986f77411d949b246",
+        "5b237e425acfc4771e1be0b6",
+        "59ccfdba86f7747f2109a587",
+        "5cf656f2d7f00c06585fb6eb",
+        "5d4aab30a4b9365435358c55",
+        "62e7e7bbe6da9612f743f1e0"
+      ],
+      "Slots": [
+        {
+          "_name": "mod_foregrip",
+          "_id": "685b0d77e261a4215c0ec3f6",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68d06cc7bc54e7c1b40cb9cd"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical_000",
+          "_id": "685b0d732d2113c83e740c83",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68d06cc7bc54e7c1b40cb9cf",
+                  "68d06cc7bc54e7c1b40cb9e1"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical_001",
+          "_id": "685b0d72aa3e1c7094b24b96",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68d06cc7bc54e7c1b40cb9cf",
+                  "68d06cc7bc54e7c1b40cb9e1"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical_002",
+          "_id": "685b0d6f6a3667abbc0d1a5c",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68d06cc7bc54e7c1b40cb9cf",
+                  "68d06cc7bc54e7c1b40cb9e1"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_scope",
+          "_id": "685b0d759601b00d3f96ce6a",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "591c4efa86f7741030027726",
+                  "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f",
+                  "558022b54bdc2dac148b458d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "5c0505e00db834001b735073",
+                  "609a63b6e2ff132951242d09",
+                  "584984812459776a704a82a6",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "58d39d3d86f77445bb794ae7",
+                  "616554fe50224f204c1da2aa",
+                  "5c7d55f52e221644f31bff6a",
+                  "616584766ef05c2ce828ef57",
+                  "615d8d878004cc50514c3233",
+                  "577d128124597739d65d0e56",
+                  "58d2664f86f7747fec5834f6",
+                  "5649a2464bdc2d91118b45a8",
+                  "61714b2467085e45ef140b2c",
+                  "5a33b2c9c4a282000c5a9511",
+                  "64785e7c19d732620e045e15",
+                  "644a3df63b0b6f03e101e065",
+                  "655f13e0a246670fb0373245",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "544909bb4bdc2d6f028b4577",
+                  "5c06595c0db834001a66af6c",
+                  "57fd23e32459772d0805bcf1",
+                  "6845a2443b726a816a6ca79e",
+                  "6845a36582114b67fdc12a16",
+                  "6845a394ddfdb4cac936974e",
+                  "6845a930e3dfd938256267a2",
+                  "68bd7b4d8ce7029b6409b4a2",
+                  "68bd7b4d8ce7029b6409b4a3"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical",
+          "_id": "685b0d732d2113c83e740c83",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "591c4efa86f7741030027726",
+                  "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f",
+                  "558022b54bdc2dac148b458d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "5c0505e00db834001b735073",
+                  "609a63b6e2ff132951242d09",
+                  "584984812459776a704a82a6",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "58d39d3d86f77445bb794ae7",
+                  "616554fe50224f204c1da2aa",
+                  "5c7d55f52e221644f31bff6a",
+                  "616584766ef05c2ce828ef57",
+                  "615d8d878004cc50514c3233",
+                  "577d128124597739d65d0e56",
+                  "58d2664f86f7747fec5834f6",
+                  "5649a2464bdc2d91118b45a8",
+                  "61714b2467085e45ef140b2c",
+                  "5a33b2c9c4a282000c5a9511",
+                  "64785e7c19d732620e045e15",
+                  "644a3df63b0b6f03e101e065",
+                  "655f13e0a246670fb0373245",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "544909bb4bdc2d6f028b4577",
+                  "5c06595c0db834001a66af6c",
+                  "57fd23e32459772d0805bcf1",
+                  "6845a2443b726a816a6ca79e",
+                  "6845a36582114b67fdc12a16",
+                  "6845a394ddfdb4cac936974e",
+                  "6845a930e3dfd938256267a2",
+                  "68bd7b4d8ce7029b6409b4a2",
+                  "68bd7b4d8ce7029b6409b4a3",
+                  "68d06cc7bc54e7c1b40cb9cf",
+                  "68d06cc7bc54e7c1b40cb9e1"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Zenit Sport-1 Handguard (FDE)",
+        "shortName": "Sport-1",
+        "description": "The Zenit Sport-1 handguard is a lightweight and versatile accessory designed for the AK platform. It features multiple mounting points for various attachments, making it ideal for tactical setups. Crafted from high-quality materials, it offers durability and reliability in demanding conditions. Flat Dark Earth finish."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "fleaPriceRoubles": 20000,
+    "handbookPriceRoubles": 10000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 10
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "690a9521b92ab495d00df962": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 78,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "AK",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68dd9032a83c8f7ea2083f44": {
+    "itemTplToClone": "59c6633186f7740cf0493bb9",
+    "parentId": "56ea9461d2720b67698b456f",
+    "handbookParentId": "5b5f760586f774093e6cb509",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/AK_Stuff/sport_gasblock.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "5ac66d9b5acfc4001633997a",
+        "5ac66cb05acfc40198510a10",
+        "5ac66d015acfc400180ae6e4",
+        "5ac66d2e5acfc43b321d4b53",
+        "5ac66d725acfc43b321d4b60",
+        "59e6152586f77473dc057aa1",
+        "59e6687d86f77411d949b251",
+        "5bf3e03b0db834001d2c4a9c",
+        "5ac4cd105acfc40016339859",
+        "5644bd2b4bdc2d3b4c8b4572",
+        "59d6088586f774275f37482f",
+        "5a0ec13bfcdbcb00165aa685",
+        "59ff346386f77477562ff5e2",
+        "5abcbc27d8ce8700182eceeb",
+        "5bf3e0490db83400196199af",
+        "5ab8e9fcd8ce870019439434"
+      ],
+      "Slots": [
+        {
+          "_name": "mod_handguard",
+          "_id": "685b0d77e261a4215c0ec3f6",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68d96442d7aac8a7a904dafc",
+                  "68d96442d7aac8a7a904db0c",
+                  "68e257fb2a8dbe0b9903bb2c",
+                  "68e257fb2a8dbe0b9903bb2d"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Zenit Gas Block",
+        "shortName": "Sport",
+        "description": "Modified gas block to fit the Zenitco Sport kits"
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_gas_block"
+    ],
+    "fleaPriceRoubles": 4000,
+    "handbookPriceRoubles": 1890,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 10
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "690a9521b92ab495d00df963": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 7750,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "AK",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68dd9032a83c8f7ea2083f45": {
+    "itemTplToClone": "5649af884bdc2d1b2b8b4589",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/AK_Stuff/b33_sport.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "5ac66d9b5acfc4001633997a",
+        "5ac66cb05acfc40198510a10",
+        "5ac66d015acfc400180ae6e4",
+        "5ac66d2e5acfc43b321d4b53",
+        "5ac66d725acfc43b321d4b60",
+        "59e6152586f77473dc057aa1",
+        "59e6687d86f77411d949b251",
+        "5bf3e03b0db834001d2c4a9c",
+        "5ac4cd105acfc40016339859",
+        "5644bd2b4bdc2d3b4c8b4572",
+        "59d6088586f774275f37482f",
+        "5a0ec13bfcdbcb00165aa685",
+        "59ff346386f77477562ff5e2",
+        "5abcbc27d8ce8700182eceeb",
+        "5bf3e0490db83400196199af",
+        "5ab8e9fcd8ce870019439434"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Zenit B-33 with tight rivets",
+        "shortName": "Sport",
+        "description": "The good old B-33 Dustcover, just with tight rivets. Fits perfectly with Zenitco Sport kits."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_reciever"
+    ],
+    "fleaPriceRoubles": 7278,
+    "handbookPriceRoubles": 4000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 10
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "690a9521b92ab495d00df964": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 12000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "AK",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68dd9032a83c8f7ea2083f46": {
+    "itemTplToClone": "5649af884bdc2d1b2b8b4589",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/AK_Stuff/b33_sport_fde.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "5ac66d9b5acfc4001633997a",
+        "5ac66cb05acfc40198510a10",
+        "5ac66d015acfc400180ae6e4",
+        "5ac66d2e5acfc43b321d4b53",
+        "5ac66d725acfc43b321d4b60",
+        "59e6152586f77473dc057aa1",
+        "59e6687d86f77411d949b251",
+        "5bf3e03b0db834001d2c4a9c",
+        "5ac4cd105acfc40016339859",
+        "5644bd2b4bdc2d3b4c8b4572",
+        "59d6088586f774275f37482f",
+        "5a0ec13bfcdbcb00165aa685",
+        "59ff346386f77477562ff5e2",
+        "5abcbc27d8ce8700182eceeb",
+        "5bf3e0490db83400196199af",
+        "5ab8e9fcd8ce870019439434"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Zenit B-33 with tight rivets (FDE)",
+        "shortName": "Sport",
+        "description": "The good old B-33 Dustcover, just with tight rivets. Fits perfectly with Zenitco Sport kits. Flat Dark Earth finish."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_reciever"
+    ],
+    "fleaPriceRoubles": 7278,
+    "handbookPriceRoubles": 4000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 10
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "690a9521b92ab495d00df965": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 12000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "AK",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68e257fb2a8dbe0b9903bb2c": {
+    "itemTplToClone": "5efaf417aeb21837e749c7f2",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/AK_Stuff/zen_sport_4.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "59c6633186f7740cf0493bb9",
+        "59d64ec286f774171d1e0a42",
+        "59e649f986f77411d949b246",
+        "5b237e425acfc4771e1be0b6",
+        "59ccfdba86f7747f2109a587",
+        "5cf656f2d7f00c06585fb6eb",
+        "5d4aab30a4b9365435358c55",
+        "68d96442d7aac8a7a904db00",
+        "62e7e7bbe6da9612f743f1e0"
+      ],
+      "Slots": [
+        {
+          "_name": "mod_foregrip",
+          "_id": "685b0d77e261a4215c0ec3f6",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68d06cc7bc54e7c1b40cb9cd"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical_000",
+          "_id": "685b0d732d2113c83e740c83",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68d06cc7bc54e7c1b40cb9cf",
+                  "68d06cc7bc54e7c1b40cb9e1"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical_001",
+          "_id": "685b0d72aa3e1c7094b24b96",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68d06cc7bc54e7c1b40cb9cf",
+                  "68d06cc7bc54e7c1b40cb9e1"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical_002",
+          "_id": "685b0d6f6a3667abbc0d1a5c",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68d06cc7bc54e7c1b40cb9cf",
+                  "68d06cc7bc54e7c1b40cb9e1"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_scope",
+          "_id": "685b0d759601b00d3f96ce6a",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "591c4efa86f7741030027726",
+                  "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f",
+                  "558022b54bdc2dac148b458d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "5c0505e00db834001b735073",
+                  "609a63b6e2ff132951242d09",
+                  "584984812459776a704a82a6",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "58d39d3d86f77445bb794ae7",
+                  "616554fe50224f204c1da2aa",
+                  "5c7d55f52e221644f31bff6a",
+                  "616584766ef05c2ce828ef57",
+                  "615d8d878004cc50514c3233",
+                  "577d128124597739d65d0e56",
+                  "58d2664f86f7747fec5834f6",
+                  "5649a2464bdc2d91118b45a8",
+                  "61714b2467085e45ef140b2c",
+                  "5a33b2c9c4a282000c5a9511",
+                  "64785e7c19d732620e045e15",
+                  "644a3df63b0b6f03e101e065",
+                  "655f13e0a246670fb0373245",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "544909bb4bdc2d6f028b4577",
+                  "5c06595c0db834001a66af6c",
+                  "57fd23e32459772d0805bcf1",
+                  "6845a2443b726a816a6ca79e",
+                  "6845a36582114b67fdc12a16",
+                  "6845a394ddfdb4cac936974e",
+                  "6845a930e3dfd938256267a2",
+                  "68bd7b4d8ce7029b6409b4a2",
+                  "68bd7b4d8ce7029b6409b4a3"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical",
+          "_id": "685b0d732d2113c83e740c83",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "591c4efa86f7741030027726",
+                  "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f",
+                  "558022b54bdc2dac148b458d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "5c0505e00db834001b735073",
+                  "609a63b6e2ff132951242d09",
+                  "584984812459776a704a82a6",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "58d39d3d86f77445bb794ae7",
+                  "616554fe50224f204c1da2aa",
+                  "5c7d55f52e221644f31bff6a",
+                  "616584766ef05c2ce828ef57",
+                  "615d8d878004cc50514c3233",
+                  "577d128124597739d65d0e56",
+                  "58d2664f86f7747fec5834f6",
+                  "5649a2464bdc2d91118b45a8",
+                  "61714b2467085e45ef140b2c",
+                  "5a33b2c9c4a282000c5a9511",
+                  "64785e7c19d732620e045e15",
+                  "644a3df63b0b6f03e101e065",
+                  "655f13e0a246670fb0373245",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "544909bb4bdc2d6f028b4577",
+                  "5c06595c0db834001a66af6c",
+                  "57fd23e32459772d0805bcf1",
+                  "6845a2443b726a816a6ca79e",
+                  "6845a36582114b67fdc12a16",
+                  "6845a394ddfdb4cac936974e",
+                  "6845a930e3dfd938256267a2",
+                  "68bd7b4d8ce7029b6409b4a2",
+                  "68bd7b4d8ce7029b6409b4a3",
+                  "68d06cc7bc54e7c1b40cb9cf",
+                  "68d06cc7bc54e7c1b40cb9e1"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Zenit Sport-4 Handguard",
+        "shortName": "Sport-4",
+        "description": "The Zenit Sport-4 handguard is a lightweight and versatile accessory designed for the AK platform. It features multiple mounting points for various attachments, making it ideal for tactical setups. Crafted from high-quality materials, it offers durability and reliability in demanding conditions."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "fleaPriceRoubles": 20000,
+    "handbookPriceRoubles": 10000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 10
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "690a9521b92ab495d00df966": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 78,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "AK",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "68e257fb2a8dbe0b9903bb2d": {
+    "itemTplToClone": "5efaf417aeb21837e749c7f2",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/AK_Stuff/zen_sport_4_fde.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "59c6633186f7740cf0493bb9",
+        "59d64ec286f774171d1e0a42",
+        "59e649f986f77411d949b246",
+        "5b237e425acfc4771e1be0b6",
+        "59ccfdba86f7747f2109a587",
+        "5cf656f2d7f00c06585fb6eb",
+        "5d4aab30a4b9365435358c55",
+        "68d96442d7aac8a7a904db00",
+        "62e7e7bbe6da9612f743f1e0"
+      ],
+      "Slots": [
+        {
+          "_name": "mod_foregrip",
+          "_id": "685b0d77e261a4215c0ec3f6",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68d06cc7bc54e7c1b40cb9cd"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical_000",
+          "_id": "685b0d732d2113c83e740c83",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68d06cc7bc54e7c1b40cb9cf",
+                  "68d06cc7bc54e7c1b40cb9e1"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical_001",
+          "_id": "685b0d72aa3e1c7094b24b96",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68d06cc7bc54e7c1b40cb9cf",
+                  "68d06cc7bc54e7c1b40cb9e1"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical_002",
+          "_id": "685b0d6f6a3667abbc0d1a5c",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68d06cc7bc54e7c1b40cb9cf",
+                  "68d06cc7bc54e7c1b40cb9e1"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_scope",
+          "_id": "685b0d759601b00d3f96ce6a",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "591c4efa86f7741030027726",
+                  "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f",
+                  "558022b54bdc2dac148b458d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "5c0505e00db834001b735073",
+                  "609a63b6e2ff132951242d09",
+                  "584984812459776a704a82a6",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "58d39d3d86f77445bb794ae7",
+                  "616554fe50224f204c1da2aa",
+                  "5c7d55f52e221644f31bff6a",
+                  "616584766ef05c2ce828ef57",
+                  "615d8d878004cc50514c3233",
+                  "577d128124597739d65d0e56",
+                  "58d2664f86f7747fec5834f6",
+                  "5649a2464bdc2d91118b45a8",
+                  "61714b2467085e45ef140b2c",
+                  "5a33b2c9c4a282000c5a9511",
+                  "64785e7c19d732620e045e15",
+                  "644a3df63b0b6f03e101e065",
+                  "655f13e0a246670fb0373245",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "544909bb4bdc2d6f028b4577",
+                  "5c06595c0db834001a66af6c",
+                  "57fd23e32459772d0805bcf1",
+                  "6845a2443b726a816a6ca79e",
+                  "6845a36582114b67fdc12a16",
+                  "6845a394ddfdb4cac936974e",
+                  "6845a930e3dfd938256267a2",
+                  "68bd7b4d8ce7029b6409b4a2",
+                  "68bd7b4d8ce7029b6409b4a3"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical",
+          "_id": "685b0d732d2113c83e740c83",
+          "_parent": "685b0d680624e87899344355",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "591c4efa86f7741030027726",
+                  "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f",
+                  "558022b54bdc2dac148b458d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "5c0505e00db834001b735073",
+                  "609a63b6e2ff132951242d09",
+                  "584984812459776a704a82a6",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "58d39d3d86f77445bb794ae7",
+                  "616554fe50224f204c1da2aa",
+                  "5c7d55f52e221644f31bff6a",
+                  "616584766ef05c2ce828ef57",
+                  "615d8d878004cc50514c3233",
+                  "577d128124597739d65d0e56",
+                  "58d2664f86f7747fec5834f6",
+                  "5649a2464bdc2d91118b45a8",
+                  "61714b2467085e45ef140b2c",
+                  "5a33b2c9c4a282000c5a9511",
+                  "64785e7c19d732620e045e15",
+                  "644a3df63b0b6f03e101e065",
+                  "655f13e0a246670fb0373245",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "544909bb4bdc2d6f028b4577",
+                  "5c06595c0db834001a66af6c",
+                  "57fd23e32459772d0805bcf1",
+                  "6845a2443b726a816a6ca79e",
+                  "6845a36582114b67fdc12a16",
+                  "6845a394ddfdb4cac936974e",
+                  "6845a930e3dfd938256267a2",
+                  "68bd7b4d8ce7029b6409b4a2",
+                  "68bd7b4d8ce7029b6409b4a3",
+                  "68d06cc7bc54e7c1b40cb9cf",
+                  "68d06cc7bc54e7c1b40cb9e1"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Zenit Sport-4 Handguard (FDE)",
+        "shortName": "Sport-4",
+        "description": "The Zenit Sport-4 handguard is a lightweight and versatile accessory designed for the AK platform. It features multiple mounting points for various attachments, making it ideal for tactical setups. Crafted from high-quality materials, it offers durability and reliability in demanding conditions. Flat Dark Earth finish."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "fleaPriceRoubles": 20000,
+    "handbookPriceRoubles": 10000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 10
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "690a9521b92ab495d00df967": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 78,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "AK",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  }
+}

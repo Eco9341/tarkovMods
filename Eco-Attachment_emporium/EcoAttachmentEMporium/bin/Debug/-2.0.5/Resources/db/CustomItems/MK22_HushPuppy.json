@@ -1,0 +1,437 @@
+{
+  "695ece27f990bb6426070873": {
+    "itemTplToClone": "5cadc190ae921500103bb3b6",
+    "parentId": "5447b5cf4bdc2d65278b4567",
+    "handbookParentId": "5b5f792486f77447ed5636b3",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/MK22_HushPuppy/mk22_container.bundle",
+        "rcid": ""
+      },
+        "Slots": [
+        {
+            "_name": "mod_barrel",
+            "_id": "5cadc190ae921500103bb3b8",
+            "_parent": "5cadc190ae921500103bb3b6",
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "695ecf2ff990bb6426070877"
+                ],
+                "Shift": 0
+                }
+            ]
+            },
+            "_required": true,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_pistol_grip",
+            "_id": "5cadc190ae921500103bb3b9",
+            "_parent": "5cadc190ae921500103bb3b6",
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "695ecf2ff990bb6426070879"
+                ],
+                "Shift": 0
+                }
+            ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_reciever",
+            "_id": "5cadc190ae921500103bb3ba",
+            "_parent": "5cadc190ae921500103bb3b6",
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "695ece27f990bb6426070875"
+                ],
+                "Shift": 0
+                }
+            ]
+            },
+            "_required": true,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_magazine",
+            "_id": "5cadc190ae921500103bb3bb",
+            "_parent": "5cadc190ae921500103bb3b6",
+            "_props": {
+            "filters": [
+                {
+                "AnimationIndex": -1,
+                "Filter": [
+                    "695ed237f990bb642607087d"
+                ]
+                }
+            ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c394bdc2dae468b4577"
+        }
+        ],
+        "Weight": 0.210,
+        "Ergonomics": 71
+    },
+    "locales": {
+      "en": {
+        "name": " Smith & Wesson Mk22 Mod0 9x19 'Hush Puppy'",
+        "shortName": "MK22 Mod0",
+        "description": "The Mk22 Mod0 is a 9x19 pistol based on the Smith & Wesson Model 39, featuring modifications intended for special forces use. The slide can be locked closed to keep the pistol from cycling; this is intended to make it more quiet when used with a suppressor. In addition to the slide lock, the sights were raised to prevent the suppressor from blocking the sight picture and the barrel was threaded to accommodate a suppressor."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 17365,
+    "handbookPriceRoubles": 8632,
+    "addtoTraders": true,
+    "masteries": true,
+    "addWeaponPreset": false,
+    "weaponPresets": [
+    ],
+    "traders": {
+      "SKIER": {
+        "695ece27f990bb6426070874": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 18234,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": [],
+    "masterySections": [
+      {
+        "Level2": 150,
+        "Level3": 200,
+        "Name": "m1911",
+        "Templates": [
+          "692acecad829da17240a60c3"
+        ]
+      }
+    ]
+  },
+  "695ece27f990bb6426070875": {
+    "itemTplToClone": "5cadc55cae921500103bb3be",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/MK22_HushPuppy/mk22_slide.bundle",
+        "rcid": ""
+      },
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": " Smith & Wesson Mk22 Mod0 Slide",
+        "shortName": "MK22 Slide",
+        "description": "the  slide for the Smith & Wesson Mk22 Mod0."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 5921,
+    "handbookPriceRoubles": 4721,
+    "addtoTraders": true,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "695ece27f990bb6426070876": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 7382,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": []
+  },
+  "695ecf2ff990bb6426070877": {
+    "itemTplToClone": "5cadc1c6ae9215000f2775a4",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/MK22_HushPuppy/mk22_barrel.bundle",
+        "rcid": ""
+      },
+        "Slots": [
+            {
+                "_name": "mod_muzzle",
+                "_id": "5cadc1c6ae9215000f2775a6",
+                "_parent": "5cadc1c6ae9215000f2775a4",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "695ed237f990bb642607087b"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            }
+        ]
+    },
+    "locales": {
+      "en": {
+        "name": "Smith & Wesson Mk22 Mod0 9x19 127mm Barrel",
+        "shortName": "MK22 127mm",
+        "description": "the barrel for the Smith & Wesson Mk22 Mod0."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 1823,
+    "handbookPriceRoubles": 1252,
+    "addtoTraders": true,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "695ecf2ff990bb6426070878": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 2138,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": []
+  },
+  "695ecf2ff990bb6426070879": {
+    "itemTplToClone": "5d1c702ad7ad1a632267f429",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/MK22_HushPuppy/mk22_stock.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "Smith & Wesson Mk22 Mod0 Standard Stock",
+        "shortName": "MK22 Stock",
+        "description": "the standard stock for the Smith & Wesson Mk22 Mod0."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 9200,
+    "handbookPriceRoubles": 5463,
+    "addtoTraders": true,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "695ecf2ff990bb642607087a": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 17020,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": []
+  },
+  "695ed237f990bb642607087b": {
+    "itemTplToClone": "5c6165902e22160010261b28",
+    "parentId": "550aa4cd4bdc2dd8348b456c",
+    "handbookParentId": "5b5f731a86f774093e6cb4f9",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/MK22_HushPuppy/mk22_silencer.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "MK22 9x19 sound suppressor",
+        "shortName": "MK22",
+        "description": "The MK22 9x19 sound suppressor is designed for the MK22 sniper rifle. It reduces the sound signature and muzzle flash of the weapon when firing, making it more suitable for stealth operations. Manufactured by Izhmash."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 21382,
+    "handbookPriceRoubles": 19472,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 98
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 98
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 98
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 98
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 98
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 98
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "695ed237f990bb642607087c": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 26821,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "695ed237f990bb642607087d": {
+    "itemTplToClone": "5cadc2e0ae9215051e1c21e7",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/MK22_HushPuppy/mk22_mag.bundle",
+        "rcid": ""
+      },
+        "Cartridges": [
+        {
+            "_name": "cartridges",
+            "_id": "5cadc2e0ae9215051e1c21e9",
+            "_parent": "5cadc2e0ae9215051e1c21e7",
+            "_max_count": 13,
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "5efb0da7a29a85116f6ea05f",
+                    "5c3df7d588a4501f290594e5",
+                    "58864a4f2459770fcc257101",
+                    "56d59d3ad2720bdb418b4577",
+                    "5c925fa22e221601da359b7b",
+                    "5a3c16fe86f77452b62de32a",
+                    "5efb0e16aeb21837e749c7ff",
+                    "5c0d56a986f774449d5de529",
+                    "64b7bbb74b75259c590fa897"
+                ]
+                }
+            ]
+            },
+            "_proto": "5748538b2459770af276a261"
+        }
+        ],
+        "Weight": 0.071
+    },
+    "locales": {
+      "en": {
+        "name": "MK22 9x19 13-round magazine",
+        "shortName": "MK22",
+        "description": "The 9x19 magazine is designed for the MK22 Pistol. It has a capacity of 13 rounds of 9x19mm ammunition and is constructed from durable materials to ensure reliable feeding and performance during use."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 1800,
+    "handbookPriceRoubles": 646,
+    "addtoTraders": true,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "695ed237f990bb642607087e": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 2394,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": []
+  }
+}

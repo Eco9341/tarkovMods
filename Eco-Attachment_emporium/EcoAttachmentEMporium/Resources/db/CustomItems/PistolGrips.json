@@ -1,0 +1,792 @@
+{
+  "68c5613ff19e7d06d6029a41": {
+    "itemTplToClone": "5a339805c4a2826c6e06d73d",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/PistolGrips/bcm_mod4_pistolgrip.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": 8,
+      "Weight": 0.053
+    },
+    "locales": {
+      "en": {
+        "name": "BCM GunFighter Mod 4 pistol grip",
+        "shortName": "MOD 4",
+        "description": "An update to the classic A1 and A2 design, the BCM Mod 4 Pistol Grip employs a new form factor with a reduced angle and a new ultra-tactile grip texture that enable more exacting fire control ergonomics and operation.In tandem with improved weapons manipulation techniques that account for accessory enablers such as vertical grips, lasers and optics, BCM AR pistol grips provide reliable and safe options for professional and enthusiast alike"
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_pistol_grip",
+      "mod_pistolgrip_000"
+    ],
+    "fleaPriceRoubles": 10600,
+    "handbookPriceRoubles": 7200,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "690a9521b92ab495d00df950": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 75,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": []
+  },
+  "68c5613ff19e7d06d6029a42": {
+    "itemTplToClone": "5a339805c4a2826c6e06d73d",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/PistolGrips/bcm_mod4_pistolgrip_fde.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": 8,
+      "Weight": 0.053
+    },
+    "locales": {
+      "en": {
+        "name": "BCM GunFighter Mod 4 pistol grip (FDE)",
+        "shortName": "MOD 4",
+        "description": "An update to the classic A1 and A2 design, the BCM Mod 4 Pistol Grip employs a new form factor with a reduced angle and a new ultra-tactile grip texture that enable more exacting fire control ergonomics and operation.In tandem with improved weapons manipulation techniques that account for accessory enablers such as vertical grips, lasers and optics, BCM AR pistol grips provide reliable and safe options for professional and enthusiast alike"
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_pistol_grip",
+      "mod_pistolgrip_000"
+    ],
+    "fleaPriceRoubles": 10600,
+    "handbookPriceRoubles": 7200,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "690a9521b92ab495d00df951": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 75,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": []
+  },
+  "68c5613ff19e7d06d6029a43": {
+    "itemTplToClone": "5a339805c4a2826c6e06d73d",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/PistolGrips/b5_p22.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": 8,
+      "Weight": 0.053
+    },
+    "locales": {
+      "en": {
+        "name": "b5 P22 pistol grip",
+        "shortName": "B5",
+        "description": "The B5 Systems P22 Grip is a lightweight, durable pistol grip designed for AR-15 and M4 style rifles. It features a comfortable, ergonomic design with a textured surface for improved grip and control. The P22 Grip is made from high-quality polymer materials, making it resistant to impact and wear. It also includes a storage compartment for small items such as batteries or cleaning supplies. The B5 P22 Grip is easy to install and is compatible with most AR-15 and M4 style rifles, making it a popular choice among shooters looking to enhance the ergonomics and functionality of their firearms."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_pistol_grip",
+      "mod_pistolgrip_000"
+    ],
+    "fleaPriceRoubles": 10300,
+    "handbookPriceRoubles": 7140,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "690a9521b92ab495d00df952": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 70,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": []
+  },
+  "68c5613ff19e7d06d6029a44": {
+    "itemTplToClone": "5a339805c4a2826c6e06d73d",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/PistolGrips/b5_p22_cb.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": 8,
+      "Weight": 0.053
+    },
+    "locales": {
+      "en": {
+        "name": "b5 P22 pistol grip (Coyote Brown)",
+        "shortName": "B5",
+        "description": "The B5 Systems P22 Grip is a lightweight, durable pistol grip designed for AR-15 and M4 style rifles. It features a comfortable, ergonomic design with a textured surface for improved grip and control. The P22 Grip is made from high-quality polymer materials, making it resistant to impact and wear. It also includes a storage compartment for small items such as batteries or cleaning supplies. The B5 P22 Grip is easy to install and is compatible with most AR-15 and M4 style rifles, making it a popular choice among shooters looking to enhance the ergonomics and functionality of their firearms. this version is in Coyote Brown"
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_pistol_grip",
+      "mod_pistolgrip_000"
+    ],
+    "fleaPriceRoubles": 10300,
+    "handbookPriceRoubles": 7140,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "690a9521b92ab495d00df953": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 70,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": []
+  },
+  "68c5613ff19e7d06d6029a45": {
+    "itemTplToClone": "5a339805c4a2826c6e06d73d",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/PistolGrips/b5_p22_fde.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": 8,
+      "Weight": 0.053
+    },
+    "locales": {
+      "en": {
+        "name": "b5 P22 pistol grip (FDE)",
+        "shortName": "B5",
+        "description": "The B5 Systems P22 Grip is a lightweight, durable pistol grip designed for AR-15 and M4 style rifles. It features a comfortable, ergonomic design with a textured surface for improved grip and control. The P22 Grip is made from high-quality polymer materials, making it resistant to impact and wear. It also includes a storage compartment for small items such as batteries or cleaning supplies. The B5 P22 Grip is easy to install and is compatible with most AR-15 and M4 style rifles, making it a popular choice among shooters looking to enhance the ergonomics and functionality of their firearms. this version is in Flat Dark Earth."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_pistol_grip",
+      "mod_pistolgrip_000"
+    ],
+    "fleaPriceRoubles": 10300,
+    "handbookPriceRoubles": 7140,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "690a9521b92ab495d00df954": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 70,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": []
+  },
+  "68c5613ff19e7d06d6029a46": {
+    "itemTplToClone": "5a339805c4a2826c6e06d73d",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/PistolGrips/b5_p22_odg.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": 8,
+      "Weight": 0.053
+    },
+    "locales": {
+      "en": {
+        "name": "b5 P22 pistol grip (OD Green)",
+        "shortName": "B5",
+        "description": "The B5 Systems P22 Grip is a lightweight, durable pistol grip designed for AR-15 and M4 style rifles. It features a comfortable, ergonomic design with a textured surface for improved grip and control. The P22 Grip is made from high-quality polymer materials, making it resistant to impact and wear. It also includes a storage compartment for small items such as batteries or cleaning supplies. The B5 P22 Grip is easy to install and is compatible with most AR-15 and M4 style rifles, making it a popular choice among shooters looking to enhance the ergonomics and functionality of their firearms. this version is in OD Green."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_pistol_grip",
+      "mod_pistolgrip_000"
+    ],
+    "fleaPriceRoubles": 10300,
+    "handbookPriceRoubles": 7140,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "690a9521b92ab495d00df955": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 70,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": []
+  },
+  "68c5613ff19e7d06d6029a47": {
+    "itemTplToClone": "5a339805c4a2826c6e06d73d",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/PistolGrips/b5_p22_multicam.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": 8,
+      "Weight": 0.053
+    },
+    "locales": {
+      "en": {
+        "name": "b5 P22 pistol grip (Multicam Black)",
+        "shortName": "B5",
+        "description": "The B5 Systems P22 Grip is a lightweight, durable pistol grip designed for AR-15 and M4 style rifles. It features a comfortable, ergonomic design with a textured surface for improved grip and control. The P22 Grip is made from high-quality polymer materials, making it resistant to impact and wear. It also includes a storage compartment for small items such as batteries or cleaning supplies. The B5 P22 Grip is easy to install and is compatible with most AR-15 and M4 style rifles, making it a popular choice among shooters looking to enhance the ergonomics and functionality of their firearms. this version is in Multicam Black."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_pistol_grip",
+      "mod_pistolgrip_000"
+    ],
+    "fleaPriceRoubles": 10300,
+    "handbookPriceRoubles": 7140,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "690a9521b92ab495d00df956": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 70,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": []
+  },
+  "68c57d3bf19e7d06d6029a48": {
+    "itemTplToClone": "5a339805c4a2826c6e06d73d",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/PistolGrips/b5_p22_wg.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": 8,
+      "Weight": 0.053
+    },
+    "locales": {
+      "en": {
+        "name": "b5 P22 pistol grip (Wolf Grey)",
+        "shortName": "B5",
+        "description": "The B5 Systems P22 Grip is a lightweight, durable pistol grip designed for AR-15 and M4 style rifles. It features a comfortable, ergonomic design with a textured surface for improved grip and control. The P22 Grip is made from high-quality polymer materials, making it resistant to impact and wear. It also includes a storage compartment for small items such as batteries or cleaning supplies. The B5 P22 Grip is easy to install and is compatible with most AR-15 and M4 style rifles, making it a popular choice among shooters looking to enhance the ergonomics and functionality of their firearms. this version is in Wolf Grey."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_pistol_grip",
+      "mod_pistolgrip_000"
+    ],
+    "fleaPriceRoubles": 10300,
+    "handbookPriceRoubles": 7140,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "690a9521b92ab495d00df957": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 70,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": []
+  },
+  "68c58ca0bab700bb310485c0": {
+    "itemTplToClone": "5a339805c4a2826c6e06d73d",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/PistolGrips/b5_p22_pax.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": 8,
+      "Weight": 0.053
+    },
+    "locales": {
+      "en": {
+        "name": "b5 P22 pistol grip (Pax Armata)",
+        "shortName": "B5",
+        "description": "The B5 Systems P22 Grip is a lightweight, durable pistol grip designed for AR-15 and M4 style rifles. It features a comfortable, ergonomic design with a textured surface for improved grip and control. The P22 Grip is made from high-quality polymer materials, making it resistant to impact and wear. It also includes a storage compartment for small items such as batteries or cleaning supplies. The B5 P22 Grip is easy to install and is compatible with most AR-15 and M4 style rifles, making it a popular choice among shooters looking to enhance the ergonomics and functionality of their firearms. Special edition used by Pax Armata units."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_pistol_grip",
+      "mod_pistolgrip_000"
+    ],
+    "fleaPriceRoubles": 10300,
+    "handbookPriceRoubles": 7140,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "690a9521b92ab495d00df958": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 70,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": []
+  },
+  "68c58ca0bab700bb310485c1": {
+    "itemTplToClone": "5a339805c4a2826c6e06d73d",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/PistolGrips/bcm_mod4_pistolgrip_pax.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": 8,
+      "Weight": 0.053
+    },
+    "locales": {
+      "en": {
+        "name": "BCM GunFighter Mod 4 pistol grip (Pax Armata)",
+        "shortName": "MOD 4",
+        "description": "An update to the classic A1 and A2 design, the BCM Mod 4 Pistol Grip employs a new form factor with a reduced angle and a new ultra-tactile grip texture that enable more exacting fire control ergonomics and operation.In tandem with improved weapons manipulation techniques that account for accessory enablers such as vertical grips, lasers and optics, BCM AR pistol grips provide reliable and safe options for professional and enthusiast alike. Special edition used by Pax Armata units."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_pistol_grip",
+      "mod_pistolgrip_000"
+    ],
+    "fleaPriceRoubles": 10600,
+    "handbookPriceRoubles": 7200,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "690a9521b92ab495d00df959": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 75,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": []
+  }
+}
