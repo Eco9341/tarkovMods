@@ -1,0 +1,205 @@
+{
+  "696395af1b7e04938307a122": {
+    "itemTplToClone": "617151c1d92c473c770214ab",
+    "parentId": "55818ae44bdc2dde698b456c",
+    "handbookParentId": "5b5f748386f774093e6cb501",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Scope/vortex_viper_hs.bundle",
+        "rcid": ""
+      },
+    "Zooms": [
+      [
+        2.5,
+        10
+      ]
+    ],
+    "CalibrationDistances": [
+      [
+        50,
+        100,
+        150,
+        200,
+        250,
+        300,
+        350,
+        400,
+        450
+      ]
+    ],
+    "MinMaxFov": {
+      "x": 9.6,
+      "y": 2.4,
+      "z": 4
+    }
+    },
+    "locales": {
+      "en": {
+        "name": "Vortex Viper HS 2.5x10 30mm riflescope",
+        "shortName": "Viper HS",
+        "description": "An extremely versatile hunting scope that is also useful for fun or sports shooting to some extent. The wide angled, large lens offers a large view field at the minimum, 2.5x magnification, which is perfect for stalking prey, while the 10x maximum magnification still gives the possibility to hit anything that might have gotten away. The very fine, SFP reticle is true at maximal magnification to help with shot placement at longer ranges, especially with the great and easy to use Dead-Hold BDC reticle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_scope_000",
+      "mod_scope"
+    ],
+    "fleaPriceRoubles": 50500,
+    "handbookPriceRoubles": 34635,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "696395af1b7e04938307a123": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 807,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": []
+  },
+  "696395af1b7e04938307a124": {
+    "itemTplToClone": "5b2389515acfc4771e1be0c0",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Scope/vortex_mount.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+      {
+        "_name": "mod_scope_000",
+        "_id": "5b2389515acfc4771e1be0c2",
+        "_parent": "5b2389515acfc4771e1be0c0",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5b2388675acfc4771e1be0be",
+                "5b3b99475acfc432ff4dcbee",
+                "5a37cb10c4a282329a73b4e7",
+                "57c5ac0824597754771e88a9",
+                "6567e7681265c8a131069b0f",
+                "696395af1b7e04938307a122"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      }
+    ]
+    },
+    "locales": {
+      "en": {
+        "name": "Vortex Viper HS 30mm Mount",
+        "shortName": "Viper 30mm",
+        "description": "The Vortex Viper Extended Cantilever Mount stands apart in its series by specifically addressing the unique mounting challenges presented by AR-15 platforms. While standard mounts often place optics too far back, this model provides a crucial 50.8 mm (2 inch) forward extension, ideal for maintaining proper eye relief and head positioning on modern sporting rifles."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_scope",
+      "mod_scope_000"
+    ],
+    "fleaPriceRoubles": 5683,
+    "handbookPriceRoubles": 2324,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "696395af1b7e04938307a125": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 89,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": []
+  }
+}

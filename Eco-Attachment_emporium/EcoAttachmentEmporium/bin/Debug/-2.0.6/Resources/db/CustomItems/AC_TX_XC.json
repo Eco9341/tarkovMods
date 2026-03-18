@@ -1,0 +1,2456 @@
+{
+"6917d89b54f5f109c106c1ee": {
+    "itemTplToClone": "588892092459774ac91d4b11",
+    "parentId": "5447b6254bdc2dc3278b4568",
+    "handbookParentId": "5b5f798886f77447ed5636b5",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/ACTX/actx_container.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": 65, 
+      "Weight": 4.000,
+      "Foldable": false,
+      "Slots": [
+            {
+                "_name": "mod_magazine",
+                "_id": "5bfea6e90db834001b7347f5",
+                "_parent": "5bfea6e90db834001b7347f3",
+                "_props": {
+                "filters": [
+                    {
+                    "AnimationIndex": 0,
+                    "Filter": [
+                        "5d25a6538abbc306c62e630d",
+                        "5d25a7b88abbc3054f3e60bc",
+                        "5d25a6a48abbc306c62e6310",
+                        "5d25af8f8abbc3055079fec5",
+                        "5cf12a15d7f00c05464b293f",
+                        "5bfeaa0f0db834001b734927"
+                    ]
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c394bdc2dae468b4577"
+            },
+            {
+                "_name": "mod_scope",
+                "_id": "588892092459774ac91d4b13",
+                "_parent": "588892092459774ac91d4b11",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "57ac965c24597706be5f975c",
+                        "57aca93d2459771f2c7e26db",
+                        "544a3f024bdc2d1d388b4568",
+                        "544a3a774bdc2d3a388b4567",
+                        "5d2dc3e548f035404a1a4798",
+                        "57adff4f24597737f373b6e6",
+                        "5c0517910db83400232ffee5",
+                        "591c4efa86f7741030027726",
+                        "570fd79bd2720bc7458b4583",
+                        "570fd6c2d2720bc6458b457f",
+                        "558022b54bdc2dac148b458d",
+                        "5c07dd120db834001c39092d",
+                        "5c0a2cec0db834001b7ce47d",
+                        "58491f3324597764bc48fa02",
+                        "584924ec24597768f12ae244",
+                        "5b30b0dc5acfc400153b7124",
+                        "6165ac8c290d254f5e6b2f6c",
+                        "60a23797a37c940de7062d02",
+                        "5d2da1e948f035477b1ce2ba",
+                        "5c0505e00db834001b735073",
+                        "609a63b6e2ff132951242d09",
+                        "584984812459776a704a82a6",
+                        "59f9d81586f7744c7506ee62",
+                        "570fd721d2720bc5458b4596",
+                        "57ae0171245977343c27bfcf",
+                        "5dfe6104585a0c3e995c7b82",
+                        "544a3d0a4bdc2d1b388b4567",
+                        "5d1b5e94d7ad1a2b865a96b0",
+                        "609bab8b455afd752b2e6138",
+                        "58d39d3d86f77445bb794ae7",
+                        "616554fe50224f204c1da2aa",
+                        "5c7d55f52e221644f31bff6a",
+                        "616584766ef05c2ce828ef57",
+                        "5b3b6dc75acfc47a8773fb1e",
+                        "615d8d878004cc50514c3233",
+                        "5b2389515acfc4771e1be0c0",
+                        "577d128124597739d65d0e56",
+                        "618b9643526131765025ab35",
+                        "618bab21526131765025ab3f",
+                        "5c86592b2e2216000e69e77c",
+                        "5a37ca54c4a282000d72296a",
+                        "5d0a29fed7ad1a002769ad08",
+                        "58d2664f86f7747fec5834f6",
+                        "57c69dd424597774c03b7bbc",
+                        "5b3b99265acfc4704b4a1afb",
+                        "5aa66a9be5b5b0214e506e89",
+                        "5aa66c72e5b5b00016327c93",
+                        "61714b2467085e45ef140b2c",
+                        "6171407e50224f204c1da3c5",
+                        "61713cc4d8e3106d9806c109",
+                        "5b31163c5acfc400153b71cb",
+                        "5a33b652c4a28232996e407c",
+                        "5a33b2c9c4a282000c5a9511",
+                        "59db7eed86f77461f8380365",
+                        "5a1ead28fcdbcb001912fa9f",
+                        "5dff77c759400025ea5150cf",
+                        "626bb8532c923541184624b4",
+                        "62811f461d5df4475f46a332",
+                        "63fc449f5bd61c6cf3784a88",
+                        "6477772ea8a38bb2050ed4db",
+                        "6478641c19d732620e045e17",
+                        "64785e7c19d732620e045e15",
+                        "65392f611406374f82152ba5",
+                        "653931da5db71d30ab1d6296",
+                        "655f13e0a246670fb0373245",
+                        "6567e751a715f85433025998",
+                        "5c1cdd302e221602b3137250",
+                        "5c064c400db834001d23f468",
+                        "67641a851b2899700609901a",
+                        "6761759e7ee06333f108bf86"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_barrel",
+                "_id": "58889e2d245977567641f459",
+                "_parent": "588892092459774ac91d4b11",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "6917d89b54f5f109c106c1ef"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": true,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_pistol_grip",
+                "_id": "58889e5d24597759817d5dd3",
+                "_parent": "588892092459774ac91d4b11",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "55d4b9964bdc2d1d4e8b456e",
+                        "571659bb2459771fb2755a12",
+                        "6113c3586c780c1e710c90bc",
+                        "6113cc78d3a39d50044c065a",
+                        "6113cce3d92c473c770200c7",
+                        "57c55efc2459772d2c6271e7",
+                        "57af48872459771f0b2ebf11",
+                        "57c55f092459772d291a8463",
+                        "57c55f112459772d28133310",
+                        "57c55f172459772d27602381",
+                        "5a339805c4a2826c6e06d73d",
+                        "615d8faecabb9b7ad90f4d5d",
+                        "5b07db875acfc40dc528a5f6",
+                        "63f5feead259b42f0b4d6d0f"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": true,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_stock",
+                "_id": "58889ea42459775bc215d983",
+                "_parent": "588892092459774ac91d4b11",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "6917d89b54f5f109c106c1f2",
+                        "69187ee78568323f8204aaf5",
+                        "69187ee78568323f8204aafb",
+                        "691897048568323f8204ab0f"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_foregrip",
+                "_id": "5c17664f2e2216398b5a7e40",
+                "_parent": "5c17664f2e2216398b5a7e3c",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "615d8fd3290d254f5e6b2edc",
+                        "5fc0f9b5d724d907e2077d82",
+                        "5fc0f9cbd6fa9c00c571bb90",
+                        "5a9d6d13a2750c00164f6b03",
+                        "59e0bed186f774156f04ce84"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_tactical_002",
+                "_id": "5c17664f2e2216398b5a7e41",
+                "_parent": "5c17664f2e2216398b5a7e3c",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "5a9d6d00a2750c5c985b5305",
+                        "59e0bdb186f774156f04ce82",
+                        "59e0be5d86f7742d48765bd2",
+                        "623c2f652febb22c2777d8d7",
+                        "67111094d1758189fc0bd223"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_tactical_001",
+                "_id": "5c17664f2e2216398b5a7e42",
+                "_parent": "5c17664f2e2216398b5a7e3c",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "5a9d6d00a2750c5c985b5305",
+                        "59e0bdb186f774156f04ce82",
+                        "59e0be5d86f7742d48765bd2",
+                        "623c2f652febb22c2777d8d7",
+                        "67111094d1758189fc0bd223"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_tactical_000",
+                "_id": "5c17664f2e2216398b5a7e43",
+                "_parent": "5c17664f2e2216398b5a7e3c",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "5a9d6d00a2750c5c985b5305",
+                        "59e0bdb186f774156f04ce82",
+                        "59e0be5d86f7742d48765bd2",
+                        "623c2f652febb22c2777d8d7",
+                        "67112695fe5c8bf33f02476d",
+                        "67111094d1758189fc0bd223"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_mount_001",
+                "_id": "5c17664f2e2216398b5a7e42",
+                "_parent": "5c17664f2e2216398b5a7e3c",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "5a9d6d00a2750c5c985b5305",
+                        "59e0bdb186f774156f04ce82",
+                        "59e0be5d86f7742d48765bd2",
+                        "623c2f652febb22c2777d8d7",
+                        "67111094d1758189fc0bd223"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Accuracy International AT-XC 7.62x51mm Sniper Rifle",
+        "shortName": "AT-XC",
+        "description": "Introducing the Accuracy International AT-XC rifle. After continuous research and development and exhaustive testing, Accuracy International has created a new generation of a short action rifles with enhanced features. The AT-XC answers the call for modern action with durability, safety, ease of use, and an increased feature set for the competitive shooter. The AT-Xc builds on AI's legacy of engineering and innovation that has made it a world leader in bolt action rifle technology. The AT-XC is a multi-caliber bolt action rifle with quick change barrel capability, two stage competition trigger with adjustable shoe. A cut rifled, high precision, barrel is available in 6mm Creedmoor and 6.5 Creedmoor. The 7075 t6 allow chassis treatment is Mil Std Hardcoat Anodize with a Cerakote finish."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 42421,
+    "handbookPriceRoubles": 38462,
+    "addtoTraders": false,
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+  "_id": "6939f7b9e539c37b200ff523",
+  "_type": "Preset",
+  "_changeWeaponName": false,
+  "_name": "ATXC Base",
+  "_parent": "6939f7b9e539c37b200ff524",
+  "_items": [
+    {
+      "_id": "6939f7b9e539c37b200ff524",
+      "_tpl": "6917d89b54f5f109c106c1ee",
+      "upd": {
+        "Repairable": {
+          "Durability": 100,
+          "MaxDurability": 100
+        },
+        "FireMode": {
+          "FireMode": "single"
+        },
+        "Foldable": {
+          "Folded": false
+        }
+      }
+    },
+    {
+      "_id": "6939f7b9e539c37b200ff525",
+      "_tpl": "5bfeaa0f0db834001b734927",
+      "parentId": "6939f7b9e539c37b200ff524",
+      "slotId": "mod_magazine"
+    },
+    {
+      "_id": "6939f7b9e539c37b200ff526",
+      "_tpl": "6917d89b54f5f109c106c1ef",
+      "parentId": "6939f7b9e539c37b200ff524",
+      "slotId": "mod_barrel"
+    },
+    {
+      "_id": "6939f7b9e539c37b200ff527",
+      "_tpl": "57c55efc2459772d2c6271e7",
+      "parentId": "6939f7b9e539c37b200ff524",
+      "slotId": "mod_pistol_grip"
+    },
+    {
+      "_id": "6939f7b9e539c37b200ff528",
+      "_tpl": "6917d89b54f5f109c106c1f2",
+      "parentId": "6939f7b9e539c37b200ff524",
+      "slotId": "mod_stock"
+    },
+    {
+      "_id": "6939f7b9e539c37b200ff529",
+      "_tpl": "5a34fd2bc4a282329a73b4c5",
+      "parentId": "6939f7b9e539c37b200ff526",
+      "slotId": "mod_muzzle"
+    },
+    {
+      "_id": "6939f7b9e539c37b200ff52a",
+      "_tpl": "6917d89b54f5f109c106c1f4",
+      "parentId": "6939f7b9e539c37b200ff526",
+      "slotId": "mod_handguard"
+    }
+  ],
+  "_encyclopedia": "6917d89b54f5f109c106c1ee"
+      }
+    ],
+    "traders": {
+      "JAEGER": {
+        "6917d89b54f5f109c106c1f0": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 53029,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": [],
+    "masterySections": [
+      {
+        "Level2": 100,
+        "Level3": 175,
+        "Name": "DVL",
+        "Templates": [
+          "6917d89b54f5f109c106c1ee"
+        ]
+      }
+    ]
+  },
+"6917d89b54f5f109c106c1ef": {
+    "itemTplToClone": "5d2703038abbc3105103d94c",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/ACTX/actx_barrel.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+        "_name": "mod_muzzle",
+        "_id": "5d2703038abbc3105103d94e",
+        "_parent": "5d2703038abbc3105103d94c",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "612e0d3767085e45ef14057f",
+                "5b7d693d5acfc43bca706a3d",
+                "5a34fd2bc4a282329a73b4c5",
+                "6065c6e7132d4d12c81fd8e1",
+                "5d1f819086f7744b355c219b",
+                "5dcbe965e4ed22586443a79d",
+                "5d026791d7ad1a04a067ea63",
+                "5dfa3cd1b33c0951220c079b",
+                "6130c43c67085e45ef1405a1",
+                "5cdd7685d7f00c000f260ed2",
+                "5c878e9d2e2216000f201903",
+                "5d02677ad7ad1a04a15c0f95",
+                "5bbdb8bdd4351e4502011460",
+                "5cdd7693d7f00c0010373aa5",
+                "607ffb988900dc2d9a55b6e4",
+                "615d8eb350224f204c1da1cf",
+                "612e0e3c290d254f5e6b291d",
+                "5d443f8fa4b93678dd4a01aa",
+                "5c7954d52e221600106f4cc7",
+                "5fbc22ccf24b94483f726483",
+                "59bffc1f86f77435b128b872",
+                "5cf78496d7f00c065703d6ca",
+                "5d270ca28abbc31ee25ee821",
+                "5d270b3c8abbc3105335cfb8",
+                "5fbe7618d6fa9c00c571bb6c",
+                "618178aa1cb55961fa0fdc80",
+                "628a66b41d5e41750e314f34",
+                "6642f63667f5cb56a00662eb"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+        "_name": "mod_handguard",
+        "_id": "5888958d24597752fe43a6f2",
+        "_parent": "5888956924597752983e182d",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6917d89b54f5f109c106c1f4",
+                "69187ee78568323f8204aaf7",
+                "691894068568323f8204ab03",
+                "691897048568323f8204ab11"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": true,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "AC-TX 7.62x51 22 inch stainless steel threaded barrel",
+        "shortName": "AC-TX",
+        "description": "A 20 inch (508mm) stainless steel threaded barrel for the Remington Model 700 sniper rifle chambered in 7.62x51 NATO ammo."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 22800,
+    "handbookPriceRoubles": 17821,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "JAEGER": {
+        "6917d89b54f5f109c106c1f1": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 31920,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+"6917d89b54f5f109c106c1f2": {
+    "itemTplToClone": "58889d0c2459775bc215d981",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/ACTX/actx_stock.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Accuracy International AT-XC Stock",
+        "shortName": "AT-XC",
+        "description": "A precision engineered stock for the Accuracy International AT-XC sniper rifle, designed to enhance stability and accuracy during long-range shooting."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_stock"
+    ],
+    "fleaPriceRoubles": 4650,
+    "handbookPriceRoubles": 3422,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3000
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "6917d89b54f5f109c106c1f3": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 8603,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+"6917d89b54f5f109c106c1f4": {
+    "itemTplToClone": "5888976c24597754281f93f5",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/ACTX/actx_handguard.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+        "_name": "mod_tactical_000",
+        "_id": "5888983e24597752415de72a",
+        "_parent": "5888976c24597754281f93f5",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5d10b49bd7ad1a1a560708b0",
+                "5c06595c0db834001a66af6c",
+                "61605d88ffa6e502ac5e7eeb",
+                "5c5952732e2216398b5abda2",
+                "644a3df63b0b6f03e101e065"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Accuracy International AT-XC Stock",
+        "shortName": "AT-XC",
+        "description": "A precision engineered handguard for the Accuracy International AT-XC sniper rifle, designed to enhance stability and accuracy during long-range shooting."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 6269,
+    "handbookPriceRoubles": 4243,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "JAEGER": {
+        "6917d89b54f5f109c106c1f5": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 9832,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+"69187ee78568323f8204aaf3": {
+    "itemTplToClone": "588892092459774ac91d4b11",
+    "parentId": "5447b6254bdc2dc3278b4568",
+    "handbookParentId": "5b5f798886f77447ed5636b5",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/ACTX/actx_fde_container.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": 65, 
+      "Weight": 4.000,
+      "Foldable": false,
+      "Slots": [
+            {
+                "_name": "mod_magazine",
+                "_id": "5bfea6e90db834001b7347f5",
+                "_parent": "5bfea6e90db834001b7347f3",
+                "_props": {
+                "filters": [
+                    {
+                    "AnimationIndex": 0,
+                    "Filter": [
+                        "5d25a6538abbc306c62e630d",
+                        "5d25a7b88abbc3054f3e60bc",
+                        "5d25a6a48abbc306c62e6310",
+                        "5d25af8f8abbc3055079fec5",
+                        "5cf12a15d7f00c05464b293f",
+                        "5bfeaa0f0db834001b734927"
+                    ]
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c394bdc2dae468b4577"
+            },
+            {
+                "_name": "mod_scope",
+                "_id": "588892092459774ac91d4b13",
+                "_parent": "588892092459774ac91d4b11",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "57ac965c24597706be5f975c",
+                        "57aca93d2459771f2c7e26db",
+                        "544a3f024bdc2d1d388b4568",
+                        "544a3a774bdc2d3a388b4567",
+                        "5d2dc3e548f035404a1a4798",
+                        "57adff4f24597737f373b6e6",
+                        "5c0517910db83400232ffee5",
+                        "591c4efa86f7741030027726",
+                        "570fd79bd2720bc7458b4583",
+                        "570fd6c2d2720bc6458b457f",
+                        "558022b54bdc2dac148b458d",
+                        "5c07dd120db834001c39092d",
+                        "5c0a2cec0db834001b7ce47d",
+                        "58491f3324597764bc48fa02",
+                        "584924ec24597768f12ae244",
+                        "5b30b0dc5acfc400153b7124",
+                        "6165ac8c290d254f5e6b2f6c",
+                        "60a23797a37c940de7062d02",
+                        "5d2da1e948f035477b1ce2ba",
+                        "5c0505e00db834001b735073",
+                        "609a63b6e2ff132951242d09",
+                        "584984812459776a704a82a6",
+                        "59f9d81586f7744c7506ee62",
+                        "570fd721d2720bc5458b4596",
+                        "57ae0171245977343c27bfcf",
+                        "5dfe6104585a0c3e995c7b82",
+                        "544a3d0a4bdc2d1b388b4567",
+                        "5d1b5e94d7ad1a2b865a96b0",
+                        "609bab8b455afd752b2e6138",
+                        "58d39d3d86f77445bb794ae7",
+                        "616554fe50224f204c1da2aa",
+                        "5c7d55f52e221644f31bff6a",
+                        "616584766ef05c2ce828ef57",
+                        "5b3b6dc75acfc47a8773fb1e",
+                        "615d8d878004cc50514c3233",
+                        "5b2389515acfc4771e1be0c0",
+                        "577d128124597739d65d0e56",
+                        "618b9643526131765025ab35",
+                        "618bab21526131765025ab3f",
+                        "5c86592b2e2216000e69e77c",
+                        "5a37ca54c4a282000d72296a",
+                        "5d0a29fed7ad1a002769ad08",
+                        "58d2664f86f7747fec5834f6",
+                        "57c69dd424597774c03b7bbc",
+                        "5b3b99265acfc4704b4a1afb",
+                        "5aa66a9be5b5b0214e506e89",
+                        "5aa66c72e5b5b00016327c93",
+                        "61714b2467085e45ef140b2c",
+                        "6171407e50224f204c1da3c5",
+                        "61713cc4d8e3106d9806c109",
+                        "5b31163c5acfc400153b71cb",
+                        "5a33b652c4a28232996e407c",
+                        "5a33b2c9c4a282000c5a9511",
+                        "59db7eed86f77461f8380365",
+                        "5a1ead28fcdbcb001912fa9f",
+                        "5dff77c759400025ea5150cf",
+                        "626bb8532c923541184624b4",
+                        "62811f461d5df4475f46a332",
+                        "63fc449f5bd61c6cf3784a88",
+                        "6477772ea8a38bb2050ed4db",
+                        "6478641c19d732620e045e17",
+                        "64785e7c19d732620e045e15",
+                        "65392f611406374f82152ba5",
+                        "653931da5db71d30ab1d6296",
+                        "655f13e0a246670fb0373245",
+                        "6567e751a715f85433025998",
+                        "5c1cdd302e221602b3137250",
+                        "5c064c400db834001d23f468",
+                        "67641a851b2899700609901a",
+                        "6761759e7ee06333f108bf86"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_barrel",
+                "_id": "58889e2d245977567641f459",
+                "_parent": "588892092459774ac91d4b11",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "6917d89b54f5f109c106c1ef"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": true,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_pistol_grip",
+                "_id": "58889e5d24597759817d5dd3",
+                "_parent": "588892092459774ac91d4b11",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "55d4b9964bdc2d1d4e8b456e",
+                        "571659bb2459771fb2755a12",
+                        "6113c3586c780c1e710c90bc",
+                        "6113cc78d3a39d50044c065a",
+                        "6113cce3d92c473c770200c7",
+                        "57c55efc2459772d2c6271e7",
+                        "57af48872459771f0b2ebf11",
+                        "57c55f092459772d291a8463",
+                        "57c55f112459772d28133310",
+                        "57c55f172459772d27602381",
+                        "5a339805c4a2826c6e06d73d",
+                        "615d8faecabb9b7ad90f4d5d",
+                        "5b07db875acfc40dc528a5f6",
+                        "63f5feead259b42f0b4d6d0f"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": true,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_stock",
+                "_id": "58889ea42459775bc215d983",
+                "_parent": "588892092459774ac91d4b11",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "6917d89b54f5f109c106c1f2",
+                        "69187ee78568323f8204aaf5",
+                        "69187ee78568323f8204aafb",
+                        "691897048568323f8204ab0f"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_foregrip",
+                "_id": "5c17664f2e2216398b5a7e40",
+                "_parent": "5c17664f2e2216398b5a7e3c",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "615d8fd3290d254f5e6b2edc",
+                        "5fc0f9b5d724d907e2077d82",
+                        "5fc0f9cbd6fa9c00c571bb90",
+                        "5a9d6d13a2750c00164f6b03",
+                        "59e0bed186f774156f04ce84"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_tactical_002",
+                "_id": "5c17664f2e2216398b5a7e41",
+                "_parent": "5c17664f2e2216398b5a7e3c",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "5a9d6d00a2750c5c985b5305",
+                        "59e0bdb186f774156f04ce82",
+                        "59e0be5d86f7742d48765bd2",
+                        "623c2f652febb22c2777d8d7",
+                        "67111094d1758189fc0bd223"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_tactical_001",
+                "_id": "5c17664f2e2216398b5a7e42",
+                "_parent": "5c17664f2e2216398b5a7e3c",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "5a9d6d00a2750c5c985b5305",
+                        "59e0bdb186f774156f04ce82",
+                        "59e0be5d86f7742d48765bd2",
+                        "623c2f652febb22c2777d8d7",
+                        "67111094d1758189fc0bd223"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_tactical_000",
+                "_id": "5c17664f2e2216398b5a7e43",
+                "_parent": "5c17664f2e2216398b5a7e3c",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "5a9d6d00a2750c5c985b5305",
+                        "59e0bdb186f774156f04ce82",
+                        "59e0be5d86f7742d48765bd2",
+                        "623c2f652febb22c2777d8d7",
+                        "67112695fe5c8bf33f02476d",
+                        "67111094d1758189fc0bd223"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_mount_001",
+                "_id": "5c17664f2e2216398b5a7e42",
+                "_parent": "5c17664f2e2216398b5a7e3c",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "5a9d6d00a2750c5c985b5305",
+                        "59e0bdb186f774156f04ce82",
+                        "59e0be5d86f7742d48765bd2",
+                        "623c2f652febb22c2777d8d7",
+                        "67111094d1758189fc0bd223"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Accuracy International AT-XC 7.62x51mm Sniper Rifle FDE",
+        "shortName": "AT-XC",
+        "description": "Introducing the Accuracy International AT-XC rifle. After continuous research and development and exhaustive testing, Accuracy International has created a new generation of a short action rifles with enhanced features. The AT-XC answers the call for modern action with durability, safety, ease of use, and an increased feature set for the competitive shooter. The AT-Xc builds on AI's legacy of engineering and innovation that has made it a world leader in bolt action rifle technology. The AT-XC is a multi-caliber bolt action rifle with quick change barrel capability, two stage competition trigger with adjustable shoe. A cut rifled, high precision, barrel is available in 6mm Creedmoor and 6.5 Creedmoor. The 7075 t6 allow chassis treatment is Mil Std Hardcoat Finish in Flat Dark Earth (FDE) color."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 134592,
+    "handbookPriceRoubles": 110223,
+    "addtoTraders": false,
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "6939f7b9e539c37b200ff50d",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "ATXC FDE",
+        "_parent": "6939f7b9e539c37b200ff50e",
+        "_items": [
+          {
+            "_id": "6939f7b9e539c37b200ff50e",
+            "_tpl": "69187ee78568323f8204aaf3",
+            "upd": {
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              },
+              "FireMode": {
+                "FireMode": "single"
+              },
+              "Foldable": {
+                "Folded": false
+              }
+            }
+          },
+          {
+            "_id": "6939f7b9e539c37b200ff50f",
+            "_tpl": "5bfeaa0f0db834001b734927",
+            "parentId": "6939f7b9e539c37b200ff50e",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "6939f7b9e539c37b200ff510",
+            "_tpl": "6917d89b54f5f109c106c1ef",
+            "parentId": "6939f7b9e539c37b200ff50e",
+            "slotId": "mod_barrel"
+          },
+          {
+            "_id": "6939f7b9e539c37b200ff511",
+            "_tpl": "57af48872459771f0b2ebf11",
+            "parentId": "6939f7b9e539c37b200ff50e",
+            "slotId": "mod_pistol_grip"
+          },
+          {
+            "_id": "6939f7b9e539c37b200ff512",
+            "_tpl": "69187ee78568323f8204aaf5",
+            "parentId": "6939f7b9e539c37b200ff50e",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "6939f7b9e539c37b200ff513",
+            "_tpl": "5a34fd2bc4a282329a73b4c5",
+            "parentId": "6939f7b9e539c37b200ff510",
+            "slotId": "mod_muzzle"
+          },
+          {
+            "_id": "6939f7b9e539c37b200ff514",
+            "_tpl": "69187ee78568323f8204aaf7",
+            "parentId": "6939f7b9e539c37b200ff510",
+            "slotId": "mod_handguard"
+          }
+      ],
+      "_encyclopedia": "69187ee78568323f8204aaf3"
+      }
+    ],
+    "traders": {
+      "JAEGER": {
+        "69187ee78568323f8204aaf4": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 142393,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": [],
+    "masterySections": [
+      {
+        "Level2": 100,
+        "Level3": 175,
+        "Name": "DVL",
+        "Templates": [
+          "69187ee78568323f8204aaf3"
+        ]
+      }
+    ]
+  },
+"69187ee78568323f8204aaf5": {
+    "itemTplToClone": "58889d0c2459775bc215d981",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/ACTX/actx_stock_fde.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Accuracy International AT-XC Stock FDE",
+        "shortName": "AT-XC",
+        "description": "A precision engineered stock for the Accuracy International AT-XC sniper rifle, designed to enhance stability and accuracy during long-range shooting. Finished in Flat Dark Earth (FDE) for improved camouflage in arid environments."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_stock"
+    ],
+    "fleaPriceRoubles": 4650,
+    "handbookPriceRoubles": 3422,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3000
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "69187ee78568323f8204aaf6": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 8603,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+"69187ee78568323f8204aaf7": {
+    "itemTplToClone": "5888976c24597754281f93f5",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/ACTX/actx_handguard_fde.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+        "_name": "mod_tactical_000",
+        "_id": "5888983e24597752415de72a",
+        "_parent": "5888976c24597754281f93f5",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5d10b49bd7ad1a1a560708b0",
+                "5c06595c0db834001a66af6c",
+                "61605d88ffa6e502ac5e7eeb",
+                "5c5952732e2216398b5abda2",
+                "644a3df63b0b6f03e101e065"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Accuracy International AT-XC Stock FDE",
+        "shortName": "AT-XC",
+        "description": "A precision engineered handguard for the Accuracy International AT-XC sniper rifle, designed to enhance stability and accuracy during long-range shooting. Finished in Flat Dark Earth (FDE) for improved camouflage in arid environments."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 6269,
+    "handbookPriceRoubles": 4243,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "JAEGER": {
+        "69187ee78568323f8204aaf8": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 9832,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+"69187ee78568323f8204aaf9": {
+    "itemTplToClone": "588892092459774ac91d4b11",
+    "parentId": "5447b6254bdc2dc3278b4568",
+    "handbookParentId": "5b5f798886f77447ed5636b5",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/ACTX/actx_red_container.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": 65,
+      "Weight": 4.000,
+      "Foldable": false,
+      "Slots": [
+            {
+                "_name": "mod_magazine",
+                "_id": "5bfea6e90db834001b7347f5",
+                "_parent": "5bfea6e90db834001b7347f3",
+                "_props": {
+                "filters": [
+                    {
+                    "AnimationIndex": 0,
+                    "Filter": [
+                        "5d25a6538abbc306c62e630d",
+                        "5d25a7b88abbc3054f3e60bc",
+                        "5d25a6a48abbc306c62e6310",
+                        "5d25af8f8abbc3055079fec5",
+                        "5cf12a15d7f00c05464b293f",
+                        "5bfeaa0f0db834001b734927"
+                    ]
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c394bdc2dae468b4577"
+            },
+            {
+                "_name": "mod_scope",
+                "_id": "588892092459774ac91d4b13",
+                "_parent": "588892092459774ac91d4b11",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "57ac965c24597706be5f975c",
+                        "57aca93d2459771f2c7e26db",
+                        "544a3f024bdc2d1d388b4568",
+                        "544a3a774bdc2d3a388b4567",
+                        "5d2dc3e548f035404a1a4798",
+                        "57adff4f24597737f373b6e6",
+                        "5c0517910db83400232ffee5",
+                        "591c4efa86f7741030027726",
+                        "570fd79bd2720bc7458b4583",
+                        "570fd6c2d2720bc6458b457f",
+                        "558022b54bdc2dac148b458d",
+                        "5c07dd120db834001c39092d",
+                        "5c0a2cec0db834001b7ce47d",
+                        "58491f3324597764bc48fa02",
+                        "584924ec24597768f12ae244",
+                        "5b30b0dc5acfc400153b7124",
+                        "6165ac8c290d254f5e6b2f6c",
+                        "60a23797a37c940de7062d02",
+                        "5d2da1e948f035477b1ce2ba",
+                        "5c0505e00db834001b735073",
+                        "609a63b6e2ff132951242d09",
+                        "584984812459776a704a82a6",
+                        "59f9d81586f7744c7506ee62",
+                        "570fd721d2720bc5458b4596",
+                        "57ae0171245977343c27bfcf",
+                        "5dfe6104585a0c3e995c7b82",
+                        "544a3d0a4bdc2d1b388b4567",
+                        "5d1b5e94d7ad1a2b865a96b0",
+                        "609bab8b455afd752b2e6138",
+                        "58d39d3d86f77445bb794ae7",
+                        "616554fe50224f204c1da2aa",
+                        "5c7d55f52e221644f31bff6a",
+                        "616584766ef05c2ce828ef57",
+                        "5b3b6dc75acfc47a8773fb1e",
+                        "615d8d878004cc50514c3233",
+                        "5b2389515acfc4771e1be0c0",
+                        "577d128124597739d65d0e56",
+                        "618b9643526131765025ab35",
+                        "618bab21526131765025ab3f",
+                        "5c86592b2e2216000e69e77c",
+                        "5a37ca54c4a282000d72296a",
+                        "5d0a29fed7ad1a002769ad08",
+                        "58d2664f86f7747fec5834f6",
+                        "57c69dd424597774c03b7bbc",
+                        "5b3b99265acfc4704b4a1afb",
+                        "5aa66a9be5b5b0214e506e89",
+                        "5aa66c72e5b5b00016327c93",
+                        "61714b2467085e45ef140b2c",
+                        "6171407e50224f204c1da3c5",
+                        "61713cc4d8e3106d9806c109",
+                        "5b31163c5acfc400153b71cb",
+                        "5a33b652c4a28232996e407c",
+                        "5a33b2c9c4a282000c5a9511",
+                        "59db7eed86f77461f8380365",
+                        "5a1ead28fcdbcb001912fa9f",
+                        "5dff77c759400025ea5150cf",
+                        "626bb8532c923541184624b4",
+                        "62811f461d5df4475f46a332",
+                        "63fc449f5bd61c6cf3784a88",
+                        "6477772ea8a38bb2050ed4db",
+                        "6478641c19d732620e045e17",
+                        "64785e7c19d732620e045e15",
+                        "65392f611406374f82152ba5",
+                        "653931da5db71d30ab1d6296",
+                        "655f13e0a246670fb0373245",
+                        "6567e751a715f85433025998",
+                        "5c1cdd302e221602b3137250",
+                        "5c064c400db834001d23f468",
+                        "67641a851b2899700609901a",
+                        "6761759e7ee06333f108bf86"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_barrel",
+                "_id": "58889e2d245977567641f459",
+                "_parent": "588892092459774ac91d4b11",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "6917d89b54f5f109c106c1ef"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": true,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_pistol_grip",
+                "_id": "58889e5d24597759817d5dd3",
+                "_parent": "588892092459774ac91d4b11",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "55d4b9964bdc2d1d4e8b456e",
+                        "571659bb2459771fb2755a12",
+                        "6113c3586c780c1e710c90bc",
+                        "6113cc78d3a39d50044c065a",
+                        "6113cce3d92c473c770200c7",
+                        "57c55efc2459772d2c6271e7",
+                        "57af48872459771f0b2ebf11",
+                        "57c55f092459772d291a8463",
+                        "57c55f112459772d28133310",
+                        "57c55f172459772d27602381",
+                        "5a339805c4a2826c6e06d73d",
+                        "615d8faecabb9b7ad90f4d5d",
+                        "5b07db875acfc40dc528a5f6",
+                        "63f5feead259b42f0b4d6d0f"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": true,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_stock",
+                "_id": "58889ea42459775bc215d983",
+                "_parent": "588892092459774ac91d4b11",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "6917d89b54f5f109c106c1f2",
+                        "69187ee78568323f8204aaf5",
+                        "69187ee78568323f8204aafb",
+                        "691897048568323f8204ab0f"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_foregrip",
+                "_id": "5c17664f2e2216398b5a7e40",
+                "_parent": "5c17664f2e2216398b5a7e3c",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "615d8fd3290d254f5e6b2edc",
+                        "5fc0f9b5d724d907e2077d82",
+                        "5fc0f9cbd6fa9c00c571bb90",
+                        "5a9d6d13a2750c00164f6b03",
+                        "59e0bed186f774156f04ce84"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_tactical_002",
+                "_id": "5c17664f2e2216398b5a7e41",
+                "_parent": "5c17664f2e2216398b5a7e3c",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "5a9d6d00a2750c5c985b5305",
+                        "59e0bdb186f774156f04ce82",
+                        "59e0be5d86f7742d48765bd2",
+                        "623c2f652febb22c2777d8d7",
+                        "67111094d1758189fc0bd223"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_tactical_001",
+                "_id": "5c17664f2e2216398b5a7e42",
+                "_parent": "5c17664f2e2216398b5a7e3c",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "5a9d6d00a2750c5c985b5305",
+                        "59e0bdb186f774156f04ce82",
+                        "59e0be5d86f7742d48765bd2",
+                        "623c2f652febb22c2777d8d7",
+                        "67111094d1758189fc0bd223"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_tactical_000",
+                "_id": "5c17664f2e2216398b5a7e43",
+                "_parent": "5c17664f2e2216398b5a7e3c",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "5a9d6d00a2750c5c985b5305",
+                        "59e0bdb186f774156f04ce82",
+                        "59e0be5d86f7742d48765bd2",
+                        "623c2f652febb22c2777d8d7",
+                        "67112695fe5c8bf33f02476d",
+                        "67111094d1758189fc0bd223"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_mount_001",
+                "_id": "5c17664f2e2216398b5a7e42",
+                "_parent": "5c17664f2e2216398b5a7e3c",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "5a9d6d00a2750c5c985b5305",
+                        "59e0bdb186f774156f04ce82",
+                        "59e0be5d86f7742d48765bd2",
+                        "623c2f652febb22c2777d8d7",
+                        "67111094d1758189fc0bd223"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Accuracy International AT-XC 7.62x51mm Sniper Rifle Anodized Red",
+        "shortName": "AT-XC",
+        "description": "Introducing the Accuracy International AT-XC rifle. After continuous research and development and exhaustive testing, Accuracy International has created a new generation of a short action rifles with enhanced features. The AT-XC answers the call for modern action with durability, safety, ease of use, and an increased feature set for the competitive shooter. The AT-Xc builds on AI's legacy of engineering and innovation that has made it a world leader in bolt action rifle technology. The AT-XC is a multi-caliber bolt action rifle with quick change barrel capability, two stage competition trigger with adjustable shoe. A cut rifled, high precision, barrel is available in 6mm Creedmoor and 6.5 Creedmoor. The 7075 t6 allow chassis treatment is Mil Std Hardcoat Finish in Anodized Red."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 134592,
+    "handbookPriceRoubles": 110223,
+    "addtoTraders": false,
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+          {
+            "_id": "6939f7b9e539c37b200ff518",
+            "_type": "Preset",
+            "_changeWeaponName": false,
+            "_name": "ATCX RED",
+            "_parent": "6939f7b9e539c37b200ff519",
+            "_items": [
+              {
+                "_id": "6939f7b9e539c37b200ff519",
+                "_tpl": "69187ee78568323f8204aaf9",
+                "upd": {
+                  "Repairable": {
+                    "Durability": 100,
+                    "MaxDurability": 100
+                  },
+                  "FireMode": {
+                    "FireMode": "single"
+                  },
+                  "Foldable": {
+                    "Folded": false
+                  }
+                }
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff51a",
+                "_tpl": "5bfeaa0f0db834001b734927",
+                "parentId": "6939f7b9e539c37b200ff519",
+                "slotId": "mod_magazine"
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff51b",
+                "_tpl": "6917d89b54f5f109c106c1ef",
+                "parentId": "6939f7b9e539c37b200ff519",
+                "slotId": "mod_barrel"
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff51c",
+                "_tpl": "57c55efc2459772d2c6271e7",
+                "parentId": "6939f7b9e539c37b200ff519",
+                "slotId": "mod_pistol_grip"
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff51d",
+                "_tpl": "69187ee78568323f8204aafb",
+                "parentId": "6939f7b9e539c37b200ff519",
+                "slotId": "mod_stock"
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff51e",
+                "_tpl": "5a34fd2bc4a282329a73b4c5",
+                "parentId": "6939f7b9e539c37b200ff51b",
+                "slotId": "mod_muzzle"
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff51f",
+                "_tpl": "691894068568323f8204ab03",
+                "parentId": "6939f7b9e539c37b200ff51b",
+                "slotId": "mod_handguard"
+              }
+            ],
+            "_encyclopedia": "69187ee78568323f8204aaf9"
+          }
+    ],
+    "traders": {
+      "JAEGER": {
+        "69187ee78568323f8204aafa": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 142393,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": [],
+    "masterySections": [
+      {
+        "Level2": 100,
+        "Level3": 175,
+        "Name": "DVL",
+        "Templates": [
+          "69187ee78568323f8204aaf9"
+        ]
+      }
+    ]
+  },
+"69187ee78568323f8204aafb": {
+    "itemTplToClone": "58889d0c2459775bc215d981",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/ACTX/actx_stock_red.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Accuracy International AT-XC Stock Anodized Red",
+        "shortName": "AT-XC",
+        "description": "A precision engineered stock for the Accuracy International AT-XC sniper rifle, designed to enhance stability and accuracy during long-range shooting. Finished in Anodized Red."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_stock"
+    ],
+    "fleaPriceRoubles": 4650,
+    "handbookPriceRoubles": 3422,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3000
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "69187ee78568323f8204aafc": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 8603,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+"691894068568323f8204ab03": {
+    "itemTplToClone": "5888976c24597754281f93f5",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/ACTX/actx_handguard_red.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+        "_name": "mod_tactical_000",
+        "_id": "5888983e24597752415de72a",
+        "_parent": "5888976c24597754281f93f5",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5d10b49bd7ad1a1a560708b0",
+                "5c06595c0db834001a66af6c",
+                "61605d88ffa6e502ac5e7eeb",
+                "5c5952732e2216398b5abda2",
+                "644a3df63b0b6f03e101e065"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Accuracy International AT-XC Stock Anodized Red",
+        "shortName": "AT-XC",
+        "description": "A precision engineered handguard for the Accuracy International AT-XC sniper rifle, designed to enhance stability and accuracy during long-range shooting. Finished in Anodized Red."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 6269,
+    "handbookPriceRoubles": 4243,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "JAEGER": {
+        "691894068568323f8204ab04": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 9832,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+"691897048568323f8204ab0d": {
+    "itemTplToClone": "588892092459774ac91d4b11",
+    "parentId": "5447b6254bdc2dc3278b4568",
+    "handbookParentId": "5b5f798886f77447ed5636b5",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/ACTX/actx_green_container.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": 65,
+      "Weight": 4.000,
+      "Foldable": false,
+      "Slots": [
+            {
+                "_name": "mod_magazine",
+                "_id": "5bfea6e90db834001b7347f5",
+                "_parent": "5bfea6e90db834001b7347f3",
+                "_props": {
+                "filters": [
+                    {
+                    "AnimationIndex": 0,
+                    "Filter": [
+                        "5d25a6538abbc306c62e630d",
+                        "5d25a7b88abbc3054f3e60bc",
+                        "5d25a6a48abbc306c62e6310",
+                        "5d25af8f8abbc3055079fec5",
+                        "5cf12a15d7f00c05464b293f",
+                        "5bfeaa0f0db834001b734927"
+                    ]
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c394bdc2dae468b4577"
+            },
+            {
+                "_name": "mod_scope",
+                "_id": "588892092459774ac91d4b13",
+                "_parent": "588892092459774ac91d4b11",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "57ac965c24597706be5f975c",
+                        "57aca93d2459771f2c7e26db",
+                        "544a3f024bdc2d1d388b4568",
+                        "544a3a774bdc2d3a388b4567",
+                        "5d2dc3e548f035404a1a4798",
+                        "57adff4f24597737f373b6e6",
+                        "5c0517910db83400232ffee5",
+                        "591c4efa86f7741030027726",
+                        "570fd79bd2720bc7458b4583",
+                        "570fd6c2d2720bc6458b457f",
+                        "558022b54bdc2dac148b458d",
+                        "5c07dd120db834001c39092d",
+                        "5c0a2cec0db834001b7ce47d",
+                        "58491f3324597764bc48fa02",
+                        "584924ec24597768f12ae244",
+                        "5b30b0dc5acfc400153b7124",
+                        "6165ac8c290d254f5e6b2f6c",
+                        "60a23797a37c940de7062d02",
+                        "5d2da1e948f035477b1ce2ba",
+                        "5c0505e00db834001b735073",
+                        "609a63b6e2ff132951242d09",
+                        "584984812459776a704a82a6",
+                        "59f9d81586f7744c7506ee62",
+                        "570fd721d2720bc5458b4596",
+                        "57ae0171245977343c27bfcf",
+                        "5dfe6104585a0c3e995c7b82",
+                        "544a3d0a4bdc2d1b388b4567",
+                        "5d1b5e94d7ad1a2b865a96b0",
+                        "609bab8b455afd752b2e6138",
+                        "58d39d3d86f77445bb794ae7",
+                        "616554fe50224f204c1da2aa",
+                        "5c7d55f52e221644f31bff6a",
+                        "616584766ef05c2ce828ef57",
+                        "5b3b6dc75acfc47a8773fb1e",
+                        "615d8d878004cc50514c3233",
+                        "5b2389515acfc4771e1be0c0",
+                        "577d128124597739d65d0e56",
+                        "618b9643526131765025ab35",
+                        "618bab21526131765025ab3f",
+                        "5c86592b2e2216000e69e77c",
+                        "5a37ca54c4a282000d72296a",
+                        "5d0a29fed7ad1a002769ad08",
+                        "58d2664f86f7747fec5834f6",
+                        "57c69dd424597774c03b7bbc",
+                        "5b3b99265acfc4704b4a1afb",
+                        "5aa66a9be5b5b0214e506e89",
+                        "5aa66c72e5b5b00016327c93",
+                        "61714b2467085e45ef140b2c",
+                        "6171407e50224f204c1da3c5",
+                        "61713cc4d8e3106d9806c109",
+                        "5b31163c5acfc400153b71cb",
+                        "5a33b652c4a28232996e407c",
+                        "5a33b2c9c4a282000c5a9511",
+                        "59db7eed86f77461f8380365",
+                        "5a1ead28fcdbcb001912fa9f",
+                        "5dff77c759400025ea5150cf",
+                        "626bb8532c923541184624b4",
+                        "62811f461d5df4475f46a332",
+                        "63fc449f5bd61c6cf3784a88",
+                        "6477772ea8a38bb2050ed4db",
+                        "6478641c19d732620e045e17",
+                        "64785e7c19d732620e045e15",
+                        "65392f611406374f82152ba5",
+                        "653931da5db71d30ab1d6296",
+                        "655f13e0a246670fb0373245",
+                        "6567e751a715f85433025998",
+                        "5c1cdd302e221602b3137250",
+                        "5c064c400db834001d23f468",
+                        "67641a851b2899700609901a",
+                        "6761759e7ee06333f108bf86"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_barrel",
+                "_id": "58889e2d245977567641f459",
+                "_parent": "588892092459774ac91d4b11",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "6917d89b54f5f109c106c1ef"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": true,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_pistol_grip",
+                "_id": "58889e5d24597759817d5dd3",
+                "_parent": "588892092459774ac91d4b11",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "55d4b9964bdc2d1d4e8b456e",
+                        "571659bb2459771fb2755a12",
+                        "6113c3586c780c1e710c90bc",
+                        "6113cc78d3a39d50044c065a",
+                        "6113cce3d92c473c770200c7",
+                        "57c55efc2459772d2c6271e7",
+                        "57af48872459771f0b2ebf11",
+                        "57c55f092459772d291a8463",
+                        "57c55f112459772d28133310",
+                        "57c55f172459772d27602381",
+                        "5a339805c4a2826c6e06d73d",
+                        "615d8faecabb9b7ad90f4d5d",
+                        "5b07db875acfc40dc528a5f6",
+                        "63f5feead259b42f0b4d6d0f"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": true,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_stock",
+                "_id": "58889ea42459775bc215d983",
+                "_parent": "588892092459774ac91d4b11",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "6917d89b54f5f109c106c1f2",
+                        "69187ee78568323f8204aaf5",
+                        "69187ee78568323f8204aafb",
+                        "691897048568323f8204ab0f"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_foregrip",
+                "_id": "5c17664f2e2216398b5a7e40",
+                "_parent": "5c17664f2e2216398b5a7e3c",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "615d8fd3290d254f5e6b2edc",
+                        "5fc0f9b5d724d907e2077d82",
+                        "5fc0f9cbd6fa9c00c571bb90",
+                        "5a9d6d13a2750c00164f6b03",
+                        "59e0bed186f774156f04ce84"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_tactical_002",
+                "_id": "5c17664f2e2216398b5a7e41",
+                "_parent": "5c17664f2e2216398b5a7e3c",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "5a9d6d00a2750c5c985b5305",
+                        "59e0bdb186f774156f04ce82",
+                        "59e0be5d86f7742d48765bd2",
+                        "623c2f652febb22c2777d8d7",
+                        "67111094d1758189fc0bd223"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_tactical_001",
+                "_id": "5c17664f2e2216398b5a7e42",
+                "_parent": "5c17664f2e2216398b5a7e3c",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "5a9d6d00a2750c5c985b5305",
+                        "59e0bdb186f774156f04ce82",
+                        "59e0be5d86f7742d48765bd2",
+                        "623c2f652febb22c2777d8d7",
+                        "67111094d1758189fc0bd223"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_tactical_000",
+                "_id": "5c17664f2e2216398b5a7e43",
+                "_parent": "5c17664f2e2216398b5a7e3c",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "5a9d6d00a2750c5c985b5305",
+                        "59e0bdb186f774156f04ce82",
+                        "59e0be5d86f7742d48765bd2",
+                        "623c2f652febb22c2777d8d7",
+                        "67112695fe5c8bf33f02476d",
+                        "67111094d1758189fc0bd223"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_mount_001",
+                "_id": "5c17664f2e2216398b5a7e42",
+                "_parent": "5c17664f2e2216398b5a7e3c",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "5a9d6d00a2750c5c985b5305",
+                        "59e0bdb186f774156f04ce82",
+                        "59e0be5d86f7742d48765bd2",
+                        "623c2f652febb22c2777d8d7",
+                        "67111094d1758189fc0bd223"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Accuracy International AT-XC 7.62x51mm Sniper Rifle Anodized Green",
+        "shortName": "AT-XC",
+        "description": "Introducing the Accuracy International AT-XC rifle. After continuous research and development and exhaustive testing, Accuracy International has created a new generation of a short action rifles with enhanced features. The AT-XC answers the call for modern action with durability, safety, ease of use, and an increased feature set for the competitive shooter. The AT-Xc builds on AI's legacy of engineering and innovation that has made it a world leader in bolt action rifle technology. The AT-XC is a multi-caliber bolt action rifle with quick change barrel capability, two stage competition trigger with adjustable shoe. A cut rifled, high precision, barrel is available in 6mm Creedmoor and 6.5 Creedmoor. The 7075 t6 allow chassis treatment is Mil Std Hardcoat Finish in Anodized Green."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 134592,
+    "handbookPriceRoubles": 110223,
+    "addtoTraders": false,
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+          {
+            "_id": "6939f7b9e539c37b200ff52e",
+            "_type": "Preset",
+            "_changeWeaponName": false,
+            "_name": "ATXC GREEN Base",
+            "_parent": "6939f7b9e539c37b200ff52f",
+            "_items": [
+              {
+                "_id": "6939f7b9e539c37b200ff52f",
+                "_tpl": "691897048568323f8204ab0d",
+                "upd": {
+                  "Repairable": {
+                    "Durability": 100,
+                    "MaxDurability": 100
+                  },
+                  "FireMode": {
+                    "FireMode": "single"
+                  },
+                  "Foldable": {
+                    "Folded": false
+                  }
+                }
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff530",
+                "_tpl": "5bfeaa0f0db834001b734927",
+                "parentId": "6939f7b9e539c37b200ff52f",
+                "slotId": "mod_magazine"
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff531",
+                "_tpl": "6917d89b54f5f109c106c1ef",
+                "parentId": "6939f7b9e539c37b200ff52f",
+                "slotId": "mod_barrel"
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff532",
+                "_tpl": "57c55f092459772d291a8463",
+                "parentId": "6939f7b9e539c37b200ff52f",
+                "slotId": "mod_pistol_grip"
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff533",
+                "_tpl": "691897048568323f8204ab0f",
+                "parentId": "6939f7b9e539c37b200ff52f",
+                "slotId": "mod_stock"
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff534",
+                "_tpl": "5a34fd2bc4a282329a73b4c5",
+                "parentId": "6939f7b9e539c37b200ff531",
+                "slotId": "mod_muzzle"
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff535",
+                "_tpl": "691897048568323f8204ab11",
+                "parentId": "6939f7b9e539c37b200ff531",
+                "slotId": "mod_handguard"
+              }
+            ],
+            "_encyclopedia": "691897048568323f8204ab0d"
+          }
+    ],
+    "traders": {
+      "JAEGER": {
+        "691897048568323f8204ab0e": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 142393,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": [],
+    "masterySections": [
+      {
+        "Level2": 100,
+        "Level3": 175,
+        "Name": "DVL",
+        "Templates": [
+          "691897048568323f8204ab0d"
+        ]
+      }
+    ]
+  },
+"691897048568323f8204ab0f": {
+    "itemTplToClone": "58889d0c2459775bc215d981",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/ACTX/actx_stock_green.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Accuracy International AT-XC Stock Anodized Green",
+        "shortName": "AT-XC",
+        "description": "A precision engineered stock for the Accuracy International AT-XC sniper rifle, designed to enhance stability and accuracy during long-range shooting. Finished in Anodized Green."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_stock"
+    ],
+    "fleaPriceRoubles": 4650,
+    "handbookPriceRoubles": 3422,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3000
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "691897048568323f8204ab10": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 8603,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+"691897048568323f8204ab11": {
+    "itemTplToClone": "5888976c24597754281f93f5",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/ACTX/actx_handguard_green.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+        "_name": "mod_tactical_000",
+        "_id": "5888983e24597752415de72a",
+        "_parent": "5888976c24597754281f93f5",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5d10b49bd7ad1a1a560708b0",
+                "5c06595c0db834001a66af6c",
+                "61605d88ffa6e502ac5e7eeb",
+                "5c5952732e2216398b5abda2",
+                "644a3df63b0b6f03e101e065"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Accuracy International AT-XC Stock Anodized Green",
+        "shortName": "AT-XC",
+        "description": "A precision engineered handguard for the Accuracy International AT-XC sniper rifle, designed to enhance stability and accuracy during long-range shooting. Finished in Anodized Green."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 6269,
+    "handbookPriceRoubles": 4243,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "JAEGER": {
+        "691897048568323f8204ab12": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 9832,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

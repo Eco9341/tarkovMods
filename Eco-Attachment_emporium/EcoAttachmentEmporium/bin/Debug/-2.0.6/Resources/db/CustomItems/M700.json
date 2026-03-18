@@ -1,0 +1,753 @@
+{
+  "6923adaa56bff0144c0a9aa3": {
+    "itemTplToClone": "5beed0f50db834001c062b12",
+    "parentId": "5447b6194bdc2d67278b4567",
+    "handbookParentId": "5b5f791486f774093f2ed3be",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/M700/m700_container.bundle",
+        "rcid": ""
+      },
+        "RecoilForceBack": 534,
+        "RecoilForceUp": 230,
+        "SingleFireRate": 300,
+        "bFirerate": 600,
+        "Ergonomics": 25,
+        "Weight": 1.46,
+        "BaseMalfunctionChance": 0.1771,
+        "CoolFactorGun": 3.168,
+        "HeatFactorByShot": 1.51,
+        "HeatFactorGun": 0.9899,
+        "HipAccuracyRestorationDelay": 0.2,
+        "HipAccuracyRestorationSpeed": 7,
+        "HipInnaccuracyGain": 0.16,
+        "MountCameraSnapMultiplier": 3,
+        "MountHorizontalRecoilMultiplier": 0.6,
+        "MountReturnSpeedHandMultiplier": 1,
+        "MountVerticalRecoilMultiplier": 0.85,
+        "MountingHorizontalOutOfBreathMultiplier": 0.4,
+        "RecoilDampingHandRotation": 0.87,
+        "RecoilPosZMult": 0.6,
+        "RecoilReturnPathDampingHandRotation": 0.48,
+        "RecoilReturnPathOffsetHandRotation": 0.01,
+        "RecoilReturnSpeedHandRotation": 2.4,
+        "RecoilStableAngleIncreaseStep": 2.5,
+        "RecoilStableIndexShot": 5,
+        "RecolDispersion": 11,
+        "bEffDist": 900,
+        "Foldable": false,
+        "Slots": [
+            {
+                "_name": "mod_scope",
+                "_id": "588892092459774ac91d4b13",
+                "_parent": "588892092459774ac91d4b11",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "57ac965c24597706be5f975c",
+                        "57aca93d2459771f2c7e26db",
+                        "544a3f024bdc2d1d388b4568",
+                        "544a3a774bdc2d3a388b4567",
+                        "5d2dc3e548f035404a1a4798",
+                        "57adff4f24597737f373b6e6",
+                        "5c0517910db83400232ffee5",
+                        "591c4efa86f7741030027726",
+                        "570fd79bd2720bc7458b4583",
+                        "570fd6c2d2720bc6458b457f",
+                        "558022b54bdc2dac148b458d",
+                        "5c07dd120db834001c39092d",
+                        "5c0a2cec0db834001b7ce47d",
+                        "58491f3324597764bc48fa02",
+                        "584924ec24597768f12ae244",
+                        "5b30b0dc5acfc400153b7124",
+                        "6165ac8c290d254f5e6b2f6c",
+                        "60a23797a37c940de7062d02",
+                        "5d2da1e948f035477b1ce2ba",
+                        "5c0505e00db834001b735073",
+                        "609a63b6e2ff132951242d09",
+                        "584984812459776a704a82a6",
+                        "59f9d81586f7744c7506ee62",
+                        "570fd721d2720bc5458b4596",
+                        "57ae0171245977343c27bfcf",
+                        "5dfe6104585a0c3e995c7b82",
+                        "544a3d0a4bdc2d1b388b4567",
+                        "5d1b5e94d7ad1a2b865a96b0",
+                        "609bab8b455afd752b2e6138",
+                        "58d39d3d86f77445bb794ae7",
+                        "616554fe50224f204c1da2aa",
+                        "5c7d55f52e221644f31bff6a",
+                        "616584766ef05c2ce828ef57",
+                        "5b3b6dc75acfc47a8773fb1e",
+                        "615d8d878004cc50514c3233",
+                        "5b2389515acfc4771e1be0c0",
+                        "577d128124597739d65d0e56",
+                        "618b9643526131765025ab35",
+                        "618bab21526131765025ab3f",
+                        "5c86592b2e2216000e69e77c",
+                        "5a37ca54c4a282000d72296a",
+                        "5d0a29fed7ad1a002769ad08",
+                        "58d2664f86f7747fec5834f6",
+                        "57c69dd424597774c03b7bbc",
+                        "5b3b99265acfc4704b4a1afb",
+                        "5aa66a9be5b5b0214e506e89",
+                        "5aa66c72e5b5b00016327c93",
+                        "61714b2467085e45ef140b2c",
+                        "6171407e50224f204c1da3c5",
+                        "61713cc4d8e3106d9806c109",
+                        "5b31163c5acfc400153b71cb",
+                        "5a33b652c4a28232996e407c",
+                        "5a33b2c9c4a282000c5a9511",
+                        "59db7eed86f77461f8380365",
+                        "5a1ead28fcdbcb001912fa9f",
+                        "5dff77c759400025ea5150cf",
+                        "626bb8532c923541184624b4",
+                        "62811f461d5df4475f46a332",
+                        "63fc449f5bd61c6cf3784a88",
+                        "6477772ea8a38bb2050ed4db",
+                        "6478641c19d732620e045e17",
+                        "64785e7c19d732620e045e15",
+                        "65392f611406374f82152ba5",
+                        "653931da5db71d30ab1d6296",
+                        "655f13e0a246670fb0373245",
+                        "6567e751a715f85433025998",
+                        "5c1cdd302e221602b3137250",
+                        "5c064c400db834001d23f468",
+                        "67641a851b2899700609901a",
+                        "6761759e7ee06333f108bf86"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_pistol_grip",
+                "_id": "55d354084bdc2d8c2f8b4568",
+                "_parent": "5447a9cd4bdc2dbd208b4567",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "5c0e2ff6d174af02a1659d4a",
+                        "5a33e75ac4a2826c6e06d759",
+                        "55d4b9964bdc2d1d4e8b456e",
+                        "571659bb2459771fb2755a12",
+                        "602e71bd53a60014f9705bfa",
+                        "6113c3586c780c1e710c90bc",
+                        "6113cc78d3a39d50044c065a",
+                        "6113cce3d92c473c770200c7",
+                        "5cc9bcaed7f00c011c04e179",
+                        "5bb20e18d4351e00320205d5",
+                        "5bb20e0ed4351e3bac1212dc",
+                        "6193dcd0f8ee7e52e4210a28",
+                        "5d025cc1d7ad1a53845279ef",
+                        "5c6d7b3d2e221600114c9b7d",
+                        "57c55efc2459772d2c6271e7",
+                        "57af48872459771f0b2ebf11",
+                        "57c55f092459772d291a8463",
+                        "57c55f112459772d28133310",
+                        "57c55f172459772d27602381",
+                        "5a339805c4a2826c6e06d73d",
+                        "55802f5d4bdc2dac148b458f",
+                        "5d15cf3bd7ad1a67e71518b2",
+                        "59db3a1d86f77429e05b4e92",
+                        "5fbcbd6c187fea44d52eda14",
+                        "59db3acc86f7742a2c4ab912",
+                        "59db3b0886f77429d72fb895",
+                        "615d8faecabb9b7ad90f4d5d",
+                        "5b07db875acfc40dc528a5f6",
+                        "63f5feead259b42f0b4d6d0f",
+                        "652911675ae2ae97b80fdf3c"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": true,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_magazine",
+                "_id": "5bfea6e90db834001b7347f5",
+                "_parent": "5bfea6e90db834001b7347f3",
+                "_props": {
+                "filters": [
+                    {
+                    "AnimationIndex": 0,
+                    "Filter": [
+                        "5d25a6538abbc306c62e630d",
+                        "5d25a4a98abbc30b917421a4",
+                        "5d25a7b88abbc3054f3e60bc",
+                        "5ce69cbad7f00c00b61c5098",
+                        "5d25a6a48abbc306c62e6310",
+                        "5d25af8f8abbc3055079fec5",
+                        "5cf12a15d7f00c05464b293f",
+                        "5bfeaa0f0db834001b734927",
+                        "5bfea7ad0db834001c38f1ee"
+                    ]
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c394bdc2dae468b4577"
+            },
+            {
+                "_name": "mod_stock",
+                "_id": "5bf2956d0db834001a6f9ff9",
+                "_parent": "5beed0f50db834001c062b12",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "6924fcff356087e2080c5556"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_handguard",
+                "_id": "5bf29d9d0db834001b095753",
+                "_parent": "5beed0f50db834001c062b12",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "6924fcff356087e2080c5558"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": true,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_barrel",
+                "_id": "5bfea6e90db834001b7347f7",
+                "_parent": "5bfea6e90db834001b7347f3",
+                "_props": {
+                "filters": [
+                    {
+                    "Filter": [
+                        "5d2703038abbc3105103d94c",
+                        "5bfebc250db834001a6694e1",
+                        "5bfebc320db8340019668d79",
+                        "5d2702e88abbc31ed91efc44",
+                        "6924fcff356087e2080c5554"
+                    ],
+                    "Shift": 0
+                    }
+                ]
+                },
+                "_required": true,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            }
+        ],
+        "Chambers": [
+            {
+              "_name": "patron_in_weapon",
+              "_id": "5bfea6e90db834001b7347f8",
+              "_parent": "5bfea6e90db834001b7347f3",
+              "_props": {
+                "filters": [
+                  {
+                    "Filter": [
+                      "5a6086ea4f39f99cd479502f",
+                      "5a608bf24f39f98ffc77720e",
+                      "58dd3ad986f77403051cba8f",
+                      "5e023e53d4353e3302577c4c",
+                      "5efb0c1bd79ff02a1f5e68d9",
+                      "5e023e6e34d52a55c3304f71",
+                      "5e023e88277cce2b522ff2b1",
+                      "6768c25aa7b238f14a08d3f6"
+                    ]
+                  }
+                ]
+              },
+              "_required": false,
+              "_mergeSlotWithChildren": false,
+              "_proto": "55d4af244bdc2d962f8b4571"
+            }
+        ],
+        "defAmmo": "5e023e53d4353e3302577c4c",
+        "defMagType": "5bfea7ad0db834001c38f1ee",
+        "ammoCaliber": "Caliber762x51"
+    },
+    "locales": {
+      "en": {
+        "name": "M700 ESS Chassis System 7.62x51 Rifle",
+        "shortName": "M700 ESS",
+        "description": "The Remington Model 700 is a series of bolt-action centerfire rifles manufactured by Remington Arms since 1962. for some reason, Mechanic decided to modify this variant with a select-fire system."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 34242,
+    "handbookPriceRoubles": 28631,
+    "addtoTraders": false,
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+          {
+            "_id": "6939f7b9e539c37b200ff43d",
+            "_type": "Preset",
+            "_changeWeaponName": false,
+            "_name": "Surgeon Base",
+            "_parent": "6939f7b9e539c37b200ff43e",
+            "_items": [
+              {
+                "_id": "6939f7b9e539c37b200ff43e",
+                "_tpl": "6923adaa56bff0144c0a9aa3",
+                "upd": {
+                  "Repairable": {
+                    "Durability": 100,
+                    "MaxDurability": 100
+                  },
+                  "FireMode": {
+                    "FireMode": "single"
+                  }
+                }
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff43f",
+                "_tpl": "55802f5d4bdc2dac148b458f",
+                "parentId": "6939f7b9e539c37b200ff43e",
+                "slotId": "mod_pistol_grip"
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff440",
+                "_tpl": "5cf12a15d7f00c05464b293f",
+                "parentId": "6939f7b9e539c37b200ff43e",
+                "slotId": "mod_magazine"
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff441",
+                "_tpl": "6924fcff356087e2080c5556",
+                "parentId": "6939f7b9e539c37b200ff43e",
+                "slotId": "mod_stock"
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff442",
+                "_tpl": "6924fcff356087e2080c5558",
+                "parentId": "6939f7b9e539c37b200ff43e",
+                "slotId": "mod_handguard"
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff443",
+                "_tpl": "6924fcff356087e2080c5554",
+                "parentId": "6939f7b9e539c37b200ff43e",
+                "slotId": "mod_barrel"
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff444",
+                "_tpl": "5a34fd2bc4a282329a73b4c5",
+                "parentId": "6939f7b9e539c37b200ff443",
+                "slotId": "mod_muzzle"
+              }
+            ],
+            "_encyclopedia": "6923adaa56bff0144c0a9aa3"
+          }
+    ],
+    "traders": {
+      "PRAPOR": {
+        "6923adaa56bff0144c0a9aa4": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 54677,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": [],
+    "masterySections": [
+      {
+        "Level2": 150,
+        "Level3": 200,
+        "Name": "AK74",
+        "Templates": [
+          "6923adaa56bff0144c0a9aa3"
+        ]
+      }
+    ]
+  },
+  "6924fcff356087e2080c5554": {
+    "itemTplToClone": "5d2703038abbc3105103d94c",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/M700/m700_barrel.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+        "_name": "mod_muzzle",
+        "_id": "5d2703038abbc3105103d94e",
+        "_parent": "5d2703038abbc3105103d94c",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "612e0d3767085e45ef14057f",
+                "5b7d693d5acfc43bca706a3d",
+                "5a34fd2bc4a282329a73b4c5",
+                "6065c6e7132d4d12c81fd8e1",
+                "5d1f819086f7744b355c219b",
+                "5dcbe965e4ed22586443a79d",
+                "5d026791d7ad1a04a067ea63",
+                "5dfa3cd1b33c0951220c079b",
+                "6130c43c67085e45ef1405a1",
+                "5cdd7685d7f00c000f260ed2",
+                "5c878e9d2e2216000f201903",
+                "5d02677ad7ad1a04a15c0f95",
+                "5bbdb8bdd4351e4502011460",
+                "5cdd7693d7f00c0010373aa5",
+                "607ffb988900dc2d9a55b6e4",
+                "615d8eb350224f204c1da1cf",
+                "612e0e3c290d254f5e6b291d",
+                "5d443f8fa4b93678dd4a01aa",
+                "5c7954d52e221600106f4cc7",
+                "5fbc22ccf24b94483f726483",
+                "59bffc1f86f77435b128b872",
+                "5cf78496d7f00c065703d6ca",
+                "5d270ca28abbc31ee25ee821",
+                "5d270b3c8abbc3105335cfb8",
+                "5fbe7618d6fa9c00c571bb6c",
+                "618178aa1cb55961fa0fdc80",
+                "628a66b41d5e41750e314f34",
+                "6642f63667f5cb56a00662eb"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "Ergonomics": -8,
+      "Recoil": -2,
+      "Weight": 0.200,
+      "Accuracy": 2,
+      "Velocity": -12,
+      "CoolFactor": 0.99,
+      "DeviationCurve": 1.6,
+      "DeviationMax": 19,
+      "DurabilityBurnModificator": 0.85,
+      "HeatFactor": 0.98,
+      "ExtraSizeLeft": 2,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "ExtraSizeDown": 0,
+      "Height": 1,
+      "Width": 2
+    },
+    "locales": {
+      "en": {
+        "name": "M700 7.62x51 11 inch stainless steel threaded barrel",
+        "shortName": "M700 11",
+        "description": "A 11 inch (280mm) stainless steel threaded barrel for the Remington Model 700 sniper rifle chambered in 7.62x51 NATO ammo."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 17462,
+    "handbookPriceRoubles": 15362,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "JAEGER": {
+        "6924fcff356087e2080c5555": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 22912,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6924fcff356087e2080c5556": {
+    "itemTplToClone": "58889d0c2459775bc215d981",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/M700/m700_stock.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "SRS Skeleton Rifle Stock",
+        "shortName": "MDT SRS",
+        "description": "The MDT SRS or Skeleton Rifle Stock is one of the most adaptable aftermarket rifle buttstocks available. They offer tool-less adjustable comb height, length-of-pull, and buttpad cant adjustment with QD sling points. SRS buttstocks are available for fixed and MDT's XTN Interface. Folding buttstocks are also available. Add a rear weight to balance your rifle or a rubber dampener to improve recoil impulse."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_stock"
+    ],
+    "fleaPriceRoubles": 4650,
+    "handbookPriceRoubles": 3422,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 28
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 28
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 28
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 28
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 28
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 28
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "6924fcff356087e2080c5557": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 8603,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6924fcff356087e2080c5558": {
+    "itemTplToClone": "5888976c24597754281f93f5",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/M700/m700_handguard.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+        "_name": "mod_tactical_000",
+        "_id": "5888983e24597752415de72a",
+        "_parent": "5888976c24597754281f93f5",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_000",
+          "_id": "5c6d10e82e221601da357b09",
+          "_parent": "5c6d10e82e221601da357b07",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_001",
+          "_id": "5c6d10e82e221601da357b0a",
+          "_parent": "5c6d10e82e221601da357b07",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_002",
+          "_id": "638f2003bbd47aeb9e0ff63e",
+          "_parent": "638f2003bbd47aeb9e0ff637",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                    "5b7be47f5acfc400170e2dd2",
+                    "6269220d70b6c02e665f2635",
+                    "6269545d0e57f218e4548ca2",
+                    "669a6a4a525be1d2d004b8eb",
+                    "671126b049e181972e0681fa"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "ESS Chassis Stock",
+        "shortName": "MDT ESS",
+        "description": "The enclosed M-LOK forend is available in 4 different styles; the included no rail forend, as well as optional carbon fiber, full rail, and partial rail forends. While the MDT ESS Chassis System comes with the MDT Pistol Grip - Elite, it’s also compatible with most other AR interface grips. The included MDT SRS-X Buttstock is also readily interchangeable with other XTN interface buttstocks, and can also be adapted to other interfaces using our own MDT Buttstock Adapters."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 6269,
+    "handbookPriceRoubles": 4243,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "JAEGER": {
+        "6924fcff356087e2080c5559": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 9832,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

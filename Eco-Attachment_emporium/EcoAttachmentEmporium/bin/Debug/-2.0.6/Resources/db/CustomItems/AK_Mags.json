@@ -1,0 +1,321 @@
+{
+  "697630f9a27ed68e280b49b0": {
+    "itemTplToClone": "59e5f5a486f7746c530b3ce2",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/AK_Mags/akm_100rd.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "62e7e7bbe6da9612f743f1e0"
+      ],
+    "Width": 3,
+        "Height": 2,
+      "Weight": 0.878,
+        "Cartridges": [
+        {
+            "_name": "cartridges",
+            "_id": "59e5f5a486f7746c530b3ce3",
+            "_parent": "59e5f5a486f7746c530b3ce2",
+            "_max_count": 100,
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "59e655cb86f77411dc52a77b",
+                    "59e6542b86f77411dc52a77a",
+                    "59e6658b86f77411d949b250",
+                    "5f0596629e22f464da6bbdd9",
+                    "59e0d99486f7744a32234762",
+                    "59e4d3d286f774176a36250a",
+                    "5656d7c34bdc2d9d198b4587",
+                    "59e4cf5286f7741778269d8a",
+                    "59e4d24686f7741776641ac7",
+                    "601aa3d2b2bcb34913271e6d",
+                    "64b7af5a8532cf95ee0a0dbd",
+                    "64b7af734b75259c590fa895",
+                    "64b7af434b75259c590fa893"
+                ]
+                }
+            ]
+            },
+            "_proto": "5748538b2459770af276a261"
+        }
+        ],
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "AK 7.62x39 100-round magazine",
+        "shortName": "AK 100",
+        "description": "High-capacity 100-round magazine for AK series rifles chambered in 7.62x39mm. compatible weapons from 1955 onward. Can also be supplied with .366 TKM ammo for use with the corresponding caliber AK-compatible weapons."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 32848,
+    "handbookPriceRoubles": 21029,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "697630f9a27ed68e280b49b1": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 56278,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69765407a27ed68e280b49b5": {
+    "itemTplToClone": "5a9e81fba2750c00164f6b11",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/AK_Mags/asval_45rd.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.45,
+      "Height": 3,
+      "Cartridges": [
+        {
+          "_name": "cartridges",
+          "_id": "5a9e81fba2750c00164f6b13",
+          "_parent": "5a9e81fba2750c00164f6b11",
+          "_max_count": 45,
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0d688c86f77413ae3407b2",
+                  "61962d879bb3d20b0946d385",
+                  "57a0dfb82459774d3078b56c",
+                  "57a0e5022459774d1673f889",
+                  "5c0d668f86f7747ccb7f13b2",
+                  "6576f96220d53a5b8f3e395e"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ],
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "VSS/VAL 9x39 SR3M.130 45-round magazine",
+        "shortName": "VSS/VAL 45",
+        "description": "A 45-round bakelite magazine for 9x39 caliber SR-3M, VSS, and AS VAL."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 32848,
+    "handbookPriceRoubles": 21029,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "69765407a27ed68e280b49b6": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 78432,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6976bec84812e29a4208e936": {
+    "itemTplToClone": "5ae0973a5acfc4001562206c",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/AK_Mags/mosin_drum_15.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.7,
+      "Cartridges": [
+        {
+          "_name": "cartridges",
+          "_id": "5ae0973a5acfc4001562206e",
+          "_parent": "5ae0973a5acfc4001562206c",
+          "_max_count": 15,
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5e023d34e8a400319a28ed44",
+                  "5e023d48186a883be655e551",
+                  "5e023cf8186a883be655e54f",
+                  "59e77a2386f7742ee578960a",
+                  "5887431f2459777e1612938f",
+                  "560d61e84bdc2da74d8b4571",
+                  "64b8f7c241772715af0f9c3d",
+                  "64b8f7968532cf95ee0a0dbf",
+                  "64b8f7b5389d7ffd620ccba2"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ],
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Mosin Rifle 7.62x54R 15-round drum magazine",
+        "shortName": "Mosin",
+        "description": "A 15-round drum magazine for the Mosin Rifle chambered in 7.62x54R."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 9485,
+    "handbookPriceRoubles": 7364,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "6976bec84812e29a4208e937": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 15364,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

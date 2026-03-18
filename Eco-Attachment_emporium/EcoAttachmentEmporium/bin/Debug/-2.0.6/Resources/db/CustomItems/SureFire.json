@@ -1,0 +1,354 @@
+{
+    "690f48891a9f90e0500b1f51": {
+    "itemTplToClone": "626becf9582c3e319310b837",
+    "parentId": "55818b164bdc2ddc698b456c",
+    "handbookParentId": "5b5f73ab86f774094242f195",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Surefire/surefire.bundle",
+        "rcid": ""
+      },
+        "Weight": 0.964,
+        "ModesCount": 2
+    },
+    "locales": {
+      "en": {
+        "name": "SureFire M340DFT-PRO Turbo Mini Scout Light Pro",
+        "shortName": "M340",
+        "description": "SureFire's Scout Light Pro series rewrote the rules of WeaponLight versatility. The M340DFT-PRO Turbo Mini Scout Light Pro combines high-candela performance and dual-fuel capability. The M340DFT-PRO's Turbo Series reflector delivers the farthest-reaching beam of any SureFire long gun WeaponLight in a compact form factor. As a result, it is ideal for long-range target identification."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_tactical_001",
+      "mod_tactical_002",
+      "mod_tactical_003",
+      "mod_mount_000",
+      "mod_mount_001",
+      "mod_mount_002"
+    ],
+    "fleaPriceRoubles": 18421,
+    "handbookPriceRoubles": 16534,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "690f48891a9f90e0500b1f52": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 22032,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+    },
+    "690f48891a9f90e0500b1f53": {
+    "itemTplToClone": "626becf9582c3e319310b837",
+    "parentId": "55818b164bdc2ddc698b456c",
+    "handbookParentId": "5b5f73ab86f774094242f195",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Surefire/surefire_fde.bundle",
+        "rcid": ""
+      },
+        "Weight": 0.964,
+        "ModesCount": 2
+    },
+    "locales": {
+      "en": {
+        "name": "SureFire M340DFT-PRO Turbo Mini Scout Light Pro FDE",
+        "shortName": "M340",
+        "description": "SureFire's Scout Light Pro series rewrote the rules of WeaponLight versatility. The M340DFT-PRO Turbo Mini Scout Light Pro combines high-candela performance and dual-fuel capability. The M340DFT-PRO's Turbo Series reflector delivers the farthest-reaching beam of any SureFire long gun WeaponLight in a compact form factor. As a result, it is ideal for long-range target identification. FDE Variant."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_tactical_001",
+      "mod_tactical_002",
+      "mod_tactical_003",
+      "mod_mount_000",
+      "mod_mount_001",
+      "mod_mount_002"
+    ],
+    "fleaPriceRoubles": 18421,
+    "handbookPriceRoubles": 16534,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "690f48891a9f90e0500b1f54": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 22032,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+    },
+    "698a751e1bb1f79e210fe920": {
+      "itemTplToClone": "544909bb4bdc2d6f028b4577",
+      "parentId": "55818b164bdc2ddc698b456c",
+      "handbookParentId": "5b5f737886f774093e6cb4fb",
+      "overrideProperties": {
+        "ExaminedByDefault": true,
+        "Prefab": {
+          "path": "Mods/Surefire/surefire_m323v.bundle",
+          "rcid": ""
+        },
+        "Ergonomics": 0,
+        "ModesCount": 3
+      },
+      "locales": {
+        "en": {
+          "name": "SureFire M323V Weaponlight",
+          "shortName": "M323V",
+          "description": "The SureFire M323V provides both white light and infrared illumination powered by a single 123A battery — simply select the appropriate spectrum for the situation at hand by rotating the bezel. The rugged M323V features an American Defense Manufacturing (ADM) AD-SF mount designed for mounting quickly and securely to a weapon rail. The AD-SF features the ADM patented QD Auto Lock™ Lever system for both in- and out-of-spec rail systems."
+        }
+      },
+      "addtoInventorySlots": [],
+      "addtoModSlots": true,
+      "modSlot": [
+        "mod_tactical",
+        "mod_tactical002",
+        "mod_tactical001",
+        "mod_tactical_000",
+        "mod_tactical_001",
+        "mod_tactical_002",
+        "mod_tactical_003",
+        "mod_tactical_004",
+        "mod_equipment",
+        "mod_scope"
+      ],
+      "fleaPriceRoubles": 20907,
+      "handbookPriceRoubles": 11202,
+      "addtoTraders": true,
+      "addtoBots": false,
+      "addtoStaticLootContainers": false,
+      "staticLootContainers": [
+        {
+          "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+          "probability": 1
+        },
+        {
+          "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+          "probability": 1
+        },
+        {
+          "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+          "probability": 1
+        },
+        {
+          "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+          "probability": 1
+        },
+        {
+          "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+          "probability": 1
+        },
+        {
+          "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+          "probability": 1
+        }
+      ],
+      "masteries": false,
+      "addWeaponPreset": false,
+      "weaponPresets": [],
+      "traders": {
+        "PEACEKEEPER": {
+          "698a751e1bb1f79e210fe921": {
+            "barterSettings": {
+              "loyalLevel": 3,
+              "unlimitedCount": true,
+              "stackObjectsCount": 99
+            },
+            "barters": [
+              {
+                "count": 411,
+                "_tpl": "MONEY_DOLLARS"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "698a7eaa1bb1f79e210fe928": {
+      "itemTplToClone": "544909bb4bdc2d6f028b4577",
+      "parentId": "55818b164bdc2ddc698b456c",
+      "handbookParentId": "5b5f737886f774093e6cb4fb",
+      "overrideProperties": {
+        "ExaminedByDefault": true,
+        "Prefab": {
+          "path": "Mods/Surefire/surefire_m323v_fde.bundle",
+          "rcid": ""
+        },
+        "Ergonomics": 0,
+        "ModesCount": 3
+      },
+      "locales": {
+        "en": {
+          "name": "SureFire M323V Weaponlight FDE",
+          "shortName": "M323V",
+          "description": "The SureFire M323V provides both white light and infrared illumination powered by a single 123A battery — simply select the appropriate spectrum for the situation at hand by rotating the bezel. The rugged M323V features an American Defense Manufacturing (ADM) AD-SF mount designed for mounting quickly and securely to a weapon rail. The AD-SF features the ADM patented QD Auto Lock™ Lever system for both in- and out-of-spec rail systems."
+        }
+      },
+      "addtoInventorySlots": [],
+      "addtoModSlots": true,
+      "modSlot": [
+        "mod_tactical",
+        "mod_tactical002",
+        "mod_tactical001",
+        "mod_tactical_000",
+        "mod_tactical_001",
+        "mod_tactical_002",
+        "mod_tactical_003",
+        "mod_tactical_004",
+        "mod_equipment",
+        "mod_scope"
+      ],
+      "fleaPriceRoubles": 20907,
+      "handbookPriceRoubles": 11202,
+      "addtoTraders": true,
+      "addtoBots": false,
+      "addtoStaticLootContainers": false,
+      "staticLootContainers": [
+        {
+          "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+          "probability": 1
+        },
+        {
+          "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+          "probability": 1
+        },
+        {
+          "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+          "probability": 1
+        },
+        {
+          "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+          "probability": 1
+        },
+        {
+          "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+          "probability": 1
+        },
+        {
+          "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+          "probability": 1
+        }
+      ],
+      "masteries": false,
+      "addWeaponPreset": false,
+      "weaponPresets": [],
+      "traders": {
+        "PEACEKEEPER": {
+          "698a7eaa1bb1f79e210fe929": {
+            "barterSettings": {
+              "loyalLevel": 3,
+              "unlimitedCount": true,
+              "stackObjectsCount": 99
+            },
+            "barters": [
+              {
+                "count": 411,
+                "_tpl": "MONEY_DOLLARS"
+              }
+            ]
+          }
+        }
+      }
+    }
+}

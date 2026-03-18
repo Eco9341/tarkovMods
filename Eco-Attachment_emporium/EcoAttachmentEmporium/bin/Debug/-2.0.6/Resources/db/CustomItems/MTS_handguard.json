@@ -1,0 +1,529 @@
+{
+  "69b5c5672df775214b0dbed6": {
+    "itemTplToClone": "6123649463849f3d843da7c4",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/MTS_parts/mts_handguard.bundle",
+        "rcid": ""
+      },
+    "ConflictingItems": [
+      "609b9e31506cf869cf3eaf41",
+      "69b5fe2cc0f4e0eddd0fb553"
+    ],
+    "Slots": [
+      {
+        "_name": "mod_foregrip",
+        "_id": "5ea16ada09aa976f2e7a51c5",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57cffb66245977632f391a99",
+                "57cffcd624597763133760c5",
+                "57cffcdd24597763f5110006",
+                "57cffce524597763b31685d8",
+                "5b7be4895acfc400170e2dd5",
+                "651a8bf3a8520e48047bf708",
+                "651a8e529829226ceb67c319",
+                "665d5d9e338229cfd6078da1",
+                "665edce564fb556f940ab32a"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_mount_000",
+        "_id": "5ea16ada09aa976f2e7a51c0",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5b7be47f5acfc400170e2dd2",
+                "6269220d70b6c02e665f2635",
+                "6269545d0e57f218e4548ca2",
+                "669a6a4a525be1d2d004b8eb"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_mount_001",
+        "_id": "5ea16ada09aa976f2e7a51c1",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5b7be47f5acfc400170e2dd2",
+                "6269220d70b6c02e665f2635",
+                "6269545d0e57f218e4548ca2",
+                "669a6a4a525be1d2d004b8eb"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_mount",
+        "_id": "5ea16ada09aa976f2e7a51c2",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5b7be47f5acfc400170e2dd2",
+                "6269220d70b6c02e665f2635",
+                "6269545d0e57f218e4548ca2",
+                "669a6a4a525be1d2d004b8eb",
+                "671126b049e181972e0681fa"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_tactical_000",
+        "_id": "5ea16ada09aa976f2e7a51c1",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5b7be47f5acfc400170e2dd2",
+                "6269220d70b6c02e665f2635",
+                "6269545d0e57f218e4548ca2",
+                "669a6a4a525be1d2d004b8eb"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      }
+    ],
+      "Weight": 0.5,
+      "Ergonomics": 10,
+      "Recoil": -1
+    },
+    "locales": {
+      "en": {
+        "name": "MTs-255-12 M-lok forestock",
+        "shortName": "MTs-255 M-lok",
+        "description": "Special handguard for the MTs-255-12 shotgun. Adds multiple M-lok slots for attachments."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 14347,
+    "handbookPriceRoubles": 9485,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "JAEGER": {
+        "69b5c5672df775214b0dbed7": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 23284,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69b5c5672df775214b0dbed8": {
+    "itemTplToClone": "6123649463849f3d843da7c4",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/MTS_parts/mts_handguard_wood_short.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+    ],
+      "Weight": 0.4,
+      "Ergonomics": 2,
+      "Recoil": 0,
+      "Width": 1
+    },
+    "locales": {
+      "en": {
+        "name": "MTs-255-12 Wooden short forestock",
+        "shortName": "MTs-255 short",
+        "description": "A modified shortened forestock for the MTs-255 shotgun, made out of beechwood."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 875,
+    "handbookPriceRoubles": 674,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "JAEGER": {
+        "69b5fcad2df775214b0dbeda": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 2342,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69b5fcad2df775214b0dbedb": {
+    "itemTplToClone": "6123649463849f3d843da7c4",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/MTS_parts/mts_handguard_polymer_short.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+    ],
+      "Weight": 0.357,
+      "Ergonomics": 5,
+      "Recoil": 0.5,
+      "Width": 1
+    },
+    "locales": {
+      "en": {
+        "name": "MTs-255-12 Polymer short forestock",
+        "shortName": "MTs-255 short",
+        "description": "A modified shortened forestock for the MTs-255 shotgun, made out of polymer."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 1003,
+    "handbookPriceRoubles": 856,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "JAEGER": {
+        "69b5fcad2df775214b0dbedc": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 2856,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69b5fcad2df775214b0dbedd": {
+    "itemTplToClone": "612781056f3d944a17348d60",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/MTS_parts/mts_short_stock_wood.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+    ],
+      "Weight": 0.150,
+      "Ergonomics": 11,
+      "Recoil": -6,
+      "ExtraSizeRight": 0,
+      "Width": 1
+    },
+    "locales": {
+      "en": {
+        "name": "MTs-255-12 wooden pistol grip",
+        "shortName": "MTs-255 wood",
+        "description": "A modified shortened pistol grip for the MTs-255 shotgun, made out of wood."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_stock"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 1113,
+    "handbookPriceRoubles": 856,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "JAEGER": {
+        "69b5fe2cc0f4e0eddd0fb550": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 2938,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69b5fe2cc0f4e0eddd0fb551": {
+    "itemTplToClone": "612781056f3d944a17348d60",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/MTS_parts/mts_short_stock_polymer.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+    ],
+      "Weight": 0.1,
+      "Ergonomics": 11,
+      "Recoil": -6,
+      "ExtraSizeRight": 0,
+      "Width": 1
+    },
+    "locales": {
+      "en": {
+        "name": "MTs-255-12 polymer pistol grip",
+        "shortName": "MTs-255 polymer",
+        "description": "A modified shortened pistol grip for the MTs-255 shotgun, made out of polymer."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_stock"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 1113,
+    "handbookPriceRoubles": 856,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "JAEGER": {
+        "69b5fe2cc0f4e0eddd0fb552": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 2938,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69b5fe2cc0f4e0eddd0fb553": {
+    "itemTplToClone": "612368f58b401f4f51239b33",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/MTS_parts/mts_short_barrel.bundle",
+        "rcid": ""
+      },
+    "ConflictingItems": [
+      "6123649463849f3d843da7c4"
+    ],
+    "Slots": [
+    ],
+      "Weight": 0.452,
+      "Ergonomics": 5,
+      "Recoil": 1,
+      "ExtraSizeLeft": 1
+    },
+    "locales": {
+      "en": {
+        "name": "MTs-255-12 12ga 114mm barrel",
+        "shortName": "MTs-255 114mm",
+        "description": "A modified shortened barrel for the MTs-255 shotgun, reducing the overall length of the weapon and improving handling at the cost of increased recoil and reduced ergonomics."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 2344,
+    "handbookPriceRoubles": 964,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "JAEGER": {
+        "69b5ff2fc0f4e0eddd0fb554": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 4567,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

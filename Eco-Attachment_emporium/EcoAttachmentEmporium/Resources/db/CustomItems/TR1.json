@@ -1,0 +1,366 @@
+{
+  "6999a28e24f9ef4d100d2ed2": {
+    "itemTplToClone": "5447a9cd4bdc2dbd208b4567",
+    "parentId": "5447b5f14bdc2d61278b4567",
+    "handbookParentId": "5b5f78fc86f77409407a7f90",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/TTI_TR-1/weapon_tr1_container.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.23,
+      "Ergonomics": 49,
+      "RecoilForceBack": 357,
+      "RecoilForceUp": 126
+    },
+    "locales": {
+      "en": {
+        "name": "Taran Tactical TR-1 5.56x45 assault rifle",
+        "shortName": "TTI TR-1",
+        "description": "The original Taran Tactical Innovations TR-1 Ultralight is a lightweight AR-15 style carbine rifle designed by Taran Tactical Innovations, a company known for competition-grade firearms and custom builds. It’s chambered in 5.56×45 mm NATO, uses standard AR-15 magazines, and is built for maneuverability and performance in tactical and competitive shooting. Variants have appeared on-screen in films like John Wick: Chapter 2 and other media."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 20012,
+    "handbookPriceRoubles": 16421,
+    "addtoTraders": false,
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+        {
+          "_id": "699a659265177d37d4802fd8",
+          "_type": "Preset",
+          "_changeWeaponName": false,
+          "_name": "TR1",
+          "_parent": "699a659265177d37d4802fd9",
+          "_items": [
+            {
+              "_id": "699a659265177d37d4802fd9",
+              "_tpl": "6999a28e24f9ef4d100d2ed2",
+              "upd": {
+                "Repairable": {
+                  "Durability": 100,
+                  "MaxDurability": 100
+                },
+                "FireMode": {
+                  "FireMode": "single"
+                }
+              }
+            },
+            {
+              "_id": "699a658c65177d37d4802f32",
+              "_tpl": "68c5613ff19e7d06d6029a41",
+              "parentId": "699a659265177d37d4802fd9",
+              "slotId": "mod_pistol_grip"
+            },
+            {
+              "_id": "699a658c65177d37d4802f33",
+              "_tpl": "55802d5f4bdc2dac148b458e",
+              "parentId": "699a659265177d37d4802fd9",
+              "slotId": "mod_magazine"
+            },
+            {
+              "_id": "699a658c65177d37d4802f34",
+              "_tpl": "699a50ee7e8c1c7424070284",
+              "parentId": "699a659265177d37d4802fd9",
+              "slotId": "mod_reciever"
+            },
+            {
+              "_id": "699a658c65177d37d4802f35",
+              "_tpl": "638de3603a1a4031d8260b8c",
+              "parentId": "699a659265177d37d4802fd9",
+              "slotId": "mod_stock"
+            },
+            {
+              "_id": "699a658c65177d37d4802f36",
+              "_tpl": "5bb20dbcd4351e44f824c04e",
+              "parentId": "699a659265177d37d4802fd9",
+              "slotId": "mod_charge"
+            },
+            {
+              "_id": "699a658c65177d37d4802f37",
+              "_tpl": "675307301f7c19a9780f2668",
+              "parentId": "699a659265177d37d4802fd9",
+              "slotId": "mod_charge_001"
+            },
+            {
+              "_id": "699a658c65177d37d4802f38",
+              "_tpl": "618b9643526131765025ab35",
+              "parentId": "699a658c65177d37d4802f34",
+              "slotId": "mod_scope"
+            },
+            {
+              "_id": "699a658c65177d37d4802f39",
+              "_tpl": "55d3632e4bdc2d972f8b4569",
+              "parentId": "699a658c65177d37d4802f34",
+              "slotId": "mod_barrel"
+            },
+            {
+              "_id": "699a658c65177d37d4802f3a",
+              "_tpl": "68b7658b24ef22c4b60177ac",
+              "parentId": "699a658c65177d37d4802f34",
+              "slotId": "mod_handguard"
+            },
+            {
+              "_id": "699a658c65177d37d4802f3b",
+              "_tpl": "68acd6643b73c1809c03fd36",
+              "parentId": "699a658c65177d37d4802f35",
+              "slotId": "mod_stock_000"
+            },
+            {
+              "_id": "699a658c65177d37d4802f3c",
+              "_tpl": "5b3b99475acfc432ff4dcbee",
+              "parentId": "699a658c65177d37d4802f38",
+              "slotId": "mod_scope",
+              "upd": {
+                "Sight": {
+                  "ScopesCurrentCalibPointIndexes": [
+                    0
+                  ],
+                  "ScopesSelectedModes": [
+                    0
+                  ],
+                  "SelectedScope": 0,
+                  "ScopeZoomValue": 0
+                }
+              }
+            },
+            {
+              "_id": "699a658c65177d37d4802f3d",
+              "_tpl": "618b9671d14d6d5ab879c5ea",
+              "parentId": "699a658c65177d37d4802f38",
+              "slotId": "mod_mount"
+            },
+            {
+              "_id": "699a658c65177d37d4802f3e",
+              "_tpl": "699a4f707e8c1c7424070282",
+              "parentId": "699a658c65177d37d4802f39",
+              "slotId": "mod_muzzle"
+            },
+            {
+              "_id": "699a658c65177d37d4802f3f",
+              "_tpl": "56eabcd4d2720b66698b4574",
+              "parentId": "699a658c65177d37d4802f39",
+              "slotId": "mod_gas_block"
+            },
+            {
+              "_id": "699a658c65177d37d4802f40",
+              "_tpl": "665d5d9e338229cfd6078da1",
+              "parentId": "699a658c65177d37d4802f3a",
+              "slotId": "mod_foregrip"
+            },
+            {
+              "_id": "699a658c65177d37d4802f41",
+              "_tpl": "698a78331bb1f79e210fe924",
+              "parentId": "699a658c65177d37d4802f3a",
+              "slotId": "mod_scope"
+            },
+            {
+              "_id": "699a658c65177d37d4802f42",
+              "_tpl": "5a33b2c9c4a282000c5a9511",
+              "parentId": "699a658c65177d37d4802f41",
+              "slotId": "mod_scope"
+            },
+            {
+              "_id": "699a658c65177d37d4802f43",
+              "_tpl": "5a32aa8bc4a2826c6e06d737",
+              "parentId": "699a658c65177d37d4802f42",
+              "slotId": "mod_scope",
+              "upd": {
+                "Sight": {
+                  "ScopesCurrentCalibPointIndexes": [
+                    0
+                  ],
+                  "ScopesSelectedModes": [
+                    0
+                  ],
+                  "SelectedScope": 0,
+                  "ScopeZoomValue": 0
+                }
+              }
+            }
+          ],
+          "_encyclopedia": "6999a28e24f9ef4d100d2ed2"
+        }
+    ],
+    "traders": {
+      "SKIER": {
+        "6999a28e24f9ef4d100d2ed3": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 33245,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": [],
+    "masterySections": [
+      {
+        "Level2": 150,
+        "Level3": 200,
+        "Name": "M4A1",
+        "Templates": [
+          "6902633fbfd8894b780f71b5"
+        ]
+      }
+    ]
+  },
+  "699a50ee7e8c1c7424070284": {
+    "itemTplToClone": "59bfe68886f7746004266202",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/TTI_TR-1/tr1_receiver.bundle",
+        "rcid": ""
+      },
+        "Weight": 0.271,
+        "Ergonomics": 9
+    },
+    "locales": {
+      "en": {
+        "name": "AR-15 Vltor MUR-1S 5.56x45 upper receiver W/Forward Assist",
+        "shortName": "MUR-1S",
+        "description": "The MUR-1S modular upper receiver for AR-based weapons, manufactured by Vltor. Fitted with mounts for attaching additional equipment. This version was modified with a forward assist."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_reciever"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 34532,
+    "handbookPriceRoubles": 21345,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "SKIER": {
+        "699a50ee7e8c1c7424070285": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 41394,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "699a4f707e8c1c7424070282": {
+    "itemTplToClone": "5f6372e2865db925d54f3869",
+    "parentId": "550aa4bf4bdc2dd6348b456b",
+    "handbookParentId": "5b5f724c86f774093f2ecf15",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/TTI_TR-1/tr1_muzzle.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "TTI GM Interceptor .223/5.56 Compensator",
+        "shortName": "TTI 556",
+        "description": "The TTI “Interceptor” is the ultimate muzzle brake for unrivaled recoil mitigation. Its aggressive looks are matched by its unfailing solid stainless steel construction. Long enough to be pinned and welded to a 14.5\" barrel and with its 1/2x28 thread pitch this brake is perfect for any .223 or 5.56 chambered AR15. We engineered the 4 port design and 2 smaller ports at the 12 o'clock position to maximize effectiveness and give you the ultimate recoil reduction for your rifle!"
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 8400,
+    "handbookPriceRoubles": 5633,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "699a4f707e8c1c7424070283": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 10023,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  }
+}

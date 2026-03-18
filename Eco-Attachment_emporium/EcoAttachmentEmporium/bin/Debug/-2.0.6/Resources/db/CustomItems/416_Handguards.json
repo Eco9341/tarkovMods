@@ -1,0 +1,1078 @@
+  {
+  "691a18ae8d371944890b6b19": {
+    "itemTplToClone": "5c6d10e82e221601da357b07",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/416_handguards/g95k_long_handguard.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "5bb20d9cd4351e00334c9d8a"
+      ],
+    "Slots": [
+      {
+        "_name": "mod_mount_000",
+        "_id": "5c6d10e82e221601da357b09",
+        "_parent": "5c6d10e82e221601da357b07",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5a9d6d00a2750c5c985b5305",
+                "59e0bdb186f774156f04ce82",
+                "59e0be5d86f7742d48765bd2",
+                "623c2f652febb22c2777d8d7",
+                "67111094d1758189fc0bd223"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_mount_001",
+        "_id": "5c6d10e82e221601da357b0a",
+        "_parent": "5c6d10e82e221601da357b07",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5a9d6d00a2750c5c985b5305",
+                "59e0bdb186f774156f04ce82",
+                "59e0be5d86f7742d48765bd2",
+                "623c2f652febb22c2777d8d7",
+                "67111094d1758189fc0bd223"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_mount_002",
+        "_id": "638f2003bbd47aeb9e0ff63e",
+        "_parent": "638f2003bbd47aeb9e0ff637",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5a800961159bd4315e3a1657",
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5c06595c0db834001a66af6c",
+                "5cc9c20cd7f00c001336c65d",
+                "5d2369418abbc306c62e0c80",
+                "5b07dd285acfc4001754240d",
+                "56def37dd2720bec348b456a",
+                "5a7b483fe899ef0016170d15",
+                "61605d88ffa6e502ac5e7eeb",
+                "5a5f1ce64f39f90b401987bc",
+                "560d657b4bdc2da74d8b4572",
+                "5b3a337e5acfc4704b4a19a0",
+                "5c5952732e2216398b5abda2",
+                "57d17e212459775a1179a0f5",
+                "626becf9582c3e319310b837",
+                "6272370ee4013c5d7e31f418",
+                "6272379924e29f06af4d5ecb",
+                "644a3df63b0b6f03e101e065",
+                "646f6322f43d0c5d62063715",
+                "6644920d49817dc7d505ca71",
+                "676175bb48fa5c377e06fc36"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_tactical_000",
+        "_id": "5c6d16932e221601da357c10",
+        "_parent": "5c6d10e82e221601da357b07",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5d10b49bd7ad1a1a560708b0",
+                "5c06595c0db834001a66af6c",
+                "5a7b483fe899ef0016170d15",
+                "61605d88ffa6e502ac5e7eeb",
+                "5c5952732e2216398b5abda2",
+                "644a3df63b0b6f03e101e065"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_scope",
+        "_id": "5c6d169c2e2216000f2004ee",
+        "_parent": "5c6d10e82e221601da357b07",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5649a2464bdc2d91118b45a8"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_sight_front",
+        "_id": "5c6d16a32e2216001219b4ca",
+        "_parent": "5c6d10e82e221601da357b07",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5ba26b01d4351e0085325a51",
+                "5dfa3d950dee1b22f862eae0",
+                "5c17804b2e2216152006c02f",
+                "5fb6567747ce63734e3fa1dc",
+                "5bc09a30d4351e00367fb7c8",
+                "5c18b90d2e2216152142466b",
+                "5fc0fa362770a0045c59c677",
+                "5894a73486f77426d259076c",
+                "55d4af3a4bdc2d972f8b456f"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_foregrip",
+        "_id": "5bb20dfcd4351e00334c9e26",
+        "_parent": "5bb20dfcd4351e00334c9e24",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5c7fc87d2e221644f31c0298",
+                "5cda9bcfd7f00c0c0b53e900",
+                "59f8a37386f7747af3328f06",
+                "5a7dbfc1159bd40016548fde",
+                "619386379fb0c665d5490dbe",
+                "5c87ca002e221600114cb150",
+                "588226d124597767ad33f787",
+                "588226dd24597767ad33f789",
+                "588226e62459776e3e094af7",
+                "588226ef24597767af46e39c",
+                "59fc48e086f77463b1118392",
+                "5fce0cf655375d18a253eff0",
+                "5b057b4f5acfc4771e1bd3e9",
+                "5c791e872e2216001219c40a",
+                "558032614bdc2de7118b4585",
+                "58c157be86f77403c74b2bb6",
+                "58c157c886f774032749fb06",
+                "5f6340d3ca442212f4047eb2",
+                "591af28e86f77414a27a9e1d",
+                "5c1cd46f2e22164bef5cfedb",
+                "5c1bc4812e22164bef5cfde7",
+                "5c1bc5612e221602b5429350",
+                "5c1bc5af2e221602b412949b",
+                "5c1bc5fb2e221602b1779b32",
+                "5c1bc7432e221602b412949d",
+                "5c1bc7752e221602b1779b34",
+                "64806bdd26c80811d408d37a",
+                "64807a29e5ffe165600abc97",
+                "5cf4fb76d7f00c065703d3ac",
+                "648067db042be0705c0b3009",
+                "65169d5b30425317755f8e25",
+                "655df24fdf80b12750626d0a",
+                "655dccfdbdcc6b5df71382b6",
+                "661e52e29c8b4dadef008577",
+                "661e53149c8b4dadef008579",
+                "661e52415be02310ed07a07a",
+                "661e52b5b099f32c28003586"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      }
+    ]
+    },
+    "locales": {
+      "en": {
+        "name": "G95K 13 inch Handguard",
+        "shortName": "G95K",
+        "description": "The G95K handguard is a lightweight, free-floating handguard designed for the G95K rifle platform. It features a modular design with multiple attachment points for accessories such as lights, lasers, and grips. The handguard is constructed from high-quality aluminum alloy, providing durability and strength while maintaining a lightweight profile. Its ergonomic design ensures a comfortable grip and improved handling during shooting."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 16352,
+    "handbookPriceRoubles": 13200,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "691a18ae8d371944890b6b1a": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 212,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "691a18ae8d371944890b6b1b": {
+    "itemTplToClone": "5c6d10e82e221601da357b07",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/416_handguards/g95k_long_handguard_fde.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "5bb20d9cd4351e00334c9d8a"
+      ],
+    "Slots": [
+      {
+        "_name": "mod_mount_000",
+        "_id": "5c6d10e82e221601da357b09",
+        "_parent": "5c6d10e82e221601da357b07",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5a9d6d00a2750c5c985b5305",
+                "59e0bdb186f774156f04ce82",
+                "59e0be5d86f7742d48765bd2",
+                "623c2f652febb22c2777d8d7",
+                "67111094d1758189fc0bd223"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_mount_001",
+        "_id": "5c6d10e82e221601da357b0a",
+        "_parent": "5c6d10e82e221601da357b07",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5a9d6d00a2750c5c985b5305",
+                "59e0bdb186f774156f04ce82",
+                "59e0be5d86f7742d48765bd2",
+                "623c2f652febb22c2777d8d7",
+                "67111094d1758189fc0bd223"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_mount_002",
+        "_id": "638f2003bbd47aeb9e0ff63e",
+        "_parent": "638f2003bbd47aeb9e0ff637",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5a800961159bd4315e3a1657",
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5c06595c0db834001a66af6c",
+                "5cc9c20cd7f00c001336c65d",
+                "5d2369418abbc306c62e0c80",
+                "5b07dd285acfc4001754240d",
+                "56def37dd2720bec348b456a",
+                "5a7b483fe899ef0016170d15",
+                "61605d88ffa6e502ac5e7eeb",
+                "5a5f1ce64f39f90b401987bc",
+                "560d657b4bdc2da74d8b4572",
+                "5b3a337e5acfc4704b4a19a0",
+                "5c5952732e2216398b5abda2",
+                "57d17e212459775a1179a0f5",
+                "626becf9582c3e319310b837",
+                "6272370ee4013c5d7e31f418",
+                "6272379924e29f06af4d5ecb",
+                "644a3df63b0b6f03e101e065",
+                "646f6322f43d0c5d62063715",
+                "6644920d49817dc7d505ca71",
+                "676175bb48fa5c377e06fc36"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_tactical_000",
+        "_id": "5c6d16932e221601da357c10",
+        "_parent": "5c6d10e82e221601da357b07",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5d10b49bd7ad1a1a560708b0",
+                "5c06595c0db834001a66af6c",
+                "5a7b483fe899ef0016170d15",
+                "61605d88ffa6e502ac5e7eeb",
+                "5c5952732e2216398b5abda2",
+                "644a3df63b0b6f03e101e065"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_scope",
+        "_id": "5c6d169c2e2216000f2004ee",
+        "_parent": "5c6d10e82e221601da357b07",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5649a2464bdc2d91118b45a8"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_sight_front",
+        "_id": "5c6d16a32e2216001219b4ca",
+        "_parent": "5c6d10e82e221601da357b07",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5ba26b01d4351e0085325a51",
+                "5dfa3d950dee1b22f862eae0",
+                "5c17804b2e2216152006c02f",
+                "5fb6567747ce63734e3fa1dc",
+                "5bc09a30d4351e00367fb7c8",
+                "5c18b90d2e2216152142466b",
+                "5fc0fa362770a0045c59c677",
+                "5894a73486f77426d259076c",
+                "55d4af3a4bdc2d972f8b456f"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_foregrip",
+        "_id": "5bb20dfcd4351e00334c9e26",
+        "_parent": "5bb20dfcd4351e00334c9e24",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5c7fc87d2e221644f31c0298",
+                "5cda9bcfd7f00c0c0b53e900",
+                "59f8a37386f7747af3328f06",
+                "5a7dbfc1159bd40016548fde",
+                "619386379fb0c665d5490dbe",
+                "5c87ca002e221600114cb150",
+                "588226d124597767ad33f787",
+                "588226dd24597767ad33f789",
+                "588226e62459776e3e094af7",
+                "588226ef24597767af46e39c",
+                "59fc48e086f77463b1118392",
+                "5fce0cf655375d18a253eff0",
+                "5b057b4f5acfc4771e1bd3e9",
+                "5c791e872e2216001219c40a",
+                "558032614bdc2de7118b4585",
+                "58c157be86f77403c74b2bb6",
+                "58c157c886f774032749fb06",
+                "5f6340d3ca442212f4047eb2",
+                "591af28e86f77414a27a9e1d",
+                "5c1cd46f2e22164bef5cfedb",
+                "5c1bc4812e22164bef5cfde7",
+                "5c1bc5612e221602b5429350",
+                "5c1bc5af2e221602b412949b",
+                "5c1bc5fb2e221602b1779b32",
+                "5c1bc7432e221602b412949d",
+                "5c1bc7752e221602b1779b34",
+                "64806bdd26c80811d408d37a",
+                "64807a29e5ffe165600abc97",
+                "5cf4fb76d7f00c065703d3ac",
+                "648067db042be0705c0b3009",
+                "65169d5b30425317755f8e25",
+                "655df24fdf80b12750626d0a",
+                "655dccfdbdcc6b5df71382b6",
+                "661e52e29c8b4dadef008577",
+                "661e53149c8b4dadef008579",
+                "661e52415be02310ed07a07a",
+                "661e52b5b099f32c28003586"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      }
+    ]
+    },
+    "locales": {
+      "en": {
+        "name": "G95K 13 inch Handguard FDE",
+        "shortName": "G95K",
+        "description": "The G95K handguard is a lightweight, free-floating handguard designed for the G95K rifle platform. It features a modular design with multiple attachment points for accessories such as lights, lasers, and grips. The handguard is constructed from high-quality aluminum alloy, providing durability and strength while maintaining a lightweight profile. Its ergonomic design ensures a comfortable grip and improved handling during shooting. This variant comes in a Flat Dark Earth (FDE) finish, offering enhanced camouflage in desert and arid environments."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 16352,
+    "handbookPriceRoubles": 13200,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "691a18ae8d371944890b6b1c": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 212,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "691a18ae8d371944890b6b1d": {
+    "itemTplToClone": "5c6d10fa2e221600106f3f23",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/416_handguards/g95k_short_handguard_fde.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "6357c98711fb55120211f7e1"
+      ],
+    "Slots": [
+      {
+        "_name": "mod_mount_000",
+        "_id": "5c6d10e82e221601da357b09",
+        "_parent": "5c6d10e82e221601da357b07",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5a9d6d00a2750c5c985b5305",
+                "59e0bdb186f774156f04ce82",
+                "59e0be5d86f7742d48765bd2",
+                "623c2f652febb22c2777d8d7",
+                "67111094d1758189fc0bd223"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_mount_001",
+        "_id": "5c6d10e82e221601da357b0a",
+        "_parent": "5c6d10e82e221601da357b07",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5a9d6d00a2750c5c985b5305",
+                "59e0bdb186f774156f04ce82",
+                "59e0be5d86f7742d48765bd2",
+                "623c2f652febb22c2777d8d7",
+                "67111094d1758189fc0bd223"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_tactical_000",
+        "_id": "5c6d16932e221601da357c10",
+        "_parent": "5c6d10e82e221601da357b07",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5d10b49bd7ad1a1a560708b0",
+                "5c06595c0db834001a66af6c",
+                "5a7b483fe899ef0016170d15",
+                "61605d88ffa6e502ac5e7eeb",
+                "5c5952732e2216398b5abda2",
+                "644a3df63b0b6f03e101e065"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_scope",
+        "_id": "5c6d169c2e2216000f2004ee",
+        "_parent": "5c6d10e82e221601da357b07",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5649a2464bdc2d91118b45a8"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_sight_front",
+        "_id": "5c6d16a32e2216001219b4ca",
+        "_parent": "5c6d10e82e221601da357b07",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5ba26b01d4351e0085325a51",
+                "5dfa3d950dee1b22f862eae0",
+                "5c17804b2e2216152006c02f",
+                "5fb6567747ce63734e3fa1dc",
+                "5bc09a30d4351e00367fb7c8",
+                "5c18b90d2e2216152142466b",
+                "5fc0fa362770a0045c59c677",
+                "5894a73486f77426d259076c",
+                "55d4af3a4bdc2d972f8b456f"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_foregrip",
+        "_id": "5bb20dfcd4351e00334c9e26",
+        "_parent": "5bb20dfcd4351e00334c9e24",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5c7fc87d2e221644f31c0298",
+                "5cda9bcfd7f00c0c0b53e900",
+                "59f8a37386f7747af3328f06",
+                "5a7dbfc1159bd40016548fde",
+                "619386379fb0c665d5490dbe",
+                "5c87ca002e221600114cb150",
+                "588226d124597767ad33f787",
+                "588226dd24597767ad33f789",
+                "588226e62459776e3e094af7",
+                "588226ef24597767af46e39c",
+                "59fc48e086f77463b1118392",
+                "5fce0cf655375d18a253eff0",
+                "5b057b4f5acfc4771e1bd3e9",
+                "5c791e872e2216001219c40a",
+                "558032614bdc2de7118b4585",
+                "58c157be86f77403c74b2bb6",
+                "58c157c886f774032749fb06",
+                "5f6340d3ca442212f4047eb2",
+                "591af28e86f77414a27a9e1d",
+                "5c1cd46f2e22164bef5cfedb",
+                "5c1bc4812e22164bef5cfde7",
+                "5c1bc5612e221602b5429350",
+                "5c1bc5af2e221602b412949b",
+                "5c1bc5fb2e221602b1779b32",
+                "5c1bc7432e221602b412949d",
+                "5c1bc7752e221602b1779b34",
+                "64806bdd26c80811d408d37a",
+                "64807a29e5ffe165600abc97",
+                "5cf4fb76d7f00c065703d3ac",
+                "648067db042be0705c0b3009",
+                "65169d5b30425317755f8e25",
+                "655df24fdf80b12750626d0a",
+                "655dccfdbdcc6b5df71382b6",
+                "661e52e29c8b4dadef008577",
+                "661e53149c8b4dadef008579",
+                "661e52415be02310ed07a07a",
+                "661e52b5b099f32c28003586"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      }
+    ]
+    },
+    "locales": {
+      "en": {
+        "name": "G95K 10 inch Handguard FDE",
+        "shortName": "G95K",
+        "description": "The G95K handguard is a lightweight, free-floating handguard designed for the G95K rifle platform. It features a modular design with multiple attachment points for accessories such as lights, lasers, and grips. The handguard is constructed from high-quality aluminum alloy, providing durability and strength while maintaining a lightweight profile. Its ergonomic design ensures a comfortable grip and improved handling during shooting. This variant comes in a Flat Dark Earth (FDE) finish, offering enhanced camouflage in desert and arid environments."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 15421,
+    "handbookPriceRoubles": 12313,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "691a18ae8d371944890b6b1e": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 198,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "691a18ae8d371944890b6b1f": {
+    "itemTplToClone": "5c6d10fa2e221600106f3f23",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/416_handguards/g95k_short_handguard.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "6357c98711fb55120211f7e1"
+      ],
+    "Slots": [
+      {
+        "_name": "mod_mount_000",
+        "_id": "5c6d10e82e221601da357b09",
+        "_parent": "5c6d10e82e221601da357b07",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5a9d6d00a2750c5c985b5305",
+                "59e0bdb186f774156f04ce82",
+                "59e0be5d86f7742d48765bd2",
+                "623c2f652febb22c2777d8d7",
+                "67111094d1758189fc0bd223"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_mount_001",
+        "_id": "5c6d10e82e221601da357b0a",
+        "_parent": "5c6d10e82e221601da357b07",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5a9d6d00a2750c5c985b5305",
+                "59e0bdb186f774156f04ce82",
+                "59e0be5d86f7742d48765bd2",
+                "623c2f652febb22c2777d8d7",
+                "67111094d1758189fc0bd223"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_tactical_000",
+        "_id": "5c6d16932e221601da357c10",
+        "_parent": "5c6d10e82e221601da357b07",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5d10b49bd7ad1a1a560708b0",
+                "5c06595c0db834001a66af6c",
+                "5a7b483fe899ef0016170d15",
+                "61605d88ffa6e502ac5e7eeb",
+                "5c5952732e2216398b5abda2",
+                "644a3df63b0b6f03e101e065"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_scope",
+        "_id": "5c6d169c2e2216000f2004ee",
+        "_parent": "5c6d10e82e221601da357b07",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5649a2464bdc2d91118b45a8"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_sight_front",
+        "_id": "5c6d16a32e2216001219b4ca",
+        "_parent": "5c6d10e82e221601da357b07",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5ba26b01d4351e0085325a51",
+                "5dfa3d950dee1b22f862eae0",
+                "5c17804b2e2216152006c02f",
+                "5fb6567747ce63734e3fa1dc",
+                "5bc09a30d4351e00367fb7c8",
+                "5c18b90d2e2216152142466b",
+                "5fc0fa362770a0045c59c677",
+                "5894a73486f77426d259076c",
+                "55d4af3a4bdc2d972f8b456f"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_foregrip",
+        "_id": "5bb20dfcd4351e00334c9e26",
+        "_parent": "5bb20dfcd4351e00334c9e24",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5c7fc87d2e221644f31c0298",
+                "5cda9bcfd7f00c0c0b53e900",
+                "59f8a37386f7747af3328f06",
+                "5a7dbfc1159bd40016548fde",
+                "619386379fb0c665d5490dbe",
+                "5c87ca002e221600114cb150",
+                "588226d124597767ad33f787",
+                "588226dd24597767ad33f789",
+                "588226e62459776e3e094af7",
+                "588226ef24597767af46e39c",
+                "59fc48e086f77463b1118392",
+                "5fce0cf655375d18a253eff0",
+                "5b057b4f5acfc4771e1bd3e9",
+                "5c791e872e2216001219c40a",
+                "558032614bdc2de7118b4585",
+                "58c157be86f77403c74b2bb6",
+                "58c157c886f774032749fb06",
+                "5f6340d3ca442212f4047eb2",
+                "591af28e86f77414a27a9e1d",
+                "5c1cd46f2e22164bef5cfedb",
+                "5c1bc4812e22164bef5cfde7",
+                "5c1bc5612e221602b5429350",
+                "5c1bc5af2e221602b412949b",
+                "5c1bc5fb2e221602b1779b32",
+                "5c1bc7432e221602b412949d",
+                "5c1bc7752e221602b1779b34",
+                "64806bdd26c80811d408d37a",
+                "64807a29e5ffe165600abc97",
+                "5cf4fb76d7f00c065703d3ac",
+                "648067db042be0705c0b3009",
+                "65169d5b30425317755f8e25",
+                "655df24fdf80b12750626d0a",
+                "655dccfdbdcc6b5df71382b6",
+                "661e52e29c8b4dadef008577",
+                "661e53149c8b4dadef008579",
+                "661e52415be02310ed07a07a",
+                "661e52b5b099f32c28003586"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      }
+    ]
+    },
+    "locales": {
+      "en": {
+        "name": "G95K 10 inch Handguard",
+        "shortName": "G95K",
+        "description": "The G95K handguard is a lightweight, free-floating handguard designed for the G95K rifle platform. It features a modular design with multiple attachment points for accessories such as lights, lasers, and grips. The handguard is constructed from high-quality aluminum alloy, providing durability and strength while maintaining a lightweight profile. Its ergonomic design ensures a comfortable grip and improved handling during shooting."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 15421,
+    "handbookPriceRoubles": 12313,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "691a18ae8d371944890b6b20": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 198,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "691a18ae8d371944890b6b21": {
+    "itemTplToClone": "5bb20d9cd4351e00334c9d8a",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/416_Barrel/g95k_barrel.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "HK 416 5.56x45 14.5 inch barrel",
+        "shortName": "416 14.5",
+        "description": "A 14.5 inch (368mm) barrel for 416-based weapons for 5.56x45 NATO ammo."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 27400,
+    "handbookPriceRoubles": 21992,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "691a18ae8d371944890b6b22": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 453,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

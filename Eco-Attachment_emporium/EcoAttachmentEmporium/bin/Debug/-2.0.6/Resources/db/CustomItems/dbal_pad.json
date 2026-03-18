@@ -1,0 +1,117 @@
+{
+  "68d7db2929420f94ff04cb16": {
+    "itemTplToClone": "544909bb4bdc2d6f028b4577",
+    "parentId": "55818b164bdc2ddc698b456c",
+    "handbookParentId": "5b5f737886f774093e6cb4fb",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Lasers/dbal_a4_pressurepad.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.05,
+      "Ergonomics": 2,
+      "Slots": [
+        {
+          "_id": "63828e48d94d972c8458f3bb",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_tactical_000",
+          "_parent": "2d354131a3d7dfa66a6b7d11",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6989305de267989d260aeef0",
+                  "6989305de267989d260aeef2"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Pressure pad for Steiner DBAL-A4",
+        "shortName": "DBAL Pad",
+        "description": "Pressure pad for Steiner DBAL-A4 laser aiming module. Allows remote activation of the laser and/or flashlight."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_tactical",
+      "mod_tactical002",
+      "mod_tactical001",
+      "mod_tactical_000",
+      "mod_tactical_001",
+      "mod_tactical_002",
+      "mod_tactical_003",
+      "mod_tactical_004",
+      "mod_equipment",
+      "mod_scope"
+    ],
+    "fleaPriceRoubles": 8957,
+    "handbookPriceRoubles": 4563,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2000
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "690a9521b92ab495d00df92c": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 15,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o6O9CHH5ArA=",
+  "dgSpecHash": "++d+d8bcRtM=",
   "success": true,
-  "projectFilePath": "C:\\SPT 4.0\\MOD_DEV\\Eco-Attachment_emporium\\EcoAttachmentEMporium\\EcoAttachmentEMporium.csproj",
+  "projectFilePath": "C:\\SPT 4.0\\MOD_DEV\\tarkovMods\\Eco-Attachment_emporium\\EcoAttachmentEMporium\\EcoAttachmentEMporium.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mastr\\.nuget\\packages\\fastcloner\\3.3.16\\fastcloner.3.3.16.nupkg.sha512",
     "C:\\Users\\mastr\\.nuget\\packages\\jetbrains.annotations\\2025.2.2\\jetbrains.annotations.2025.2.2.nupkg.sha512",

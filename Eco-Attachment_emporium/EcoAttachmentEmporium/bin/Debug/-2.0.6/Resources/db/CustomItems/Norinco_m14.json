@@ -1,0 +1,304 @@
+{
+  "69093530ce2a0e0cfe00d861": {
+    "itemTplToClone": "5aafa857e5b5b00018480968",
+    "parentId": "5447b6194bdc2d67278b4567",
+    "handbookParentId": "5b5f791486f774093f2ed3be",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Norinco_305A/norinco.bundle",
+        "rcid": ""
+      },
+      "RecoilForceBack": 378,
+      "RecoilForceUp": 149,
+      "RecoilReturnPathDampingHandRotation": 0.48,
+      "RecoilReturnPathOffsetHandRotation": 0.01,
+      "RecoilReturnSpeedHandRotation": 2.4,
+      "RecoilStableAngleIncreaseStep": 2.5,
+      "RecoilStableIndexShot": 3,
+      "Ergonomics": 21,
+      "Slots": [
+        {
+          "_name": "mod_magazine",
+          "_id": "5aafa857e5b5b0001848096b",
+          "_parent": "69093530ce2a0e0cfe00d861",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex": -1,
+                "Filter": [
+                  "59e5d83b86f7745aed03d262",
+                  "5a01c29586f77474660c694c",
+                  "5ac66bea5acfc43b321d4aec",
+                  "59d625f086f774661516605d",
+                  "5b1fd4e35acfc40018633c39",
+                  "5a0060fc86f7745793204432",
+                  "59e5f5a486f7746c530b3ce2",
+                  "5b1fb3e15acfc4001637f068",
+                  "59d6272486f77466146386ff",
+                  "5e21a3c67e40bd02257a008a",
+                  "5cbdc23eae9215001136a407",
+                  "5c6175362e221600133e3b94",
+                  "59fafc5086f7740dbe19f6c3",
+                  "59fafc9386f774067d462453",
+                  "5cfe8010d7ad1a59283b14c6",
+                  "6272874a6c47bd74f92e2087",
+                  "64b9cf0ac12b9c38db26923a"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c394bdc2dae468b4577"
+        },
+        {
+          "_name": "mod_stock",
+          "_id": "5aafa857e5b5b0001848096c",
+          "_parent": "5aafa857e5b5b00018480968",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5addc7005acfc4001669f275",
+                  "5ab372a310e891001717f0d8",
+                  "5addbf175acfc408fb13965b",
+                  "5aaf8e43e5b5b00015693246"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_barrel",
+          "_id": "5aafa857e5b5b0001848096e",
+          "_parent": "5aafa857e5b5b00018480968",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5aaf9d53e5b5b00015042a52",
+                  "5addbac75acfc400194dbc56"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_sight_rear",
+          "_id": "5abcbb9fd8ce87001660327a",
+          "_parent": "5aafa857e5b5b00018480968",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5abcbb20d8ce87001773e258"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount",
+          "_id": "5addc6a45acfc4001714e045",
+          "_parent": "5aafa857e5b5b00018480968",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5addbfe15acfc4001a5fc58b",
+                  "5addbfef5acfc400185c2857"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "ammoCaliber": "Caliber762x39",
+      "defMagType": "59d625f086f774661516605d",
+      "defAmmo": "5656d7c34bdc2d9d198b4587",
+      "Chambers": [
+        {
+          "_name": "patron_in_weapon",
+          "_id": "574d982f24597745a21eb3e5",
+          "_parent": "574d967124597745970e7c94",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "59e0d99486f7744a32234762",
+                  "59e4d3d286f774176a36250a",
+                  "5656d7c34bdc2d9d198b4587",
+                  "59e4cf5286f7741778269d8a",
+                  "59e4d24686f7741776641ac7",
+                  "601aa3d2b2bcb34913271e6d",
+                  "64b7af5a8532cf95ee0a0dbd",
+                  "64b7af434b75259c590fa893",
+                  "64b7af734b75259c590fa895"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d4af244bdc2d962f8b4571"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Norinco M305A 7.62x39mm Rifle",
+        "shortName": "M305A",
+        "description": " a conversion to 7.62x39mm, using AK magazines, called the M305A. This appears to have been a remarkably simply conversion, as the AK mag fits nicely into the receiver with only a minor change to the magazine support well in the stock. Sure, some might ask why one would want an M14 in 7.62×39…but those people are clearly not familiar with the firearms market. These smaller-caliber rifles are quite pleasant to shoot, and use much cheaper ammunition as well. They are substantially heavier than comparable rifles like the SKS, but have nicer aperture sights"
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 18978,
+    "handbookPriceRoubles": 15963,
+    "addtoTraders": false,
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+          {
+            "_id": "6939f7b9e539c37b200ff4f2",
+            "_type": "Preset",
+            "_changeWeaponName": false,
+            "_name": "Norinco Base",
+            "_parent": "6939f7b9e539c37b200ff4f3",
+            "_items": [
+              {
+                "_id": "6939f7b9e539c37b200ff4f3",
+                "_tpl": "69093530ce2a0e0cfe00d861",
+                "upd": {
+                  "Repairable": {
+                    "Durability": 100,
+                    "MaxDurability": 100
+                  },
+                  "FireMode": {
+                    "FireMode": "single"
+                  }
+                }
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff4f4",
+                "_tpl": "59d625f086f774661516605d",
+                "parentId": "6939f7b9e539c37b200ff4f3",
+                "slotId": "mod_magazine"
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff4f5",
+                "_tpl": "5aaf8e43e5b5b00015693246",
+                "parentId": "6939f7b9e539c37b200ff4f3",
+                "slotId": "mod_stock"
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff4f6",
+                "_tpl": "5aaf9d53e5b5b00015042a52",
+                "parentId": "6939f7b9e539c37b200ff4f3",
+                "slotId": "mod_barrel"
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff4f7",
+                "_tpl": "5abcbb20d8ce87001773e258",
+                "parentId": "6939f7b9e539c37b200ff4f3",
+                "slotId": "mod_sight_rear",
+                "upd": {
+                  "Sight": {
+                    "ScopesCurrentCalibPointIndexes": [
+                      0
+                    ],
+                    "ScopesSelectedModes": [
+                      0
+                    ],
+                    "SelectedScope": 0,
+                    "ScopeZoomValue": 0
+                  }
+                }
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff4f8",
+                "_tpl": "5ab24ef9e5b5b00fe93c9209",
+                "parentId": "6939f7b9e539c37b200ff4f5",
+                "slotId": "mod_mount"
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff4f9",
+                "_tpl": "5ab3afb2d8ce87001660304d",
+                "parentId": "6939f7b9e539c37b200ff4f6",
+                "slotId": "mod_muzzle"
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff4fa",
+                "_tpl": "5aafa49ae5b5b00015042a58",
+                "parentId": "6939f7b9e539c37b200ff4f9",
+                "slotId": "mod_sight_front",
+                "upd": {
+                  "Sight": {
+                    "ScopesCurrentCalibPointIndexes": [
+                      0
+                    ],
+                    "ScopesSelectedModes": [
+                      0
+                    ],
+                    "SelectedScope": 0,
+                    "ScopeZoomValue": 0
+                  }
+                }
+              },
+              {
+                "_id": "6939f7b9e539c37b200ff4fb",
+                "_tpl": "5addbba15acfc400185c2854",
+                "parentId": "6939f7b9e539c37b200ff4f9",
+                "slotId": "mod_muzzle"
+              }
+            ],
+            "_encyclopedia": "69093530ce2a0e0cfe00d861"
+          }
+    ],
+    "traders": {
+      "PRAPOR": {
+        "690a9521b92ab495d00df94f": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 26312,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": [],
+    "masterySections": [
+      {
+        "Level2": 150,
+        "Level3": 200,
+        "Name": "M305A",
+        "Templates": [
+          "69093530ce2a0e0cfe00d861"
+        ]
+      }
+    ]
+  }
+}

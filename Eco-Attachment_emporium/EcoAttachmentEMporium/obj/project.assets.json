@@ -324,11 +324,11 @@
   "project": {
     "version": "2.0.5",
     "restore": {
-      "projectUniqueName": "C:\\SPT 4.0\\MOD_DEV\\Eco-Attachment_emporium\\EcoAttachmentEMporium\\EcoAttachmentEMporium.csproj",
+      "projectUniqueName": "C:\\SPT 4.0\\MOD_DEV\\tarkovMods\\Eco-Attachment_emporium\\EcoAttachmentEMporium\\EcoAttachmentEMporium.csproj",
       "projectName": "Eco-Attachment-Emporium",
-      "projectPath": "C:\\SPT 4.0\\MOD_DEV\\Eco-Attachment_emporium\\EcoAttachmentEMporium\\EcoAttachmentEMporium.csproj",
+      "projectPath": "C:\\SPT 4.0\\MOD_DEV\\tarkovMods\\Eco-Attachment_emporium\\EcoAttachmentEMporium\\EcoAttachmentEMporium.csproj",
       "packagesPath": "C:\\Users\\mastr\\.nuget\\packages\\",
-      "outputPath": "C:\\SPT 4.0\\MOD_DEV\\Eco-Attachment_emporium\\EcoAttachmentEMporium\\obj\\",
+      "outputPath": "C:\\SPT 4.0\\MOD_DEV\\tarkovMods\\Eco-Attachment_emporium\\EcoAttachmentEMporium\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mastr\\AppData\\Roaming\\NuGet\\NuGet.Config"

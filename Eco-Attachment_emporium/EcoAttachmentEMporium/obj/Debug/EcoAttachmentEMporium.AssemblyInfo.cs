@@ -12,11 +12,11 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Eco-Attachment-Emporium")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("2.0.5.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("2.0.5")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("2.0.6.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("2.0.6+7290d68d51619faf62bb0cbc8d247b75d632b29f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Eco-Attachment-Emporium")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Eco-Attachment-Emporium")]
-[assembly: System.Reflection.AssemblyVersionAttribute("2.0.5.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("2.0.6.0")]
 
 // Generato dalla classe WriteCodeFragment di MSBuild.
 

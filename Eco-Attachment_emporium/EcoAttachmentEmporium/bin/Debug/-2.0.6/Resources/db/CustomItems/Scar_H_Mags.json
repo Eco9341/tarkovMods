@@ -1,0 +1,103 @@
+{
+  "69765407a27ed68e280b49b7": {
+    "itemTplToClone": "618168dc8004cc50514c34fc",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Scar_H_Mags/scar_h_35rd.bundle",
+        "rcid": ""
+      },
+        "Cartridges": [
+        {
+            "_name": "cartridges",
+            "_id": "618168dc8004cc50514c34fe",
+            "_parent": "618168dc8004cc50514c34fc",
+            "_max_count": 35,
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "5a6086ea4f39f99cd479502f",
+                    "5a608bf24f39f98ffc77720e",
+                    "58dd3ad986f77403051cba8f",
+                    "5e023e53d4353e3302577c4c",
+                    "5efb0c1bd79ff02a1f5e68d9",
+                    "5e023e6e34d52a55c3304f71",
+                    "5e023e88277cce2b522ff2b1",
+                    "6768c25aa7b238f14a08d3f6"
+                ]
+                }
+            ]
+            },
+            "_proto": "5748538b2459770af276a261"
+        }
+        ],
+        "Weight": 0.4
+    },
+    "locales": {
+      "en": {
+        "name": "FN SCAR-H 7.62x51 35-round magazine",
+        "shortName": "Mk17",
+        "description": "A 35-round magazine for the FN SCAR-H 7.62x51 battle rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 5237,
+    "handbookPriceRoubles": 4000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "69765407a27ed68e280b49b8": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 89,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

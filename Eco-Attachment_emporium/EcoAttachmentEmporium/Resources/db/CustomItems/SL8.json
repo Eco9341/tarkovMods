@@ -1,0 +1,499 @@
+{
+  "699c3be62219dbbf5d075a04": {
+    "itemTplToClone": "623063e994fc3f7b302a9696",
+    "parentId": "5447b5fc4bdc2d87278b4567",
+    "handbookParentId": "5b5f78e986f77447ed5636b1",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/SL8/weapon_sl8_container.bundle",
+        "rcid": ""
+      },
+    "weapFireType": [
+      "single",
+      "burst"
+    ],
+    "Weight": 2.570,
+    "Ergonomics": 53,
+    "RecoilForceBack": 210,
+    "RecoilForceUp": 79,
+    "Height": 1,
+    "Foldable": false,
+    "CompactHandling": false,
+    "Width": 3,
+    "Slots": [
+      {
+        "_name": "mod_magazine",
+        "_id": "623063e994fc3f7b302a9699",
+        "_parent": "623063e994fc3f7b302a9696",
+        "_props": {
+          "filters": [
+            {
+              "AnimationIndex": -1,
+              "Filter": [
+                "62307b7b10d2321fa8741921",
+                "55d4887d4bdc2d962f8b4570",
+                "5c05413a0db834001c390617",
+                "5c6d450c2e221600114c997d",
+                "5c6d42cb2e2216000e69d7d1",
+                "59c1383d86f774290a37e0ca",
+                "5aaa5e60e5b5b000140293d6",
+                "5448c1d04bdc2dff2f8b4569",
+                "5aaa5dfee5b5b000140293d3",
+                "5d1340b3d7ad1a0b52682ed7",
+                "544a378f4bdc2d30388b4567",
+                "5d1340bdd7ad1a0e8d245aab",
+                "55802d5f4bdc2dac148b458e",
+                "5d1340cad7ad1a0b0b249869",
+                "5c6592372e221600133e47d7",
+                "544a37c44bdc2d25388b4567",
+                "5c6d46132e221601da357d56"
+              ]
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c394bdc2dae468b4577"
+      },
+      {
+        "_name": "mod_barrel",
+        "_id": "623076ea94fc3f7b302a969f",
+        "_parent": "623063e994fc3f7b302a9696",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "622b379bf9cfc87d675d2de5",
+                "622b3858034a3e17ad0b81f5",
+                "622b38c56762c718e457e246"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": true,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_mount",
+        "_id": "62307748a0460e5284636a0e",
+        "_parent": "623063e994fc3f7b302a9696",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "622f039199f4ea1a4d6c9a17",
+                "622f02437762f55aaa68ac85"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": true,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_scope",
+        "_id": "5c0e2f26d174af02a9625116",
+        "_parent": "5c0e2f26d174af02a9625114",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57ac965c24597706be5f975c",
+                "57aca93d2459771f2c7e26db",
+                "544a3f024bdc2d1d388b4568",
+                "544a3a774bdc2d3a388b4567",
+                "5d2dc3e548f035404a1a4798",
+                "57adff4f24597737f373b6e6",
+                "5c0517910db83400232ffee5",
+                "591c4efa86f7741030027726",
+                "570fd79bd2720bc7458b4583",
+                "570fd6c2d2720bc6458b457f",
+                "558022b54bdc2dac148b458d",
+                "5c07dd120db834001c39092d",
+                "5c0a2cec0db834001b7ce47d",
+                "58491f3324597764bc48fa02",
+                "584924ec24597768f12ae244",
+                "5b30b0dc5acfc400153b7124",
+                "6165ac8c290d254f5e6b2f6c",
+                "60a23797a37c940de7062d02",
+                "5d2da1e948f035477b1ce2ba",
+                "5c0505e00db834001b735073",
+                "609a63b6e2ff132951242d09",
+                "584984812459776a704a82a6",
+                "59f9d81586f7744c7506ee62",
+                "570fd721d2720bc5458b4596",
+                "57ae0171245977343c27bfcf",
+                "5dfe6104585a0c3e995c7b82",
+                "544a3d0a4bdc2d1b388b4567",
+                "5d1b5e94d7ad1a2b865a96b0",
+                "609bab8b455afd752b2e6138",
+                "58d39d3d86f77445bb794ae7",
+                "616554fe50224f204c1da2aa",
+                "5c7d55f52e221644f31bff6a",
+                "616584766ef05c2ce828ef57",
+                "5b3b6dc75acfc47a8773fb1e",
+                "615d8d878004cc50514c3233",
+                "5b2389515acfc4771e1be0c0",
+                "577d128124597739d65d0e56",
+                "618b9643526131765025ab35",
+                "618bab21526131765025ab3f",
+                "5c86592b2e2216000e69e77c",
+                "5a37ca54c4a282000d72296a",
+                "5d0a29fed7ad1a002769ad08",
+                "5c064c400db834001d23f468",
+                "58d2664f86f7747fec5834f6",
+                "57c69dd424597774c03b7bbc",
+                "5b3b99265acfc4704b4a1afb",
+                "5aa66a9be5b5b0214e506e89",
+                "5aa66c72e5b5b00016327c93",
+                "5c1cdd302e221602b3137250",
+                "61714b2467085e45ef140b2c",
+                "6171407e50224f204c1da3c5",
+                "61713cc4d8e3106d9806c109",
+                "5b31163c5acfc400153b71cb",
+                "5a33b652c4a28232996e407c",
+                "5a33b2c9c4a282000c5a9511",
+                "59db7eed86f77461f8380365",
+                "5a1ead28fcdbcb001912fa9f",
+                "5dff77c759400025ea5150cf",
+                "626bb8532c923541184624b4",
+                "62811f461d5df4475f46a332",
+                "63fc449f5bd61c6cf3784a88",
+                "6477772ea8a38bb2050ed4db",
+                "6478641c19d732620e045e17",
+                "64785e7c19d732620e045e15",
+                "65392f611406374f82152ba5",
+                "653931da5db71d30ab1d6296",
+                "655f13e0a246670fb0373245",
+                "6567e751a715f85433025998",
+                "6761759e7ee06333f108bf86",
+                "67641a851b2899700609901a"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_sight_rear",
+        "_id": "5c0e2f26d174af02a9625119",
+        "_parent": "5c0e2f26d174af02a9625114",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5bb20e49d4351e3bac1212de",
+                "5ba26b17d4351e00367f9bdd",
+                "5dfa3d7ac41b2312ea33362a",
+                "5c1780312e221602b66cc189",
+                "5fb6564947ce63734e3fa1da",
+                "5bc09a18d4351e003562b68e",
+                "5c18b9192e2216398b5a8104",
+                "5fc0fa957283c4046c58147e",
+                "5894a81786f77427140b8347",
+                "55d5f46a4bdc2d1b198b4567",
+                "5ae30bad5acfc400185c2dc4"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_bipod",
+        "_id": "623167968c43374ca1567197",
+        "_parent": "6231654c71b5bc3baa1078e5",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "622b397c9a3d4327e41843b6"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_mount_001",
+        "_id": "62444e9f674028188b05279d",
+        "_parent": "62386b7153757417e93a4e9f",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "699c3be62219dbbf5d075a06"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_mount_002",
+        "_id": "62444eaf4b411719ea425cbc",
+        "_parent": "62386b7153757417e93a4e9f",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "699c3be62219dbbf5d075a06"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_sight_front",
+        "_id": "5ea16acdfadf1d18c87b078b",
+        "_parent": "5ea16acdfadf1d18c87b0784",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5ba26b01d4351e0085325a51",
+                "5dfa3d950dee1b22f862eae0",
+                "5c17804b2e2216152006c02f",
+                "5fb6567747ce63734e3fa1dc",
+                "5bc09a30d4351e00367fb7c8",
+                "5c18b90d2e2216152142466b",
+                "5fc0fa362770a0045c59c677",
+                "5894a73486f77426d259076c",
+                "55d4af3a4bdc2d972f8b456f"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      }
+    ],
+      "CanSellOnRagfair": true,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "HK SL8 5.56x45 assault carbine",
+        "shortName": "SL8",
+        "description": "The Heckler & Koch SL8 (Selbstladegewehr 1998, English, self-loading rifle of 1998) is a semi-auto designated marksman rifle manufactured by Heckler & Koch. It is a civilian and a marksman rifle version of the Heckler & Koch G36. To adapt the G36 for the civilian market, its pistol grip and folding stock have been replaced by a fixed stock with a thumbhole. The receiver has also been modified to prevent the attachment of a folding stock. In addition, to comply with the Gun Control Act of 1968, SL8 rifles exported to the United States have been modified so that they will not accept staggered 20- and 30-round G36 magazines, only accepting single stack, 10-round magazines. Other modifications have been made to the SL8, including a lightened trigger pull, adjustable cheekpiece and buttplate to customize the fit to the user, and a heavier, more accurate barrel. The SL8 does not come with the carry handle and built-in optics of the G36, although these can be purchased aftermarket and fitted to the weapon. This variant has been modified to use 3-round bursts"
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 56734,
+    "handbookPriceRoubles": 45256,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
+      }
+    ],
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+        {
+          "_id": "699c750a1a4fdd0d7c16845d",
+          "_type": "Preset",
+          "_changeWeaponName": false,
+          "_name": "SL8",
+          "_parent": "699c750a1a4fdd0d7c16845e",
+          "_items": [
+            {
+              "_id": "699c750a1a4fdd0d7c16845e",
+              "_tpl": "699c3be62219dbbf5d075a04",
+              "upd": {
+                "Repairable": {
+                  "Durability": 100,
+                  "MaxDurability": 100
+                },
+                "FireMode": {
+                  "FireMode": "single"
+                }
+              }
+            },
+            {
+              "_id": "699c75081a4fdd0d7c1683bc",
+              "_tpl": "62307b7b10d2321fa8741921",
+              "parentId": "699c750a1a4fdd0d7c16845e",
+              "slotId": "mod_magazine"
+            },
+            {
+              "_id": "699c75081a4fdd0d7c1683bd",
+              "_tpl": "622b38c56762c718e457e246",
+              "parentId": "699c750a1a4fdd0d7c16845e",
+              "slotId": "mod_barrel"
+            },
+            {
+              "_id": "699c75081a4fdd0d7c1683be",
+              "_tpl": "622f02437762f55aaa68ac85",
+              "parentId": "699c750a1a4fdd0d7c16845e",
+              "slotId": "mod_mount"
+            },
+            {
+              "_id": "699c75081a4fdd0d7c1683bf",
+              "_tpl": "622b397c9a3d4327e41843b6",
+              "parentId": "699c750a1a4fdd0d7c16845e",
+              "slotId": "mod_bipod"
+            },
+            {
+              "_id": "699c75081a4fdd0d7c1683c0",
+              "_tpl": "699c3be62219dbbf5d075a06",
+              "parentId": "699c750a1a4fdd0d7c16845e",
+              "slotId": "mod_mount_001"
+            },
+            {
+              "_id": "699c75081a4fdd0d7c1683c1",
+              "_tpl": "699c3be62219dbbf5d075a06",
+              "parentId": "699c750a1a4fdd0d7c16845e",
+              "slotId": "mod_mount_002"
+            },
+            {
+              "_id": "699c75081a4fdd0d7c1683c2",
+              "_tpl": "622f128cec80d870d349b4e8",
+              "parentId": "699c75081a4fdd0d7c1683bd",
+              "slotId": "mod_muzzle"
+            },
+            {
+              "_id": "699c75081a4fdd0d7c1683c3",
+              "_tpl": "622b327b267a1b13a44abea3",
+              "parentId": "699c75081a4fdd0d7c1683bd",
+              "slotId": "mod_gas_block"
+            }
+          ],
+          "_encyclopedia": "699c3be62219dbbf5d075a04"
+        }
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "699c3be62219dbbf5d075a05": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 45828,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Level2": 2000,
+        "Level3": 2200,
+        "Name": "SL8",
+        "Templates": [
+          "699c3be62219dbbf5d075a04"
+        ]
+      }
+    ]
+  },
+  "699c3be62219dbbf5d075a06": {
+    "itemTplToClone": "62444cd3674028188b052799",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/SL8/sl8_rail.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.07
+    },
+    "locales": {
+      "en": {
+        "name": "HK SL8 side handguard rail",
+        "shortName": "SL8 side",
+        "description": "A side rail for the SL8 handguards, allows installation of additional tactical devices."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 1033,
+    "handbookPriceRoubles": 867,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2800
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2800
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2800
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2800
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2800
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2800
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "699c3be62219dbbf5d075a07": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 16,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
