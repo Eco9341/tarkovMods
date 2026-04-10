@@ -1,0 +1,573 @@
+{
+  "69d44e3d9e11b4757df438ad": {
+    "itemTplToClone": "6718817435e3cfd9550d2c27",
+    "parentId": "5447b5f14bdc2d61278b4567",
+    "handbookParentId": "5b5f78fc86f77409407a7f90",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/AUG_300blk/weapon_aug_a3_300blk_container.bundle",
+        "rcid": ""
+      },
+    "Chambers": [
+    {
+        "_name": "patron_in_weapon",
+        "_id": "5fbcc1d9016cce60e8341aba",
+        "_parent": "5fbcc1d9016cce60e8341ab3",
+        "_props": {
+        "filters": [
+            {
+            "Filter": [
+                "5fbe3ffdf8b6a877a729ea82",
+                "5fd20ff893a8961fc660a954",
+                "619636be6db0f2477964e710",
+                "6196364158ef8c428c287d9f",
+                "6196365d58ef8c428c287da1",
+                "64b8725c4b75259c590fa899"
+            ]
+            }
+        ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d4af244bdc2d962f8b4571"
+    }
+    ],
+      "ConflictingItems": [
+        "62e7c7f3c34ea971710c32fc",
+        "630e39c3bd357927e4007c15",
+        "6333f05d1bc0e6217a0e9d34"
+      ],
+    "HeatFactorByShot": 1.28,
+    "RecoilForceBack": 252,
+    "RecoilForceUp": 93,
+    "defAmmo": "5fbe3ffdf8b6a877a729ea82",
+    "ammoCaliber": "Caliber762x35"
+    },
+    "locales": {
+      "en": {
+        "name": "Steyr AUG A3 .300 Blackout assault rifle (Black)",
+        "shortName": "AUG A3",
+        "description": "Steyr AUG A3 is a bullpup assault rifle, developed by the Austrian company Steyr-Daimler-Puch. AUG is known for good ergonomics, decent accuracy, low recoil and sufficient reliability. The rifle also stands out for its futuristic design. The A3 version features a bolt-catch button. Special version in .300 blackout."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 22716,
+    "handbookPriceRoubles": 16251,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
+      }
+    ],
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "69d56d2e6d30153fe4534088",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "aug 300",
+        "_parent": "69d56d2e6d30153fe4534089",
+        "_items": [
+          {
+            "_id": "69d56d2e6d30153fe4534089",
+            "_tpl": "69d44e3d9e11b4757df438ad",
+            "upd": {
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              },
+              "FireMode": {
+                "FireMode": "single"
+              }
+            }
+          },
+          {
+            "_id": "69d56d256d30153fe4533fc0",
+            "_tpl": "62e7c98b550c8218d602cbb4",
+            "parentId": "69d56d2e6d30153fe4534089",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "69d56d256d30153fe4533fc1",
+            "_tpl": "62ebbc53e3c1e1ec7c02c44f",
+            "parentId": "69d56d2e6d30153fe4534089",
+            "slotId": "mod_charge"
+          },
+          {
+            "_id": "69d56d256d30153fe4533fc2",
+            "_tpl": "62e7c72df68e7a0676050c77",
+            "parentId": "69d56d2e6d30153fe4534089",
+            "slotId": "mod_reciever"
+          },
+          {
+            "_id": "69d56d256d30153fe4533fc3",
+            "_tpl": "69d4ca0205151c777e136f20",
+            "parentId": "69d56d256d30153fe4533fc2",
+            "slotId": "mod_barrel"
+          },
+          {
+            "_id": "69d56d256d30153fe4533fc4",
+            "_tpl": "62ebd290c427473eff0baafb",
+            "parentId": "69d56d256d30153fe4533fc2",
+            "slotId": "mod_mount",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          },
+          {
+            "_id": "69d56d256d30153fe4533fc5",
+            "_tpl": "6065c6e7132d4d12c81fd8e1",
+            "parentId": "69d56d256d30153fe4533fc3",
+            "slotId": "mod_muzzle"
+          },
+          {
+            "_id": "69d56d256d30153fe4533fc6",
+            "_tpl": "671883292e2eeb98d406f3b8",
+            "parentId": "69d56d256d30153fe4533fc3",
+            "slotId": "mod_foregrip"
+          }
+        ],
+        "_encyclopedia": "69d44e3d9e11b4757df438ad"
+      }
+    ],
+    "traders": {
+      "MECHANIC": {
+        "69d44e3d9e11b4757df438ac": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 26181,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Level2": 2000,
+        "Level3": 2200,
+        "Name": "AUG",
+        "Templates": [
+          "69d44e3d9e11b4757df438ad"
+        ]
+      }
+    ]
+  },
+  "69d4c91f05151c777e136f1f": {
+    "itemTplToClone": "62e7c7f3c34ea971710c32fc",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/AUG_300blk/aug_a1_508_300blk_barrel.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_muzzle",
+          "_id": "5df917564a9f347bc92edca5",
+          "_parent": "5df917564a9f347bc92edca3",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "612e0d3767085e45ef14057f",
+                  "5b7d693d5acfc43bca706a3d",
+                  "5a34fd2bc4a282329a73b4c5",
+                  "6065c6e7132d4d12c81fd8e1",
+                  "5d1f819086f7744b355c219b",
+                  "5dcbe965e4ed22586443a79d",
+                  "5d026791d7ad1a04a067ea63",
+                  "5dfa3cd1b33c0951220c079b",
+                  "6130c43c67085e45ef1405a1",
+                  "5cdd7685d7f00c000f260ed2",
+                  "5c878e9d2e2216000f201903",
+                  "5d02677ad7ad1a04a15c0f95",
+                  "5bbdb8bdd4351e4502011460",
+                  "5cdd7693d7f00c0010373aa5",
+                  "607ffb988900dc2d9a55b6e4",
+                  "615d8eb350224f204c1da1cf",
+                  "612e0e3c290d254f5e6b291d",
+                  "5d443f8fa4b93678dd4a01aa",
+                  "5c7954d52e221600106f4cc7",
+                  "5fbc22ccf24b94483f726483",
+                  "59bffc1f86f77435b128b872",
+                  "5cf78496d7f00c065703d6ca",
+                  "5fbe7618d6fa9c00c571bb6c",
+                  "628a66b41d5e41750e314f34",
+                  "6642f63667f5cb56a00662eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_foregrip",
+          "_id": "634e86d5d21c889b5107d985",
+          "_parent": "62e7c7f3c34ea971710c32fc",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "634e61b0767cb15c4601a877",
+                  "6711107e1ad01bb88705347e",
+                  "671883292e2eeb98d406f3b8"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "ConflictingItems": [
+        "62e7c4fba689e8c9c50dfc38",
+        "63171672192e68c5460cebc5",
+        "6718817435e3cfd9550d2c27"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Steyr AUG A1 .300 Blackout 20 inch barrel",
+        "shortName": "A1 20",
+        "description": "A barrel for Steyr AUG A1 designed for .300 Blackout ammo, 20 inches (508mm) long."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 25567,
+    "handbookPriceRoubles": 13453,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "69d4c91f05151c777e136f1e": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 399,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69d4c91f05151c777e136f1d": {
+    "itemTplToClone": "6333f05d1bc0e6217a0e9d34",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/AUG_300blk/aug_a1_417_300blk_barrel.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_muzzle",
+          "_id": "5df917564a9f347bc92edca5",
+          "_parent": "5df917564a9f347bc92edca3",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "612e0d3767085e45ef14057f",
+                  "5b7d693d5acfc43bca706a3d",
+                  "5a34fd2bc4a282329a73b4c5",
+                  "6065c6e7132d4d12c81fd8e1",
+                  "5d1f819086f7744b355c219b",
+                  "5dcbe965e4ed22586443a79d",
+                  "5d026791d7ad1a04a067ea63",
+                  "5dfa3cd1b33c0951220c079b",
+                  "6130c43c67085e45ef1405a1",
+                  "5cdd7685d7f00c000f260ed2",
+                  "5c878e9d2e2216000f201903",
+                  "5d02677ad7ad1a04a15c0f95",
+                  "5bbdb8bdd4351e4502011460",
+                  "5cdd7693d7f00c0010373aa5",
+                  "607ffb988900dc2d9a55b6e4",
+                  "615d8eb350224f204c1da1cf",
+                  "612e0e3c290d254f5e6b291d",
+                  "5d443f8fa4b93678dd4a01aa",
+                  "5c7954d52e221600106f4cc7",
+                  "5fbc22ccf24b94483f726483",
+                  "59bffc1f86f77435b128b872",
+                  "5cf78496d7f00c065703d6ca",
+                  "5fbe7618d6fa9c00c571bb6c",
+                  "628a66b41d5e41750e314f34",
+                  "6642f63667f5cb56a00662eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_foregrip",
+          "_id": "634e86e6767cb15c4601a887",
+          "_parent": "6333f05d1bc0e6217a0e9d34",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "634e61b0767cb15c4601a877",
+                  "6711107e1ad01bb88705347e",
+                  "671883292e2eeb98d406f3b8"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "ConflictingItems": [
+        "62e7c4fba689e8c9c50dfc38",
+        "63171672192e68c5460cebc5",
+        "6718817435e3cfd9550d2c27"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Steyr AUG A1 .300 Blackout 16 inch barrel",
+        "shortName": "A1 16",
+        "description": "A barrel for Steyr AUG A1 designed for .300 Blackout ammo, 16 inches (417mm) long."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 28500,
+    "handbookPriceRoubles": 14553,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "69d4c91f05151c777e136f1c": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 444,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69d4ca0205151c777e136f20": {
+    "itemTplToClone": "630e39c3bd357927e4007c15",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/AUG_300blk/aug_a3_417_300blk_barrel.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_muzzle",
+          "_id": "5df917564a9f347bc92edca5",
+          "_parent": "5df917564a9f347bc92edca3",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "612e0d3767085e45ef14057f",
+                  "5b7d693d5acfc43bca706a3d",
+                  "5a34fd2bc4a282329a73b4c5",
+                  "6065c6e7132d4d12c81fd8e1",
+                  "5d1f819086f7744b355c219b",
+                  "5dcbe965e4ed22586443a79d",
+                  "5d026791d7ad1a04a067ea63",
+                  "5dfa3cd1b33c0951220c079b",
+                  "6130c43c67085e45ef1405a1",
+                  "5cdd7685d7f00c000f260ed2",
+                  "5c878e9d2e2216000f201903",
+                  "5d02677ad7ad1a04a15c0f95",
+                  "5bbdb8bdd4351e4502011460",
+                  "5cdd7693d7f00c0010373aa5",
+                  "607ffb988900dc2d9a55b6e4",
+                  "615d8eb350224f204c1da1cf",
+                  "612e0e3c290d254f5e6b291d",
+                  "5d443f8fa4b93678dd4a01aa",
+                  "5c7954d52e221600106f4cc7",
+                  "5fbc22ccf24b94483f726483",
+                  "59bffc1f86f77435b128b872",
+                  "5cf78496d7f00c065703d6ca",
+                  "5fbe7618d6fa9c00c571bb6c",
+                  "628a66b41d5e41750e314f34",
+                  "6642f63667f5cb56a00662eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_foregrip",
+          "_id": "634e86e6767cb15c4601a887",
+          "_parent": "6333f05d1bc0e6217a0e9d34",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "634e61b0767cb15c4601a877",
+                  "6711107e1ad01bb88705347e",
+                  "671883292e2eeb98d406f3b8"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "ConflictingItems": [
+        "62e7c4fba689e8c9c50dfc38",
+        "63171672192e68c5460cebc5",
+        "6718817435e3cfd9550d2c27"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Steyr AUG A3 .300 Blackout 16 inch barrel",
+        "shortName": "A3 16",
+        "description": "A barrel for Steyr AUG A3 designed for .300 Blackout ammo, 16 inches (417mm) long."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 33000,
+    "handbookPriceRoubles": 15462,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "69d4ca0205151c777e136f21": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 515,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

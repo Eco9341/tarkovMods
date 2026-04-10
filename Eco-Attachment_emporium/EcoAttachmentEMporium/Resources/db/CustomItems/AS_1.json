@@ -11,6 +11,7 @@
         "RecoilForceBack": 240,
         "RecoilForceUp": 110,
         "Weight": 3.4,
+        "Ergonomics": 53,
         "CompactHandling": false,
         "isChamberLoad": false,
         "AllowFeed": false,
@@ -545,6 +546,7 @@
         "RecoilForceBack": 260,
         "RecoilForceUp": 120,
         "Weight": 3.4,
+        "Ergonomics": 53,
         "CompactHandling": false,
         "isChamberLoad": false,
         "Foldable": false,
@@ -1072,8 +1074,8 @@
   },
   "6978e7e796e988db77009efd": {
     "itemTplToClone": "5cc9a96cd7f00c011c04e04a",
-    "parentId": "555ef6e44bdc2de9068b457e",
-    "handbookParentId": "5b5f75c686f774094242f19f",
+    "parentId": "550aa4bf4bdc2dd6348b456b",
+    "handbookParentId": "5b5f724c86f774093f2ecf15",
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {

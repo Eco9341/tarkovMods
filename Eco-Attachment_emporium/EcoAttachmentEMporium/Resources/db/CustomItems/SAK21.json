@@ -1082,9 +1082,7 @@
         "_mergeSlotWithChildren": false,
         "_proto": "55d30c4c4bdc2db4468b457e"
       }
-    ],
-      "CanSellOnRagfair": false,
-      "CanRequireOnRagfair": false
+    ]
     },
     "locales": {
       "en": {

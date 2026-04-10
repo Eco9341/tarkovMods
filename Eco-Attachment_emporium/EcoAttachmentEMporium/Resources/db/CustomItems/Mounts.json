@@ -599,5 +599,699 @@
         ]
       }
     ]
+  },
+  "69bc60217cbcfaf66d0f8533": {
+    "itemTplToClone": "5c1cdd512e22161b267d91ae",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Mounts/t2_carryhandle_mount.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "ItemSound": "mod",
+      "LootExperience": 5,
+      "Weight": 0.045,
+      "Width": 1,
+      "CanPutIntoDuringTheRaid": true,
+      "Slots": [
+        {
+          "_name": "mod_scope",
+          "_id": "58d39d3d86f77445bb794ae8",
+          "_parent": "58d39d3d86f77445bb794ae7",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "61657230d92c473c770213d7",
+                  "58d399e486f77442e0016fe7",
+                  "5b3116595acfc40019476364",
+                  "58d39b0386f77443380bf13c"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "Ergonomics": 0,
+      "RaidModdable": true,
+      "Recoil": 0,
+      "SightingRange": 0,
+      "ToolModdable": true,
+      "UniqueAnimationModID": 0,
+      "Velocity": 0,
+      "CoolFactor": 1,
+      "HeatFactor": 1
+    },
+    "locales": {
+      "en": {
+        "name": "AMRU Designs Carry Handle Micro Red Dot Mount",
+        "shortName": "AMRU",
+        "description": "Made from 6061 Aluminum, Black Hardcoat anodized and stainless steel threaded inserts (Helicoils) for the mount screw. Has integral recoil lug machined into the mount to align with the slot on the base of your red dot. Custom CNC machined shoulder screw made from 4140 steel. The shoulder of this screw is what contacts the internal surface of the carry handle mount hole.  This provides the best possible contact point between screw and carry handle. It is also has a hex head to be low profile and the use of a 5/16 inch wrench or pliers to tighten the screw."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_scope",
+      "mod_scope_000"
+    ],
+    "fleaPriceRoubles": 2088,
+    "handbookPriceRoubles": 632,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "69bc60217cbcfaf66d0f8534": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 23,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "69bc81d77cbcfaf66d0f8541": {
+    "itemTplToClone": "5c1cdd512e22161b267d91ae",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Mounts/larue_carryhandle_mount.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+          "5d440b93a4b9364276578d4b",
+          "5d440b9fa4b93601354d480c",
+          "5c0e2f94d174af029f650d56",
+          "63d3d44a2a49307baf09386d",
+          "56eabcd4d2720b66698b4574",
+          "5d00ec68d7ad1a04a067e5be",
+          "56ea8d2fd2720b7c698b4570",
+          "63d3ce281fe77d0f2801859e"
+      ],
+      "Height": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "ItemSound": "mod",
+      "LootExperience": 5,
+      "Weight": 0.232,
+      "Width": 3,
+      "CanPutIntoDuringTheRaid": true,
+      "Slots": [
+      {
+        "_name": "mod_scope",
+        "_id": "55d357484bdc2d882f8b456a",
+        "_parent": "55d355e64bdc2d962f8b4569",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57ac965c24597706be5f975c",
+                "57aca93d2459771f2c7e26db",
+                "544a3f024bdc2d1d388b4568",
+                "544a3a774bdc2d3a388b4567",
+                "5d2dc3e548f035404a1a4798",
+                "57adff4f24597737f373b6e6",
+                "5c0517910db83400232ffee5",
+                "591c4efa86f7741030027726",
+                "570fd79bd2720bc7458b4583",
+                "570fd6c2d2720bc6458b457f",
+                "57ac965c24597706be5f975c",
+                "57aca93d2459771f2c7e26db",
+                "544a3f024bdc2d1d388b4568",
+                "544a3a774bdc2d3a388b4567",
+                "5d2dc3e548f035404a1a4798",
+                "57adff4f24597737f373b6e6",
+                "5c0517910db83400232ffee5",
+                "591c4efa86f7741030027726",
+                "570fd79bd2720bc7458b4583",
+                "570fd6c2d2720bc6458b457f",
+                "558022b54bdc2dac148b458d",
+                "5c07dd120db834001c39092d",
+                "5c0a2cec0db834001b7ce47d",
+                "58491f3324597764bc48fa02",
+                "584924ec24597768f12ae244",
+                "5b30b0dc5acfc400153b7124",
+                "6165ac8c290d254f5e6b2f6c",
+                "60a23797a37c940de7062d02",
+                "5d2da1e948f035477b1ce2ba",
+                "5c0505e00db834001b735073",
+                "609a63b6e2ff132951242d09",
+                "584984812459776a704a82a6",
+                "59f9d81586f7744c7506ee62",
+                "570fd721d2720bc5458b4596",
+                "57ae0171245977343c27bfcf",
+                "5dfe6104585a0c3e995c7b82",
+                "544a3d0a4bdc2d1b388b4567",
+                "5d1b5e94d7ad1a2b865a96b0",
+                "609bab8b455afd752b2e6138",
+                "58d39d3d86f77445bb794ae7",
+                "616554fe50224f204c1da2aa",
+                "5c7d55f52e221644f31bff6a",
+                "616584766ef05c2ce828ef57",
+                "5b3b6dc75acfc47a8773fb1e",
+                "615d8d878004cc50514c3233",
+                "5b2389515acfc4771e1be0c0",
+                "577d128124597739d65d0e56",
+                "618b9643526131765025ab35",
+                "618bab21526131765025ab3f",
+                "5c86592b2e2216000e69e77c",
+                "5a37ca54c4a282000d72296a",
+                "5d0a29fed7ad1a002769ad08",
+                "5c064c400db834001d23f468",
+                "58d2664f86f7747fec5834f6",
+                "57c69dd424597774c03b7bbc",
+                "5b3b99265acfc4704b4a1afb",
+                "5aa66a9be5b5b0214e506e89",
+                "5aa66c72e5b5b00016327c93",
+                "5c1cdd302e221602b3137250",
+                "61714b2467085e45ef140b2c",
+                "6171407e50224f204c1da3c5",
+                "61713cc4d8e3106d9806c109",
+                "5b31163c5acfc400153b71cb",
+                "5a33b652c4a28232996e407c",
+                "5a33b2c9c4a282000c5a9511",
+                "59db7eed86f77461f8380365",
+                "5a1ead28fcdbcb001912fa9f",
+                "5dff77c759400025ea5150cf",
+                "626bb8532c923541184624b4",
+                "62811f461d5df4475f46a332",
+                "63fc449f5bd61c6cf3784a88",
+                "6477772ea8a38bb2050ed4db",
+                "6478641c19d732620e045e17",
+                "64785e7c19d732620e045e15",
+                "65392f611406374f82152ba5",
+                "653931da5db71d30ab1d6296",
+                "655f13e0a246670fb0373245",
+                "6567e751a715f85433025998",
+                "6761759e7ee06333f108bf86",
+                "67641a851b2899700609901a"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_sight_rear",
+        "_id": "55d35e074bdc2d882f8b456c",
+        "_parent": "55d355e64bdc2d962f8b4569",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "69bc77167cbcfaf66d0f853a"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_tactical",
+        "_id": "5ea16ada09aa976f2e7a51c3",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5d10b49bd7ad1a1a560708b0",
+                "5c06595c0db834001a66af6c",
+                "5a7b483fe899ef0016170d15",
+                "61605d88ffa6e502ac5e7eeb",
+                "5c5952732e2216398b5abda2",
+                "644a3df63b0b6f03e101e065"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_sight_front",
+        "_id": "5ea16ada09aa976f2e7a51c6",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "69bc7cdc7cbcfaf66d0f853c"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_tactical_000",
+        "_id": "5ea16ada09aa976f2e7a51c0",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5b7be47f5acfc400170e2dd2",
+                "6269220d70b6c02e665f2635",
+                "6269545d0e57f218e4548ca2",
+                "669a6a4a525be1d2d004b8eb"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_tactical_001",
+        "_id": "5ea16ada09aa976f2e7a51c1",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5b7be47f5acfc400170e2dd2",
+                "6269220d70b6c02e665f2635",
+                "6269545d0e57f218e4548ca2",
+                "669a6a4a525be1d2d004b8eb"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      }
+      ],
+      "Ergonomics": -1,
+      "RaidModdable": true,
+      "Recoil": 0,
+      "SightingRange": 0,
+      "ToolModdable": true,
+      "UniqueAnimationModID": 0,
+      "Velocity": 0,
+      "CoolFactor": 1,
+      "HeatFactor": 1
+    },
+    "locales": {
+      "en": {
+        "name": "LaRue AccARizer Rail",
+        "shortName": "AccARizer",
+        "description": "The AccARizer™ allows for M-Lok accessories to be mounted on the 3 and 9 o’clock positions, as well as a full MIL-STD-1913 Picatinny Rail along the top. With this rail, you can modernize older rifles that have a fixed carry handle receiver and carbine length gas system and A2 front sight post. The provided hardware uses the existing mounting hole in the carry handle and replaces the front sight post, with no permanent modifications to the firearm required."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_scope",
+      "mod_scope_000"
+    ],
+    "fleaPriceRoubles": 5353,
+    "handbookPriceRoubles": 3424,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "69bc7cdc7cbcfaf66d0f853e": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 12321,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "69bc77167cbcfaf66d0f853a": {
+    "itemTplToClone": "5e81ee4dcb2b95385c177582",
+    "parentId": "55818ad54bdc2ddc698b4569",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Mounts/larue_rs.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+          "57ac965c24597706be5f975c",
+          "57aca93d2459771f2c7e26db",
+          "544a3f024bdc2d1d388b4568",
+          "544a3a774bdc2d3a388b4567",
+          "5d2dc3e548f035404a1a4798",
+          "57adff4f24597737f373b6e6",
+          "5c0517910db83400232ffee5",
+          "591c4efa86f7741030027726",
+          "570fd79bd2720bc7458b4583",
+          "570fd6c2d2720bc6458b457f",
+          "558022b54bdc2dac148b458d",
+          "5c07dd120db834001c39092d",
+          "5c0a2cec0db834001b7ce47d",
+          "58491f3324597764bc48fa02",
+          "584924ec24597768f12ae244",
+          "5b30b0dc5acfc400153b7124",
+          "6165ac8c290d254f5e6b2f6c",
+          "60a23797a37c940de7062d02",
+          "5d2da1e948f035477b1ce2ba",
+          "5c0505e00db834001b735073",
+          "609a63b6e2ff132951242d09",
+          "584984812459776a704a82a6",
+          "59f9d81586f7744c7506ee62",
+          "570fd721d2720bc5458b4596",
+          "57ae0171245977343c27bfcf",
+          "5dfe6104585a0c3e995c7b82",
+          "544a3d0a4bdc2d1b388b4567",
+          "5d1b5e94d7ad1a2b865a96b0",
+          "609bab8b455afd752b2e6138",
+          "58d39d3d86f77445bb794ae7",
+          "616554fe50224f204c1da2aa",
+          "5c7d55f52e221644f31bff6a",
+          "616584766ef05c2ce828ef57",
+          "5b3b6dc75acfc47a8773fb1e",
+          "615d8d878004cc50514c3233",
+          "5b2389515acfc4771e1be0c0",
+          "577d128124597739d65d0e56",
+          "618b9643526131765025ab35",
+          "618bab21526131765025ab3f",
+          "5c86592b2e2216000e69e77c",
+          "5a37ca54c4a282000d72296a",
+          "5d0a29fed7ad1a002769ad08",
+          "5c064c400db834001d23f468",
+          "58d2664f86f7747fec5834f6",
+          "57c69dd424597774c03b7bbc",
+          "5b3b99265acfc4704b4a1afb",
+          "5aa66a9be5b5b0214e506e89",
+          "5aa66c72e5b5b00016327c93",
+          "5c1cdd302e221602b3137250",
+          "61714b2467085e45ef140b2c",
+          "6171407e50224f204c1da3c5",
+          "61713cc4d8e3106d9806c109",
+          "5b31163c5acfc400153b71cb",
+          "5a33b652c4a28232996e407c",
+          "5a33b2c9c4a282000c5a9511",
+          "59db7eed86f77461f8380365",
+          "5a1ead28fcdbcb001912fa9f",
+          "5dff77c759400025ea5150cf",
+          "626bb8532c923541184624b4",
+          "62811f461d5df4475f46a332",
+          "63fc449f5bd61c6cf3784a88",
+          "6477772ea8a38bb2050ed4db",
+          "6478641c19d732620e045e17",
+          "64785e7c19d732620e045e15",
+          "65392f611406374f82152ba5",
+          "653931da5db71d30ab1d6296",
+          "655f13e0a246670fb0373245",
+          "6567e751a715f85433025998",
+          "6761759e7ee06333f108bf86",
+          "67641a851b2899700609901a"
+      ],
+      "sightModType": "iron"
+    },
+    "locales": {
+      "en": {
+        "name": "LaRue AccARizer rear sight",
+        "shortName": "AccARizer RS",
+        "description": "Rear sight for the LaRue AccARizer™ rail. This rear sight is designed to be used with the AccARizer™ rail and is not compatible with other rails or mounting systems. The rear sight is made from high-quality materials and is designed to provide a secure and stable mounting platform for your rear sight. The rear sight is also designed to be easy to install and remove."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 721,
+    "handbookPriceRoubles": 321,
+    "addtoTraders": true,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "69bc7cdc7cbcfaf66d0f853f": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 895,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": []
+  },
+  "69bc7cdc7cbcfaf66d0f853c": {
+    "itemTplToClone": "5e81ee4dcb2b95385c177582",
+    "parentId": "55818ad54bdc2ddc698b4569",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Mounts/larue_fs.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+          "57fd23e32459772d0805bcf1",
+          "544909bb4bdc2d6f028b4577",
+          "5d10b49bd7ad1a1a560708b0",
+          "5c06595c0db834001a66af6c",
+          "5a7b483fe899ef0016170d15",
+          "61605d88ffa6e502ac5e7eeb",
+          "5c5952732e2216398b5abda2",
+          "644a3df63b0b6f03e101e065"
+      ],
+      "sightModType": "iron"
+    },
+    "locales": {
+      "en": {
+        "name": "LaRue AccARizer front sight",
+        "shortName": "AccARizer FS",
+        "description": "Front sight for he LaRue AccARizer™ rail. This front sight is designed to be used with the AccARizer™ rail and is not compatible with other rails or mounting systems. The front sight is made from high-quality materials and is designed to provide a secure and stable mounting platform for your front sight. The front sight is also designed to be easy to install and remove."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 721,
+    "handbookPriceRoubles": 321,
+    "addtoTraders": true,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "69bc81d77cbcfaf66d0f8540": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 895,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": []
+  },
+  "69bdb41d2e4518999108ae92": {
+    "itemTplToClone": "5a33b2c9c4a282000c5a9511",
+    "parentId": "55818ad54bdc2ddc698b4569",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Mounts/larue_cnote.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.2,
+      "Slots": [
+      ],
+      "SightingRange": 100,
+      "DoubleActionAccuracyPenaltyMult": 1,
+      "UniqueAnimationModID": 0,
+      "CustomAimPlane": "",
+      "sightModType": "iron",
+      "ScopesCount": 1,
+      "AimSensitivity": [
+        [
+          0.7
+        ]
+      ],
+      "ModesCount": [
+        1
+      ],
+      "Zooms": [
+        [
+          1
+        ]
+      ],
+      "CalibrationDistances": [
+        [
+          100
+        ]
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "LaRue Tactical C-Note",
+        "shortName": "C-Note",
+        "description": "Introducing the latest product from LaRue Tactical, the C-Note. It is a ready-to-use, one-piece iron sight precision built for rapid target acquisition and engagement. A $100 bill gets you a premium iron sight that is perfect for CQB, home defense, or ringing steel at the range. It is also a perfect tool to use when hunting as you can rapidly transition between magnified optics and your C-Note irons as your environment changes with our quick-disconnect lever system. It has a similar sight radius and configuration to pistol sights, but capitalizes on the added points of contact and firepower of your railed rifle to increase accuracy. The C-Note has an adjustable rear sight and the easy mounting capability ensures all of your railed rifles are mission ready. No need to worry about dead batteries."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_scope",
+      "mod_scope_000"
+    ],
+    "fleaPriceRoubles": 721,
+    "handbookPriceRoubles": 321,
+    "addtoTraders": true,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "69bdb41d2e4518999108ae93": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1234,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": []
   }
 }
