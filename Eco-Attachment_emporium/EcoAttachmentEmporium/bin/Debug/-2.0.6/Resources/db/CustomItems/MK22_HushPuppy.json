@@ -83,7 +83,8 @@
         }
         ],
         "Weight": 0.210,
-        "Ergonomics": 71
+        "Ergonomics": 71,
+        "defMagType": "695ed237f990bb642607087d"
     },
     "locales": {
       "en": {
@@ -97,10 +98,51 @@
     "modSlot": [],
     "fleaPriceRoubles": 17365,
     "handbookPriceRoubles": 8632,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "masteries": true,
-    "addWeaponPreset": false,
+    "addWeaponPreset": true,
     "weaponPresets": [
+        {
+          "_id": "69b9b27251f2d688fcc7b214",
+          "_type": "Preset",
+          "_changeWeaponName": false,
+          "_name": "MK22",
+          "_parent": "69b9b27251f2d688fcc7b215",
+          "_items": [
+            {
+              "_id": "69b9b27251f2d688fcc7b215",
+              "_tpl": "695ece27f990bb6426070873",
+              "upd": {
+                "Repairable": {
+                  "Durability": 100,
+                  "MaxDurability": 100
+                },
+                "FireMode": {
+                  "FireMode": "single"
+                }
+              }
+            },
+            {
+              "_id": "69b9b26f51f2d688fcc7b16e",
+              "_tpl": "695ecf2ff990bb6426070877",
+              "parentId": "69b9b27251f2d688fcc7b215",
+              "slotId": "mod_barrel"
+            },
+            {
+              "_id": "69b9b26f51f2d688fcc7b16f",
+              "_tpl": "695ece27f990bb6426070875",
+              "parentId": "69b9b27251f2d688fcc7b215",
+              "slotId": "mod_reciever"
+            },
+            {
+              "_id": "69b9b26f51f2d688fcc7b170",
+              "_tpl": "695ed237f990bb642607087d",
+              "parentId": "69b9b27251f2d688fcc7b215",
+              "slotId": "mod_magazine"
+            }
+          ],
+          "_encyclopedia": "695ece27f990bb6426070873"
+        }
     ],
     "traders": {
       "SKIER": {

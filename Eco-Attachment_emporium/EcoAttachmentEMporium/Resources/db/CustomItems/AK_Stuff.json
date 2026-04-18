@@ -2442,5 +2442,133 @@
         ]
       }
     ]
+  },
+  "69e2677480c49d0049326afc": {
+    "itemTplToClone": "653931da5db71d30ab1d6296",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Mounts/zenitco_kt1_mount.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+      {
+        "_name": "mod_tactical",
+        "_id": "653931da5db71d30ab1d6297",
+        "_parent": "653931da5db71d30ab1d6296",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5c06595c0db834001a66af6c",
+                "61605d88ffa6e502ac5e7eeb",
+                "5c5952732e2216398b5abda2",
+                "644a3df63b0b6f03e101e065"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_scope",
+        "_id": "653931da5db71d30ab1d6298",
+        "_parent": "653931da5db71d30ab1d6296",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57ae0171245977343c27bfcf",
+                "58d39d3d86f77445bb794ae7",
+                "616554fe50224f204c1da2aa",
+                "615d8d878004cc50514c3233",
+                "577d128124597739d65d0e56",
+                "58d2664f86f7747fec5834f6",
+                "61714b2467085e45ef140b2c",
+                "5a33b2c9c4a282000c5a9511",
+                "609bab8b455afd752b2e6138",
+                "5b31163c5acfc400153b71cb"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Zenitco KT-1 mount",
+        "shortName": "KT-1",
+        "description": "The KT-1 Kit for reflex sights and tactical equipment. Manufactured by Zenitco."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_scope",
+      "mod_scope_000"
+    ],
+    "fleaPriceRoubles": 4357,
+    "handbookPriceRoubles": 1000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2800
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2800
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2800
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2800
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2800
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2800
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "69e2677480c49d0049326afd": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 7463,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
   }
 }

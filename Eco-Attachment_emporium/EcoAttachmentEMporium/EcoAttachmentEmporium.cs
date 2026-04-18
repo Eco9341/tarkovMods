@@ -4,6 +4,7 @@ using SPTarkov.Server.Core.DI;
 using SPTarkov.Server.Core.Models.Spt.Mod;
 using WTTServerCommonLib.Models;
 using Range = SemanticVersioning.Range;
+using EcoAttachmentEmporium.Helpers;
 
 namespace EcoAttachmentEmporium;
 
@@ -28,13 +29,15 @@ public record ModMetadata : AbstractModMetadata
 
 [Injectable(TypePriority = OnLoadOrder.PostDBModLoader + 2)]
 public class EcoAttachmentEmporium(
-    WTTServerCommonLib.WTTServerCommonLib wttCommon) : IOnLoad
+    WTTServerCommonLib.WTTServerCommonLib wttCommon,
+       EcoQuestHelper ecoQuestHelper) : IOnLoad
 {
     public async Task OnLoad()
     {
         Assembly assembly = Assembly.GetExecutingAssembly();
         await wttCommon.CustomItemServiceExtended.CreateCustomItems(assembly);
         await wttCommon.CustomAssortSchemeService.CreateCustomAssortSchemes(assembly);
+        ecoQuestHelper.ModifyQuests();
         await Task.CompletedTask;
     }
 }

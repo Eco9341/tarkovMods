@@ -9,12 +9,16 @@
         "path": "Mods/SL8/weapon_sl8_container.bundle",
         "rcid": ""
       },
+      "ConflictingItems": [
+        "622b3858034a3e17ad0b81f5",
+        "622b379bf9cfc87d675d2de5"
+      ],
     "weapFireType": [
       "single",
       "burst"
     ],
     "Weight": 2.570,
-    "Ergonomics": 53,
+    "Ergonomics": 103,
     "RecoilForceBack": 210,
     "RecoilForceUp": 79,
     "Height": 1,

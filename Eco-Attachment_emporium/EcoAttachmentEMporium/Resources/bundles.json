@@ -2698,6 +2698,14 @@
             ]
         },
         {
+            "key": "Mods/LR300/lr300_bottom_rail.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
             "key": "Mods/M240/m240_barrel.bundle",
             "dependencyKeys": [
                 "shaders",
@@ -4123,6 +4131,161 @@
         },
         {
             "key": "Mods/AUG_300blk/aug_a1_508_300blk_barrel.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Mods/BP12/weapon_bp12_container.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+                "assets/systems/effects/heathaze/defaultheathaze.bundle",
+                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle",
+                "Mods/BP12/bp12_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/BP12/bp12_receiver.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/BP12/bp12_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/BP12/bp12_shortmag.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/BP12/bp12_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/BP12/bp12_longmag.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/BP12/bp12_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/BP12/bp12_barrel_long.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/BP12/bp12_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/BP12/bp12_barrel_short.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/BP12/bp12_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/BP12/bp12_textures.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Mods/BP12/bp12_gen2_textures.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Mods/BP12/weapon_bp12_gen2_container.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+                "assets/systems/effects/heathaze/defaultheathaze.bundle",
+                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle",
+                "Mods/BP12/bp12_gen2_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/BP12/bp12_gen2_receiver.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/BP12/bp12_gen2_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/BP12/bp12_gen2_receiver_extended.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/BP12/bp12_gen2_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/BP12/bp12_gen2_standard_barrel.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/BP12/bp12_gen2_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/BP12/bp12_gen2_long_barrel.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/BP12/bp12_gen2_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/BP12/bp12_gen2_short_barrel.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/BP12/bp12_gen2_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/BP12/bp12_gen2_silencer.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/BP12/bp12_gen2_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Mounts/zenitco_kt1_mount.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",

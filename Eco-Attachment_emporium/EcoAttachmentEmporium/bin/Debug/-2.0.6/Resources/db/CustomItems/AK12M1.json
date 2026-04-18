@@ -186,7 +186,9 @@
             "filters": [
               {
                 "Filter": [
-                  "68ed85275e9a77cf70058339"
+                  "68ed85275e9a77cf70058339",
+                  "68c74b75cac1ff3d420fceca",
+                  "68d06cc7bc54e7c1b40cb9f0"
                 ],
                 "Shift": 0
               }
@@ -949,7 +951,8 @@
         "path": "Mods/AK12M1/ak12m1_stock_rised.bundle",
         "rcid": ""
       },
-      "Ergonomics": 3,
+      "Ergonomics": 14,
+      "Recoil": -30,
       "CanSellOnRagfair": false,
       "CanRequireOnRagfair": false
     },

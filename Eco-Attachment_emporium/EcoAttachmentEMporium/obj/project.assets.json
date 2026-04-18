@@ -120,7 +120,7 @@
           "buildTransitive/net8.0/_._": {}
         }
       },
-      "WTT-ServerCommonLib/2.0.0": {
+      "WTT-ServerCommonLib/2.0.18": {
         "type": "package",
         "dependencies": {
           "SPTarkov.Server.Core": "4.0.2"
@@ -137,7 +137,17 @@
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
-        ]
+        ],
+        "contentFiles": {
+          "contentFiles/any/net9.0/Resources/db/CustomLocales/en.json": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": false
+          }
+        },
+        "build": {
+          "build/WTT-ServerCommonLib.props": {}
+        }
       }
     }
   },
@@ -295,17 +305,20 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "WTT-ServerCommonLib/2.0.0": {
-      "sha512": "1TpG1GoR6Hdui5Vbt4phYw47EQqnKQO4OZsHYLMMn/6KfiBMBMiacqgGQJqPQ3S9x6VMEbv892mmHJSODjfHdQ==",
+    "WTT-ServerCommonLib/2.0.18": {
+      "sha512": "V+970SBStfAJpvcszHVk/pRhxvnuGCORvnJ88yZggccJQ5busWo9tu9ToFknkbHu/XkxBJ+cQX8r4wX32snlZQ==",
       "type": "package",
-      "path": "wtt-servercommonlib/2.0.0",
+      "path": "wtt-servercommonlib/2.0.18",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "README.md",
+        "build/WTT-ServerCommonLib.props",
+        "content/Resources/db/CustomLocales/en.json",
+        "contentFiles/any/net9.0/Resources/db/CustomLocales/en.json",
         "lib/net9.0/WTT-ServerCommonLib.dll",
         "lib/net9.0/WTT-ServerCommonLib.xml",
-        "wtt-servercommonlib.2.0.0.nupkg.sha512",
+        "wtt-servercommonlib.2.0.18.nupkg.sha512",
         "wtt-servercommonlib.nuspec"
       ]
     }
@@ -315,7 +328,7 @@
       "SPTarkov.Common >= 4.0.3",
       "SPTarkov.DI >= 4.0.3",
       "SPTarkov.Server.Core >= 4.0.3",
-      "WTT-ServerCommonLib >= 2.0.0"
+      "WTT-ServerCommonLib >= 2.0.18"
     ]
   },
   "packageFolders": {
@@ -375,7 +388,7 @@
           },
           "WTT-ServerCommonLib": {
             "target": "Package",
-            "version": "[2.0.0, )"
+            "version": "[2.0.18, )"
           }
         },
         "imports": [

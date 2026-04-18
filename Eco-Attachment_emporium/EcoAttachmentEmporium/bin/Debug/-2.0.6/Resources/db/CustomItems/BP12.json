@@ -1,0 +1,2409 @@
+{
+  "69d9435106dc0abe0209b658": {
+    "itemTplToClone": "65290f395ae2ae97b80fdf2d",
+    "parentId": "5447b5f14bdc2d61278b4567",
+    "handbookParentId": "5b5f78fc86f77409407a7f90",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/BP12/weapon_bp12_container.bundle",
+        "rcid": ""
+      },
+      "ammoCaliber": "Caliber12g",
+      "defAmmo": "560d5e524bdc2d25448b4571",
+      "defMagType": "69d961bb06dc0abe0209b65b",
+      "isChamberLoad": false,
+      "bFirerate": 450,
+      "Ergonomics": 47,
+      "RecoilForceBack": 289,
+      "RecoilForceUp": 103,
+      "Weight": 1.4,
+      "CompactHandling": false,
+      "weapFireType": [
+        "single"
+      ],
+      "Width": 2,
+      "Slots": [
+        {
+          "_name": "mod_pistol_grip",
+          "_id": "65290f395ae2ae97b80fdf2e",
+          "_parent": "65290f395ae2ae97b80fdf2d",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "55d4b9964bdc2d1d4e8b456e",
+                  "571659bb2459771fb2755a12",
+                  "602e71bd53a60014f9705bfa",
+                  "6113c3586c780c1e710c90bc",
+                  "6113cc78d3a39d50044c065a",
+                  "6113cce3d92c473c770200c7",
+                  "5cc9bcaed7f00c011c04e179",
+                  "5bb20e18d4351e00320205d5",
+                  "5bb20e0ed4351e3bac1212dc",
+                  "6193dcd0f8ee7e52e4210a28",
+                  "5d025cc1d7ad1a53845279ef",
+                  "5c6d7b3d2e221600114c9b7d",
+                  "57c55efc2459772d2c6271e7",
+                  "57af48872459771f0b2ebf11",
+                  "57c55f092459772d291a8463",
+                  "57c55f112459772d28133310",
+                  "57c55f172459772d27602381",
+                  "5a339805c4a2826c6e06d73d",
+                  "55802f5d4bdc2dac148b458f",
+                  "5d15cf3bd7ad1a67e71518b2",
+                  "59db3a1d86f77429e05b4e92",
+                  "5fbcbd6c187fea44d52eda14",
+                  "59db3acc86f7742a2c4ab912",
+                  "59db3b0886f77429d72fb895",
+                  "615d8faecabb9b7ad90f4d5d",
+                  "5b07db875acfc40dc528a5f6",
+                  "63f5feead259b42f0b4d6d0f",
+                  "652911675ae2ae97b80fdf3c"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_magazine",
+          "_id": "65290f395ae2ae97b80fdf2f",
+          "_parent": "65290f395ae2ae97b80fdf2d",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex": -1,
+                "Filter": [
+                  "69d961bb06dc0abe0209b65b",
+                  "69d9622a06dc0abe0209b65f"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c394bdc2dae468b4577"
+        },
+        {
+          "_name": "mod_reciever",
+          "_id": "65290f395ae2ae97b80fdf30",
+          "_parent": "65290f395ae2ae97b80fdf2d",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "69d9457006dc0abe0209b659"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_charge",
+          "_id": "65290f395ae2ae97b80fdf32",
+          "_parent": "65290f395ae2ae97b80fdf2d",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0faf68d174af02a96260b8",
+                  "56ea7165d2720b6e518b4583",
+                  "55d44fd14bdc2d962f8b456e",
+                  "5ea16d4d5aad6446a939753d",
+                  "5bb20dbcd4351e44f824c04e",
+                  "6033749e88382f4fab3fd2c5",
+                  "5b2240bf5acfc40dc528af69",
+                  "5d44334ba4b9362b346d1948",
+                  "5f633ff5c444ce7e3c30a006",
+                  "651bf5617b3b552ef6712cb7"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "Chambers": [
+        {
+          "_name": "patron_in_weapon",
+          "_id": "57616e2e2459773c362ab462",
+          "_parent": "576165642459773c7a400233",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "560d5e524bdc2d25448b4571",
+                  "5d6e6772a4b936088465b17c",
+                  "5d6e67fba4b9361bc73bc779",
+                  "5d6e6806a4b936088465b17e",
+                  "5d6e68dea4b9361bcc29e659",
+                  "5d6e6911a4b9361bd5780d52",
+                  "5c0d591486f7744c505b416f",
+                  "58820d1224597753c90aeb13",
+                  "5d6e68c4a4b9361b93413f79",
+                  "5d6e68a8a4b9360b6c0d54e2",
+                  "5d6e68e6a4b9361c140bcfe0",
+                  "5d6e6869a4b9361c140bcfde",
+                  "5d6e68b3a4b9361bca7e50b5",
+                  "5d6e6891a4b9361bd473feea",
+                  "5d6e689ca4b9361bc8618956",
+                  "5d6e68d1a4b93622fe60e845",
+                  "64b8ee384b75259c590fa89b"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d4af244bdc2d962f8b4571"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Panzer Arms BP12 12ga Shotgun",
+        "shortName": "BP-12",
+        "description": "BP12 is part of Panzer Arms Precision Tactical series. Its features are unique and designed specifically for the bullpup platform, rather than just using standard features adapted from full-length firearms."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 19482,
+    "handbookPriceRoubles": 15023,
+    "addtoTraders": false,
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+        {
+          "_id": "69da6c8f1b36f03e20667a2b",
+          "_type": "Preset",
+          "_changeWeaponName": false,
+          "_name": "BP12",
+          "_parent": "69da6c8f1b36f03e20667a2c",
+          "_items": [
+            {
+              "_id": "69da6c8f1b36f03e20667a2c",
+              "_tpl": "69d9435106dc0abe0209b658",
+              "upd": {
+                "Repairable": {
+                  "Durability": 100,
+                  "MaxDurability": 100
+                },
+                "FireMode": {
+                  "FireMode": "single"
+                }
+              }
+            },
+            {
+              "_id": "69da6c8b1b36f03e2066795d",
+              "_tpl": "57c55efc2459772d2c6271e7",
+              "parentId": "69da6c8f1b36f03e20667a2c",
+              "slotId": "mod_pistol_grip"
+            },
+            {
+              "_id": "69da6c8b1b36f03e2066795e",
+              "_tpl": "69d961bb06dc0abe0209b65b",
+              "parentId": "69da6c8f1b36f03e20667a2c",
+              "slotId": "mod_magazine"
+            },
+            {
+              "_id": "69da6c8b1b36f03e2066795f",
+              "_tpl": "69d9457006dc0abe0209b659",
+              "parentId": "69da6c8f1b36f03e20667a2c",
+              "slotId": "mod_reciever"
+            },
+            {
+              "_id": "69da6c8b1b36f03e20667960",
+              "_tpl": "56ea7165d2720b6e518b4583",
+              "parentId": "69da6c8f1b36f03e20667a2c",
+              "slotId": "mod_charge"
+            },
+            {
+              "_id": "69da6c8b1b36f03e20667961",
+              "_tpl": "69da5396dbcfb97d1322c9c1",
+              "parentId": "69da6c8b1b36f03e2066795f",
+              "slotId": "mod_barrel"
+            },
+            {
+              "_id": "69da6c8b1b36f03e20667962",
+              "_tpl": "5bc09a18d4351e003562b68e",
+              "parentId": "69da6c8b1b36f03e2066795f",
+              "slotId": "mod_sight_rear",
+              "upd": {
+                "Sight": {
+                  "ScopesCurrentCalibPointIndexes": [
+                    0
+                  ],
+                  "ScopesSelectedModes": [
+                    0
+                  ],
+                  "SelectedScope": 0,
+                  "ScopeZoomValue": 0
+                }
+              }
+            },
+            {
+              "_id": "69da6c8b1b36f03e20667963",
+              "_tpl": "5bc09a30d4351e00367fb7c8",
+              "parentId": "69da6c8b1b36f03e2066795f",
+              "slotId": "mod_sight_front",
+              "upd": {
+                "Sight": {
+                  "ScopesCurrentCalibPointIndexes": [
+                    0
+                  ],
+                  "ScopesSelectedModes": [
+                    0
+                  ],
+                  "SelectedScope": 0,
+                  "ScopeZoomValue": 0
+                }
+              }
+            },
+            {
+              "_id": "69da6c8b1b36f03e20667964",
+              "_tpl": "576167ab2459773cad038c43",
+              "parentId": "69da6c8b1b36f03e20667961",
+              "slotId": "mod_muzzle"
+            }
+          ],
+          "_encyclopedia": "69d9435106dc0abe0209b658"
+        }
+    ],
+    "traders": {
+      "SKIER": {
+        "69d9435106dc0abe0209b657": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 23123,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": [],
+    "masterySections": [
+      {
+        "Level2": 150,
+        "Level3": 200,
+        "Name": "BP-12",
+        "Templates": [
+          "69d9435106dc0abe0209b658"
+        ]
+      }
+    ]
+  },
+  "69d9457006dc0abe0209b659": {
+    "itemTplToClone": "6529119424cbe3c74a05e5bb",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/BP12/bp12_receiver.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+      {
+        "_name": "mod_scope",
+        "_id": "6529119424cbe3c74a05e5bc",
+        "_parent": "6529119424cbe3c74a05e5bb",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57ac965c24597706be5f975c",
+                "57aca93d2459771f2c7e26db",
+                "544a3f024bdc2d1d388b4568",
+                "544a3a774bdc2d3a388b4567",
+                "5d2dc3e548f035404a1a4798",
+                "57adff4f24597737f373b6e6",
+                "5c0517910db83400232ffee5",
+                "591c4efa86f7741030027726",
+                "570fd79bd2720bc7458b4583",
+                "570fd6c2d2720bc6458b457f",
+                "558022b54bdc2dac148b458d",
+                "5c07dd120db834001c39092d",
+                "5c0a2cec0db834001b7ce47d",
+                "58491f3324597764bc48fa02",
+                "584924ec24597768f12ae244",
+                "5b30b0dc5acfc400153b7124",
+                "6165ac8c290d254f5e6b2f6c",
+                "60a23797a37c940de7062d02",
+                "5d2da1e948f035477b1ce2ba",
+                "5c0505e00db834001b735073",
+                "609a63b6e2ff132951242d09",
+                "584984812459776a704a82a6",
+                "59f9d81586f7744c7506ee62",
+                "570fd721d2720bc5458b4596",
+                "57ae0171245977343c27bfcf",
+                "5dfe6104585a0c3e995c7b82",
+                "544a3d0a4bdc2d1b388b4567",
+                "5d1b5e94d7ad1a2b865a96b0",
+                "609bab8b455afd752b2e6138",
+                "58d39d3d86f77445bb794ae7",
+                "616554fe50224f204c1da2aa",
+                "5c7d55f52e221644f31bff6a",
+                "616584766ef05c2ce828ef57",
+                "5b3b6dc75acfc47a8773fb1e",
+                "615d8d878004cc50514c3233",
+                "5b2389515acfc4771e1be0c0",
+                "577d128124597739d65d0e56",
+                "618b9643526131765025ab35",
+                "618bab21526131765025ab3f",
+                "5c86592b2e2216000e69e77c",
+                "5a37ca54c4a282000d72296a",
+                "5d0a29fed7ad1a002769ad08",
+                "5c064c400db834001d23f468",
+                "58d2664f86f7747fec5834f6",
+                "57c69dd424597774c03b7bbc",
+                "5b3b99265acfc4704b4a1afb",
+                "5aa66a9be5b5b0214e506e89",
+                "5aa66c72e5b5b00016327c93",
+                "5c1cdd302e221602b3137250",
+                "61714b2467085e45ef140b2c",
+                "6171407e50224f204c1da3c5",
+                "61713cc4d8e3106d9806c109",
+                "5b31163c5acfc400153b71cb",
+                "5a33b652c4a28232996e407c",
+                "5a33b2c9c4a282000c5a9511",
+                "59db7eed86f77461f8380365",
+                "5a1ead28fcdbcb001912fa9f",
+                "5dff77c759400025ea5150cf",
+                "626bb8532c923541184624b4",
+                "62811f461d5df4475f46a332",
+                "63fc449f5bd61c6cf3784a88",
+                "6477772ea8a38bb2050ed4db",
+                "6478641c19d732620e045e17",
+                "64785e7c19d732620e045e15",
+                "6567e751a715f85433025998",
+                "655f13e0a246670fb0373245",
+                "65392f611406374f82152ba5",
+                "653931da5db71d30ab1d6296",
+                "67641a851b2899700609901a",
+                "6761759e7ee06333f108bf86"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_barrel",
+        "_id": "6529119424cbe3c74a05e5bd",
+        "_parent": "6529119424cbe3c74a05e5bb",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "69d962f006dc0abe0209b661",
+                "69da5396dbcfb97d1322c9c1"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": true,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_sight_rear",
+        "_id": "6529119424cbe3c74a05e5bf",
+        "_parent": "6529119424cbe3c74a05e5bb",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5bb20e49d4351e3bac1212de",
+                "5ba26b17d4351e00367f9bdd",
+                "5dfa3d7ac41b2312ea33362a",
+                "5c1780312e221602b66cc189",
+                "5fb6564947ce63734e3fa1da",
+                "5bc09a18d4351e003562b68e",
+                "5c18b9192e2216398b5a8104",
+                "5fc0fa957283c4046c58147e",
+                "5894a81786f77427140b8347",
+                "55d5f46a4bdc2d1b198b4567",
+                "5ae30bad5acfc400185c2dc4"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_foregrip",
+        "_id": "5c9a26332e2216001219ea72",
+        "_parent": "5c9a26332e2216001219ea70",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5c7fc87d2e221644f31c0298",
+                "5cda9bcfd7f00c0c0b53e900",
+                "59f8a37386f7747af3328f06",
+                "619386379fb0c665d5490dbe",
+                "5c87ca002e221600114cb150",
+                "588226d124597767ad33f787",
+                "588226dd24597767ad33f789",
+                "588226e62459776e3e094af7",
+                "588226ef24597767af46e39c",
+                "59fc48e086f77463b1118392",
+                "5fce0cf655375d18a253eff0",
+                "5cf4fb76d7f00c065703d3ac",
+                "5b057b4f5acfc4771e1bd3e9",
+                "5c791e872e2216001219c40a",
+                "558032614bdc2de7118b4585",
+                "58c157be86f77403c74b2bb6",
+                "58c157c886f774032749fb06",
+                "5f6340d3ca442212f4047eb2",
+                "591af28e86f77414a27a9e1d",
+                "5c1cd46f2e22164bef5cfedb",
+                "5c1bc4812e22164bef5cfde7",
+                "5c1bc5612e221602b5429350",
+                "5c1bc5af2e221602b412949b",
+                "5c1bc5fb2e221602b1779b32",
+                "5c1bc7432e221602b412949d",
+                "5c1bc7752e221602b1779b34",
+                "64806bdd26c80811d408d37a",
+                "64807a29e5ffe165600abc97",
+                "648067db042be0705c0b3009",
+                "65169d5b30425317755f8e25",
+                "655df24fdf80b12750626d0a",
+                "655dccfdbdcc6b5df71382b6",
+                "661e53149c8b4dadef008579",
+                "661e52e29c8b4dadef008577",
+                "661e52415be02310ed07a07a",
+                "661e52b5b099f32c28003586"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_tactical_001",
+        "_id": "5c9a26332e2216001219ea74",
+        "_parent": "5c9a26332e2216001219ea70",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5a800961159bd4315e3a1657",
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5d10b49bd7ad1a1a560708b0",
+                "5c06595c0db834001a66af6c",
+                "5cc9c20cd7f00c001336c65d",
+                "5d2369418abbc306c62e0c80",
+                "5b07dd285acfc4001754240d",
+                "56def37dd2720bec348b456a",
+                "5a7b483fe899ef0016170d15",
+                "61605d88ffa6e502ac5e7eeb",
+                "5a5f1ce64f39f90b401987bc",
+                "560d657b4bdc2da74d8b4572",
+                "5b3a337e5acfc4704b4a19a0",
+                "5c5952732e2216398b5abda2",
+                "57d17e212459775a1179a0f5",
+                "6267c6396b642f77f56f5c1c",
+                "6272370ee4013c5d7e31f418",
+                "6272379924e29f06af4d5ecb",
+                "626becf9582c3e319310b837",
+                "644a3df63b0b6f03e101e065",
+                "646f6322f43d0c5d62063715"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_tactical_002",
+        "_id": "5c9a26332e2216001219ea75",
+        "_parent": "5c9a26332e2216001219ea70",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5a800961159bd4315e3a1657",
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5c06595c0db834001a66af6c",
+                "5cc9c20cd7f00c001336c65d",
+                "5d2369418abbc306c62e0c80",
+                "5b07dd285acfc4001754240d",
+                "56def37dd2720bec348b456a",
+                "5a7b483fe899ef0016170d15",
+                "61605d88ffa6e502ac5e7eeb",
+                "5a5f1ce64f39f90b401987bc",
+                "560d657b4bdc2da74d8b4572",
+                "5b3a337e5acfc4704b4a19a0",
+                "5c5952732e2216398b5abda2",
+                "57d17e212459775a1179a0f5",
+                "6267c6396b642f77f56f5c1c",
+                "6272370ee4013c5d7e31f418",
+                "6272379924e29f06af4d5ecb",
+                "626becf9582c3e319310b837",
+                "644a3df63b0b6f03e101e065",
+                "646f6322f43d0c5d62063715"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_tactical",
+        "_id": "5c9a26332e2216001219ea77",
+        "_parent": "5c9a26332e2216001219ea70",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5d10b49bd7ad1a1a560708b0",
+                "5c06595c0db834001a66af6c",
+                "5a7b483fe899ef0016170d15",
+                "61605d88ffa6e502ac5e7eeb",
+                "5c5952732e2216398b5abda2",
+                "644a3df63b0b6f03e101e065"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_sight_front",
+        "_id": "5d122e7dd7ad1a07102d6d85",
+        "_parent": "5d122e7bd7ad1a07102d6d7f",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5ba26b01d4351e0085325a51",
+                "5dfa3d950dee1b22f862eae0",
+                "5c17804b2e2216152006c02f",
+                "5fb6567747ce63734e3fa1dc",
+                "5bc09a30d4351e00367fb7c8",
+                "5c18b90d2e2216152142466b",
+                "5fc0fa362770a0045c59c677",
+                "5894a73486f77426d259076c",
+                "55d4af3a4bdc2d972f8b456f"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      }
+    ],
+    "ExtraSizeDown": 0,
+    "ExtraSizeLeft": 2,
+    "ExtraSizeRight": 0,
+    "ExtraSizeUp": 0,
+    "Weight": 1.27
+    },
+    "locales": {
+      "en": {
+        "name": "Panzer Arms BP12 12ga Shotgun Receiver",
+        "shortName": "BP-12 R",
+        "description": "The receiver of the Panzer Arms BP12 12ga Shotgun, designed for optimal performance and reliability."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_reciever"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 25150,
+    "handbookPriceRoubles": 19624,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "SKIER": {
+        "69d9457006dc0abe0209b65a": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 34000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69d961bb06dc0abe0209b65b": {
+      "itemTplToClone": "57616a9e2459773c7a400234",
+      "parentId": "5448bc234bdc2d3c308b4569",
+      "handbookParentId": "5b5f754a86f774094242f19b",
+      "overrideProperties": {
+      "Prefab": {
+          "path": "Mods/BP12/bp12_shortmag.bundle",
+          "rcid": ""
+      },
+      "magAnimationIndex": 0
+      },
+      "locales": {
+      "en": {
+          "name": "Panzer Arms BP12 5-round 12/70 magazine",
+          "shortName": "BP12 5rd Mag",
+          "description": "A 5-round 12/70 magazine for the Panzer Arms BP12 12ga Shotgun."
+      }
+      },
+      "addtoInventorySlots": [],
+      "addtoModSlots": false,
+      "modSlot": [],
+      "fleaPriceRoubles": 3234,
+      "handbookPriceRoubles": 2342,
+      "addtoTraders": true,
+      "masteries": false,
+      "addWeaponPreset": false,
+      "weaponPresets": [],
+      "traders": {
+      "SKIER": {
+          "69d961bb06dc0abe0209b65c": {
+          "barterSettings": {
+              "loyalLevel": 3,
+              "unlimitedCount": true,
+              "stackObjectsCount": 99
+          },
+          "barters": [
+              {
+              "count": 4321,
+              "_tpl": "MONEY_ROUBLES"
+              }
+          ]
+          }
+      }
+      },
+      "staticLootContainers": []
+  },
+  "69d9622a06dc0abe0209b65f": {
+      "itemTplToClone": "5a966f51a2750c00156aacf6",
+      "parentId": "5448bc234bdc2d3c308b4569",
+      "handbookParentId": "5b5f754a86f774094242f19b",
+      "overrideProperties": {
+      "Prefab": {
+          "path": "Mods/BP12/bp12_longmag.bundle",
+          "rcid": ""
+      },
+      "magAnimationIndex": 4
+      },
+      "locales": {
+      "en": {
+          "name": "Panzer Arms BP12 12-round 12/70 magazine",
+          "shortName": "BP12 12rd Mag",
+          "description": "A 12-round 12/70 magazine for the Panzer Arms BP12 12ga Shotgun."
+      }
+      },
+      "addtoInventorySlots": [],
+      "addtoModSlots": false,
+      "modSlot": [],
+      "fleaPriceRoubles": 3234,
+      "handbookPriceRoubles": 2342,
+      "addtoTraders": true,
+      "masteries": false,
+      "addWeaponPreset": false,
+      "weaponPresets": [],
+      "traders": {
+      "SKIER": {
+          "69dcbb519c67e4119e351920": {
+          "barterSettings": {
+              "loyalLevel": 3,
+              "unlimitedCount": true,
+              "stackObjectsCount": 99
+          },
+          "barters": [
+              {
+              "count": 4321,
+              "_tpl": "MONEY_ROUBLES"
+              }
+          ]
+          }
+      }
+      },
+      "staticLootContainers": []
+  },
+  "69d962f006dc0abe0209b661": {
+    "itemTplToClone": "5a787f7ac5856700177af660",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/BP12/bp12_barrel_long.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_muzzle",
+          "_id": "57616dbd2459773c7a400236",
+          "_parent": "576165642459773c7a400233",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                "58272d7f2459774f6311ddfd",
+                "59fb137a86f7740adb646af1",
+                "576167ab2459773cad038c43",
+                "5b363e1b5acfc4771e1c5e80",
+                "59c0ec5b86f77435b128bfca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+    "ExtraSizeDown": 0,
+    "ExtraSizeLeft": 3,
+    "ExtraSizeRight": 0,
+    "ExtraSizeUp": 0,
+    "Height": 1,
+    "Width": 3
+    },
+    "locales": {
+      "en": {
+        "name": "BP12 16 inch Barrel",
+        "shortName": "BP12 16",
+        "description": "A 16 inch (406 mm) barrel for the BP12 12ga Shotgun."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 31567,
+    "handbookPriceRoubles": 21345,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "SKIER": {
+        "69d962f006dc0abe0209b662": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 58399,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69da5396dbcfb97d1322c9c1": {
+    "itemTplToClone": "5a787f25c5856700186c4ab9",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/BP12/bp12_barrel_short.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_muzzle",
+          "_id": "57616dbd2459773c7a400236",
+          "_parent": "576165642459773c7a400233",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                "58272d7f2459774f6311ddfd",
+                "59fb137a86f7740adb646af1",
+                "576167ab2459773cad038c43",
+                "5b363e1b5acfc4771e1c5e80",
+                "59c0ec5b86f77435b128bfca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+    "ExtraSizeDown": 0,
+    "ExtraSizeLeft": 0,
+    "ExtraSizeRight": 0,
+    "ExtraSizeUp": 0,
+    "Height": 1,
+    "Width": 2
+    },
+    "locales": {
+      "en": {
+        "name": "BP12 12 inch Barrel",
+        "shortName": "BP12 12",
+        "description": "A 12 inch (305 mm) barrel for the BP12 12ga Shotgun."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 24567,
+    "handbookPriceRoubles": 17432,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "SKIER": {
+        "69da5396dbcfb97d1322c9c2": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 45449,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69de7d7e9d80cc5c037bd276": {
+    "itemTplToClone": "65290f395ae2ae97b80fdf2d",
+    "parentId": "5447b5f14bdc2d61278b4567",
+    "handbookParentId": "5b5f78fc86f77409407a7f90",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/BP12/weapon_bp12_gen2_container.bundle",
+        "rcid": ""
+      },
+      "ammoCaliber": "Caliber12g",
+      "defAmmo": "560d5e524bdc2d25448b4571",
+      "defMagType": "69d961bb06dc0abe0209b65b",
+      "isChamberLoad": false,
+      "bFirerate": 450,
+      "Ergonomics": 57,
+      "RecoilForceBack": 289,
+      "RecoilForceUp": 103,
+      "Weight": 1.17,
+      "CompactHandling": false,
+      "weapFireType": [
+        "single"
+      ],
+      "Width": 2,
+      "Slots": [
+        {
+          "_name": "mod_pistol_grip",
+          "_id": "65290f395ae2ae97b80fdf2e",
+          "_parent": "65290f395ae2ae97b80fdf2d",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "55d4b9964bdc2d1d4e8b456e",
+                  "571659bb2459771fb2755a12",
+                  "602e71bd53a60014f9705bfa",
+                  "6113c3586c780c1e710c90bc",
+                  "6113cc78d3a39d50044c065a",
+                  "6113cce3d92c473c770200c7",
+                  "5cc9bcaed7f00c011c04e179",
+                  "5bb20e18d4351e00320205d5",
+                  "5bb20e0ed4351e3bac1212dc",
+                  "6193dcd0f8ee7e52e4210a28",
+                  "5d025cc1d7ad1a53845279ef",
+                  "5c6d7b3d2e221600114c9b7d",
+                  "57c55efc2459772d2c6271e7",
+                  "57af48872459771f0b2ebf11",
+                  "57c55f092459772d291a8463",
+                  "57c55f112459772d28133310",
+                  "57c55f172459772d27602381",
+                  "5a339805c4a2826c6e06d73d",
+                  "55802f5d4bdc2dac148b458f",
+                  "5d15cf3bd7ad1a67e71518b2",
+                  "59db3a1d86f77429e05b4e92",
+                  "5fbcbd6c187fea44d52eda14",
+                  "59db3acc86f7742a2c4ab912",
+                  "59db3b0886f77429d72fb895",
+                  "615d8faecabb9b7ad90f4d5d",
+                  "5b07db875acfc40dc528a5f6",
+                  "63f5feead259b42f0b4d6d0f",
+                  "652911675ae2ae97b80fdf3c"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_magazine",
+          "_id": "65290f395ae2ae97b80fdf2f",
+          "_parent": "65290f395ae2ae97b80fdf2d",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex": -1,
+                "Filter": [
+                  "69d961bb06dc0abe0209b65b",
+                  "69d9622a06dc0abe0209b65f"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c394bdc2dae468b4577"
+        },
+        {
+          "_name": "mod_reciever",
+          "_id": "65290f395ae2ae97b80fdf30",
+          "_parent": "65290f395ae2ae97b80fdf2d",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "69de7dbb9d80cc5c037bd278",
+                  "69de7ddf9d80cc5c037bd27a"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "Chambers": [
+        {
+          "_name": "patron_in_weapon",
+          "_id": "57616e2e2459773c362ab462",
+          "_parent": "576165642459773c7a400233",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "560d5e524bdc2d25448b4571",
+                  "5d6e6772a4b936088465b17c",
+                  "5d6e67fba4b9361bc73bc779",
+                  "5d6e6806a4b936088465b17e",
+                  "5d6e68dea4b9361bcc29e659",
+                  "5d6e6911a4b9361bd5780d52",
+                  "5c0d591486f7744c505b416f",
+                  "58820d1224597753c90aeb13",
+                  "5d6e68c4a4b9361b93413f79",
+                  "5d6e68a8a4b9360b6c0d54e2",
+                  "5d6e68e6a4b9361c140bcfe0",
+                  "5d6e6869a4b9361c140bcfde",
+                  "5d6e68b3a4b9361bca7e50b5",
+                  "5d6e6891a4b9361bd473feea",
+                  "5d6e689ca4b9361bc8618956",
+                  "5d6e68d1a4b93622fe60e845",
+                  "64b8ee384b75259c590fa89b"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d4af244bdc2d962f8b4571"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Panzer Arms BP12 Gen 2 12ga Shotgun",
+        "shortName": "BP-12",
+        "description": "BP12 is part of Panzer Arms Precision Tactical series. Its features are unique and designed specifically for the bullpup platform, rather than just using standard features adapted from full-length firearms."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 19482,
+    "handbookPriceRoubles": 15023,
+    "addtoTraders": false,
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "69e12ddd15ee8f8684bb049f",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "BP12 Gen2",
+        "_parent": "69e12ddd15ee8f8684bb04a0",
+        "_items": [
+          {
+            "_id": "69e12ddd15ee8f8684bb04a0",
+            "_tpl": "69de7d7e9d80cc5c037bd276",
+            "upd": {
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              },
+              "FireMode": {
+                "FireMode": "single"
+              }
+            }
+          },
+          {
+            "_id": "69e12dd915ee8f8684bb018d",
+            "_tpl": "57c55efc2459772d2c6271e7",
+            "parentId": "69e12ddd15ee8f8684bb04a0",
+            "slotId": "mod_pistol_grip"
+          },
+          {
+            "_id": "69e12dd915ee8f8684bb018e",
+            "_tpl": "69d961bb06dc0abe0209b65b",
+            "parentId": "69e12ddd15ee8f8684bb04a0",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "69e12dd915ee8f8684bb018f",
+            "_tpl": "69de7dbb9d80cc5c037bd278",
+            "parentId": "69e12ddd15ee8f8684bb04a0",
+            "slotId": "mod_reciever"
+          },
+          {
+            "_id": "69e12dd915ee8f8684bb0190",
+            "_tpl": "69e00d3702455602c1c76811",
+            "parentId": "69e12dd915ee8f8684bb018f",
+            "slotId": "mod_barrel"
+          },
+          {
+            "_id": "69e12dd915ee8f8684bb0191",
+            "_tpl": "5bc09a18d4351e003562b68e",
+            "parentId": "69e12dd915ee8f8684bb018f",
+            "slotId": "mod_sight_rear",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          },
+          {
+            "_id": "69e12dd915ee8f8684bb0192",
+            "_tpl": "5bc09a30d4351e00367fb7c8",
+            "parentId": "69e12dd915ee8f8684bb018f",
+            "slotId": "mod_sight_front",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          },
+          {
+            "_id": "69e12dd915ee8f8684bb0193",
+            "_tpl": "69e01b3d02455602c1c76817",
+            "parentId": "69e12dd915ee8f8684bb0190",
+            "slotId": "mod_muzzle"
+          }
+        ],
+        "_encyclopedia": "69de7d7e9d80cc5c037bd276"
+      }
+    ],
+    "traders": {
+      "SKIER": {
+        "69de7d7e9d80cc5c037bd277": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 23123,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": [],
+    "masterySections": [
+      {
+        "Level2": 150,
+        "Level3": 200,
+        "Name": "BP-12",
+        "Templates": [
+          "69d9435106dc0abe0209b658"
+        ]
+      }
+    ]
+  },
+  "69de7dbb9d80cc5c037bd278": {
+    "itemTplToClone": "6529119424cbe3c74a05e5bb",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/BP12/bp12_gen2_receiver.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+      {
+        "_name": "mod_scope",
+        "_id": "6529119424cbe3c74a05e5bc",
+        "_parent": "6529119424cbe3c74a05e5bb",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57ac965c24597706be5f975c",
+                "57aca93d2459771f2c7e26db",
+                "544a3f024bdc2d1d388b4568",
+                "544a3a774bdc2d3a388b4567",
+                "5d2dc3e548f035404a1a4798",
+                "57adff4f24597737f373b6e6",
+                "5c0517910db83400232ffee5",
+                "591c4efa86f7741030027726",
+                "570fd79bd2720bc7458b4583",
+                "570fd6c2d2720bc6458b457f",
+                "558022b54bdc2dac148b458d",
+                "5c07dd120db834001c39092d",
+                "5c0a2cec0db834001b7ce47d",
+                "58491f3324597764bc48fa02",
+                "584924ec24597768f12ae244",
+                "5b30b0dc5acfc400153b7124",
+                "6165ac8c290d254f5e6b2f6c",
+                "60a23797a37c940de7062d02",
+                "5d2da1e948f035477b1ce2ba",
+                "5c0505e00db834001b735073",
+                "609a63b6e2ff132951242d09",
+                "584984812459776a704a82a6",
+                "59f9d81586f7744c7506ee62",
+                "570fd721d2720bc5458b4596",
+                "57ae0171245977343c27bfcf",
+                "5dfe6104585a0c3e995c7b82",
+                "544a3d0a4bdc2d1b388b4567",
+                "5d1b5e94d7ad1a2b865a96b0",
+                "609bab8b455afd752b2e6138",
+                "58d39d3d86f77445bb794ae7",
+                "616554fe50224f204c1da2aa",
+                "5c7d55f52e221644f31bff6a",
+                "616584766ef05c2ce828ef57",
+                "5b3b6dc75acfc47a8773fb1e",
+                "615d8d878004cc50514c3233",
+                "5b2389515acfc4771e1be0c0",
+                "577d128124597739d65d0e56",
+                "618b9643526131765025ab35",
+                "618bab21526131765025ab3f",
+                "5c86592b2e2216000e69e77c",
+                "5a37ca54c4a282000d72296a",
+                "5d0a29fed7ad1a002769ad08",
+                "5c064c400db834001d23f468",
+                "58d2664f86f7747fec5834f6",
+                "57c69dd424597774c03b7bbc",
+                "5b3b99265acfc4704b4a1afb",
+                "5aa66a9be5b5b0214e506e89",
+                "5aa66c72e5b5b00016327c93",
+                "5c1cdd302e221602b3137250",
+                "61714b2467085e45ef140b2c",
+                "6171407e50224f204c1da3c5",
+                "61713cc4d8e3106d9806c109",
+                "5b31163c5acfc400153b71cb",
+                "5a33b652c4a28232996e407c",
+                "5a33b2c9c4a282000c5a9511",
+                "59db7eed86f77461f8380365",
+                "5a1ead28fcdbcb001912fa9f",
+                "5dff77c759400025ea5150cf",
+                "626bb8532c923541184624b4",
+                "62811f461d5df4475f46a332",
+                "63fc449f5bd61c6cf3784a88",
+                "6477772ea8a38bb2050ed4db",
+                "6478641c19d732620e045e17",
+                "64785e7c19d732620e045e15",
+                "6567e751a715f85433025998",
+                "655f13e0a246670fb0373245",
+                "65392f611406374f82152ba5",
+                "653931da5db71d30ab1d6296",
+                "67641a851b2899700609901a",
+                "6761759e7ee06333f108bf86"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_barrel",
+        "_id": "6529119424cbe3c74a05e5bd",
+        "_parent": "6529119424cbe3c74a05e5bb",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "69e00d3702455602c1c76814",
+                "69e00d7002455602c1c76815",
+                "69e00d3702455602c1c76811"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": true,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_sight_rear",
+        "_id": "6529119424cbe3c74a05e5bf",
+        "_parent": "6529119424cbe3c74a05e5bb",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5bb20e49d4351e3bac1212de",
+                "5ba26b17d4351e00367f9bdd",
+                "5dfa3d7ac41b2312ea33362a",
+                "5c1780312e221602b66cc189",
+                "5fb6564947ce63734e3fa1da",
+                "5bc09a18d4351e003562b68e",
+                "5c18b9192e2216398b5a8104",
+                "5fc0fa957283c4046c58147e",
+                "5894a81786f77427140b8347",
+                "55d5f46a4bdc2d1b198b4567",
+                "5ae30bad5acfc400185c2dc4"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_foregrip",
+        "_id": "5c9a26332e2216001219ea72",
+        "_parent": "5c9a26332e2216001219ea70",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5c7fc87d2e221644f31c0298",
+                "5cda9bcfd7f00c0c0b53e900",
+                "59f8a37386f7747af3328f06",
+                "619386379fb0c665d5490dbe",
+                "5c87ca002e221600114cb150",
+                "588226d124597767ad33f787",
+                "588226dd24597767ad33f789",
+                "588226e62459776e3e094af7",
+                "588226ef24597767af46e39c",
+                "59fc48e086f77463b1118392",
+                "5fce0cf655375d18a253eff0",
+                "5cf4fb76d7f00c065703d3ac",
+                "5b057b4f5acfc4771e1bd3e9",
+                "5c791e872e2216001219c40a",
+                "558032614bdc2de7118b4585",
+                "58c157be86f77403c74b2bb6",
+                "58c157c886f774032749fb06",
+                "5f6340d3ca442212f4047eb2",
+                "591af28e86f77414a27a9e1d",
+                "5c1cd46f2e22164bef5cfedb",
+                "5c1bc4812e22164bef5cfde7",
+                "5c1bc5612e221602b5429350",
+                "5c1bc5af2e221602b412949b",
+                "5c1bc5fb2e221602b1779b32",
+                "5c1bc7432e221602b412949d",
+                "5c1bc7752e221602b1779b34",
+                "64806bdd26c80811d408d37a",
+                "64807a29e5ffe165600abc97",
+                "648067db042be0705c0b3009",
+                "65169d5b30425317755f8e25",
+                "655df24fdf80b12750626d0a",
+                "655dccfdbdcc6b5df71382b6",
+                "661e53149c8b4dadef008579",
+                "661e52e29c8b4dadef008577",
+                "661e52415be02310ed07a07a",
+                "661e52b5b099f32c28003586"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_tactical_001",
+        "_id": "5c9a26332e2216001219ea74",
+        "_parent": "5c9a26332e2216001219ea70",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5a800961159bd4315e3a1657",
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5d10b49bd7ad1a1a560708b0",
+                "5c06595c0db834001a66af6c",
+                "5cc9c20cd7f00c001336c65d",
+                "5d2369418abbc306c62e0c80",
+                "5b07dd285acfc4001754240d",
+                "56def37dd2720bec348b456a",
+                "5a7b483fe899ef0016170d15",
+                "61605d88ffa6e502ac5e7eeb",
+                "5a5f1ce64f39f90b401987bc",
+                "560d657b4bdc2da74d8b4572",
+                "5b3a337e5acfc4704b4a19a0",
+                "5c5952732e2216398b5abda2",
+                "57d17e212459775a1179a0f5",
+                "6267c6396b642f77f56f5c1c",
+                "6272370ee4013c5d7e31f418",
+                "6272379924e29f06af4d5ecb",
+                "626becf9582c3e319310b837",
+                "644a3df63b0b6f03e101e065",
+                "646f6322f43d0c5d62063715"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_tactical_002",
+        "_id": "5c9a26332e2216001219ea75",
+        "_parent": "5c9a26332e2216001219ea70",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5a800961159bd4315e3a1657",
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5c06595c0db834001a66af6c",
+                "5cc9c20cd7f00c001336c65d",
+                "5d2369418abbc306c62e0c80",
+                "5b07dd285acfc4001754240d",
+                "56def37dd2720bec348b456a",
+                "5a7b483fe899ef0016170d15",
+                "61605d88ffa6e502ac5e7eeb",
+                "5a5f1ce64f39f90b401987bc",
+                "560d657b4bdc2da74d8b4572",
+                "5b3a337e5acfc4704b4a19a0",
+                "5c5952732e2216398b5abda2",
+                "57d17e212459775a1179a0f5",
+                "6267c6396b642f77f56f5c1c",
+                "6272370ee4013c5d7e31f418",
+                "6272379924e29f06af4d5ecb",
+                "626becf9582c3e319310b837",
+                "644a3df63b0b6f03e101e065",
+                "646f6322f43d0c5d62063715"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_tactical",
+        "_id": "5c9a26332e2216001219ea77",
+        "_parent": "5c9a26332e2216001219ea70",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5d10b49bd7ad1a1a560708b0",
+                "5c06595c0db834001a66af6c",
+                "5a7b483fe899ef0016170d15",
+                "61605d88ffa6e502ac5e7eeb",
+                "5c5952732e2216398b5abda2",
+                "644a3df63b0b6f03e101e065"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_sight_front",
+        "_id": "5d122e7dd7ad1a07102d6d85",
+        "_parent": "5d122e7bd7ad1a07102d6d7f",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5ba26b01d4351e0085325a51",
+                "5dfa3d950dee1b22f862eae0",
+                "5c17804b2e2216152006c02f",
+                "5fb6567747ce63734e3fa1dc",
+                "5bc09a30d4351e00367fb7c8",
+                "5c18b90d2e2216152142466b",
+                "5fc0fa362770a0045c59c677",
+                "5894a73486f77426d259076c",
+                "55d4af3a4bdc2d972f8b456f"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      }
+    ],
+    "ExtraSizeDown": 0,
+    "ExtraSizeLeft": 2,
+    "ExtraSizeRight": 0,
+    "ExtraSizeUp": 0,
+    "Weight": 1.050,
+    "Ergonomics": 6
+    },
+    "locales": {
+      "en": {
+        "name": "Panzer Arms BP12 Gen 2 12ga Shotgun Receiver",
+        "shortName": "BP-12 R",
+        "description": "The receiver of the Panzer Arms BP12 12ga Shotgun, designed for optimal performance and reliability."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_reciever"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 25150,
+    "handbookPriceRoubles": 19624,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "SKIER": {
+        "69de7dbb9d80cc5c037bd279": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 34000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69de7ddf9d80cc5c037bd27a": {
+    "itemTplToClone": "6529119424cbe3c74a05e5bb",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/BP12/bp12_gen2_receiver_extended.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+      {
+        "_name": "mod_scope",
+        "_id": "6529119424cbe3c74a05e5bc",
+        "_parent": "6529119424cbe3c74a05e5bb",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57ac965c24597706be5f975c",
+                "57aca93d2459771f2c7e26db",
+                "544a3f024bdc2d1d388b4568",
+                "544a3a774bdc2d3a388b4567",
+                "5d2dc3e548f035404a1a4798",
+                "57adff4f24597737f373b6e6",
+                "5c0517910db83400232ffee5",
+                "591c4efa86f7741030027726",
+                "570fd79bd2720bc7458b4583",
+                "570fd6c2d2720bc6458b457f",
+                "558022b54bdc2dac148b458d",
+                "5c07dd120db834001c39092d",
+                "5c0a2cec0db834001b7ce47d",
+                "58491f3324597764bc48fa02",
+                "584924ec24597768f12ae244",
+                "5b30b0dc5acfc400153b7124",
+                "6165ac8c290d254f5e6b2f6c",
+                "60a23797a37c940de7062d02",
+                "5d2da1e948f035477b1ce2ba",
+                "5c0505e00db834001b735073",
+                "609a63b6e2ff132951242d09",
+                "584984812459776a704a82a6",
+                "59f9d81586f7744c7506ee62",
+                "570fd721d2720bc5458b4596",
+                "57ae0171245977343c27bfcf",
+                "5dfe6104585a0c3e995c7b82",
+                "544a3d0a4bdc2d1b388b4567",
+                "5d1b5e94d7ad1a2b865a96b0",
+                "609bab8b455afd752b2e6138",
+                "58d39d3d86f77445bb794ae7",
+                "616554fe50224f204c1da2aa",
+                "5c7d55f52e221644f31bff6a",
+                "616584766ef05c2ce828ef57",
+                "5b3b6dc75acfc47a8773fb1e",
+                "615d8d878004cc50514c3233",
+                "5b2389515acfc4771e1be0c0",
+                "577d128124597739d65d0e56",
+                "618b9643526131765025ab35",
+                "618bab21526131765025ab3f",
+                "5c86592b2e2216000e69e77c",
+                "5a37ca54c4a282000d72296a",
+                "5d0a29fed7ad1a002769ad08",
+                "5c064c400db834001d23f468",
+                "58d2664f86f7747fec5834f6",
+                "57c69dd424597774c03b7bbc",
+                "5b3b99265acfc4704b4a1afb",
+                "5aa66a9be5b5b0214e506e89",
+                "5aa66c72e5b5b00016327c93",
+                "5c1cdd302e221602b3137250",
+                "61714b2467085e45ef140b2c",
+                "6171407e50224f204c1da3c5",
+                "61713cc4d8e3106d9806c109",
+                "5b31163c5acfc400153b71cb",
+                "5a33b652c4a28232996e407c",
+                "5a33b2c9c4a282000c5a9511",
+                "59db7eed86f77461f8380365",
+                "5a1ead28fcdbcb001912fa9f",
+                "5dff77c759400025ea5150cf",
+                "626bb8532c923541184624b4",
+                "62811f461d5df4475f46a332",
+                "63fc449f5bd61c6cf3784a88",
+                "6477772ea8a38bb2050ed4db",
+                "6478641c19d732620e045e17",
+                "64785e7c19d732620e045e15",
+                "6567e751a715f85433025998",
+                "655f13e0a246670fb0373245",
+                "65392f611406374f82152ba5",
+                "653931da5db71d30ab1d6296",
+                "67641a851b2899700609901a",
+                "6761759e7ee06333f108bf86"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_barrel",
+        "_id": "6529119424cbe3c74a05e5bd",
+        "_parent": "6529119424cbe3c74a05e5bb",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "69e00d3702455602c1c76814",
+                "69e00d7002455602c1c76815",
+                "69e00d3702455602c1c76811"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": true,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_sight_rear",
+        "_id": "6529119424cbe3c74a05e5bf",
+        "_parent": "6529119424cbe3c74a05e5bb",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5bb20e49d4351e3bac1212de",
+                "5ba26b17d4351e00367f9bdd",
+                "5dfa3d7ac41b2312ea33362a",
+                "5c1780312e221602b66cc189",
+                "5fb6564947ce63734e3fa1da",
+                "5bc09a18d4351e003562b68e",
+                "5c18b9192e2216398b5a8104",
+                "5fc0fa957283c4046c58147e",
+                "5894a81786f77427140b8347",
+                "55d5f46a4bdc2d1b198b4567",
+                "5ae30bad5acfc400185c2dc4"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_foregrip",
+        "_id": "5c9a26332e2216001219ea72",
+        "_parent": "5c9a26332e2216001219ea70",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5c7fc87d2e221644f31c0298",
+                "5cda9bcfd7f00c0c0b53e900",
+                "59f8a37386f7747af3328f06",
+                "619386379fb0c665d5490dbe",
+                "5c87ca002e221600114cb150",
+                "588226d124597767ad33f787",
+                "588226dd24597767ad33f789",
+                "588226e62459776e3e094af7",
+                "588226ef24597767af46e39c",
+                "59fc48e086f77463b1118392",
+                "5fce0cf655375d18a253eff0",
+                "5cf4fb76d7f00c065703d3ac",
+                "5b057b4f5acfc4771e1bd3e9",
+                "5c791e872e2216001219c40a",
+                "558032614bdc2de7118b4585",
+                "58c157be86f77403c74b2bb6",
+                "58c157c886f774032749fb06",
+                "5f6340d3ca442212f4047eb2",
+                "591af28e86f77414a27a9e1d",
+                "5c1cd46f2e22164bef5cfedb",
+                "5c1bc4812e22164bef5cfde7",
+                "5c1bc5612e221602b5429350",
+                "5c1bc5af2e221602b412949b",
+                "5c1bc5fb2e221602b1779b32",
+                "5c1bc7432e221602b412949d",
+                "5c1bc7752e221602b1779b34",
+                "64806bdd26c80811d408d37a",
+                "64807a29e5ffe165600abc97",
+                "648067db042be0705c0b3009",
+                "65169d5b30425317755f8e25",
+                "655df24fdf80b12750626d0a",
+                "655dccfdbdcc6b5df71382b6",
+                "661e53149c8b4dadef008579",
+                "661e52e29c8b4dadef008577",
+                "661e52415be02310ed07a07a",
+                "661e52b5b099f32c28003586"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_tactical_001",
+        "_id": "5c9a26332e2216001219ea74",
+        "_parent": "5c9a26332e2216001219ea70",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5a800961159bd4315e3a1657",
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5d10b49bd7ad1a1a560708b0",
+                "5c06595c0db834001a66af6c",
+                "5cc9c20cd7f00c001336c65d",
+                "5d2369418abbc306c62e0c80",
+                "5b07dd285acfc4001754240d",
+                "56def37dd2720bec348b456a",
+                "5a7b483fe899ef0016170d15",
+                "61605d88ffa6e502ac5e7eeb",
+                "5a5f1ce64f39f90b401987bc",
+                "560d657b4bdc2da74d8b4572",
+                "5b3a337e5acfc4704b4a19a0",
+                "5c5952732e2216398b5abda2",
+                "57d17e212459775a1179a0f5",
+                "6267c6396b642f77f56f5c1c",
+                "6272370ee4013c5d7e31f418",
+                "6272379924e29f06af4d5ecb",
+                "626becf9582c3e319310b837",
+                "644a3df63b0b6f03e101e065",
+                "646f6322f43d0c5d62063715"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_tactical_002",
+        "_id": "5c9a26332e2216001219ea75",
+        "_parent": "5c9a26332e2216001219ea70",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5a800961159bd4315e3a1657",
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5c06595c0db834001a66af6c",
+                "5cc9c20cd7f00c001336c65d",
+                "5d2369418abbc306c62e0c80",
+                "5b07dd285acfc4001754240d",
+                "56def37dd2720bec348b456a",
+                "5a7b483fe899ef0016170d15",
+                "61605d88ffa6e502ac5e7eeb",
+                "5a5f1ce64f39f90b401987bc",
+                "560d657b4bdc2da74d8b4572",
+                "5b3a337e5acfc4704b4a19a0",
+                "5c5952732e2216398b5abda2",
+                "57d17e212459775a1179a0f5",
+                "6267c6396b642f77f56f5c1c",
+                "6272370ee4013c5d7e31f418",
+                "6272379924e29f06af4d5ecb",
+                "626becf9582c3e319310b837",
+                "644a3df63b0b6f03e101e065",
+                "646f6322f43d0c5d62063715"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_tactical",
+        "_id": "5c9a26332e2216001219ea77",
+        "_parent": "5c9a26332e2216001219ea70",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5d10b49bd7ad1a1a560708b0",
+                "5c06595c0db834001a66af6c",
+                "5a7b483fe899ef0016170d15",
+                "61605d88ffa6e502ac5e7eeb",
+                "5c5952732e2216398b5abda2",
+                "644a3df63b0b6f03e101e065"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_sight_front",
+        "_id": "5d122e7dd7ad1a07102d6d85",
+        "_parent": "5d122e7bd7ad1a07102d6d7f",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5ba26b01d4351e0085325a51",
+                "5dfa3d950dee1b22f862eae0",
+                "5c17804b2e2216152006c02f",
+                "5fb6567747ce63734e3fa1dc",
+                "5bc09a30d4351e00367fb7c8",
+                "5c18b90d2e2216152142466b",
+                "5fc0fa362770a0045c59c677",
+                "5894a73486f77426d259076c",
+                "55d4af3a4bdc2d972f8b456f"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_scope_000",
+        "_id": "5c78f2492e221600114c9f0a",
+        "_parent": "5c78f2492e221600114c9f04",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5649a2464bdc2d91118b45a8"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_mount",
+        "_id": "5c7905762e22160bc12c5e32",
+        "_parent": "5c78f2492e221600114c9f04",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5a800961159bd4315e3a1657",
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5c06595c0db834001a66af6c",
+                "5cc9c20cd7f00c001336c65d",
+                "5d2369418abbc306c62e0c80",
+                "5b07dd285acfc4001754240d",
+                "56def37dd2720bec348b456a",
+                "5a7b483fe899ef0016170d15",
+                "61605d88ffa6e502ac5e7eeb",
+                "5a5f1ce64f39f90b401987bc",
+                "560d657b4bdc2da74d8b4572",
+                "5b3a337e5acfc4704b4a19a0",
+                "5c5952732e2216398b5abda2",
+                "57d17e212459775a1179a0f5",
+                "6267c6396b642f77f56f5c1c",
+                "6272370ee4013c5d7e31f418",
+                "6272379924e29f06af4d5ecb",
+                "626becf9582c3e319310b837",
+                "644a3df63b0b6f03e101e065",
+                "646f6322f43d0c5d62063715",
+                "6644920d49817dc7d505ca71",
+                "676175bb48fa5c377e06fc36"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      }
+    ],
+    "ExtraSizeDown": 0,
+    "ExtraSizeLeft": 3,
+    "ExtraSizeRight": 0,
+    "ExtraSizeUp": 0,
+    "Weight": 1.37,
+    "Ergonomics": 4,
+    "Recoil": -2
+    },
+    "locales": {
+      "en": {
+        "name": "Panzer Arms BP12 Gen 2 12ga Shotgun extended receiver",
+        "shortName": "BP-12 R",
+        "description": "The extended receiver of the Panzer Arms BP12 Gen 2 12ga Shotgun, designed for optimal performance and reliability."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_reciever"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 25150,
+    "handbookPriceRoubles": 19624,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "SKIER": {
+        "69de7ddf9d80cc5c037bd27b": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 34000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69e00d3702455602c1c76814": {
+    "itemTplToClone": "5a787fadc5856700155a6ca1",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/BP12/bp12_gen2_long_barrel.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_muzzle",
+          "_id": "57616dbd2459773c7a400236",
+          "_parent": "576165642459773c7a400233",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                "69e01b3d02455602c1c76817"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+    "ExtraSizeDown": 0,
+    "ExtraSizeLeft": 3,
+    "ExtraSizeRight": 0,
+    "ExtraSizeUp": 0,
+    "Height": 1,
+    "Width": 3
+    },
+    "locales": {
+      "en": {
+        "name": "BP12 Gen 2 16 inch Barrel",
+        "shortName": "BP12 16",
+        "description": "A 16 inch (406 mm) barrel for the BP12 12ga Shotgun."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 31567,
+    "handbookPriceRoubles": 21345,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "SKIER": {
+        "69e00d3702455602c1c76812": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 58399,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69e00d7002455602c1c76815": {
+    "itemTplToClone": "5a787f7ac5856700177af660",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/BP12/bp12_gen2_standard_barrel.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_muzzle",
+          "_id": "57616dbd2459773c7a400236",
+          "_parent": "576165642459773c7a400233",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                "69e01b3d02455602c1c76817"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+    "ExtraSizeDown": 0,
+    "ExtraSizeLeft": 3,
+    "ExtraSizeRight": 0,
+    "ExtraSizeUp": 0,
+    "Height": 1,
+    "Width": 3
+    },
+    "locales": {
+      "en": {
+        "name": "BP12 Gen 2 14 inch Barrel",
+        "shortName": "BP12 14",
+        "description": "A 14 inch (356 mm) barrel for the BP12 12ga Shotgun."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 31567,
+    "handbookPriceRoubles": 21345,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "SKIER": {
+        "69e00d7002455602c1c76816": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 58399,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69e00d3702455602c1c76811": {
+    "itemTplToClone": "5a787f25c5856700186c4ab9",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/BP12/bp12_gen2_short_barrel.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_muzzle",
+          "_id": "57616dbd2459773c7a400236",
+          "_parent": "576165642459773c7a400233",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                "69e01b3d02455602c1c76817"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+    "ExtraSizeDown": 0,
+    "ExtraSizeLeft": 0,
+    "ExtraSizeRight": 0,
+    "ExtraSizeUp": 0,
+    "Height": 1,
+    "Width": 2
+    },
+    "locales": {
+      "en": {
+        "name": "BP12 Gen 2 12 inch Barrel",
+        "shortName": "BP12 12",
+        "description": "A 12 inch (305 mm) barrel for the BP12 12ga Shotgun."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 24567,
+    "handbookPriceRoubles": 17432,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "SKIER": {
+        "69e00d3702455602c1c76813": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 45449,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69e01b3d02455602c1c76817": {
+    "itemTplToClone": "59fb137a86f7740adb646af1",
+    "parentId": "550aa4dd4bdc2dc9348b4569",
+    "handbookParentId": "5b5f72f786f77447ec5d7702",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/BP12/bp12_gen2_silencer.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "BP12 Gen 2 Muzzle Brake",
+        "shortName": "BP12 M",
+        "description": "A muzzle brake for the BP12 12ga Shotgun."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 8532,
+    "handbookPriceRoubles": 3455,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "SKIER": {
+        "69e01b3d02455602c1c76818": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 9384,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

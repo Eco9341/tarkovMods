@@ -34,7 +34,8 @@
             "_proto": "5748538b2459770af276a261"
         }
         ],
-        "Weight": 0.4
+        "Weight": 0.4,
+        "magAnimationIndex": 4
     },
     "locales": {
       "en": {
