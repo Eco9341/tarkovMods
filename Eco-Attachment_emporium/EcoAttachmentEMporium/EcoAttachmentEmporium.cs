@@ -19,7 +19,7 @@ public record ModMetadata : AbstractModMetadata
     public override List<string>? Incompatibilities { get; init; }
     public override Dictionary<string, Range>? ModDependencies { get; init; } = new()
     {
-        { "com.wtt.commonlib", new Range("~2.0.15") }
+        { "com.wtt.commonlib", new Range("~2.0.18") }
     };
     public override string? Url { get; init; }
     public override bool? IsBundleMod { get; init; } = true;
@@ -36,6 +36,7 @@ public class EcoAttachmentEmporium(
     {
         Assembly assembly = Assembly.GetExecutingAssembly();
         await wttCommon.CustomItemServiceExtended.CreateCustomItems(assembly);
+        await wttCommon.CustomBotLoadoutService.CreateCustomBotLoadouts(assembly);
         await wttCommon.CustomAssortSchemeService.CreateCustomAssortSchemes(assembly);
         ecoQuestHelper.ModifyQuests();
         await Task.CompletedTask;
