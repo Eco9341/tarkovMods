@@ -913,6 +913,7 @@
       "Ergonomics": 63,
       "RecoilForceBack": 60,
       "RecoilForceUp": 40,
+      "Foldable": false,
       "Slots": [
         {
           "_name": "mod_pistol_grip",
@@ -1196,6 +1197,7 @@
       "Ergonomics": 63,
       "RecoilForceBack": 60,
       "RecoilForceUp": 40,
+      "Foldable": false,
       "Slots": [
         {
           "_name": "mod_pistol_grip",

@@ -62,6 +62,9 @@ namespace EcoAttachmentEmporium.Helpers
         private const string TT_TR1 = "6999a28e24f9ef4d100d2ed2";
         private const string ZASTAVA_M19 = "68e6df79cf0bb22665098f60";
         private const string ZASTAVA_M19_FDE = "68e84293bc3a402bbb07e11d";
+        private const string PSA_JAKL = "69f8ca293e7fb663aa6097ea";
+        private const string PSA_JAKL_FDE = "69f8e41d3e7fb663aa6097f0";
+        private const string PSA_JAKL_HONEYB = "69f9ca041336df7edb6708ab";
         
         //dmr
         private const string M700_AUTO = "6923adaa56bff0144c0a9aa3";
@@ -94,7 +97,7 @@ namespace EcoAttachmentEmporium.Helpers
             questHelper.AddWeaponsToKillCondition(quests, "64e7b9bffd30422ed03dad38", [
                 AK12K, AK12M1, AK12SK, AK74_NO_ROD, AK105_NO_ROD, AK105_SAG, AK_KOCHEVNIK, AK_KOCHEVNIK_FDE, SAK21, 
                 SAK21_BLACK, ZASTAVA_M19, ZASTAVA_M19_FDE, AS_1, AS_2, AUG_300BLK, BRN180, BRN180_FDE, LR300, LR300_FDE, 
-                SL8, NORINCO_M305A, SR1, SR1_FDE, TT_TR1, M700_AUTO
+                SL8, NORINCO_M305A, SR1, SR1_FDE, TT_TR1, M700_AUTO, PSA_JAKL, PSA_JAKL_FDE, PSA_JAKL_HONEYB
             ]);
 
             // ====================== SKIER QUESTS ======================
@@ -128,7 +131,7 @@ namespace EcoAttachmentEmporium.Helpers
 
             // Worst Job (63a9b229813bba58a50c9ee5)
             questHelper.AddWeaponsToKillCondition(quests, "63a9b229813bba58a50c9ee5", [
-                LR300, LR300_FDE, TT_TR1, BRN180, BRN180_FDE
+                LR300, LR300_FDE, TT_TR1, BRN180, BRN180_FDE, PSA_JAKL, PSA_JAKL_FDE, PSA_JAKL_HONEYB
             ]);
 
             // ====================== JAEGER QUESTS ======================

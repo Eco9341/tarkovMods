@@ -664,7 +664,7 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": true,
+    "addtoModSlots": false,
     "modSlot": [
       "mod_handguard"
     ],
@@ -1243,7 +1243,7 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": true,
+    "addtoModSlots": false,
     "modSlot": [
       "mod_handguard"
     ],
@@ -1822,7 +1822,7 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": true,
+    "addtoModSlots": false,
     "modSlot": [
       "mod_handguard"
     ],
@@ -2409,7 +2409,7 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": true,
+    "addtoModSlots": false,
     "modSlot": [
       "mod_handguard"
     ],

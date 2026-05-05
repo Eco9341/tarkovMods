@@ -1,0 +1,79 @@
+{
+  "chances": {
+    "equipment": {
+      "FirstPrimaryWeapon": 100
+    },
+    "weaponMods": {
+      "mod_pistol_grip": 100,
+      "mod_magazine": 100,
+      "mod_reciever": 100,
+      "mod_sight_front": 100,
+      "mod_sight_rear": 100,
+      "mod_stock_000": 100,
+      "mod_stock": 100,
+      "mod_barrel": 100,
+      "mod_muzzle": 100
+    }
+  },
+  "inventory": {
+    "equipment": {
+      "FirstPrimaryWeapon": {
+        "69f9ca041336df7edb6708ab": 11234
+      }
+    },
+    "mods": {
+      "69f9ca041336df7edb6708ab": {
+        "mod_pistol_grip": [
+          "57af48872459771f0b2ebf11"
+        ],
+        "mod_magazine": [
+          "5d1340cad7ad1a0b0b249869"
+        ],
+        "mod_reciever": [
+          "69f9c8541336df7edb6708aa"
+        ],
+        "mod_stock_000": [
+          "58ac1bf086f77420ed183f9f"
+        ],
+        "mod_barrel": [
+          "69f9cd821336df7edb6708ad"
+        ]
+      },
+      "69f9c8541336df7edb6708aa": {
+        "mod_sight_front": [
+          "5c18b90d2e2216152142466b"
+        ],
+        "mod_sight_rear": [
+          "5c18b9192e2216398b5a8104"
+        ]
+      },
+      "58ac1bf086f77420ed183f9f": {
+        "mod_stock": [
+          "591af10186f774139d495f0e"
+        ]
+      },
+      "69f9cd821336df7edb6708ad": {
+        "mod_muzzle": [
+          "544a38634bdc2d58388b4568"
+        ]
+      },
+      "544a38634bdc2d58388b4568": {
+        "mod_muzzle": [
+          "638612b607dfed1ccb7206ba"
+        ]
+      }
+    },
+    "Ammo": {
+      "Caliber556x45NATO": {
+        "54527a984bdc2d4e668b4567": 22300,
+        "54527ac44bdc2d36668b4567": 530,
+        "59e68f6f86f7746c9f75e846": 5750,
+        "59e6906286f7746c9f75e847": 3800,
+        "59e690b686f7746c9f75e848": 85,
+        "59e6920f86f77411d82aa167": 9500,
+        "59e6927d86f77411da468256": 2,
+        "5c0d5ae286f7741e46554302": 4720
+      }
+    }
+  }
+}

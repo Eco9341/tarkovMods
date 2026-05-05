@@ -165,3 +165,10 @@ C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\obj\
 C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\AUGA3_300blk.json
 C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\BP12.json
 C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\SAG_AK105.json
+C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomBotLoadouts\assault.json
+C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomBotLoadouts\bosssanitar.json
+C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomBotLoadouts\followerbigpipe.json
+C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomBotLoadouts\pmcbear.json
+C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomBotLoadouts\pmcbot.json
+C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomBotLoadouts\pmcusec.json
+C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\PSA_JAKL.json

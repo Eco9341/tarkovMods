@@ -2488,7 +2488,8 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/LR300/lr300_textures.bundle"
             ]
         },
         {
@@ -2496,7 +2497,8 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/LR300/lr300_textures.bundle"
             ]
         },
         {
@@ -2504,7 +2506,8 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/LR300/lr300_textures.bundle"
             ]
         },
         {
@@ -2512,7 +2515,8 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/LR300/lr300_textures.bundle"
             ]
         },
         {
@@ -2520,7 +2524,8 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/LR300/lr300_textures.bundle"
             ]
         },
         {
@@ -2528,7 +2533,8 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/LR300/lr300_textures.bundle"
             ]
         },
         {
@@ -2536,7 +2542,8 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/LR300/lr300_textures.bundle"
             ]
         },
         {
@@ -2544,7 +2551,53 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/LR300/lr300_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/LR300/lr300_railed_gasblock.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/LR300/lr300_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/LR300/lr300_nxr_handguard.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/LR300/lr300_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/LR300/lr300_ml300_handguard.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/LR300/lr300_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/LR300/lr300_axl_handguard.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/LR300/lr300_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/LR300/lr300_axlt_handguard.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/LR300/lr300_textures.bundle"
             ]
         },
         {
@@ -2552,7 +2605,8 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/LR300/lr300_textures.bundle"
             ]
         },
         {
@@ -2560,7 +2614,8 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/LR300/lr300_textures.bundle"
             ]
         },
         {
@@ -2568,7 +2623,8 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/LR300/lr300_textures.bundle"
             ]
         },
         {
@@ -2576,7 +2632,8 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/LR300/lr300_textures.bundle"
             ]
         },
         {
@@ -2584,7 +2641,8 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/LR300/lr300_textures.bundle"
             ]
         },
         {
@@ -2592,7 +2650,8 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/LR300/lr300_textures.bundle"
             ]
         },
         {
@@ -2600,7 +2659,8 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/LR300/lr300_textures.bundle"
             ]
         },
         {
@@ -2608,7 +2668,8 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/LR300/lr300_textures.bundle"
             ]
         },
         {
@@ -2616,7 +2677,8 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/LR300/lr300_textures.bundle"
             ]
         },
         {
@@ -2624,7 +2686,8 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/LR300/lr300_textures.bundle"
             ]
         },
         {
@@ -2632,7 +2695,8 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/LR300/lr300_textures.bundle"
             ]
         },
         {
@@ -2640,7 +2704,8 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/LR300/lr300_textures.bundle"
             ]
         },
         {
@@ -2648,7 +2713,8 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/LR300/lr300_textures.bundle"
             ]
         },
         {
@@ -2656,15 +2722,8 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mods/LR300/sur300_barrel.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/LR300/lr300_textures.bundle"
             ]
         },
         {
@@ -2679,7 +2738,8 @@
                 "assets/systems/effects/muzzleflash/muzzleflash.bundle",
                 "assets/content/audio/weapons/generic",
                 "assets/content/audio/blendoptions/assets.bundle",
-                "assets/content/weapons/additional_hands/client_assets.bundle"
+                "assets/content/weapons/additional_hands/client_assets.bundle",
+                "Mods/LR300/lr300_textures.bundle"
             ]
         },
         {
@@ -2694,11 +2754,21 @@
                 "assets/systems/effects/muzzleflash/muzzleflash.bundle",
                 "assets/content/audio/weapons/generic",
                 "assets/content/audio/blendoptions/assets.bundle",
-                "assets/content/weapons/additional_hands/client_assets.bundle"
+                "assets/content/weapons/additional_hands/client_assets.bundle",
+                "Mods/LR300/lr300_textures.bundle"
             ]
         },
         {
             "key": "Mods/LR300/lr300_bottom_rail.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/LR300/lr300_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/LR300/lr300_textures.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -4290,6 +4360,114 @@
                 "shaders",
                 "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Mods/416_handguards/hk416_g38_13_handguard.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Mods/416_handguards/hk416_g38_11_handguard.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Mods/JAKL/weapon_jakl_300_container.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+                "assets/systems/effects/heathaze/defaultheathaze.bundle",
+                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle",
+                "Mods/JAKL/jakl_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/JAKL/jakl_receiver.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/JAKL/jakl_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/JAKL/weapon_jakl_300_fde_container.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+                "assets/systems/effects/heathaze/defaultheathaze.bundle",
+                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle",
+                "Mods/JAKL/jakl_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/JAKL/jakl_receiver_fde.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/JAKL/jakl_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/JAKL/jakl_barrel_300.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/JAKL/jakl_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/JAKL/jakl_textures.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Mods/JAKL/weapon_jakl_honeyb_container.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+                "assets/systems/effects/heathaze/defaultheathaze.bundle",
+                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle",
+                "Mods/JAKL/jakl_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/JAKL/jakl_receiver_honeyb.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/JAKL/jakl_textures.bundle"
             ]
         }
     ]

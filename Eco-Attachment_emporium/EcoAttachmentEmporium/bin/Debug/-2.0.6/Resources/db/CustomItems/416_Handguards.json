@@ -1021,7 +1021,9 @@
       "Prefab": {
         "path": "Mods/416_Barrel/g95k_barrel.bundle",
         "rcid": ""
-      }
+      },
+      "ConflictingItems": [
+      ]
     },
     "locales": {
       "en": {
@@ -1068,6 +1070,462 @@
           "barters": [
             {
               "count": 453,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69f531e009f5271c9401f8bb": {
+    "itemTplToClone": "5c6d11072e2216000e69d2e4",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/416_handguards/hk416_g38_13_handguard.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "5bb20d9cd4351e00334c9d8a"
+      ],
+    "Weight": 0.300,
+    "Ergonomics": 9,
+    "Slots": [
+      {
+        "_name": "mod_mount_000",
+        "_id": "5c6d11072e2216000e69d2e6",
+        "_parent": "5c6d11072e2216000e69d2e4",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5b7be47f5acfc400170e2dd2",
+                "6269220d70b6c02e665f2635",
+                "6269545d0e57f218e4548ca2",
+                "669a6a4a525be1d2d004b8eb"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_mount_001",
+        "_id": "5c6d11072e2216000e69d2e7",
+        "_parent": "5c6d11072e2216000e69d2e4",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5b7be47f5acfc400170e2dd2",
+                "6269220d70b6c02e665f2635",
+                "6269545d0e57f218e4548ca2",
+                "669a6a4a525be1d2d004b8eb"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_mount_002",
+        "_id": "5c6d11072e2216000e69d2e8",
+        "_parent": "5c6d11072e2216000e69d2e4",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5b7be47f5acfc400170e2dd2",
+                "6269220d70b6c02e665f2635",
+                "6269545d0e57f218e4548ca2",
+                "669a6a4a525be1d2d004b8eb",
+                "671126b049e181972e0681fa"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_tactical",
+        "_id": "5c6d11072e2216000e69d2ea",
+        "_parent": "5c6d11072e2216000e69d2e4",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5d10b49bd7ad1a1a560708b0",
+                "5c06595c0db834001a66af6c",
+                "5a7b483fe899ef0016170d15",
+                "61605d88ffa6e502ac5e7eeb",
+                "5c5952732e2216398b5abda2",
+                "644a3df63b0b6f03e101e065"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_scope",
+        "_id": "5c6d11072e2216000e69d2eb",
+        "_parent": "5c6d11072e2216000e69d2e4",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5649a2464bdc2d91118b45a8"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_foregrip",
+        "_id": "5c6d14ad2e2216001219b4c9",
+        "_parent": "5c6d11072e2216000e69d2e4",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57cffb66245977632f391a99",
+                "57cffcd624597763133760c5",
+                "57cffcdd24597763f5110006",
+                "57cffce524597763b31685d8",
+                "5b7be4895acfc400170e2dd5",
+                "651a8bf3a8520e48047bf708",
+                "651a8e529829226ceb67c319",
+                "665d5d9e338229cfd6078da1",
+                "665edce564fb556f940ab32a"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_sight_front",
+        "_id": "5c6d14d62e221644f31bf663",
+        "_parent": "5c6d11072e2216000e69d2e4",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5ba26b01d4351e0085325a51",
+                "5dfa3d950dee1b22f862eae0",
+                "5c17804b2e2216152006c02f",
+                "5fb6567747ce63734e3fa1dc",
+                "5bc09a30d4351e00367fb7c8",
+                "5c18b90d2e2216152142466b",
+                "5fc0fa362770a0045c59c677",
+                "5894a73486f77426d259076c",
+                "55d4af3a4bdc2d972f8b456f"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      }
+    ]
+    },
+    "locales": {
+      "en": {
+        "name": "HK G38 13 inch Handguard",
+        "shortName": "G38",
+        "description": "The new handguard for the HK 416A8 designed to bring the Bundeswehr’s small-arms capability up to current operational standards"
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 14400,
+    "handbookPriceRoubles": 7442,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "69f531e009f5271c9401f8bc": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 256,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69f532ef09f5271c9401f8bd": {
+    "itemTplToClone": "5c6d10fa2e221600106f3f23",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/416_handguards/hk416_g38_11_handguard.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "5bb20d9cd4351e00334c9d8a"
+      ],
+    "Weight": 0.275,
+    "Ergonomics": 9,
+    "Slots": [
+      {
+        "_name": "mod_mount_000",
+        "_id": "5c6d11072e2216000e69d2e6",
+        "_parent": "5c6d11072e2216000e69d2e4",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5b7be47f5acfc400170e2dd2",
+                "6269220d70b6c02e665f2635",
+                "6269545d0e57f218e4548ca2",
+                "669a6a4a525be1d2d004b8eb"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_mount_001",
+        "_id": "5c6d11072e2216000e69d2e7",
+        "_parent": "5c6d11072e2216000e69d2e4",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5b7be47f5acfc400170e2dd2",
+                "6269220d70b6c02e665f2635",
+                "6269545d0e57f218e4548ca2",
+                "669a6a4a525be1d2d004b8eb"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_mount_002",
+        "_id": "5c6d11072e2216000e69d2e8",
+        "_parent": "5c6d11072e2216000e69d2e4",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5b7be47f5acfc400170e2dd2",
+                "6269220d70b6c02e665f2635",
+                "6269545d0e57f218e4548ca2",
+                "669a6a4a525be1d2d004b8eb",
+                "671126b049e181972e0681fa"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_tactical",
+        "_id": "5c6d11072e2216000e69d2ea",
+        "_parent": "5c6d11072e2216000e69d2e4",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5d10b49bd7ad1a1a560708b0",
+                "5c06595c0db834001a66af6c",
+                "5a7b483fe899ef0016170d15",
+                "61605d88ffa6e502ac5e7eeb",
+                "5c5952732e2216398b5abda2",
+                "644a3df63b0b6f03e101e065"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_scope",
+        "_id": "5c6d11072e2216000e69d2eb",
+        "_parent": "5c6d11072e2216000e69d2e4",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5649a2464bdc2d91118b45a8"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_foregrip",
+        "_id": "5c6d14ad2e2216001219b4c9",
+        "_parent": "5c6d11072e2216000e69d2e4",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57cffb66245977632f391a99",
+                "57cffcd624597763133760c5",
+                "57cffcdd24597763f5110006",
+                "57cffce524597763b31685d8",
+                "5b7be4895acfc400170e2dd5",
+                "651a8bf3a8520e48047bf708",
+                "651a8e529829226ceb67c319",
+                "665d5d9e338229cfd6078da1",
+                "665edce564fb556f940ab32a"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_sight_front",
+        "_id": "5c6d14d62e221644f31bf663",
+        "_parent": "5c6d11072e2216000e69d2e4",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5ba26b01d4351e0085325a51",
+                "5dfa3d950dee1b22f862eae0",
+                "5c17804b2e2216152006c02f",
+                "5fb6567747ce63734e3fa1dc",
+                "5bc09a30d4351e00367fb7c8",
+                "5c18b90d2e2216152142466b",
+                "5fc0fa362770a0045c59c677",
+                "5894a73486f77426d259076c",
+                "55d4af3a4bdc2d972f8b456f"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      }
+    ]
+    },
+    "locales": {
+      "en": {
+        "name": "HK G38 11 inch Handguard",
+        "shortName": "G38",
+        "description": "The new handguard for the HK 416A8 designed to bring the Bundeswehr’s small-arms capability up to current operational standards"
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 13542,
+    "handbookPriceRoubles": 6432,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "69f532ef09f5271c9401f8be": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 231,
               "_tpl": "MONEY_DOLLARS"
             }
           ]

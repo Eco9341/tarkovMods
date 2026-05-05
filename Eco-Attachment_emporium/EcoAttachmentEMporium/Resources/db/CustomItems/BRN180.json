@@ -1409,7 +1409,8 @@
     "addtoInventorySlots": [],
     "addtoModSlots": true,
     "modSlot": [
-      "mod_stock"
+      "mod_stock",
+      "mod_stock_000"
     ],
     "fleaPriceRoubles": 12531,
     "handbookPriceRoubles": 9784,
@@ -1497,7 +1498,8 @@
     "addtoInventorySlots": [],
     "addtoModSlots": true,
     "modSlot": [
-      "mod_stock"
+      "mod_stock",
+      "mod_stock_000"
     ],
     "fleaPriceRoubles": 12531,
     "handbookPriceRoubles": 9784,
@@ -1635,7 +1637,8 @@
     "addtoInventorySlots": [],
     "addtoModSlots": true,
     "modSlot": [
-      "mod_stock"
+      "mod_stock",
+      "mod_stock_000"
     ],
     "fleaPriceRoubles": 12531,
     "handbookPriceRoubles": 9784,
@@ -1741,7 +1744,8 @@
     "addtoInventorySlots": [],
     "addtoModSlots": true,
     "modSlot": [
-      "mod_stock"
+      "mod_stock",
+      "mod_stock_000"
     ],
     "fleaPriceRoubles": 5211,
     "handbookPriceRoubles": 4311,

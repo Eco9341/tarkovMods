@@ -1,6 +1,6 @@
 {
   "6951d6f528342dc818053a6c": {
-    "itemTplToClone": "5447a9cd4bdc2dbd208b4567",
+    "itemTplToClone": "5bb2475ed4351e00853264e3",
     "parentId": "5447b5f14bdc2d61278b4567",
     "handbookParentId": "5b5f78fc86f77409407a7f90",
     "overrideProperties": {
@@ -322,7 +322,7 @@
     ]
   },
   "6952f4c9065baefc31060c87": {
-    "itemTplToClone": "5447a9cd4bdc2dbd208b4567",
+    "itemTplToClone": "5bb2475ed4351e00853264e3",
     "parentId": "5447b5f14bdc2d61278b4567",
     "handbookParentId": "5b5f78fc86f77409407a7f90",
     "overrideProperties": {
@@ -846,7 +846,11 @@
                 "Filter": [
                   "6952c94c065baefc31060c64",
                   "6952f4c9065baefc31060c81",
-                  "6952f764065baefc31060c91"
+                  "6952f764065baefc31060c91",
+                  "69f4ca4881436b5fa6cfd81e",
+                  "69f4caad81436b5fa6cfd820",
+                  "69f4cc3281436b5fa6cfd822",
+                  "69f4cc9c81436b5fa6cfd824"
                 ],
                 "Shift": 0
               }
@@ -1085,7 +1089,8 @@
             "filters": [
               {
                 "Filter": [
-                  "6952c94c065baefc31060c62"
+                  "6952c94c065baefc31060c62",
+                  "69f4c69481436b5fa6cfd81d"
                 ],
                 "Shift": 0
               }
@@ -1238,7 +1243,8 @@
             "filters": [
               {
                 "Filter": [
-                  "6952c94c065baefc31060c62"
+                  "6952c94c065baefc31060c62",
+                  "69f4c69481436b5fa6cfd81d"
                 ],
                 "Shift": 0
               }
@@ -1328,6 +1334,12 @@
         "path": "Mods/LR300/lr300_gasblock.bundle",
         "rcid": ""
       },
+      "ConflictingItems": [
+          "69f4ca4881436b5fa6cfd81e",
+          "69f4caad81436b5fa6cfd820",
+          "69f4cc3281436b5fa6cfd822",
+          "69f4cc9c81436b5fa6cfd824"
+      ],
       "Slots": [
         {
           "_name": "mod_tactical_000",
@@ -1425,8 +1437,8 @@
     "modSlot": [
       "mod_barrel"
     ],
-    "fleaPriceRoubles": 24567,
-    "handbookPriceRoubles": 14563,
+    "fleaPriceRoubles": 9523,
+    "handbookPriceRoubles": 6322,
     "addtoTraders": true,
     "addtoBots": false,
     "addtoStaticLootContainers": true,
@@ -1465,7 +1477,7 @@
           },
           "barters": [
             {
-              "count": 45449,
+              "count": 10532,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -2235,7 +2247,11 @@
                 "Filter": [
                   "6952c94c065baefc31060c64",
                   "6952f4c9065baefc31060c81",
-                  "6952f764065baefc31060c91"
+                  "6952f764065baefc31060c91",
+                  "69f4ca4881436b5fa6cfd81e",
+                  "69f4caad81436b5fa6cfd820",
+                  "69f4cc3281436b5fa6cfd822",
+                  "69f4cc9c81436b5fa6cfd824"
                 ],
                 "Shift": 0
               }
@@ -3206,6 +3222,883 @@
           "barters": [
             {
               "count": 8645,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "69f4c69481436b5fa6cfd81d": {
+    "itemTplToClone": "5ae30e795acfc408fb139a0b",
+    "parentId": "56ea9461d2720b67698b456f",
+    "handbookParentId": "5b5f760586f774093e6cb509",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/LR300/lr300_railed_gasblock.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+            "6952c94c065baefc31060c64",
+            "6952f4c9065baefc31060c81",
+            "6952f764065baefc31060c91"
+      ],
+      "Slots": [
+      {
+        "_name": "mod_tactical_000",
+        "_id": "5ea16ada09aa976f2e7a51c3",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5d10b49bd7ad1a1a560708b0",
+                "5c06595c0db834001a66af6c",
+                "5a7b483fe899ef0016170d15",
+                "61605d88ffa6e502ac5e7eeb",
+                "5c5952732e2216398b5abda2",
+                "644a3df63b0b6f03e101e065"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_scope",
+        "_id": "5ea16ada09aa976f2e7a51c4",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5649a2464bdc2d91118b45a8"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_sight_front",
+        "_id": "5ea16ada09aa976f2e7a51c6",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5ba26b01d4351e0085325a51",
+                "5dfa3d950dee1b22f862eae0",
+                "5c17804b2e2216152006c02f",
+                "5fb6567747ce63734e3fa1dc",
+                "5bc09a30d4351e00367fb7c8",
+                "5c18b90d2e2216152142466b",
+                "5fc0fa362770a0045c59c677",
+                "5894a73486f77426d259076c",
+                "55d4af3a4bdc2d972f8b456f"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      }
+      ],
+      "Weight": 0.35,
+      "Ergonomics": -1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Z-M LR-300 5.56x45 Gas Block",
+        "shortName": "LR300",
+        "description": "The LR-300 uses a modified version of the AR-15's standard direct impingement gas operating system dubbed delayed impingement gas system.[4] The gas key is extended beyond its normal length (manufacturer calls it an 'operating rod'), extending into the handguard. The gas key contains the return spring which is fixed between the front of the receiver and the collar at the front of the gas key. The gas port is under the back side of the gas block, gasses go up then forward to the front side of the gas block then up and back to the gas tube. The gas tube is about half of the length of a standard AR-15 tube. The gas tube is always inside of the gas key (minimal overlap is about 1 inch). This leaves the area near the bolt much cleaner. Almost all gasses exit the gun through the holes on the right side of the bolt carrier, and minimal leaks from the gas key to the handguard area do not hinder the gun's function."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "fleaPriceRoubles": 11343,
+    "handbookPriceRoubles": 7543,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "69f4c69481436b5fa6cfd81c": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 13542,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "69f4ca4881436b5fa6cfd81e": {
+    "itemTplToClone": "55d459824bdc2d892f8b4573",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/LR300/lr300_ml300_handguard.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+      {
+        "_name": "mod_foregrip",
+        "_id": "5c9a26332e2216001219ea72",
+        "_parent": "5c9a26332e2216001219ea70",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5c7fc87d2e221644f31c0298",
+                "5cda9bcfd7f00c0c0b53e900",
+                "59f8a37386f7747af3328f06",
+                "5a7dbfc1159bd40016548fde",
+                "619386379fb0c665d5490dbe",
+                "5c87ca002e221600114cb150",
+                "588226d124597767ad33f787",
+                "588226dd24597767ad33f789",
+                "588226e62459776e3e094af7",
+                "588226ef24597767af46e39c",
+                "59fc48e086f77463b1118392",
+                "5fce0cf655375d18a253eff0",
+                "5cf4fb76d7f00c065703d3ac",
+                "5b057b4f5acfc4771e1bd3e9",
+                "5c791e872e2216001219c40a",
+                "558032614bdc2de7118b4585",
+                "58c157be86f77403c74b2bb6",
+                "58c157c886f774032749fb06",
+                "5f6340d3ca442212f4047eb2",
+                "591af28e86f77414a27a9e1d",
+                "5c1cd46f2e22164bef5cfedb",
+                "5c1bc4812e22164bef5cfde7",
+                "5c1bc5612e221602b5429350",
+                "5c1bc5af2e221602b412949b",
+                "5c1bc5fb2e221602b1779b32",
+                "5c1bc7432e221602b412949d",
+                "5c1bc7752e221602b1779b34",
+                "64806bdd26c80811d408d37a",
+                "64807a29e5ffe165600abc97",
+                "648067db042be0705c0b3009",
+                "65169d5b30425317755f8e25",
+                "655df24fdf80b12750626d0a",
+                "655dccfdbdcc6b5df71382b6",
+                "661e53149c8b4dadef008579",
+                "661e52e29c8b4dadef008577",
+                "661e52415be02310ed07a07a",
+                "661e52b5b099f32c28003586"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_mount_000",
+        "_id": "5c9a26332e2216001219ea74",
+        "_parent": "5c9a26332e2216001219ea70",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5a800961159bd4315e3a1657",
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5d10b49bd7ad1a1a560708b0",
+                "5c06595c0db834001a66af6c",
+                "5cc9c20cd7f00c001336c65d",
+                "5d2369418abbc306c62e0c80",
+                "5b07dd285acfc4001754240d",
+                "56def37dd2720bec348b456a",
+                "5a7b483fe899ef0016170d15",
+                "61605d88ffa6e502ac5e7eeb",
+                "5a5f1ce64f39f90b401987bc",
+                "560d657b4bdc2da74d8b4572",
+                "5b3a337e5acfc4704b4a19a0",
+                "5c5952732e2216398b5abda2",
+                "57d17e212459775a1179a0f5",
+                "6267c6396b642f77f56f5c1c",
+                "6272370ee4013c5d7e31f418",
+                "6272379924e29f06af4d5ecb",
+                "626becf9582c3e319310b837",
+                "644a3df63b0b6f03e101e065",
+                "646f6322f43d0c5d62063715"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_mount_001",
+        "_id": "5c9a26332e2216001219ea75",
+        "_parent": "5c9a26332e2216001219ea70",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5a800961159bd4315e3a1657",
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5c06595c0db834001a66af6c",
+                "5cc9c20cd7f00c001336c65d",
+                "5d2369418abbc306c62e0c80",
+                "5b07dd285acfc4001754240d",
+                "56def37dd2720bec348b456a",
+                "5a7b483fe899ef0016170d15",
+                "61605d88ffa6e502ac5e7eeb",
+                "5a5f1ce64f39f90b401987bc",
+                "560d657b4bdc2da74d8b4572",
+                "5b3a337e5acfc4704b4a19a0",
+                "5c5952732e2216398b5abda2",
+                "57d17e212459775a1179a0f5",
+                "6267c6396b642f77f56f5c1c",
+                "6272370ee4013c5d7e31f418",
+                "6272379924e29f06af4d5ecb",
+                "626becf9582c3e319310b837",
+                "644a3df63b0b6f03e101e065",
+                "646f6322f43d0c5d62063715"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      }
+      ],
+      "Ergonomics": 5,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Z-M LR-300 ML300 Handguard",
+        "shortName": "ML300",
+        "description": "Unique variant of the LR-300 handguard, half the size of the long variant, still with full picatinny rails"
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "fleaPriceRoubles": 5334,
+    "handbookPriceRoubles": 3113,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "69f4ca4881436b5fa6cfd81f": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 11023,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "69f4caad81436b5fa6cfd820": {
+    "itemTplToClone": "5c9a25172e2216000f20314e",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/LR300/lr300_axl_handguard.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+      {
+        "_name": "mod_foregrip",
+        "_id": "5c9a26332e2216001219ea72",
+        "_parent": "5c9a26332e2216001219ea70",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5c7fc87d2e221644f31c0298",
+                "5cda9bcfd7f00c0c0b53e900",
+                "59f8a37386f7747af3328f06",
+                "5a7dbfc1159bd40016548fde",
+                "619386379fb0c665d5490dbe",
+                "5c87ca002e221600114cb150",
+                "588226d124597767ad33f787",
+                "588226dd24597767ad33f789",
+                "588226e62459776e3e094af7",
+                "588226ef24597767af46e39c",
+                "59fc48e086f77463b1118392",
+                "5fce0cf655375d18a253eff0",
+                "5cf4fb76d7f00c065703d3ac",
+                "5b057b4f5acfc4771e1bd3e9",
+                "5c791e872e2216001219c40a",
+                "558032614bdc2de7118b4585",
+                "58c157be86f77403c74b2bb6",
+                "58c157c886f774032749fb06",
+                "5f6340d3ca442212f4047eb2",
+                "591af28e86f77414a27a9e1d",
+                "5c1cd46f2e22164bef5cfedb",
+                "5c1bc4812e22164bef5cfde7",
+                "5c1bc5612e221602b5429350",
+                "5c1bc5af2e221602b412949b",
+                "5c1bc5fb2e221602b1779b32",
+                "5c1bc7432e221602b412949d",
+                "5c1bc7752e221602b1779b34",
+                "64806bdd26c80811d408d37a",
+                "64807a29e5ffe165600abc97",
+                "648067db042be0705c0b3009",
+                "65169d5b30425317755f8e25",
+                "655df24fdf80b12750626d0a",
+                "655dccfdbdcc6b5df71382b6",
+                "661e53149c8b4dadef008579",
+                "661e52e29c8b4dadef008577",
+                "661e52415be02310ed07a07a",
+                "661e52b5b099f32c28003586"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_mount_000",
+        "_id": "5c9a26332e2216001219ea74",
+        "_parent": "5c9a26332e2216001219ea70",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5a800961159bd4315e3a1657",
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5d10b49bd7ad1a1a560708b0",
+                "5c06595c0db834001a66af6c",
+                "5cc9c20cd7f00c001336c65d",
+                "5d2369418abbc306c62e0c80",
+                "5b07dd285acfc4001754240d",
+                "56def37dd2720bec348b456a",
+                "5a7b483fe899ef0016170d15",
+                "61605d88ffa6e502ac5e7eeb",
+                "5a5f1ce64f39f90b401987bc",
+                "560d657b4bdc2da74d8b4572",
+                "5b3a337e5acfc4704b4a19a0",
+                "5c5952732e2216398b5abda2",
+                "57d17e212459775a1179a0f5",
+                "6267c6396b642f77f56f5c1c",
+                "6272370ee4013c5d7e31f418",
+                "6272379924e29f06af4d5ecb",
+                "626becf9582c3e319310b837",
+                "644a3df63b0b6f03e101e065",
+                "646f6322f43d0c5d62063715"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_mount_001",
+        "_id": "5c9a26332e2216001219ea75",
+        "_parent": "5c9a26332e2216001219ea70",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5a800961159bd4315e3a1657",
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5c06595c0db834001a66af6c",
+                "5cc9c20cd7f00c001336c65d",
+                "5d2369418abbc306c62e0c80",
+                "5b07dd285acfc4001754240d",
+                "56def37dd2720bec348b456a",
+                "5a7b483fe899ef0016170d15",
+                "61605d88ffa6e502ac5e7eeb",
+                "5a5f1ce64f39f90b401987bc",
+                "560d657b4bdc2da74d8b4572",
+                "5b3a337e5acfc4704b4a19a0",
+                "5c5952732e2216398b5abda2",
+                "57d17e212459775a1179a0f5",
+                "6267c6396b642f77f56f5c1c",
+                "6272370ee4013c5d7e31f418",
+                "6272379924e29f06af4d5ecb",
+                "626becf9582c3e319310b837",
+                "644a3df63b0b6f03e101e065",
+                "646f6322f43d0c5d62063715"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      }
+      ],
+      "Ergonomics": 7,
+      "Recoil": -2,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Z-M LR-300 AXL Handguard",
+        "shortName": "AXL300",
+        "description": "Full size handguard, with piccatinny rails "
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "fleaPriceRoubles": 12180,
+    "handbookPriceRoubles": 8532,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "69f4caad81436b5fa6cfd821": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 18472,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "69f4cc3281436b5fa6cfd822": {
+    "itemTplToClone": "5d122e7bd7ad1a07102d6d7f",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/LR300/lr300_axlt_handguard.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+      {
+        "_name": "mod_tactical_002",
+        "_id": "638f2003bbd47aeb9e0ff63e",
+        "_parent": "638f2003bbd47aeb9e0ff637",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5a800961159bd4315e3a1657",
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5c06595c0db834001a66af6c",
+                "5cc9c20cd7f00c001336c65d",
+                "5d2369418abbc306c62e0c80",
+                "5b07dd285acfc4001754240d",
+                "56def37dd2720bec348b456a",
+                "5a7b483fe899ef0016170d15",
+                "61605d88ffa6e502ac5e7eeb",
+                "5a5f1ce64f39f90b401987bc",
+                "560d657b4bdc2da74d8b4572",
+                "5b3a337e5acfc4704b4a19a0",
+                "5c5952732e2216398b5abda2",
+                "57d17e212459775a1179a0f5",
+                "626becf9582c3e319310b837",
+                "6272370ee4013c5d7e31f418",
+                "6272379924e29f06af4d5ecb",
+                "644a3df63b0b6f03e101e065",
+                "646f6322f43d0c5d62063715",
+                "6644920d49817dc7d505ca71",
+                "676175bb48fa5c377e06fc36"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_mount_000",
+        "_id": "5c9a26332e2216001219ea74",
+        "_parent": "5c9a26332e2216001219ea70",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5a800961159bd4315e3a1657",
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5d10b49bd7ad1a1a560708b0",
+                "5c06595c0db834001a66af6c",
+                "5cc9c20cd7f00c001336c65d",
+                "5d2369418abbc306c62e0c80",
+                "5b07dd285acfc4001754240d",
+                "56def37dd2720bec348b456a",
+                "5a7b483fe899ef0016170d15",
+                "61605d88ffa6e502ac5e7eeb",
+                "5a5f1ce64f39f90b401987bc",
+                "560d657b4bdc2da74d8b4572",
+                "5b3a337e5acfc4704b4a19a0",
+                "5c5952732e2216398b5abda2",
+                "57d17e212459775a1179a0f5",
+                "6267c6396b642f77f56f5c1c",
+                "6272370ee4013c5d7e31f418",
+                "6272379924e29f06af4d5ecb",
+                "626becf9582c3e319310b837",
+                "644a3df63b0b6f03e101e065",
+                "646f6322f43d0c5d62063715"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_mount_001",
+        "_id": "5c9a26332e2216001219ea75",
+        "_parent": "5c9a26332e2216001219ea70",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5a800961159bd4315e3a1657",
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5c06595c0db834001a66af6c",
+                "5cc9c20cd7f00c001336c65d",
+                "5d2369418abbc306c62e0c80",
+                "5b07dd285acfc4001754240d",
+                "56def37dd2720bec348b456a",
+                "5a7b483fe899ef0016170d15",
+                "61605d88ffa6e502ac5e7eeb",
+                "5a5f1ce64f39f90b401987bc",
+                "560d657b4bdc2da74d8b4572",
+                "5b3a337e5acfc4704b4a19a0",
+                "5c5952732e2216398b5abda2",
+                "57d17e212459775a1179a0f5",
+                "6267c6396b642f77f56f5c1c",
+                "6272370ee4013c5d7e31f418",
+                "6272379924e29f06af4d5ecb",
+                "626becf9582c3e319310b837",
+                "644a3df63b0b6f03e101e065",
+                "646f6322f43d0c5d62063715"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      }
+      ],
+      "Ergonomics": 4,
+      "Recoil": -2,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Z-M LR-300 AXLT Handguard",
+        "shortName": "AXLT300",
+        "description": "long handguard with picatinny rails on the end."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "fleaPriceRoubles": 11342,
+    "handbookPriceRoubles": 7654,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "69f4cc3281436b5fa6cfd823": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 17643,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "69f4cc9c81436b5fa6cfd824": {
+    "itemTplToClone": "5c78f26f2e221601da3581d1",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/LR300/lr300_nxr_handguard.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_foregrip",
+          "_id": "5d00ef6dd7ad1a0940739b18",
+          "_parent": "5d00ef6dd7ad1a0940739b16",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6952ddf2065baefc31060c71"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "Weight": 0.27,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Z-M LR-300 NXR Handguard",
+        "shortName": "NXR",
+        "description": "A rifle length handguard manufactured by Z-M Weapons, longer variant of the standard issue for the Z-M LR-300"
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "fleaPriceRoubles": 2442,
+    "handbookPriceRoubles": 974,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "69f4cc9c81436b5fa6cfd825": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3452,
               "_tpl": "MONEY_ROUBLES"
             }
           ]

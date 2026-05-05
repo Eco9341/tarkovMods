@@ -1,0 +1,75 @@
+{
+  "chances": {
+    "equipment": {
+      "FirstPrimaryWeapon": 91
+    },
+    "weaponMods": {
+      "mod_stock": 100,
+      "mod_sight_rear": 45,
+      "mod_sight_front": 45,
+      "mod_muzzle": 35,
+      "mod_magazine": 100,
+      "mod_barrel": 100,
+      "mod_mount": 20
+    }
+  },
+  "inventory": {
+    "equipment": {
+      "FirstPrimaryWeapon": {
+        "695c42816dd1786b89029345": 10,
+        "690f45fd1a9f90e0500b1f41": 3997
+      }
+    },
+    "mods": {
+      "695c42816dd1786b89029345": {
+        "mod_stock": [
+          "695d3348cfc7cb0dce06be01"
+        ],
+        "mod_sight_rear": [
+          "695d3348cfc7cb0dce06be03"
+        ],
+        "mod_sight_front": [
+          "695d4ad6cfc7cb0dce06be13"
+        ],
+        "mod_muzzle": [
+          "695d4ad6cfc7cb0dce06be15"
+        ]
+      },
+      "690f45fd1a9f90e0500b1f41": {
+        "mod_magazine": [
+          "5aaf8a0be5b5b00015693243"
+        ],
+        "mod_barrel": [
+          "690f45fd1a9f90e0500b1f42"
+        ],
+        "mod_sight_rear": [
+          "690f45fd1a9f90e0500b1f45"
+        ]
+      },
+      "690f45fd1a9f90e0500b1f42": {
+        "mod_sight_front": [
+          "690f45fd1a9f90e0500b1f47"
+        ],
+        "mod_mount": [
+          "690f45fd1a9f90e0500b1f49"
+        ]
+      }
+    },
+    "Ammo": {
+      "Caliber127x99": {
+        "67dc2648ba5b79876906a166": 12122,
+        "67d41936f378a36c4706eeb9": 453,
+        "67dc212493ce32834b0fa446": 453,
+        "67dc255ee3028a8b120efc48": 453
+      },
+      "Caliber762x51": {
+        "5e023e6e34d52a55c3304f71": 4810,
+        "5e023e53d4353e3302577c4c": 9330,
+        "5e023e88277cce2b522ff2b1": 450,
+        "5a6086ea4f39f99cd479502f": 1,
+        "6768c25aa7b238f14a08d3f6": 2,
+        "58dd3ad986f77403051cba8f": 3
+      }
+    }
+  }
+}

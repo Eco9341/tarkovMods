@@ -1,0 +1,58 @@
+{
+  "chances": {
+    "equipment": {
+      "SecondPrimaryWeapon": 80
+    },
+    "weaponMods": {
+      "mod_barrel": 100,
+      "mod_handguard": 100,
+      "mod_pistolgrip_000": 100,
+      "mod_magazine": 100,
+      "mod_muzzle": 71,
+      "mod_sight_front": 94,
+      "mod_sight_rear": 94
+    }
+  },
+  "inventory": {
+    "equipment": {
+      "SecondPrimaryWeapon": {
+        "68f2ccf08570c57d280acc22": 5255
+      }
+    },
+    "mods": {
+      "68f2ccf08570c57d280acc22": {
+        "mod_magazine": [
+          "660ea4453786cc0af808a1be"
+        ],
+        "mod_barrel": [
+          "68f6cbc3642aa0894f001493"
+        ],
+        "mod_handguard": [
+          "68f6cbc3642aa0894f001495"
+        ],
+        "mod_sight_rear": [
+          "68f6cbc3642aa0894f001498"
+        ],
+        "mod_pistolgrip_000": [
+          "68f6cbc3642aa0894f001494"
+        ]
+      },
+      "68f6cbc3642aa0894f001493": {
+        "mod_muzzle": [
+          "5a34fd2bc4a282329a73b4c5"
+        ],
+        "mod_sight_front": [
+          "68f6cbc3642aa0894f001499"
+        ]
+      }
+    },
+    "Ammo": {
+      "Caliber762x51": {
+        "58dd3ad986f77403051cba8f": 5130,
+        "5a6086ea4f39f99cd479502f": 1380,
+        "5a608bf24f39f98ffc77720e": 2830,
+        "6768c25aa7b238f14a08d3f6": 117
+      }
+    }
+  }
+}
