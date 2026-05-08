@@ -1,0 +1,1345 @@
+{
+  "69fbe2205f919280cea5c188": {
+    "itemTplToClone": "5d43021ca4b9362eab4b5e25",
+    "parentId": "5447b5f14bdc2d61278b4567",
+    "handbookParentId": "5b5f78e986f77447ed5636b1",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Cobalt_Kinetics_Model_27/weapon_cobalt_model27_container.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.72,
+    "RecoilForceBack": 322,
+    "RecoilForceUp": 113,
+    "Slots": [
+      {
+        "_name": "mod_pistol_grip",
+        "_id": "55d354084bdc2d8c2f8b4568",
+        "_parent": "5447a9cd4bdc2dbd208b4567",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "69fc84f79d6fca325ed51941"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": true,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_magazine",
+        "_id": "55d3555c4bdc2d962f8b4568",
+        "_parent": "5447a9cd4bdc2dbd208b4567",
+        "_props": {
+          "filters": [
+            {
+              "AnimationIndex": -1,
+              "Filter": [
+                "55d4887d4bdc2d962f8b4570",
+                "61840bedd92c473c77021635",
+                "61840d85568c120fdd2962a5",
+                "5c05413a0db834001c390617",
+                "5c6d450c2e221600114c997d",
+                "5c6d42cb2e2216000e69d7d1",
+                "59c1383d86f774290a37e0ca",
+                "5aaa5e60e5b5b000140293d6",
+                "5448c1d04bdc2dff2f8b4569",
+                "5aaa5dfee5b5b000140293d3",
+                "5d1340b3d7ad1a0b52682ed7",
+                "544a378f4bdc2d30388b4567",
+                "5d1340bdd7ad1a0e8d245aab",
+                "55802d5f4bdc2dac148b458e",
+                "5d1340cad7ad1a0b0b249869",
+                "6241c2c2117ad530666a5108",
+                "5c6592372e221600133e47d7",
+                "544a37c44bdc2d25388b4567",
+                "5c6d46132e221601da357d56",
+                "6761765f1f08ed5e8800b7a6"
+              ]
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c394bdc2dae468b4577"
+      },
+      {
+        "_name": "mod_reciever",
+        "_id": "55d5a2ec4bdc2d972f8b4575",
+        "_parent": "5447a9cd4bdc2dbd208b4567",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5c0e2f26d174af02a9625114",
+                "55d355e64bdc2d962f8b4569",
+                "5d4405aaa4b9361e6a4e6bd3",
+                "5c07a8770db8340023300450",
+                "59bfe68886f7746004266202",
+                "63f5ed14534b2c3d5479a677",
+                "69fc82a79d6fca325ed5193e"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": true,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_stock",
+        "_id": "55d5a3074bdc2d61338b4574",
+        "_parent": "5447a9cd4bdc2dbd208b4567",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "69fc85719d6fca325ed51943"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": true,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_charge",
+        "_id": "55d5a30f4bdc2d882f8b4574",
+        "_parent": "5447a9cd4bdc2dbd208b4567",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5c0faf68d174af02a96260b8",
+                "56ea7165d2720b6e518b4583",
+                "55d44fd14bdc2d962f8b456e",
+                "5ea16d4d5aad6446a939753d",
+                "5bb20dbcd4351e44f824c04e",
+                "6033749e88382f4fab3fd2c5",
+                "5b2240bf5acfc40dc528af69",
+                "5d44334ba4b9362b346d1948",
+                "5f633ff5c444ce7e3c30a006",
+                "651bf5617b3b552ef6712cb7"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": true,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_charge_001",
+        "_id": "67530a90d8f555dc210c7c36",
+        "_parent": "5447a9cd4bdc2dbd208b4567",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "675307301f7c19a9780f2668"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      }
+    ]
+    },
+    "locales": {
+      "en": {
+        "name": "Cobalt Kinetics Model 27 5.56x45 carbine",
+        "shortName": "Model 27",
+        "description": "The Expert is a competition-grade model Twenty-Seven. The Expert comes equipped with the control and speed enhancing features developed for Cobalt’s legendary TEAM rifle. The technologies behind Cobalt’s patented PRO brake and patent pending PRO buffer system have been well proven by numerous national and world level multi-gun match wins. The Twenty-Seven Expert delivers unmatched competitive superiority without restriction. Shooters living under restrictive gun laws are no longer forced to compromise performance to meet compliance laws."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 24397,
+    "handbookPriceRoubles": 14245,
+    "addtoTraders": false,
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+        {
+          "_id": "69fcc890a07ebb995c8735ba",
+          "_type": "Preset",
+          "_changeWeaponName": false,
+          "_name": "Cobalt Model 27",
+          "_parent": "69fcc890a07ebb995c8735bb",
+          "_items": [
+            {
+              "_id": "69fcc890a07ebb995c8735bb",
+              "_tpl": "69fbe2205f919280cea5c188",
+              "upd": {
+                "Repairable": {
+                  "Durability": 100,
+                  "MaxDurability": 100
+                },
+                "FireMode": {
+                  "FireMode": "single"
+                }
+              }
+            },
+            {
+              "_id": "69fcc88da07ebb995c8734a0",
+              "_tpl": "69fc84f79d6fca325ed51941",
+              "parentId": "69fcc890a07ebb995c8735bb",
+              "slotId": "mod_pistol_grip"
+            },
+            {
+              "_id": "69fcc88da07ebb995c8734a1",
+              "_tpl": "5aaa5e60e5b5b000140293d6",
+              "parentId": "69fcc890a07ebb995c8735bb",
+              "slotId": "mod_magazine"
+            },
+            {
+              "_id": "69fcc88da07ebb995c8734a2",
+              "_tpl": "69fc82a79d6fca325ed5193e",
+              "parentId": "69fcc890a07ebb995c8735bb",
+              "slotId": "mod_reciever"
+            },
+            {
+              "_id": "69fcc88da07ebb995c8734a3",
+              "_tpl": "69fc85719d6fca325ed51943",
+              "parentId": "69fcc890a07ebb995c8735bb",
+              "slotId": "mod_stock"
+            },
+            {
+              "_id": "69fcc88da07ebb995c8734a4",
+              "_tpl": "69fc98a69d6fca325ed51947",
+              "parentId": "69fcc890a07ebb995c8735bb",
+              "slotId": "mod_charge"
+            },
+            {
+              "_id": "69fcc88da07ebb995c8734a5",
+              "_tpl": "675307301f7c19a9780f2668",
+              "parentId": "69fcc890a07ebb995c8735bb",
+              "slotId": "mod_charge_001"
+            },
+            {
+              "_id": "69fcc88da07ebb995c8734a6",
+              "_tpl": "618b9643526131765025ab35",
+              "parentId": "69fcc88da07ebb995c8734a2",
+              "slotId": "mod_scope"
+            },
+            {
+              "_id": "69fcc88da07ebb995c8734a7",
+              "_tpl": "5c0e2f94d174af029f650d56",
+              "parentId": "69fcc88da07ebb995c8734a2",
+              "slotId": "mod_barrel"
+            },
+            {
+              "_id": "69fcc88da07ebb995c8734a8",
+              "_tpl": "69fca9ee9d6fca325ed51949",
+              "parentId": "69fcc88da07ebb995c8734a2",
+              "slotId": "mod_handguard"
+            },
+            {
+              "_id": "69fcc88da07ebb995c8734a9",
+              "_tpl": "5bc09a18d4351e003562b68e",
+              "parentId": "69fcc88da07ebb995c8734a2",
+              "slotId": "mod_sight_rear",
+              "upd": {
+                "Sight": {
+                  "ScopesCurrentCalibPointIndexes": [
+                    0
+                  ],
+                  "ScopesSelectedModes": [
+                    0
+                  ],
+                  "SelectedScope": 0,
+                  "ScopeZoomValue": 0
+                }
+              }
+            },
+            {
+              "_id": "69fcc88da07ebb995c8734aa",
+              "_tpl": "696395af1b7e04938307a122",
+              "parentId": "69fcc88da07ebb995c8734a6",
+              "slotId": "mod_scope",
+              "upd": {
+                "Sight": {
+                  "ScopesCurrentCalibPointIndexes": [
+                    0
+                  ],
+                  "ScopesSelectedModes": [
+                    0
+                  ],
+                  "SelectedScope": 0,
+                  "ScopeZoomValue": 0
+                }
+              }
+            },
+            {
+              "_id": "69fcc88da07ebb995c8734ab",
+              "_tpl": "618b9671d14d6d5ab879c5ea",
+              "parentId": "69fcc88da07ebb995c8734a6",
+              "slotId": "mod_mount"
+            },
+            {
+              "_id": "69fcc88da07ebb995c8734ac",
+              "_tpl": "69fcb5389d6fca325ed5194b",
+              "parentId": "69fcc88da07ebb995c8734a7",
+              "slotId": "mod_muzzle"
+            },
+            {
+              "_id": "69fcc88da07ebb995c8734ad",
+              "_tpl": "56eabcd4d2720b66698b4574",
+              "parentId": "69fcc88da07ebb995c8734a7",
+              "slotId": "mod_gas_block"
+            }
+          ],
+          "_encyclopedia": "69fbe2205f919280cea5c188"
+        }
+    ],
+    "traders": {
+      "SKIER": {
+        "69fbe2205f919280cea5c189": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 33245,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": [],
+    "masterySections": [
+      {
+        "Level2": 150,
+        "Level3": 200,
+        "Name": "M4A1",
+        "Templates": [
+          "6902633fbfd8894b780f71b5"
+        ]
+      }
+    ]
+  },
+  "69fc82a79d6fca325ed5193e": {
+    "itemTplToClone": "63f5ed14534b2c3d5479a677",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Cobalt_Kinetics_Model_27/cobalt_model27_receiver.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.685,
+      "Slots": [
+        {
+          "_name": "mod_scope",
+          "_id": "63f5ed14534b2c3d5479a678",
+          "_parent": "63f5ed14534b2c3d5479a677",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57ac965c24597706be5f975c",
+                  "57aca93d2459771f2c7e26db",
+                  "544a3f024bdc2d1d388b4568",
+                  "544a3a774bdc2d3a388b4567",
+                  "5d2dc3e548f035404a1a4798",
+                  "57adff4f24597737f373b6e6",
+                  "5c0517910db83400232ffee5",
+                  "591c4efa86f7741030027726",
+                  "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f",
+                  "558022b54bdc2dac148b458d",
+                  "5c07dd120db834001c39092d",
+                  "5c0a2cec0db834001b7ce47d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "5c0505e00db834001b735073",
+                  "609a63b6e2ff132951242d09",
+                  "584984812459776a704a82a6",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "5dfe6104585a0c3e995c7b82",
+                  "544a3d0a4bdc2d1b388b4567",
+                  "5d1b5e94d7ad1a2b865a96b0",
+                  "609bab8b455afd752b2e6138",
+                  "58d39d3d86f77445bb794ae7",
+                  "616554fe50224f204c1da2aa",
+                  "5c7d55f52e221644f31bff6a",
+                  "616584766ef05c2ce828ef57",
+                  "5b3b6dc75acfc47a8773fb1e",
+                  "615d8d878004cc50514c3233",
+                  "5b2389515acfc4771e1be0c0",
+                  "577d128124597739d65d0e56",
+                  "618b9643526131765025ab35",
+                  "618bab21526131765025ab3f",
+                  "5c86592b2e2216000e69e77c",
+                  "5a37ca54c4a282000d72296a",
+                  "5d0a29fed7ad1a002769ad08",
+                  "5c064c400db834001d23f468",
+                  "58d2664f86f7747fec5834f6",
+                  "57c69dd424597774c03b7bbc",
+                  "5b3b99265acfc4704b4a1afb",
+                  "5aa66a9be5b5b0214e506e89",
+                  "5aa66c72e5b5b00016327c93",
+                  "5c1cdd302e221602b3137250",
+                  "61714b2467085e45ef140b2c",
+                  "6171407e50224f204c1da3c5",
+                  "61713cc4d8e3106d9806c109",
+                  "5b31163c5acfc400153b71cb",
+                  "5a33b652c4a28232996e407c",
+                  "5a33b2c9c4a282000c5a9511",
+                  "59db7eed86f77461f8380365",
+                  "5a1ead28fcdbcb001912fa9f",
+                  "5dff77c759400025ea5150cf",
+                  "626bb8532c923541184624b4",
+                  "62811f461d5df4475f46a332",
+                  "63fc449f5bd61c6cf3784a88",
+                  "64785e7c19d732620e045e15",
+                  "6477772ea8a38bb2050ed4db",
+                  "6478641c19d732620e045e17",
+                  "65392f611406374f82152ba5",
+                  "653931da5db71d30ab1d6296",
+                  "655f13e0a246670fb0373245",
+                  "6567e751a715f85433025998",
+                  "6761759e7ee06333f108bf86",
+                  "67641a851b2899700609901a"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_barrel",
+          "_id": "63f5ed14534b2c3d5479a679",
+          "_parent": "63f5ed14534b2c3d5479a677",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "55d35ee94bdc2d61338b4568",
+                  "55d3632e4bdc2d972f8b4569",
+                  "5d440b93a4b9364276578d4b",
+                  "5d440b9fa4b93601354d480c",
+                  "5c0e2f94d174af029f650d56",
+                  "63d3ce0446bd475bcb50f55f",
+                  "63d3d44a2a49307baf09386d"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_handguard",
+          "_id": "63f5ed14534b2c3d5479a67a",
+          "_parent": "63f5ed14534b2c3d5479a677",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "69fc848d9d6fca325ed5193f",
+                  "69fca9ee9d6fca325ed51949"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_sight_rear",
+          "_id": "63f5ed14534b2c3d5479a67b",
+          "_parent": "63f5ed14534b2c3d5479a677",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5bb20e49d4351e3bac1212de",
+                  "5ba26b17d4351e00367f9bdd",
+                  "5dfa3d7ac41b2312ea33362a",
+                  "5c1780312e221602b66cc189",
+                  "5fb6564947ce63734e3fa1da",
+                  "5bc09a18d4351e003562b68e",
+                  "5c18b9192e2216398b5a8104",
+                  "5fc0fa957283c4046c58147e",
+                  "5894a81786f77427140b8347",
+                  "55d5f46a4bdc2d1b198b4567",
+                  "5ae30bad5acfc400185c2dc4"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Cobalt Kinetics Model 27 Upper Receiver",
+        "shortName": "Cobalt",
+        "description": "Upper receiver for the Cobalt Kinetics Model 27 carbine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_reciever"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 30124,
+    "handbookPriceRoubles": 18542,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "SKIER": {
+        "69fc82a79d6fca325ed5193d": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 55730,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69fc848d9d6fca325ed5193f": {
+    "itemTplToClone": "5d4405f0a4b9361e6a4e6bd9",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Cobalt_Kinetics_Model_27/cobalt_model27_handguard.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.66,
+      "Slots": [
+        {
+          "_name": "mod_mount_000",
+          "_id": "5ea16ada09aa976f2e7a51c0",
+          "_parent": "5ea16ada09aa976f2e7a51be",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_001",
+          "_id": "5ea16ada09aa976f2e7a51c1",
+          "_parent": "5ea16ada09aa976f2e7a51be",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_002",
+          "_id": "5ea16ada09aa976f2e7a51c2",
+          "_parent": "5ea16ada09aa976f2e7a51be",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb",
+                  "671126b049e181972e0681fa"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical_000",
+          "_id": "5ea16ada09aa976f2e7a51c3",
+          "_parent": "5ea16ada09aa976f2e7a51be",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "5c06595c0db834001a66af6c",
+                  "5a7b483fe899ef0016170d15",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5c5952732e2216398b5abda2",
+                  "644a3df63b0b6f03e101e065"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_scope",
+          "_id": "5ea16ada09aa976f2e7a51c4",
+          "_parent": "5ea16ada09aa976f2e7a51be",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5649a2464bdc2d91118b45a8"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_foregrip",
+          "_id": "5ea16ada09aa976f2e7a51c5",
+          "_parent": "5ea16ada09aa976f2e7a51be",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57cffb66245977632f391a99",
+                  "57cffcd624597763133760c5",
+                  "57cffcdd24597763f5110006",
+                  "57cffce524597763b31685d8",
+                  "5b7be4895acfc400170e2dd5",
+                  "651a8bf3a8520e48047bf708",
+                  "651a8e529829226ceb67c319",
+                  "665d5d9e338229cfd6078da1",
+                  "665edce564fb556f940ab32a"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_sight_front",
+          "_id": "5ea16ada09aa976f2e7a51c6",
+          "_parent": "5ea16ada09aa976f2e7a51be",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ba26b01d4351e0085325a51",
+                  "5dfa3d950dee1b22f862eae0",
+                  "5c17804b2e2216152006c02f",
+                  "5fb6567747ce63734e3fa1dc",
+                  "5bc09a30d4351e00367fb7c8",
+                  "5c18b90d2e2216152142466b",
+                  "5fc0fa362770a0045c59c677",
+                  "5894a73486f77426d259076c",
+                  "55d4af3a4bdc2d972f8b456f"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Cobalt Kinetics Model 27 16 inch Handguard",
+        "shortName": "Cobalt 16",
+        "description": "Special handguard designed by Cobalt Kinetics for the Model 27 carbine. The handguard features a full length Picatinny rail on top and M-LOK slots on the sides and bottom for mounting accessories."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 41934,
+    "handbookPriceRoubles": 23452,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "SKIER": {
+        "69fc848d9d6fca325ed51940": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 81734,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69fca9ee9d6fca325ed51949": {
+    "itemTplToClone": "640b20359ab20e15ee445fa9",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Cobalt_Kinetics_Model_27/cobalt_bamf_handguard.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.620,
+      "Slots": [
+        {
+          "_name": "mod_mount_000",
+          "_id": "5ea16ada09aa976f2e7a51c0",
+          "_parent": "5ea16ada09aa976f2e7a51be",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_001",
+          "_id": "5ea16ada09aa976f2e7a51c1",
+          "_parent": "5ea16ada09aa976f2e7a51be",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_002",
+          "_id": "5c7905762e22160bc12c5e32",
+          "_parent": "5c78f2492e221600114c9f04",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a800961159bd4315e3a1657",
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5c06595c0db834001a66af6c",
+                  "5cc9c20cd7f00c001336c65d",
+                  "5d2369418abbc306c62e0c80",
+                  "5b07dd285acfc4001754240d",
+                  "56def37dd2720bec348b456a",
+                  "5a7b483fe899ef0016170d15",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5a5f1ce64f39f90b401987bc",
+                  "560d657b4bdc2da74d8b4572",
+                  "5b3a337e5acfc4704b4a19a0",
+                  "5c5952732e2216398b5abda2",
+                  "57d17e212459775a1179a0f5",
+                  "6267c6396b642f77f56f5c1c",
+                  "6272370ee4013c5d7e31f418",
+                  "6272379924e29f06af4d5ecb",
+                  "626becf9582c3e319310b837",
+                  "644a3df63b0b6f03e101e065",
+                  "646f6322f43d0c5d62063715",
+                  "6644920d49817dc7d505ca71",
+                  "676175bb48fa5c377e06fc36"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_scope",
+          "_id": "5ea16ada09aa976f2e7a51c4",
+          "_parent": "5ea16ada09aa976f2e7a51be",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5649a2464bdc2d91118b45a8"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_foregrip",
+          "_id": "5ea16ada09aa976f2e7a51c5",
+          "_parent": "5ea16ada09aa976f2e7a51be",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57cffb66245977632f391a99",
+                  "57cffcd624597763133760c5",
+                  "57cffcdd24597763f5110006",
+                  "57cffce524597763b31685d8",
+                  "5b7be4895acfc400170e2dd5",
+                  "651a8bf3a8520e48047bf708",
+                  "651a8e529829226ceb67c319",
+                  "665d5d9e338229cfd6078da1",
+                  "665edce564fb556f940ab32a"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_sight_front",
+          "_id": "5ea16ada09aa976f2e7a51c6",
+          "_parent": "5ea16ada09aa976f2e7a51be",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ba26b01d4351e0085325a51",
+                  "5dfa3d950dee1b22f862eae0",
+                  "5c17804b2e2216152006c02f",
+                  "5fb6567747ce63734e3fa1dc",
+                  "5bc09a30d4351e00367fb7c8",
+                  "5c18b90d2e2216152142466b",
+                  "5fc0fa362770a0045c59c677",
+                  "5894a73486f77426d259076c",
+                  "55d4af3a4bdc2d972f8b456f"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Cobalt Kinetics BAMF 27 16 inch Handguard",
+        "shortName": "BAMF",
+        "description": "The Cobalt Kinetics BAMF handguard, reduces weight while maintaining strength and rigidity. The handguard features a full length Picatinny rail on top and M-LOK slots on the sides and bottom for mounting accessories. Crafted from Billet alluminum."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 41934,
+    "handbookPriceRoubles": 23452,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "SKIER": {
+        "69fca9ee9d6fca325ed5194a": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 81734,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69fc84f79d6fca325ed51941": {
+    "itemTplToClone": "5a33e75ac4a2826c6e06d759",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Cobalt_Kinetics_Model_27/cobalt_model27_stock.bundle",
+        "rcid": ""
+      },
+      "Recoil": -28,
+      "Ergonomics": 13,
+      "Weight": 0.620,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Cobalt Kinetics Model 27 pistol grip/buttstock",
+        "shortName": "Cobalt",
+        "description": "Pistol grip and buttstock for the Cobalt Kinetics Model 27 carbine. The stock features an adjustable length of pull and a rubberized buttpad for improved comfort and recoil absorption."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_stock_000",
+      "mod_stock"
+    ],
+    "fleaPriceRoubles": 38263,
+    "handbookPriceRoubles": 21435,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "69fc84f79d6fca325ed51942": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 409,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "69fc85719d6fca325ed51943": {
+    "itemTplToClone": "5c793fb92e221644f31bfb64",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Cobalt_Kinetics_Model_27/cobalt_model27_buffer.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.320,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Cobalt Kinetics Model 27 buffer tube",
+        "shortName": "Cobalt",
+        "description": "Buffer tube for the Cobalt Kinetics Model 27 carbine. The buffer tube provides stability and support for the stock assembly."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_stock_000",
+      "mod_stock"
+    ],
+    "fleaPriceRoubles": 8700,
+    "handbookPriceRoubles": 3455,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "69fc85719d6fca325ed51944": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 14616,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "69fc98a69d6fca325ed51947": {
+    "itemTplToClone": "6033749e88382f4fab3fd2c5",
+    "parentId": "55818a6f4bdc2db9688b456b",
+    "handbookParentId": "5b5f751486f77447ec5d770c",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Cobalt_Kinetics_Model_27/cobalt_model27_charge.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": 3
+    },
+    "locales": {
+      "en": {
+        "name": "AR-15 Cobalt Kinetics charging handle",
+        "shortName": "Cobalt",
+        "description": "A charging handle from Cobalt Kinetics. The large latch makes it easy to operate, even with gloves on."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_charge"
+    ],
+    "fleaPriceRoubles": 2119,
+    "handbookPriceRoubles": 1342,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 3000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3000
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "69fc98a69d6fca325ed51948": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 4311,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "69fcb5389d6fca325ed5194b": {
+    "itemTplToClone": "63ac5c9658d0485fc039f0b8",
+    "parentId": "550aa4bf4bdc2dd6348b456b",
+    "handbookParentId": "5b5f724c86f774093f2ecf15",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Cobalt_Kinetics_Model_27/cobalt_bamf_muzzle.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "AR-15 Cobalt Kinetics BAMF 5.56x45 flash hider",
+        "shortName": "BAMF",
+        "description": "Special FlashHider from Cobalt Kinetics."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 11800,
+    "handbookPriceRoubles": 7532,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "69fcb5389d6fca325ed5194c": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 13452,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  }
+}

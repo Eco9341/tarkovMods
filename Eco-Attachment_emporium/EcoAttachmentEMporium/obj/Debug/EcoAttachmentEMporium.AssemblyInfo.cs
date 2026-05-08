@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Eco-Attachment-Emporium")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("2.0.6.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("2.0.6+00e0227d3c08d7b0bd4fe554a612dc46f129aec8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("2.0.6+d8e8ace50108e9dea55a4b83f70f321647b9e6c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Eco-Attachment-Emporium")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Eco-Attachment-Emporium")]
 [assembly: System.Reflection.AssemblyVersionAttribute("2.0.6.0")]

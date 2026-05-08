@@ -172,3 +172,5 @@ C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\
 C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomBotLoadouts\pmcbot.json
 C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomBotLoadouts\pmcusec.json
 C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\PSA_JAKL.json
+C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\BRO_Commando.json
+C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\Cobalt_Kinetics_Model_27.json

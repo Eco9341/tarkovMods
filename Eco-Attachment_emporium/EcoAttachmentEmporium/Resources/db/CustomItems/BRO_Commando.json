@@ -1,0 +1,1137 @@
+{
+  "69fb5f225f919280cea5c17c": {
+    "itemTplToClone": "65290f395ae2ae97b80fdf2d",
+    "parentId": "5447b5f14bdc2d61278b4567",
+    "handbookParentId": "5b5f78fc86f77409407a7f90",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/BRO_Commando/weapon_bro_commando_container.bundle",
+        "rcid": ""
+      },
+      "Weight": 1.7,
+      "Width": 4,
+      "RecoilForceBack": 296,
+      "RecoilForceUp": 108,
+      "CompactHandling": false,
+      "isChamberLoad": false,
+      "isBoltCatch": false,
+      "CanUnloadAmmoByPlayer": false,
+      "ammoCaliber": "Caliber762x51",
+      "defAmmo": "5e023e53d4353e3302577c4c",
+      "defMagType": "5a3501acc4a282000d72293a",
+      "Chambers": [
+      {
+        "_name": "patron_in_weapon",
+        "_id": "5dcbd56fdbd3d91b3e5468dd",
+        "_parent": "5dcbd56fdbd3d91b3e5468d5",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5a6086ea4f39f99cd479502f",
+                "5a608bf24f39f98ffc77720e",
+                "58dd3ad986f77403051cba8f",
+                "5e023e53d4353e3302577c4c",
+                "5efb0c1bd79ff02a1f5e68d9",
+                "5e023e6e34d52a55c3304f71",
+                "5e023e88277cce2b522ff2b1",
+                "6768c25aa7b238f14a08d3f6"
+              ]
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d4af244bdc2d962f8b4571"
+      }
+      ],
+      "Slots": [
+    {
+        "_name": "mod_pistol_grip",
+        "_id": "65290f395ae2ae97b80fdf2e",
+        "_parent": "65290f395ae2ae97b80fdf2d",
+        "_props": {
+        "filters": [
+            {
+            "Filter": [
+                "55d4b9964bdc2d1d4e8b456e",
+                "571659bb2459771fb2755a12",
+                "6113c3586c780c1e710c90bc",
+                "6113cc78d3a39d50044c065a",
+                "6113cce3d92c473c770200c7",
+                "5bb20e18d4351e00320205d5",
+                "5c6d7b3d2e221600114c9b7d",
+                "57c55efc2459772d2c6271e7",
+                "57af48872459771f0b2ebf11",
+                "57c55f092459772d291a8463",
+                "57c55f112459772d28133310",
+                "57c55f172459772d27602381",
+                "5a339805c4a2826c6e06d73d",
+                "615d8faecabb9b7ad90f4d5d",
+                "5b07db875acfc40dc528a5f6",
+                "63f5feead259b42f0b4d6d0f",
+                "68c5613ff19e7d06d6029a43",
+                "68c5613ff19e7d06d6029a44",
+                "68c5613ff19e7d06d6029a45",
+                "68c5613ff19e7d06d6029a46",
+                "68c5613ff19e7d06d6029a47",
+                "68c57d3bf19e7d06d6029a48",
+                "68c58ca0bab700bb310485c0"
+            ],
+            "Shift": 0
+            }
+        ]
+        },
+        "_required": true,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+    },
+    {
+        "_name": "mod_magazine",
+        "_id": "65290f395ae2ae97b80fdf2f",
+        "_parent": "65290f395ae2ae97b80fdf2d",
+        "_props": {
+        "filters": [
+            {
+            "AnimationIndex": -1,
+            "Filter": [
+                "65293c38fc460e50a509cb25",
+                "65293c7a17e14363030ad308",
+                "5a3501acc4a282000d72293a",
+                "5df8f541c41b2312ea3335e3",
+                "5df8f535bb49d91fb446d6b0",
+                "6761770e48fa5c377e06fc3c"
+            ]
+            }
+        ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c394bdc2dae468b4577"
+    },
+    {
+        "_name": "mod_reciever",
+        "_id": "65290f395ae2ae97b80fdf30",
+        "_parent": "65290f395ae2ae97b80fdf2d",
+        "_props": {
+        "filters": [
+            {
+            "Filter": [
+                "69fb60685f919280cea5c17e"
+            ],
+            "Shift": 0
+            }
+        ]
+        },
+        "_required": true,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+    },
+    {
+    "_name": "mod_barrel",
+    "_id": "6529119424cbe3c74a05e5bd",
+    "_parent": "6529119424cbe3c74a05e5bb",
+    "_props": {
+        "filters": [
+        {
+            "Filter": [
+            "69fb729d5f919280cea5c180",
+            "69fb72f75f919280cea5c182"
+            ],
+            "Shift": 0
+        }
+        ]
+    },
+    "_required": true,
+    "_mergeSlotWithChildren": false,
+    "_proto": "55d30c4c4bdc2db4468b457e"
+    },
+    {
+    "_name": "mod_handguard",
+    "_id": "6529119424cbe3c74a05e5be",
+    "_parent": "6529119424cbe3c74a05e5bb",
+    "_props": {
+        "filters": [
+        {
+            "Filter": [
+            "69fb74495f919280cea5c184",
+            "69fb74795f919280cea5c186"
+            ],
+            "Shift": 0
+        }
+        ]
+    },
+    "_required": true,
+    "_mergeSlotWithChildren": false,
+    "_proto": "55d30c4c4bdc2db4468b457e"
+    },  
+    {
+    "_name": "mod_scope",
+    "_id": "6529119424cbe3c74a05e5bc",
+    "_parent": "6529119424cbe3c74a05e5bb",
+    "_props": {
+        "filters": [
+        {
+            "Filter": [
+            "57ac965c24597706be5f975c",
+            "57aca93d2459771f2c7e26db",
+            "544a3f024bdc2d1d388b4568",
+            "544a3a774bdc2d3a388b4567",
+            "5d2dc3e548f035404a1a4798",
+            "57adff4f24597737f373b6e6",
+            "5c0517910db83400232ffee5",
+            "591c4efa86f7741030027726",
+            "570fd79bd2720bc7458b4583",
+            "570fd6c2d2720bc6458b457f",
+            "558022b54bdc2dac148b458d",
+            "5c07dd120db834001c39092d",
+            "5c0a2cec0db834001b7ce47d",
+            "58491f3324597764bc48fa02",
+            "584924ec24597768f12ae244",
+            "5b30b0dc5acfc400153b7124",
+            "6165ac8c290d254f5e6b2f6c",
+            "60a23797a37c940de7062d02",
+            "5d2da1e948f035477b1ce2ba",
+            "5c0505e00db834001b735073",
+            "609a63b6e2ff132951242d09",
+            "584984812459776a704a82a6",
+            "59f9d81586f7744c7506ee62",
+            "570fd721d2720bc5458b4596",
+            "57ae0171245977343c27bfcf",
+            "5dfe6104585a0c3e995c7b82",
+            "544a3d0a4bdc2d1b388b4567",
+            "5d1b5e94d7ad1a2b865a96b0",
+            "609bab8b455afd752b2e6138",
+            "58d39d3d86f77445bb794ae7",
+            "616554fe50224f204c1da2aa",
+            "5c7d55f52e221644f31bff6a",
+            "616584766ef05c2ce828ef57",
+            "5b3b6dc75acfc47a8773fb1e",
+            "615d8d878004cc50514c3233",
+            "5b2389515acfc4771e1be0c0",
+            "577d128124597739d65d0e56",
+            "618b9643526131765025ab35",
+            "618bab21526131765025ab3f",
+            "5c86592b2e2216000e69e77c",
+            "5a37ca54c4a282000d72296a",
+            "5d0a29fed7ad1a002769ad08",
+            "5c064c400db834001d23f468",
+            "58d2664f86f7747fec5834f6",
+            "57c69dd424597774c03b7bbc",
+            "5b3b99265acfc4704b4a1afb",
+            "5aa66a9be5b5b0214e506e89",
+            "5aa66c72e5b5b00016327c93",
+            "5c1cdd302e221602b3137250",
+            "61714b2467085e45ef140b2c",
+            "6171407e50224f204c1da3c5",
+            "61713cc4d8e3106d9806c109",
+            "5b31163c5acfc400153b71cb",
+            "5a33b652c4a28232996e407c",
+            "5a33b2c9c4a282000c5a9511",
+            "59db7eed86f77461f8380365",
+            "5a1ead28fcdbcb001912fa9f",
+            "5dff77c759400025ea5150cf",
+            "626bb8532c923541184624b4",
+            "62811f461d5df4475f46a332",
+            "63fc449f5bd61c6cf3784a88",
+            "6477772ea8a38bb2050ed4db",
+            "6478641c19d732620e045e17",
+            "64785e7c19d732620e045e15",
+            "6567e751a715f85433025998",
+            "655f13e0a246670fb0373245",
+            "65392f611406374f82152ba5",
+            "653931da5db71d30ab1d6296",
+            "67641a851b2899700609901a",
+            "6761759e7ee06333f108bf86"
+            ],
+            "Shift": 0
+        }
+        ]
+    },
+    "_required": false,
+    "_mergeSlotWithChildren": false,
+    "_proto": "55d30c4c4bdc2db4468b457e"
+    },
+    {
+    "_name": "mod_sight_rear",
+    "_id": "6529119424cbe3c74a05e5bf",
+    "_parent": "6529119424cbe3c74a05e5bb",
+    "_props": {
+        "filters": [
+        {
+            "Filter": [
+            "5bb20e49d4351e3bac1212de",
+            "5ba26b17d4351e00367f9bdd",
+            "5dfa3d7ac41b2312ea33362a",
+            "5c1780312e221602b66cc189",
+            "5fb6564947ce63734e3fa1da",
+            "5bc09a18d4351e003562b68e",
+            "5c18b9192e2216398b5a8104",
+            "5fc0fa957283c4046c58147e",
+            "5894a81786f77427140b8347",
+            "55d5f46a4bdc2d1b198b4567",
+            "5ae30bad5acfc400185c2dc4"
+            ],
+            "Shift": 0
+        }
+        ]
+    },
+    "_required": false,
+    "_mergeSlotWithChildren": false,
+    "_proto": "55d30c4c4bdc2db4468b457e"
+    },
+    {
+    "_name": "mod_scope_000",
+    "_id": "65293d2817e14363030ad30b",
+    "_parent": "6529119424cbe3c74a05e5bb",
+    "_props": {
+        "filters": [
+        {
+            "Filter": [
+            "5649a2464bdc2d91118b45a8"
+            ],
+            "Shift": 0
+        }
+        ]
+    },
+    "_required": false,
+    "_mergeSlotWithChildren": false,
+    "_proto": "55d30c4c4bdc2db4468b457e"
+    }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Black Rain Ordinance Commando 7.62x51 Assault Rifle",
+        "shortName": "BRO Commando",
+        "description": "The BRO Commando is a 7.62x51 assault rifle manufactured by Black Rain Ordinance. The rifle is designed for versatility and can be used in various combat scenarios, making it a popular choice among tactical operators and firearms enthusiasts. First presented at ShotShow 2023."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 63230,
+    "handbookPriceRoubles": 23991,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
+      }
+    ],
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+          {
+            "_id": "69fba70d882d08a0e4f6d32b",
+            "_type": "Preset",
+            "_changeWeaponName": false,
+            "_name": "BRO Commando",
+            "_parent": "69fba70d882d08a0e4f6d32c",
+            "_items": [
+              {
+                "_id": "69fba70d882d08a0e4f6d32c",
+                "_tpl": "69fb5f225f919280cea5c17c",
+                "upd": {
+                  "Repairable": {
+                    "Durability": 100,
+                    "MaxDurability": 100
+                  },
+                  "FireMode": {
+                    "FireMode": "single"
+                  }
+                }
+              },
+              {
+                "_id": "69fba70a882d08a0e4f6d21c",
+                "_tpl": "57c55efc2459772d2c6271e7",
+                "parentId": "69fba70d882d08a0e4f6d32c",
+                "slotId": "mod_pistol_grip"
+              },
+              {
+                "_id": "69fba70a882d08a0e4f6d21d",
+                "_tpl": "5a3501acc4a282000d72293a",
+                "parentId": "69fba70d882d08a0e4f6d32c",
+                "slotId": "mod_magazine"
+              },
+              {
+                "_id": "69fba70a882d08a0e4f6d21e",
+                "_tpl": "69fb60685f919280cea5c17e",
+                "parentId": "69fba70d882d08a0e4f6d32c",
+                "slotId": "mod_reciever"
+              },
+              {
+                "_id": "69fba70a882d08a0e4f6d21f",
+                "_tpl": "69fb729d5f919280cea5c180",
+                "parentId": "69fba70d882d08a0e4f6d32c",
+                "slotId": "mod_barrel"
+              },
+              {
+                "_id": "69fba70a882d08a0e4f6d220",
+                "_tpl": "69fb74495f919280cea5c184",
+                "parentId": "69fba70d882d08a0e4f6d32c",
+                "slotId": "mod_handguard"
+              },
+              {
+                "_id": "69fba70a882d08a0e4f6d221",
+                "_tpl": "5bc09a18d4351e003562b68e",
+                "parentId": "69fba70d882d08a0e4f6d32c",
+                "slotId": "mod_sight_rear",
+                "upd": {
+                  "Sight": {
+                    "ScopesCurrentCalibPointIndexes": [
+                      0
+                    ],
+                    "ScopesSelectedModes": [
+                      0
+                    ],
+                    "SelectedScope": 0,
+                    "ScopeZoomValue": 0
+                  }
+                }
+              },
+              {
+                "_id": "69fba70a882d08a0e4f6d222",
+                "_tpl": "5a34fd2bc4a282329a73b4c5",
+                "parentId": "69fba70a882d08a0e4f6d21f",
+                "slotId": "mod_muzzle"
+              },
+              {
+                "_id": "69fba70a882d08a0e4f6d223",
+                "_tpl": "5bc09a30d4351e00367fb7c8",
+                "parentId": "69fba70a882d08a0e4f6d220",
+                "slotId": "mod_sight_front",
+                "upd": {
+                  "Sight": {
+                    "ScopesCurrentCalibPointIndexes": [
+                      0
+                    ],
+                    "ScopesSelectedModes": [
+                      0
+                    ],
+                    "SelectedScope": 0,
+                    "ScopeZoomValue": 0
+                  }
+                }
+              }
+            ],
+            "_encyclopedia": "69fb5f225f919280cea5c17c"
+          }
+    ],
+    "traders": {
+      "SKIER": {
+        "69fb5f225f919280cea5c17d": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 34000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Level2": 1600,
+        "Level3": 2000,
+        "Name": "BRO Commando",
+        "Templates": [
+          "69fb5f225f919280cea5c17c"
+        ]
+      }
+    ]
+  },
+  "69fb60685f919280cea5c17e": {
+    "itemTplToClone": "6529119424cbe3c74a05e5bb",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/BRO_Commando/bro_commando_charge.bundle",
+        "rcid": ""
+      },
+    "Weight": 0.032,
+    "Slots": [
+    ]
+    },
+    "locales": {
+      "en": {
+        "name": "BRO Commando charge handle",
+        "shortName": "BRO Commando",
+        "description": "Charging handle for the BRO Commando assault rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_reciever"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 3944,
+    "handbookPriceRoubles": 1234,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "69fb60685f919280cea5c17f": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 5322,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69fb729d5f919280cea5c180": {
+    "itemTplToClone": "5d2702e88abbc31ed91efc44",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/BRO_Commando/bro_commando_26_barrel.bundle",
+        "rcid": ""
+      },
+      "ExtraSizeDown": 0,
+      "ExtraSizeLeft": 2,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Slots": [
+      {
+        "_name": "mod_muzzle",
+        "_id": "5dfa397fb11454561e39246e",
+        "_parent": "5dfa397fb11454561e39246c",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "612e0d3767085e45ef14057f",
+                "5b7d693d5acfc43bca706a3d",
+                "5a34fd2bc4a282329a73b4c5",
+                "6065c6e7132d4d12c81fd8e1",
+                "5d1f819086f7744b355c219b",
+                "5dcbe965e4ed22586443a79d",
+                "5d026791d7ad1a04a067ea63",
+                "5dfa3cd1b33c0951220c079b",
+                "6130c43c67085e45ef1405a1",
+                "5cdd7685d7f00c000f260ed2",
+                "5c878e9d2e2216000f201903",
+                "5d02677ad7ad1a04a15c0f95",
+                "5bbdb8bdd4351e4502011460",
+                "5cdd7693d7f00c0010373aa5",
+                "607ffb988900dc2d9a55b6e4",
+                "615d8eb350224f204c1da1cf",
+                "612e0e3c290d254f5e6b291d",
+                "5d443f8fa4b93678dd4a01aa",
+                "5c7954d52e221600106f4cc7",
+                "5fbc22ccf24b94483f726483",
+                "59bffc1f86f77435b128b872",
+                "5cf78496d7f00c065703d6ca",
+                "5fbe7618d6fa9c00c571bb6c",
+                "628a66b41d5e41750e314f34",
+                "6642f63667f5cb56a00662eb"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "BRO Commando 26 inch Barrel",
+        "shortName": "BRO 26",
+        "description": "A 26 inch (660mm) barrel for the BRO Commando rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 25900,
+    "handbookPriceRoubles": 13453,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "69fb729d5f919280cea5c181": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 36260,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69fb72f75f919280cea5c182": {
+    "itemTplToClone": "5bfebc320db8340019668d79",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/BRO_Commando/bro_commando_22_barrel.bundle",
+        "rcid": ""
+      },
+      "ExtraSizeDown": 0,
+      "ExtraSizeLeft": 1,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+        "Slots": [
+        {
+          "_name": "mod_muzzle",
+          "_id": "5dfa397fb11454561e39246e",
+          "_parent": "5dfa397fb11454561e39246c",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "612e0d3767085e45ef14057f",
+                  "5b7d693d5acfc43bca706a3d",
+                  "5a34fd2bc4a282329a73b4c5",
+                  "6065c6e7132d4d12c81fd8e1",
+                  "5d1f819086f7744b355c219b",
+                  "5dcbe965e4ed22586443a79d",
+                  "5d026791d7ad1a04a067ea63",
+                  "5dfa3cd1b33c0951220c079b",
+                  "6130c43c67085e45ef1405a1",
+                  "5cdd7685d7f00c000f260ed2",
+                  "5c878e9d2e2216000f201903",
+                  "5d02677ad7ad1a04a15c0f95",
+                  "5bbdb8bdd4351e4502011460",
+                  "5cdd7693d7f00c0010373aa5",
+                  "607ffb988900dc2d9a55b6e4",
+                  "615d8eb350224f204c1da1cf",
+                  "612e0e3c290d254f5e6b291d",
+                  "5d443f8fa4b93678dd4a01aa",
+                  "5c7954d52e221600106f4cc7",
+                  "5fbc22ccf24b94483f726483",
+                  "59bffc1f86f77435b128b872",
+                  "5cf78496d7f00c065703d6ca",
+                  "5fbe7618d6fa9c00c571bb6c",
+                  "628a66b41d5e41750e314f34",
+                  "6642f63667f5cb56a00662eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+        ]
+    },
+    "locales": {
+      "en": {
+        "name": "BRO Commando 20 inch Barrel",
+        "shortName": "BRO 20",
+        "description": "A 20 inch (508mm) barrel for the BRO Commando rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 22200,
+    "handbookPriceRoubles": 12434,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "69fb72f75f919280cea5c183": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 31080,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69fb74495f919280cea5c184": {
+    "itemTplToClone": "6034e3e20ddce744014cb878",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/BRO_Commando/bro_commando_long_handguard.bundle",
+        "rcid": ""
+      },
+      "ExtraSizeDown": 0,
+      "ExtraSizeLeft": 2,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Slots": [
+        {
+            "_name": "mod_mount_000",
+            "_id": "5ea16ada09aa976f2e7a51c0",
+            "_parent": "5ea16ada09aa976f2e7a51be",
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "5b7be47f5acfc400170e2dd2",
+                    "6269220d70b6c02e665f2635",
+                    "6269545d0e57f218e4548ca2",
+                    "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+                }
+            ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_001",
+            "_id": "5ea16ada09aa976f2e7a51c1",
+            "_parent": "5ea16ada09aa976f2e7a51be",
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "5b7be47f5acfc400170e2dd2",
+                    "6269220d70b6c02e665f2635",
+                    "6269545d0e57f218e4548ca2",
+                    "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+                }
+            ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_002",
+            "_id": "5ea16ada09aa976f2e7a51c2",
+            "_parent": "5ea16ada09aa976f2e7a51be",
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "5b7be47f5acfc400170e2dd2",
+                    "6269220d70b6c02e665f2635",
+                    "6269545d0e57f218e4548ca2",
+                    "669a6a4a525be1d2d004b8eb",
+                    "671126b049e181972e0681fa"
+                ],
+                "Shift": 0
+                }
+            ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_tactical_000",
+            "_id": "5ea16ada09aa976f2e7a51c3",
+            "_parent": "5ea16ada09aa976f2e7a51be",
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "57fd23e32459772d0805bcf1",
+                    "544909bb4bdc2d6f028b4577",
+                    "5d10b49bd7ad1a1a560708b0",
+                    "5c06595c0db834001a66af6c",
+                    "5a7b483fe899ef0016170d15",
+                    "61605d88ffa6e502ac5e7eeb",
+                    "5c5952732e2216398b5abda2",
+                    "644a3df63b0b6f03e101e065"
+                ],
+                "Shift": 0
+                }
+            ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_foregrip",
+            "_id": "5ea16ada09aa976f2e7a51c5",
+            "_parent": "5ea16ada09aa976f2e7a51be",
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "57cffb66245977632f391a99",
+                    "57cffcd624597763133760c5",
+                    "57cffcdd24597763f5110006",
+                    "57cffce524597763b31685d8",
+                    "5b7be4895acfc400170e2dd5",
+                    "651a8bf3a8520e48047bf708",
+                    "651a8e529829226ceb67c319",
+                    "665d5d9e338229cfd6078da1",
+                    "665edce564fb556f940ab32a"
+                ],
+                "Shift": 0
+                }
+            ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_sight_front",
+            "_id": "5ea16ada09aa976f2e7a51c6",
+            "_parent": "5ea16ada09aa976f2e7a51be",
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "5ba26b01d4351e0085325a51",
+                    "5dfa3d950dee1b22f862eae0",
+                    "5c17804b2e2216152006c02f",
+                    "5fb6567747ce63734e3fa1dc",
+                    "5bc09a30d4351e00367fb7c8",
+                    "5c18b90d2e2216152142466b",
+                    "5fc0fa362770a0045c59c677",
+                    "5894a73486f77426d259076c",
+                    "55d4af3a4bdc2d972f8b456f"
+                ],
+                "Shift": 0
+                }
+            ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "BRO Commando 12 inch handguard",
+        "shortName": "BRO 12",
+        "description": "A 12 inch (305mm) handguard for the BRO Commando rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 12500,
+    "handbookPriceRoubles": 8532,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "69fb74495f919280cea5c185": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 23125,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "69fb74795f919280cea5c186": {
+    "itemTplToClone": "6034e3cb0ddce744014cb870",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/BRO_Commando/bro_commando_short_handguard.bundle",
+        "rcid": ""
+      },
+      "ExtraSizeDown": 0,
+      "ExtraSizeLeft": 1,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Slots": [
+        {
+            "_name": "mod_mount_000",
+            "_id": "5ea16ada09aa976f2e7a51c0",
+            "_parent": "5ea16ada09aa976f2e7a51be",
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "5b7be47f5acfc400170e2dd2",
+                    "6269220d70b6c02e665f2635",
+                    "6269545d0e57f218e4548ca2",
+                    "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+                }
+            ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_001",
+            "_id": "5ea16ada09aa976f2e7a51c1",
+            "_parent": "5ea16ada09aa976f2e7a51be",
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "5b7be47f5acfc400170e2dd2",
+                    "6269220d70b6c02e665f2635",
+                    "6269545d0e57f218e4548ca2",
+                    "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+                }
+            ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_tactical_000",
+            "_id": "5ea16ada09aa976f2e7a51c3",
+            "_parent": "5ea16ada09aa976f2e7a51be",
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "57fd23e32459772d0805bcf1",
+                    "544909bb4bdc2d6f028b4577",
+                    "5d10b49bd7ad1a1a560708b0",
+                    "5c06595c0db834001a66af6c",
+                    "5a7b483fe899ef0016170d15",
+                    "61605d88ffa6e502ac5e7eeb",
+                    "5c5952732e2216398b5abda2",
+                    "644a3df63b0b6f03e101e065"
+                ],
+                "Shift": 0
+                }
+            ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_foregrip",
+            "_id": "5ea16ada09aa976f2e7a51c5",
+            "_parent": "5ea16ada09aa976f2e7a51be",
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "57cffb66245977632f391a99",
+                    "57cffcd624597763133760c5",
+                    "57cffcdd24597763f5110006",
+                    "57cffce524597763b31685d8",
+                    "5b7be4895acfc400170e2dd5",
+                    "651a8bf3a8520e48047bf708",
+                    "651a8e529829226ceb67c319",
+                    "665d5d9e338229cfd6078da1",
+                    "665edce564fb556f940ab32a"
+                ],
+                "Shift": 0
+                }
+            ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_sight_front",
+            "_id": "5ea16ada09aa976f2e7a51c6",
+            "_parent": "5ea16ada09aa976f2e7a51be",
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "5ba26b01d4351e0085325a51",
+                    "5dfa3d950dee1b22f862eae0",
+                    "5c17804b2e2216152006c02f",
+                    "5fb6567747ce63734e3fa1dc",
+                    "5bc09a30d4351e00367fb7c8",
+                    "5c18b90d2e2216152142466b",
+                    "5fc0fa362770a0045c59c677",
+                    "5894a73486f77426d259076c",
+                    "55d4af3a4bdc2d972f8b456f"
+                ],
+                "Shift": 0
+                }
+            ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "BRO Commando 9 inch handguard",
+        "shortName": "BRO 9",
+        "description": "A 9 inch (229mm) handguard for the BRO Commando rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 10500,
+    "handbookPriceRoubles": 6742,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "69fb74795f919280cea5c187": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 19425,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

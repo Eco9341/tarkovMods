@@ -3344,8 +3344,7 @@
                 "assets/systems/effects/muzzleflash/muzzleflash.bundle",
                 "assets/content/audio/weapons/generic",
                 "assets/content/audio/blendoptions/assets.bundle",
-                "assets/content/weapons/additional_hands/client_assets.bundle",
-                "assets/systems/effects/smoke"
+                "assets/content/weapons/additional_hands/client_assets.bundle"
             ]
         },
         {
@@ -3559,8 +3558,7 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle",
-                "assets/systems/nightvision"
+                "assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
         {
@@ -3568,8 +3566,7 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle",
-                "assets/systems/nightvision"
+                "assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
         {
@@ -3577,8 +3574,7 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle",
-                "assets/systems/nightvision"
+                "assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
         {
@@ -3586,8 +3582,7 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle",
-                "assets/systems/nightvision"
+                "assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
         {
@@ -4468,6 +4463,156 @@
                 "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle",
                 "Mods/JAKL/jakl_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/BRO_Commando/weapon_bro_commando_container.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+                "assets/systems/effects/heathaze/defaultheathaze.bundle",
+                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle",
+                "Mods/BRO_Commando/bro_commando_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/BRO_Commando/bro_commando_charge.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/BRO_Commando/bro_commando_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/BRO_Commando/bro_commando_26_barrel.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/BRO_Commando/bro_commando_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/BRO_Commando/bro_commando_22_barrel.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/BRO_Commando/bro_commando_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/BRO_Commando/bro_commando_long_handguard.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/BRO_Commando/bro_commando_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/BRO_Commando/bro_commando_short_handguard.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/BRO_Commando/bro_commando_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/BRO_Commando/bro_commando_textures.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps"
+            ]
+        },
+        {
+            "key": "Mods/Cobalt_Kinetics_Model_27/weapon_cobalt_model27_container.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+                "assets/systems/effects/heathaze/defaultheathaze.bundle",
+                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle",
+                "Mods/Cobalt_Kinetics_Model_27/cobalt_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Cobalt_Kinetics_Model_27/cobalt_model27_stock.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/Cobalt_Kinetics_Model_27/cobalt_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Cobalt_Kinetics_Model_27/cobalt_model27_buffer.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/Cobalt_Kinetics_Model_27/cobalt_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Cobalt_Kinetics_Model_27/cobalt_model27_handguard.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/Cobalt_Kinetics_Model_27/cobalt_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Cobalt_Kinetics_Model_27/cobalt_model27_receiver.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/Cobalt_Kinetics_Model_27/cobalt_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Cobalt_Kinetics_Model_27/cobalt_model27_charge.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/Cobalt_Kinetics_Model_27/cobalt_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Cobalt_Kinetics_Model_27/cobalt_bamf_handguard.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/Cobalt_Kinetics_Model_27/cobalt_textures.bundle"
+            ]
+        },    
+        {
+            "key": "Mods/Cobalt_Kinetics_Model_27/cobalt_bamf_muzzle.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/Cobalt_Kinetics_Model_27/cobalt_textures.bundle"
+            ]
+        },       
+        {
+            "key": "Mods/Cobalt_Kinetics_Model_27/cobalt_textures.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
             ]
         }
     ]

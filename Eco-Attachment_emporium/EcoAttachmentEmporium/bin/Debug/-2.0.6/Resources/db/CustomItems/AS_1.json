@@ -14,6 +14,7 @@
         "Ergonomics": 53,
         "CompactHandling": false,
         "isChamberLoad": false,
+        "CanUnloadAmmoByPlayer": false,
         "AllowFeed": false,
         "AllowJam": false,
         "AllowMisfire": false,
@@ -131,24 +132,6 @@
           ]
         },
         "_required": false,
-        "_mergeSlotWithChildren": false,
-        "_proto": "55d30c4c4bdc2db4468b457e"
-      },
-      {
-        "_name": "mod_barrel",
-        "_id": "5c0e2f26d174af02a9625117",
-        "_parent": "5c0e2f26d174af02a9625114",
-        "_props": {
-          "filters": [
-            {
-              "Filter": [
-                "6978e7e796e988db77009efd"
-              ],
-              "Shift": 0
-            }
-          ]
-        },
-        "_required": true,
         "_mergeSlotWithChildren": false,
         "_proto": "55d30c4c4bdc2db4468b457e"
       },
@@ -380,21 +363,20 @@
         "_proto": "55d30c4c4bdc2db4468b457e"
       },
       {
-        "_name": "mod_pistol_grip",
-        "_id": "5ac66d2e5acfc43b321d4b59",
-        "_parent": "5ac66d2e5acfc43b321d4b53",
+        "_name": "mod_muzzle",
+        "_id": "55dc9adc4bdc2d86028b4576",
+        "_parent": "55d3632e4bdc2d972f8b4569",
         "_props": {
           "filters": [
             {
               "Filter": [
-                "6979236eae0108cfe6061284",
-                "697944c4ae0108cfe606128a"
+                "6978e9e096e988db77009f01"
               ],
               "Shift": 0
             }
           ]
         },
-        "_required": true,
+        "_required": false,
         "_mergeSlotWithChildren": false,
         "_proto": "55d30c4c4bdc2db4468b457e"
       }
@@ -429,14 +411,14 @@
     "addWeaponPreset": true,
     "weaponPresets": [
       {
-        "_id": "6995de7fef042598743ff7ef",
+        "_id": "69fdc0046121d5283cf40203",
         "_type": "Preset",
         "_changeWeaponName": false,
         "_name": "AS-1",
-        "_parent": "6995de7fef042598743ff7f0",
+        "_parent": "69fdc0046121d5283cf40204",
         "_items": [
           {
-            "_id": "6995de7fef042598743ff7f0",
+            "_id": "69fdc0046121d5283cf40204",
             "_tpl": "6978e7e796e988db77009efb",
             "upd": {
               "Repairable": {
@@ -449,21 +431,15 @@
             }
           },
           {
-            "_id": "6995de5fef042598743ff75e",
+            "_id": "69fd332eacf63b8610f7b66a",
             "_tpl": "55d480c04bdc2d1d4e8b456a",
-            "parentId": "6995de7fef042598743ff7f0",
+            "parentId": "69fdc0046121d5283cf40204",
             "slotId": "mod_magazine"
           },
           {
-            "_id": "6995de5fef042598743ff75f",
-            "_tpl": "6978e7e796e988db77009efd",
-            "parentId": "6995de7fef042598743ff7f0",
-            "slotId": "mod_barrel"
-          },
-          {
-            "_id": "6995de5fef042598743ff760",
+            "_id": "69fd332eacf63b8610f7b66b",
             "_tpl": "5894a81786f77427140b8347",
-            "parentId": "6995de7fef042598743ff7f0",
+            "parentId": "69fdc0046121d5283cf40204",
             "slotId": "mod_sight_rear",
             "upd": {
               "Sight": {
@@ -479,9 +455,9 @@
             }
           },
           {
-            "_id": "6995de5fef042598743ff761",
+            "_id": "69fd332eacf63b8610f7b66c",
             "_tpl": "5894a73486f77426d259076c",
-            "parentId": "6995de7fef042598743ff7f0",
+            "parentId": "69fdc0046121d5283cf40204",
             "slotId": "mod_sight_front",
             "upd": {
               "Sight": {
@@ -495,12 +471,6 @@
                 "ScopeZoomValue": 0
               }
             }
-          },
-          {
-            "_id": "6995de5fef042598743ff762",
-            "_tpl": "6979236eae0108cfe6061284",
-            "parentId": "6995de7fef042598743ff7f0",
-            "slotId": "mod_pistol_grip"
           }
         ],
         "_encyclopedia": "6978e7e796e988db77009efb"
@@ -549,6 +519,7 @@
         "Ergonomics": 53,
         "CompactHandling": false,
         "isChamberLoad": false,
+        "CanUnloadAmmoByPlayer": false,
         "Foldable": false,
         "weapFireType": [
           "single",
@@ -673,24 +644,6 @@
         "_proto": "55d30c4c4bdc2db4468b457e"
       },
       {
-        "_name": "mod_barrel",
-        "_id": "5c0e2f26d174af02a9625117",
-        "_parent": "5c0e2f26d174af02a9625114",
-        "_props": {
-          "filters": [
-            {
-              "Filter": [
-                "6978e7e796e988db77009efd"
-              ],
-              "Shift": 0
-            }
-          ]
-        },
-        "_required": true,
-        "_mergeSlotWithChildren": false,
-        "_proto": "55d30c4c4bdc2db4468b457e"
-      },
-      {
         "_name": "mod_sight_rear",
         "_id": "5c0e2f26d174af02a9625119",
         "_parent": "5c0e2f26d174af02a9625114",
@@ -918,21 +871,20 @@
         "_proto": "55d30c4c4bdc2db4468b457e"
       },
       {
-        "_name": "mod_pistol_grip",
-        "_id": "5ac66d2e5acfc43b321d4b59",
-        "_parent": "5ac66d2e5acfc43b321d4b53",
+        "_name": "mod_muzzle",
+        "_id": "55dc9adc4bdc2d86028b4576",
+        "_parent": "55d3632e4bdc2d972f8b4569",
         "_props": {
           "filters": [
             {
               "Filter": [
-                "6979236eae0108cfe6061284",
-                "697944c4ae0108cfe606128a"
+                "6978e9e096e988db77009f01"
               ],
               "Shift": 0
             }
           ]
         },
-        "_required": true,
+        "_required": false,
         "_mergeSlotWithChildren": false,
         "_proto": "55d30c4c4bdc2db4468b457e"
       }
@@ -966,83 +918,71 @@
     "masteries": true,
     "addWeaponPreset": true,
     "weaponPresets": [
-        {
-          "_id": "6995de7fef042598743ff7f4",
-          "_type": "Preset",
-          "_changeWeaponName": false,
-          "_name": "AS-2",
-          "_parent": "6995de7fef042598743ff7f5",
-          "_items": [
-            {
-              "_id": "6995de7fef042598743ff7f5",
-              "_tpl": "6979236eae0108cfe6061282",
-              "upd": {
-                "Repairable": {
-                  "Durability": 100,
-                  "MaxDurability": 100
-                },
-                "FireMode": {
-                  "FireMode": "single"
-                }
+      {
+        "_id": "69fdc0046121d5283cf40208",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "AS-2",
+        "_parent": "69fdc0046121d5283cf40209",
+        "_items": [
+          {
+            "_id": "69fdc0046121d5283cf40209",
+            "_tpl": "6979236eae0108cfe6061282",
+            "upd": {
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              },
+              "FireMode": {
+                "FireMode": "single"
               }
-            },
-            {
-              "_id": "6995de7cef042598743ff765",
-              "_tpl": "59d6272486f77466146386ff",
-              "parentId": "6995de7fef042598743ff7f5",
-              "slotId": "mod_magazine"
-            },
-            {
-              "_id": "6995de7cef042598743ff766",
-              "_tpl": "6978e7e796e988db77009efd",
-              "parentId": "6995de7fef042598743ff7f5",
-              "slotId": "mod_barrel"
-            },
-            {
-              "_id": "6995de7cef042598743ff767",
-              "_tpl": "5894a81786f77427140b8347",
-              "parentId": "6995de7fef042598743ff7f5",
-              "slotId": "mod_sight_rear",
-              "upd": {
-                "Sight": {
-                  "ScopesCurrentCalibPointIndexes": [
-                    0
-                  ],
-                  "ScopesSelectedModes": [
-                    0
-                  ],
-                  "SelectedScope": 0,
-                  "ScopeZoomValue": 0
-                }
-              }
-            },
-            {
-              "_id": "6995de7cef042598743ff768",
-              "_tpl": "5894a73486f77426d259076c",
-              "parentId": "6995de7fef042598743ff7f5",
-              "slotId": "mod_sight_front",
-              "upd": {
-                "Sight": {
-                  "ScopesCurrentCalibPointIndexes": [
-                    0
-                  ],
-                  "ScopesSelectedModes": [
-                    0
-                  ],
-                  "SelectedScope": 0,
-                  "ScopeZoomValue": 0
-                }
-              }
-            },
-            {
-              "_id": "6995de7cef042598743ff769",
-              "_tpl": "697944c4ae0108cfe606128a",
-              "parentId": "6995de7fef042598743ff7f5",
-              "slotId": "mod_pistol_grip"
             }
-          ],
-          "_encyclopedia": "6979236eae0108cfe6061282"
-        }
+          },
+          {
+            "_id": "69fdc0026121d5283cf400f9",
+            "_tpl": "59d6272486f77466146386ff",
+            "parentId": "69fdc0046121d5283cf40209",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "69fdc0026121d5283cf400fa",
+            "_tpl": "5894a81786f77427140b8347",
+            "parentId": "69fdc0046121d5283cf40209",
+            "slotId": "mod_sight_rear",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          },
+          {
+            "_id": "69fdc0026121d5283cf400fb",
+            "_tpl": "5894a73486f77426d259076c",
+            "parentId": "69fdc0046121d5283cf40209",
+            "slotId": "mod_sight_front",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          }
+        ],
+        "_encyclopedia": "6979236eae0108cfe6061282"
+      }
     ],
     "traders": {
       "PRAPOR": {
