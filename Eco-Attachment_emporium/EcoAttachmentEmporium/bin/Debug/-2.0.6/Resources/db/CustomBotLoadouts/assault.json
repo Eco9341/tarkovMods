@@ -5,6 +5,7 @@
     },
     "weaponMods": {
       "mod_stock": 100,
+      "mod_pistol_grip": 100,
       "mod_sight_rear": 45,
       "mod_sight_front": 45,
       "mod_muzzle": 35,
@@ -22,7 +23,7 @@
     },
     "mods": {
       "695c42816dd1786b89029345": {
-        "mod_stock": [
+        "mod_pistol_grip": [
           "695d3348cfc7cb0dce06be01"
         ],
         "mod_sight_rear": [
