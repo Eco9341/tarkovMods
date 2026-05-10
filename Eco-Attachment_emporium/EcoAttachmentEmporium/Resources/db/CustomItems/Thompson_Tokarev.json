@@ -55,10 +55,43 @@
     "modSlot": [],
     "fleaPriceRoubles": 10251,
     "handbookPriceRoubles": 4524,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "masteries": true,
-    "addWeaponPreset": false,
-    "weaponPresets": [],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "69ffc45b79ad93853893e3b4",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Thompson Tokarev",
+        "_parent": "69ffc45b79ad93853893e3b5",
+        "_items": [
+          {
+            "_id": "69ffc45b79ad93853893e3b5",
+            "_tpl": "69ff690473bcef4c7fbb4cee",
+            "upd": {
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              },
+              "FireMode": {
+                "FireMode": "single"
+              },
+              "Foldable": {
+                "Folded": false
+              }
+            }
+          },
+          {
+            "_id": "69ffc45979ad93853893e29d",
+            "_tpl": "5ea034eb5aad6446a939737b",
+            "parentId": "69ffc45b79ad93853893e3b5",
+            "slotId": "mod_magazine"
+          }
+        ],
+        "_encyclopedia": "69ff690473bcef4c7fbb4cee"
+      }
+    ],
     "traders": {
       "PRAPOR": {
         "69ff690473bcef4c7fbb4cef": {
