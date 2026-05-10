@@ -1,0 +1,91 @@
+{
+  "69ff690473bcef4c7fbb4cee": {
+    "itemTplToClone": "66992b349950f5f4cd06029f",
+    "parentId": "5447b5e04bdc2d62278b4567",
+    "handbookParentId": "5b5f796a86f774093f2ed3c0",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Thompson_Tokarev/weapon_thompson_tokarev_container.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+      {
+        "_name": "mod_magazine",
+        "_id": "5ea03f7400685063ec28bfad",
+        "_parent": "5ea03f7400685063ec28bfa8",
+        "_props": {
+          "filters": [
+            {
+              "AnimationIndex": -1,
+              "Filter": [
+                "5ea034eb5aad6446a939737b"
+              ]
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c394bdc2dae468b4577"
+      }
+    ],
+    "defAmmo": "5735ff5c245977640e39ba7e",
+    "defMagType": "5ea034eb5aad6446a939737b",
+    "ammoCaliber": "Caliber762x25TT",
+    "CompactHandling": false,
+    "Width": 4,
+    "RecoilForceBack": 220,
+    "RecoilForceUp": 67,
+    "Ergonomics": 54,
+    "bFirerate": 900,
+    "IronSightRange": 150,
+    "CenterOfImpact": 0.230,
+    "CoolFactorGun": 6.0,
+    "SightingRange": 150,
+    "Velocity": -19
+    },
+    "locales": {
+      "en": {
+        "name": "M1921 Thompson 7.62x25 submachine gun",
+        "shortName": "M1921",
+        "description": "a copy of the American Thompson sub-machinegun, made in China. A Chinese inscription on it indicates that it was produced in Szechwan Province in 1931. It is also stamped with the word 'Thampson' in misspelt recognition of the original designer. It seems evident that a number of real Thompson guns were imported into China during the 1920s and 30s, despite the USA being a leading adherent to an international embargo on the export of military weapons to that country. Copies were subsequently produced at at least three provincial arsenals. This gun has been re-chambered to accept 7.62mm Tokarev pistol ammunition. This conversion would have been carried out after the post-war establishment of a Communist government and subsequent adoption of Soviet firearms and ammunition. Many older guns, such as this one, were re-chambered to fit them for use by the People's Militia. One of a group of weapons from a People's Militia arsenal imported into the UK in 1985."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 10251,
+    "handbookPriceRoubles": 4524,
+    "addtoTraders": true,
+    "masteries": true,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "69ff690473bcef4c7fbb4cef": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 54677,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": [],
+    "masterySections": [
+      {
+        "Level2": 600,
+        "Level3": 1300,
+        "Name": "Thmpson Tokarev",
+        "Templates": [
+          "69ff690473bcef4c7fbb4cee"
+        ]
+      }
+    ]
+  }
+}

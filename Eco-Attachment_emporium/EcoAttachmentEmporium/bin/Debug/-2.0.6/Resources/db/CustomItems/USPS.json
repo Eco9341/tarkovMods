@@ -32,14 +32,43 @@
     ],
     "Slots": [
       {
-        "_name": "mod_stock",
-        "_id": "61f7c9e189e6fb1a5e3ea790",
-        "_parent": "61f7c9e189e6fb1a5e3ea78d",
+        "_name": "mod_pistol_grip",
+        "_id": "55d354084bdc2d8c2f8b4568",
+        "_parent": "5447a9cd4bdc2dbd208b4567",
         "_props": {
           "filters": [
             {
               "Filter": [
-                "695d3348cfc7cb0dce06be01"
+                "5c0e2ff6d174af02a1659d4a",
+                "5a33e75ac4a2826c6e06d759",
+                "55d4b9964bdc2d1d4e8b456e",
+                "571659bb2459771fb2755a12",
+                "602e71bd53a60014f9705bfa",
+                "6113c3586c780c1e710c90bc",
+                "6113cc78d3a39d50044c065a",
+                "6113cce3d92c473c770200c7",
+                "5cc9bcaed7f00c011c04e179",
+                "5bb20e18d4351e00320205d5",
+                "5bb20e0ed4351e3bac1212dc",
+                "6193dcd0f8ee7e52e4210a28",
+                "5d025cc1d7ad1a53845279ef",
+                "5c6d7b3d2e221600114c9b7d",
+                "57c55efc2459772d2c6271e7",
+                "57af48872459771f0b2ebf11",
+                "57c55f092459772d291a8463",
+                "57c55f112459772d28133310",
+                "57c55f172459772d27602381",
+                "5a339805c4a2826c6e06d73d",
+                "55802f5d4bdc2dac148b458f",
+                "5d15cf3bd7ad1a67e71518b2",
+                "59db3a1d86f77429e05b4e92",
+                "5fbcbd6c187fea44d52eda14",
+                "59db3acc86f7742a2c4ab912",
+                "59db3b0886f77429d72fb895",
+                "615d8faecabb9b7ad90f4d5d",
+                "5b07db875acfc40dc528a5f6",
+                "63f5feead259b42f0b4d6d0f",
+                "652911675ae2ae97b80fdf3c"
               ],
               "Shift": 0
             }
@@ -472,77 +501,77 @@
     "masteries": true,
     "addWeaponPreset": true,
     "weaponPresets": [
-          {
-            "_id": "695e3c077f6dcc1c804197bb",
-            "_type": "Preset",
-            "_changeWeaponName": false,
-            "_name": "USPS",
-            "_parent": "695e3c077f6dcc1c804197bc",
-            "_items": [
-              {
-                "_id": "695e3c077f6dcc1c804197bc",
-                "_tpl": "695c42816dd1786b89029345",
-                "upd": {
-                  "Repairable": {
-                    "Durability": 100,
-                    "MaxDurability": 100
-                  },
-                  "FireMode": {
-                    "FireMode": "single"
-                  }
+        {
+          "_id": "69fdf9b787e31096c454c984",
+          "_type": "Preset",
+          "_changeWeaponName": false,
+          "_name": "USPSA",
+          "_parent": "69fdf9b787e31096c454c985",
+          "_items": [
+            {
+              "_id": "69fdf9b787e31096c454c985",
+              "_tpl": "695c42816dd1786b89029345",
+              "upd": {
+                "Repairable": {
+                  "Durability": 100,
+                  "MaxDurability": 100
+                },
+                "FireMode": {
+                  "FireMode": "single"
                 }
-              },
-              {
-                "_id": "695e2197ac83252a745449b2",
-                "_tpl": "695d3348cfc7cb0dce06be01",
-                "parentId": "695e3c077f6dcc1c804197bc",
-                "slotId": "mod_stock"
-              },
-              {
-                "_id": "695e2197ac83252a745449b3",
-                "_tpl": "695d3348cfc7cb0dce06be03",
-                "parentId": "695e3c077f6dcc1c804197bc",
-                "slotId": "mod_sight_rear",
-                "upd": {
-                  "Sight": {
-                    "ScopesCurrentCalibPointIndexes": [
-                      0
-                    ],
-                    "ScopesSelectedModes": [
-                      0
-                    ],
-                    "SelectedScope": 0,
-                    "ScopeZoomValue": 0
-                  }
-                }
-              },
-              {
-                "_id": "695e2197ac83252a745449b4",
-                "_tpl": "695d4ad6cfc7cb0dce06be13",
-                "parentId": "695e3c077f6dcc1c804197bc",
-                "slotId": "mod_sight_front",
-                "upd": {
-                  "Sight": {
-                    "ScopesCurrentCalibPointIndexes": [
-                      0
-                    ],
-                    "ScopesSelectedModes": [
-                      0
-                    ],
-                    "SelectedScope": 0,
-                    "ScopeZoomValue": 0
-                  }
-                }
-              },
-              {
-                "_id": "695e2197ac83252a745449b5",
-                "_tpl": "695d4ad6cfc7cb0dce06be15",
-                "parentId": "695e3c077f6dcc1c804197bc",
-                "slotId": "mod_muzzle"
               }
-            ],
-            "_encyclopedia": "695c42816dd1786b89029345"
-          }
+            },
+            {
+              "_id": "69fdf9b287e31096c454c86f",
+              "_tpl": "695d3348cfc7cb0dce06be01",
+              "parentId": "69fdf9b787e31096c454c985",
+              "slotId": "mod_pistol_grip"
+            },
+            {
+              "_id": "69fdf9b287e31096c454c870",
+              "_tpl": "695d3348cfc7cb0dce06be03",
+              "parentId": "69fdf9b787e31096c454c985",
+              "slotId": "mod_sight_rear",
+              "upd": {
+                "Sight": {
+                  "ScopesCurrentCalibPointIndexes": [
+                    0
+                  ],
+                  "ScopesSelectedModes": [
+                    0
+                  ],
+                  "SelectedScope": 0,
+                  "ScopeZoomValue": 0
+                }
+              }
+            },
+            {
+              "_id": "69fdf9b287e31096c454c871",
+              "_tpl": "695d4ad6cfc7cb0dce06be13",
+              "parentId": "69fdf9b787e31096c454c985",
+              "slotId": "mod_sight_front",
+              "upd": {
+                "Sight": {
+                  "ScopesCurrentCalibPointIndexes": [
+                    0
+                  ],
+                  "ScopesSelectedModes": [
+                    0
+                  ],
+                  "SelectedScope": 0,
+                  "ScopeZoomValue": 0
+                }
+              }
+            },
+            {
+              "_id": "69fdf9b287e31096c454c872",
+              "_tpl": "695d4ad6cfc7cb0dce06be15",
+              "parentId": "69fdf9b787e31096c454c985",
+              "slotId": "mod_muzzle"
+            }
+          ],
+          "_encyclopedia": "695c42816dd1786b89029345"
+        }
     ],
     "traders": {
       "PRAPOR": {
@@ -566,7 +595,7 @@
       {
         "Level2": 600,
         "Level3": 1300,
-        "Name": "AK74",
+        "Name": "USPSA .50",
         "Templates": [
           "678fe4a4906c7bd23722c71f"
         ]
@@ -592,7 +621,7 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": false,
+    "addtoModSlots": true,
     "modSlot": [
       "mod_pistol_grip",
       "mod_pistolgrip_000"

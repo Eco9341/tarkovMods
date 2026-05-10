@@ -91,11 +91,9 @@ C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\
 C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\AK12M1.json
 C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\AK12SK.json
 C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\AK74M_new.json
-C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\AK_Mags.json
 C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\AK_Stuff.json
 C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\AMT_HardBaller.json
 C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\Anaconda_Riser.json
-C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\AR15_Mags.json
 C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\AR_15_handguards.json
 C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\AR_15_Receivers.json
 C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\AR_15_Stocks.json
@@ -124,7 +122,6 @@ C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\
 C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\PKM_Zenitco_kit.json
 C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\PPK_20.json
 C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\SAK21.json
-C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\Scar_H_Mags.json
 C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\Scope.json
 C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\SL8.json
 C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\Sport_Kits.json
@@ -174,3 +171,5 @@ C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\
 C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\PSA_JAKL.json
 C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\BRO_Commando.json
 C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\Cobalt_Kinetics_Model_27.json
+C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\Magazines.json
+C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\Thompson_Tokarev.json

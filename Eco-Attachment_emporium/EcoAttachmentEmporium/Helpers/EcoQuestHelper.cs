@@ -67,6 +67,7 @@ namespace EcoAttachmentEmporium.Helpers
         private const string PSA_JAKL_HONEYB = "69f9ca041336df7edb6708ab";
         private const string BRO_COMMANDO= "69fb5f225f919280cea5c17c";
         private const string COBALT_KINETICS= "69fb5f225f919280cea5c17c";
+        private const string THOMPSON_TOKAREV= "69ff690473bcef4c7fbb4cee";
         
         //dmr
         private const string M700_AUTO = "6923adaa56bff0144c0a9aa3";
@@ -92,7 +93,7 @@ namespace EcoAttachmentEmporium.Helpers
 
             // Tickets, Please (64e7b9a4aac4cd0a726562cb)
             questHelper.AddWeaponsToKillCondition(quests, "64e7b9a4aac4cd0a726562cb", [
-                PPK20, VPO185
+                PPK20, VPO185, THOMPSON_TOKAREV
             ]);
 
             // District Patrol (64e7b9bffd30422ed03dad38)
