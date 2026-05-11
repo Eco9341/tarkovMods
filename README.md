@@ -3,12 +3,17 @@ The attachment emporium offers brand new guns and attachments all custom made.
 CREDITS
 
 A big thanks to GrooveypenguinX for the codebase.
+
 EpicRangeTime for teaching me SPT modding and creating the compatibility patch.
+
 ProbablyEukyre for providing the Keymod Handguard and convincing me to start modding.
+
 Crypluto! for helping with texture and blender work.
+
 and the WTT Team for helping me with various stuff
 
 
+-----------------------------------------------------------------------------------------------
 
 What this mod adds:
 
@@ -18,7 +23,7 @@ What this mod adds:
 
 -Clutch charging handles
 
--AA-12 36-round Mag
+-AA-12 32-round Mag
 
 -LR300 AXL handguards
 
@@ -70,27 +75,27 @@ What this mod adds:
 
 -PKM Zenitco Kit
 
-Barret M240 LSW
+-Barret M240 LSW
 
-BRN-180 Gen.3
+-BRN-180 Gen.3
 
-Accuracy International AT-XC
+-Accuracy International AT-XC
 
-Beretta 1301
+-Beretta 1301
 
-Beretta BM-59 both standard and tanker variant
+-Beretta BM-59 both standard and tanker variant
 
-SureFire M340DFT-PRO Turbo Mini Scout Light Pro
+-SureFire M340DFT-PRO Turbo Mini Scout Light Pro
 
-Norinco M305A
+-Norinco M305A
 
-SR-3M Modified Handguard
+-SR-3M Modified Handguard
 
-Keymod Adapter for Mlok mounts
+-Keymod Adapter for Mlok mounts
 
-AK-12M1
+-AK-12M1
 
-True North Concepts Zero 8 V2 grips
+-True North Concepts Zero 8 V2 grips
 
 -Wren Metal Works Lever Action
 
