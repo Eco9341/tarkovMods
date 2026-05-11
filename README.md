@@ -17,6 +17,20 @@ and the WTT Team for helping me with various stuff
 
 What this mod adds:
 
+-BCM Gunfighter stock
+
+-Reptilia RECCE Stock
+
+-Romanian AK lower cut handguard
+
+-AK-12 zenitco adapter
+
+-AKMS Stock Adapter for AK-100 series ak
+
+-Anaconda Riser
+
+-KAC Handstops and barrier stop
+
 -BCM Keymod Handguards
 
 -VLTOR CASV Handguards
@@ -38,8 +52,6 @@ What this mod adds:
 -Mk12 Mod 0 Kit
 
 -Rotor 43 AK-12 Handguard
-
--Anaconda Picatinny riser
 
 -KAC Keymod Handguards for AR-15/10
 
@@ -70,8 +82,6 @@ What this mod adds:
 -Arisaka Offset Mounts
 
 -AS-VAL Mod 3.5 homemade Kit
-
--KAC M-LOK Grips
 
 -PKM Zenitco Kit
 
