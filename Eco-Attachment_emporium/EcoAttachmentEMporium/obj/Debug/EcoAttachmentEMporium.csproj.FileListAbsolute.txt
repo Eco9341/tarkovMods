@@ -173,3 +173,7 @@ C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\
 C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\Cobalt_Kinetics_Model_27.json
 C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\Magazines.json
 C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\Thompson_Tokarev.json
+C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\M17S.json
+C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\Service_Rifle.json
+C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\Beretta_CX4.json
+C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\Tulyak.json

@@ -28,10 +28,13 @@ namespace EcoAttachmentEmporium.Helpers
         private const string B1301 = "68fc9d35a95c0e57110beeab";
         private const string B1301_FDE = "68fe896c2b85e5d74c05a5ae";
         private const string B1301_GREEN = "68fe896c2b85e5d74c05a5af";
+        private const string TULYAK = "6a1e999809ef9baf4bd31935";
         
         //smg
         private const string PPK20 = "6930aaa9374b0cca3302d7c0";
         private const string VPO185 = "6992dc7e206da73f74008a8b";
+        private const string THOMPSON_TOKAREV= "69ff690473bcef4c7fbb4cee";
+        private const string BERETTA_CX4= "6a1d79f6c6f19755101fa7dc";
         
         //pistols
         private const string AMT_HARDBALLER = "692acecad829da17240a60c3";
@@ -67,7 +70,7 @@ namespace EcoAttachmentEmporium.Helpers
         private const string PSA_JAKL_HONEYB = "69f9ca041336df7edb6708ab";
         private const string BRO_COMMANDO= "69fb5f225f919280cea5c17c";
         private const string COBALT_KINETICS= "69fb5f225f919280cea5c17c";
-        private const string THOMPSON_TOKAREV= "69ff690473bcef4c7fbb4cee";
+        private const string M17S= "6a1aadcb3bb20aa783f8f87d";
         
         //dmr
         private const string M700_AUTO = "6923adaa56bff0144c0a9aa3";
@@ -83,7 +86,7 @@ namespace EcoAttachmentEmporium.Helpers
 
             // Punisher Part 4 (59ca264786f77445a80ed044)
             questHelper.AddWeaponsToKillCondition(quests, "59ca264786f77445a80ed044", [
-                BP12, BP12_GEN2, B1301, B1301_FDE, B1301_GREEN
+                BP12, BP12_GEN2, B1301, B1301_FDE, B1301_GREEN, TULYAK
             ]);
 
             // Mall Cop (64e7b99017ab941a6f7bf9d7)
@@ -93,14 +96,15 @@ namespace EcoAttachmentEmporium.Helpers
 
             // Tickets, Please (64e7b9a4aac4cd0a726562cb)
             questHelper.AddWeaponsToKillCondition(quests, "64e7b9a4aac4cd0a726562cb", [
-                PPK20, VPO185, THOMPSON_TOKAREV
+                PPK20, VPO185, THOMPSON_TOKAREV, BERETTA_CX4
             ]);
 
             // District Patrol (64e7b9bffd30422ed03dad38)
             questHelper.AddWeaponsToKillCondition(quests, "64e7b9bffd30422ed03dad38", [
                 AK12K, AK12M1, AK12SK, AK74_NO_ROD, AK105_NO_ROD, AK105_SAG, AK_KOCHEVNIK, AK_KOCHEVNIK_FDE, SAK21, 
                 SAK21_BLACK, ZASTAVA_M19, ZASTAVA_M19_FDE, AS_1, AS_2, AUG_300BLK, BRN180, BRN180_FDE, LR300, LR300_FDE, 
-                SL8, NORINCO_M305A, SR1, SR1_FDE, TT_TR1, M700_AUTO, PSA_JAKL, PSA_JAKL_FDE, PSA_JAKL_HONEYB, BRO_COMMANDO, COBALT_KINETICS
+                SL8, NORINCO_M305A, SR1, SR1_FDE, TT_TR1, M700_AUTO, PSA_JAKL, PSA_JAKL_FDE, PSA_JAKL_HONEYB, BRO_COMMANDO, COBALT_KINETICS,
+                M17S
             ]);
 
             // ====================== SKIER QUESTS ======================
@@ -112,36 +116,36 @@ namespace EcoAttachmentEmporium.Helpers
 
             // Silent Caliber (5c0bc91486f7746ab41857a2)
             questHelper.AddWeaponsToKillCondition(quests, "5c0bc91486f7746ab41857a2", [
-                BP12, BP12_GEN2, B1301, B1301_FDE, B1301_GREEN
+                BP12, BP12_GEN2, B1301, B1301_FDE, B1301_GREEN, TULYAK
             ]);
 
             // Setup (5c1234c286f77406fa13baeb)
             questHelper.AddWeaponsToKillCondition(quests, "5c1234c286f77406fa13baeb", [
-                BP12, BP12_GEN2, B1301, B1301_FDE, B1301_GREEN
+                BP12, BP12_GEN2, B1301, B1301_FDE, B1301_GREEN,  TULYAK
             ]);
 
             // Connections Up North (6764174c86addd02bc033d68)
             questHelper.AddWeaponsToKillCondition(quests, "6764174c86addd02bc033d68", [
-                AC_TX, AC_TX_FDE, AC_TX_GREEN, AC_TX_Red, WARN_METAL, USPSA_50cal
+                AC_TX, AC_TX_FDE, AC_TX_GREEN, AC_TX_Red, WARN_METAL, USPSA_50cal, TULYAK
             ]);
 
             // ====================== PEACEKEEPER QUESTS ======================
 
             // Spa Tour Part 1 (5a03153686f77442d90e2171)
             questHelper.AddWeaponsToKillCondition(quests, "5a03153686f77442d90e2171", [
-                BP12, BP12_GEN2, B1301, B1301_FDE, B1301_GREEN
+                BP12, BP12_GEN2, B1301, B1301_FDE, B1301_GREEN, TULYAK
             ]);
 
             // Worst Job (63a9b229813bba58a50c9ee5)
             questHelper.AddWeaponsToKillCondition(quests, "63a9b229813bba58a50c9ee5", [
-                LR300, LR300_FDE, TT_TR1, BRN180, BRN180_FDE, PSA_JAKL, PSA_JAKL_FDE, PSA_JAKL_HONEYB, COBALT_KINETICS
+                LR300, LR300_FDE, TT_TR1, BRN180, BRN180_FDE, PSA_JAKL, PSA_JAKL_FDE, PSA_JAKL_HONEYB, COBALT_KINETICS, M17S
             ]);
 
             // ====================== JAEGER QUESTS ======================
 
             var tarkovShooterWeapons = new[]
             {
-                AC_TX, AC_TX_FDE, AC_TX_GREEN, AC_TX_Red, WARN_METAL, USPSA_50cal
+                AC_TX, AC_TX_FDE, AC_TX_GREEN, AC_TX_Red, WARN_METAL, USPSA_50cal, TULYAK
             };
 
             // Tarkov Shooter Part 1-8 (WEAPONS)
@@ -164,19 +168,19 @@ namespace EcoAttachmentEmporium.Helpers
             
             // Claustrophobia (669fa3979b0ce3feae01a130)
             questHelper.AddWeaponsToKillCondition(quests, "669fa3979b0ce3feae01a130", [
-                BP12, BP12_GEN2, B1301, B1301_FDE, B1301_GREEN
+                BP12, BP12_GEN2, B1301, B1301_FDE, B1301_GREEN, TULYAK
             ]);
 
             // ====================== MECHANIC QUESTS ======================
 
             // Psycho Sniper (5c0be13186f7746f016734aa)
             questHelper.AddWeaponsToKillCondition(quests, "5c0be13186f7746f016734aa", [
-                AC_TX, AC_TX_FDE, AC_TX_GREEN, AC_TX_Red, WARN_METAL, USPSA_50cal
+                AC_TX, AC_TX_FDE, AC_TX_GREEN, AC_TX_Red, WARN_METAL, USPSA_50cal, TULYAK
             ]);
 
             // Shooter Born in Heaven (5c0bde0986f77479cf22c2f8)
             questHelper.AddWeaponsToKillCondition(quests, "5c0bde0986f77479cf22c2f8", [
-                AC_TX, AC_TX_FDE, AC_TX_GREEN, AC_TX_Red, WARN_METAL, USPSA_50cal
+                AC_TX, AC_TX_FDE, AC_TX_GREEN, AC_TX_Red, WARN_METAL, USPSA_50cal, TULYAK
             ]);
         }
     }

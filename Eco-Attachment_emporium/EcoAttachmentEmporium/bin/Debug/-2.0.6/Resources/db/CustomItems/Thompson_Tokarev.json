@@ -32,6 +32,7 @@
     "defMagType": "5ea034eb5aad6446a939737b",
     "ammoCaliber": "Caliber762x25TT",
     "CompactHandling": false,
+    "Foldable": false,
     "Width": 4,
     "RecoilForceBack": 220,
     "RecoilForceUp": 67,
@@ -113,7 +114,7 @@
     "masterySections": [
       {
         "Level2": 600,
-        "Level3": 1300,
+        "Level3": 1200,
         "Name": "Thmpson Tokarev",
         "Templates": [
           "69ff690473bcef4c7fbb4cee"

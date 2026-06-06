@@ -3203,6 +3203,14 @@
             ]
         },
         {
+            "key": "Mods/SAK21/sak21_textures.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
             "key": "Mods/SAK21/sak21_black_container.bundle",
             "dependencyKeys": [
                 "shaders",
@@ -3215,7 +3223,8 @@
                 "assets/content/audio/weapons/generic",
                 "assets/content/audio/blendoptions/assets.bundle",
                 "assets/content/weapons/additional_hands/client_assets.bundle",
-                "assets/systems/effects/smoke.bundle"
+                "assets/systems/effects/smoke.bundle",
+                "Mods/SAK21/sak21_textures.bundle"
             ]
         },
         {
@@ -3231,7 +3240,8 @@
                 "assets/content/audio/weapons/generic",
                 "assets/content/audio/blendoptions/assets.bundle",
                 "assets/content/weapons/additional_hands/client_assets.bundle",
-                "assets/systems/effects/smoke.bundle"
+                "assets/systems/effects/smoke.bundle",
+                "Mods/SAK21/sak21_textures.bundle"
             ]
         },
         {
@@ -3239,7 +3249,8 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/SAK21/sak21_textures.bundle"
             ]
         },
         {
@@ -3247,7 +3258,8 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/SAK21/sak21_textures.bundle"
             ]
         },
         {
@@ -3255,7 +3267,8 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/SAK21/sak21_textures.bundle"
             ]
         },
         {
@@ -3263,7 +3276,8 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/SAK21/sak21_textures.bundle"
             ]
         },
         {
@@ -3271,7 +3285,8 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/SAK21/sak21_textures.bundle"
             ]
         },
         {
@@ -3280,7 +3295,8 @@
                 "shaders",
                 "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle",
-                "assets/systems/effects/smoke.bundle"
+                "assets/systems/effects/smoke.bundle",
+                "Mods/SAK21/sak21_textures.bundle"
             ]
         },
         {
@@ -3289,7 +3305,8 @@
                 "shaders",
                 "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle",
-                "assets/systems/effects/smoke.bundle"
+                "assets/systems/effects/smoke.bundle",
+                "Mods/SAK21/sak21_textures.bundle"
             ]
         },
         {
@@ -3297,7 +3314,8 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/SAK21/sak21_textures.bundle"
             ]
         },
         {
@@ -4645,6 +4663,178 @@
                 "shaders",
                 "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Service_Rifle/service_rifle_textures.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps"
+            ]
+        },
+        {
+            "key": "Mods/Service_Rifle/weapon_service_rifle_container.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+                "assets/systems/effects/heathaze/defaultheathaze.bundle",
+                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle",
+                "Mods/Service_Rifle/service_rifle_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Service_Rifle/service_rifle_barrel.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/Service_Rifle/service_rifle_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Service_Rifle/service_rifle_grip.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/Service_Rifle/service_rifle_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Service_Rifle/service_rifle_receiver.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/Service_Rifle/service_rifle_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Service_Rifle/service_rifle_handguard.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/Service_Rifle/service_rifle_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Service_Rifle/service_rifle_charge.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/Service_Rifle/service_rifle_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Service_Rifle/service_rifle_20rd_magazine.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/Service_Rifle/service_rifle_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Service_Rifle/service_rifle_buffertube.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/Service_Rifle/service_rifle_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Service_Rifle/service_rifle_stock.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/Service_Rifle/service_rifle_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/M17S/m17s_textures.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps"
+            ]
+        },
+        {
+            "key": "Mods/M17S/weapon_m17s_container.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+                "assets/systems/effects/heathaze/defaultheathaze.bundle",
+                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle",
+                "Mods/M17S/m17s_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/M17S/m17s_sight.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/M17S/m17s_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/M17S/m17_sight_rail.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/M17S/m17s_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Beretta_CX4/weapon_cx4_container.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+                "assets/systems/effects/heathaze/defaultheathaze.bundle",
+                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Tulyak/weapon_tulyak_container.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+                "assets/systems/effects/heathaze/defaultheathaze.bundle",
+                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle",
+                "Mods/Tulyak/tulyak_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Tulyak/tulyak_stock.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/Tulyak/tulyak_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Tulyak/tulyak_textures.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps"
             ]
         }
     ]

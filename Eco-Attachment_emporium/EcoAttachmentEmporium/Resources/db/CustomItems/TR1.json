@@ -205,11 +205,11 @@
     "staticLootContainers": [],
     "masterySections": [
       {
-        "Level2": 150,
-        "Level3": 200,
-        "Name": "M4A1",
+        "Level2": 1600,
+        "Level3": 2000,
+        "Name": "M4",
         "Templates": [
-          "6902633fbfd8894b780f71b5"
+          "6999a28e24f9ef4d100d2ed2"
         ]
       }
     ]

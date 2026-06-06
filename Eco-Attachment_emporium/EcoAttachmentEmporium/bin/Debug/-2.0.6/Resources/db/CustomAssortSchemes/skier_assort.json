@@ -1440,6 +1440,78 @@
       "_tpl": "56eabcd4d2720b66698b4574",
       "parentId": "69fcc88da07ebb995c8734a7",
       "slotId": "mod_gas_block"
+    },
+    {
+      "_id": "6a1c45ed627c13968cb98e65",
+      "_tpl": "6a1aadcb3bb20aa783f8f87d",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 1,
+        "UnlimitedCount": false,
+        "Repairable": {
+          "Durability": 100,
+          "MaxDurability": 100
+        },
+        "FireMode": {
+          "FireMode": "single"
+        },
+        "BuyRestrictionMax": 1
+      }
+    },
+    {
+      "_id": "6a1c45ea627c13968cb98d27",
+      "_tpl": "6a1bf9c77b087851d12287e9",
+      "parentId": "6a1c45ed627c13968cb98e65",
+      "slotId": "mod_sight_rear",
+      "upd": {
+        "Sight": {
+          "ScopesCurrentCalibPointIndexes": [
+            0
+          ],
+          "ScopesSelectedModes": [
+            0
+          ],
+          "SelectedScope": 0,
+          "ScopeZoomValue": 0
+        }
+      }
+    },
+    {
+      "_id": "6a1c45ea627c13968cb98d28",
+      "_tpl": "55d4887d4bdc2d962f8b4570",
+      "parentId": "6a1c45ed627c13968cb98e65",
+      "slotId": "mod_magazine"
+    },
+    {
+      "_id": "6a1c45ea627c13968cb98d29",
+      "_tpl": "544a38634bdc2d58388b4568",
+      "parentId": "6a1c45ed627c13968cb98e65",
+      "slotId": "mod_muzzle"
+    },
+    {
+      "_id": "6a1d98dca833aa7df026df00",
+      "_tpl": "6a1d79f6c6f19755101fa7dc",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 1,
+        "UnlimitedCount": false,
+        "Repairable": {
+          "Durability": 100,
+          "MaxDurability": 100
+        },
+        "FireMode": {
+          "FireMode": "single"
+        },
+        "BuyRestrictionMax": 1
+      }
+    },
+    {
+      "_id": "6a1d98daa833aa7df026ddbf",
+      "_tpl": "676176b762e0497044079f49",
+      "parentId": "6a1d98dca833aa7df026df00",
+      "slotId": "mod_magazine"
     }
   ],
   "barter_scheme": {
@@ -1558,7 +1630,7 @@
     "69f8e855a3d3528f1cd58961": [
       [
         {
-          "count": 410234,
+          "count": 95334,
           "_tpl": "5449016a4bdc2d6f028b456f"
         }
       ]
@@ -1566,7 +1638,7 @@
     "69f8e855a3d3528f1cd58966": [
       [
         {
-          "count": 410234,
+          "count": 95334,
           "_tpl": "5449016a4bdc2d6f028b456f"
         }
       ]
@@ -1575,6 +1647,22 @@
       [
         {
           "count": 272485,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "6a1c45ed627c13968cb98e65": [
+      [
+        {
+          "count": 110334,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "6a1d98dca833aa7df026df00": [
+      [
+        {
+          "count": 35632,
           "_tpl": "5449016a4bdc2d6f028b456f"
         }
       ]
@@ -1597,7 +1685,9 @@
     "69e12ddd15ee8f8684bb049c": 4,
     "69f8e855a3d3528f1cd58961": 3,
     "69f8e855a3d3528f1cd58966": 3,
-    "69fcc890a07ebb995c8735b7": 4
+    "69fcc890a07ebb995c8735b7": 4,
+    "6a1c45ed627c13968cb98e65": 2,
+    "6a1d98dca833aa7df026df00": 2
   }
     }
 }

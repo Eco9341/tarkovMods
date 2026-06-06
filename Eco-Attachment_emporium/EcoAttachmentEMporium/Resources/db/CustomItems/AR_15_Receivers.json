@@ -554,7 +554,7 @@
         "probability": 150
       }
     ],
-    "masteries": true,
+    "masteries": false,
     "addWeaponPreset": false,
     "weaponPresets": [],
     "traders": {
@@ -576,9 +576,11 @@
     },
     "masterySections": [
       {
+        "Level2": 1600,
+        "Level3": 2000,
         "Name": "M4",
         "Templates": [
-          "4b81488c78c8a8ac7d37f9b9"
+          "68d6d2b9c1e2fa80130e7b5b"
         ]
       }
     ]

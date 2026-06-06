@@ -32,6 +32,7 @@
     "defMagType": "5ea034eb5aad6446a939737b",
     "ammoCaliber": "Caliber762x25TT",
     "CompactHandling": false,
+    "Foldable": false,
     "Width": 4,
     "RecoilForceBack": 220,
     "RecoilForceUp": 67,

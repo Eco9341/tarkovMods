@@ -1,0 +1,1688 @@
+{
+  "6a12fc8c85361c813922b583": {
+    "itemTplToClone": "5447a9cd4bdc2dbd208b4567",
+    "parentId": "5447b5f14bdc2d61278b4567",
+    "handbookParentId": "5b5f78fc86f77409407a7f90",
+    "overrideProperties": {
+        "Prefab": {
+          "path": "Mods/Service_Rifle/weapon_service_rifle_container.bundle",
+          "rcid": ""
+        },
+      "AnimationVariantsNumber": 0,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "ExamineExperience": 8,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 1,
+      "ItemSound": "weap_ar",
+      "LootExperience": 5,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Rare",
+      "StackObjectsCount": 1,
+      "Weight": 0.38,
+      "Width": 1,
+      "Grids": [],
+      "Slots": [
+        {
+            "_name": "mod_pistol_grip",
+            "_id": "55d354084bdc2d8c2f8b4568",
+            "_parent": "5447a9cd4bdc2dbd208b4567",
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "5c0e2ff6d174af02a1659d4a",
+                    "5a33e75ac4a2826c6e06d759",
+                    "55d4b9964bdc2d1d4e8b456e",
+                    "571659bb2459771fb2755a12",
+                    "602e71bd53a60014f9705bfa",
+                    "6113c3586c780c1e710c90bc",
+                    "6113cc78d3a39d50044c065a",
+                    "6113cce3d92c473c770200c7",
+                    "5cc9bcaed7f00c011c04e179",
+                    "5bb20e18d4351e00320205d5",
+                    "5bb20e0ed4351e3bac1212dc",
+                    "6193dcd0f8ee7e52e4210a28",
+                    "5d025cc1d7ad1a53845279ef",
+                    "5c6d7b3d2e221600114c9b7d",
+                    "57c55efc2459772d2c6271e7",
+                    "57af48872459771f0b2ebf11",
+                    "57c55f092459772d291a8463",
+                    "57c55f112459772d28133310",
+                    "57c55f172459772d27602381",
+                    "5a339805c4a2826c6e06d73d",
+                    "55802f5d4bdc2dac148b458f",
+                    "5d15cf3bd7ad1a67e71518b2",
+                    "59db3a1d86f77429e05b4e92",
+                    "5fbcbd6c187fea44d52eda14",
+                    "59db3acc86f7742a2c4ab912",
+                    "59db3b0886f77429d72fb895",
+                    "615d8faecabb9b7ad90f4d5d",
+                    "5b07db875acfc40dc528a5f6",
+                    "63f5feead259b42f0b4d6d0f",
+                    "652911675ae2ae97b80fdf3c",
+                    "6a130f5585361c813922b58a"
+                ],
+                "Shift": 0
+                }
+            ]
+            },
+            "_required": true,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_magazine",
+            "_id": "55d3555c4bdc2d962f8b4568",
+            "_parent": "5447a9cd4bdc2dbd208b4567",
+            "_props": {
+            "filters": [
+                {
+                "AnimationIndex": -1,
+                "Filter": [
+                    "55d4887d4bdc2d962f8b4570",
+                    "61840bedd92c473c77021635",
+                    "61840d85568c120fdd2962a5",
+                    "5c05413a0db834001c390617",
+                    "5c6d450c2e221600114c997d",
+                    "5c6d42cb2e2216000e69d7d1",
+                    "59c1383d86f774290a37e0ca",
+                    "5aaa5e60e5b5b000140293d6",
+                    "5448c1d04bdc2dff2f8b4569",
+                    "5aaa5dfee5b5b000140293d3",
+                    "5d1340b3d7ad1a0b52682ed7",
+                    "544a378f4bdc2d30388b4567",
+                    "5d1340bdd7ad1a0e8d245aab",
+                    "55802d5f4bdc2dac148b458e",
+                    "5d1340cad7ad1a0b0b249869",
+                    "6241c2c2117ad530666a5108",
+                    "5c6592372e221600133e47d7",
+                    "544a37c44bdc2d25388b4567",
+                    "5c6d46132e221601da357d56",
+                    "6761765f1f08ed5e8800b7a6"
+                ]
+                }
+            ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c394bdc2dae468b4577"
+        },
+        {
+            "_name": "mod_reciever",
+            "_id": "55d5a2ec4bdc2d972f8b4575",
+            "_parent": "5447a9cd4bdc2dbd208b4567",
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "5c0e2f26d174af02a9625114",
+                    "55d355e64bdc2d962f8b4569",
+                    "5d4405aaa4b9361e6a4e6bd3",
+                    "5c07a8770db8340023300450",
+                    "59bfe68886f7746004266202",
+                    "63f5ed14534b2c3d5479a677",
+                    "6a12fe5b85361c813922b585"
+                ],
+                "Shift": 0
+                }
+            ]
+            },
+            "_required": true,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_stock",
+            "_id": "55d5a3074bdc2d61338b4574",
+            "_parent": "5447a9cd4bdc2dbd208b4567",
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "5a33ca0fc4a282000d72292f",
+                    "5c0faeddd174af02a962601f",
+                    "5649be884bdc2d79388b4577",
+                    "5d120a10d7ad1a4e1026ba85",
+                    "5b0800175acfc400153aebd4",
+                    "5947e98b86f774778f1448bc",
+                    "5947eab886f77475961d96c5",
+                    "602e3f1254072b51b239f713",
+                    "5c793fb92e221644f31bfb64",
+                    "5c793fc42e221600114ca25d",
+                    "591aef7986f774139d495f03",
+                    "591af10186f774139d495f0e",
+                    "627254cc9c563e6e442c398f",
+                    "638de3603a1a4031d8260b8c",
+                    "6761777a1f08ed5e8800b7ac",
+                    "6a130d7385361c813922b588"
+                ],
+                "Shift": 0
+                }
+            ]
+            },
+            "_required": true,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_charge",
+            "_id": "55d5a30f4bdc2d882f8b4574",
+            "_parent": "5447a9cd4bdc2dbd208b4567",
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "5c0faf68d174af02a96260b8",
+                    "56ea7165d2720b6e518b4583",
+                    "55d44fd14bdc2d962f8b456e",
+                    "5ea16d4d5aad6446a939753d",
+                    "5bb20dbcd4351e44f824c04e",
+                    "6033749e88382f4fab3fd2c5",
+                    "5b2240bf5acfc40dc528af69",
+                    "5d44334ba4b9362b346d1948",
+                    "5f633ff5c444ce7e3c30a006",
+                    "651bf5617b3b552ef6712cb7",
+                    "6a130f5585361c813922b589"
+                ],
+                "Shift": 0
+                }
+            ]
+            },
+            "_required": true,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_charge_001",
+            "_id": "67530a90d8f555dc210c7c36",
+            "_parent": "5447a9cd4bdc2dbd208b4567",
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "675307301f7c19a9780f2668"
+                ],
+                "Shift": 0
+                }
+            ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "AimPlane": 0.16,
+      "AimSensitivity": 0.65,
+      "BaseMalfunctionChance": 0.19962,
+      "BurstShotsCount": 3,
+      "CameraSnap": 3.5,
+      "CameraToWeaponAngleSpeedRange": {
+        "x": 0.1,
+        "y": 0.2,
+        "z": 0
+      },
+      "CameraToWeaponAngleStep": 0.1,
+      "CenterOfImpact": 0.01,
+      "Chambers": [
+        {
+          "_name": "patron_in_weapon",
+          "_id": "68a639748e1fe612970728f1",
+          "_parent": "68a639748e1fe612970728e9",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "59e6920f86f77411d82aa167",
+                  "59e6927d86f77411da468256",
+                  "54527a984bdc2d4e668b4567",
+                  "54527ac44bdc2d36668b4567",
+                  "59e68f6f86f7746c9f75e846",
+                  "59e6906286f7746c9f75e847",
+                  "59e690b686f7746c9f75e848",
+                  "59e6918f86f7746c9f75e849",
+                  "60194943740c5d77f6705eea",
+                  "601949593ae8f707c4608daa",
+                  "5c0d5ae286f7741e46554302"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d4af244bdc2d962f8b4571"
+        }
+      ],
+      "CoolFactorGun": 3.0462,
+      "CoolFactorGunMods": 1,
+      "DeviationCurve": 1.35,
+      "DeviationMax": 23,
+      "DoubleActionAccuracyPenalty": 1.5,
+      "Durability": 100,
+      "DurabilityBurnRatio": 1.179,
+      "Ergonomics": 48,
+      "HeatFactorByShot": 1.2719,
+      "HeatFactorGun": 1,
+      "HipAccuracyRestorationDelay": 0.2,
+      "HipAccuracyRestorationSpeed": 7,
+      "HipInnaccuracyGain": 0.16,
+      "IronSightRange": 100,
+      "MaxRepairDegradation": 0.03,
+      "MaxRepairKitDegradation": 0.025,
+      "MinRepairDegradation": 0,
+      "MinRepairKitDegradation": 0,
+      "MountCameraSnapMultiplier": 3,
+      "MountHorizontalRecoilMultiplier": 0.6,
+      "MountReturnSpeedHandMultiplier": 1,
+      "MountVerticalRecoilMultiplier": 0.85,
+      "MountingHorizontalOutOfBreathMultiplier": 0.4,
+      "MountingPosition": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "MountingVerticalOutOfBreathMultiplier": 0.8,
+      "OperatingResource": 3500,
+      "PostRecoilHorizontalRangeHandRotation": {
+        "x": -1.5,
+        "y": 1.5,
+        "z": 0
+      },
+      "PostRecoilVerticalRangeHandRotation": {
+        "x": -1.5,
+        "y": 0,
+        "z": 0
+      },
+      "ProgressRecoilAngleOnStable": {
+        "x": 0,
+        "y": 28,
+        "z": 0
+      },
+      "RecoilAngle": 90,
+      "RecoilCamera": 0.04,
+      "RecoilCategoryMultiplierHandRotation": 0.19,
+      "RecoilCenter": {
+        "x": 0,
+        "y": -0.24,
+        "z": 0
+      },
+      "RecoilDampingHandRotation": 0.85,
+      "RecoilForceBack": 346,
+      "RecoilForceUp": 121,
+      "RecoilPosZMult": 1,
+      "RecoilReturnPathDampingHandRotation": 0.48,
+      "RecoilReturnPathOffsetHandRotation": 0.01,
+      "RecoilReturnSpeedHandRotation": 2.5,
+      "RecoilStableAngleIncreaseStep": 2.4,
+      "RecoilStableIndexShot": 5,
+      "RecolDispersion": 10,
+      "RepairComplexity": 0,
+      "RotationCenter": {
+        "x": 0,
+        "y": -0.1,
+        "z": 0
+      },
+      "RotationCenterNoStock": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "ShotsGroupSettings": [
+        {
+          "EndShotIndex": 200,
+          "ShotRecoilPositionStrength": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "ShotRecoilRadianRange": {
+            "x": 6,
+            "y": -6,
+            "z": 0
+          },
+          "ShotRecoilRotationStrength": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "StartShotIndex": 1
+        }
+      ],
+      "SightingRange": 100,
+      "SingleFireRate": 450,
+      "SizeReduceRight": 0,
+      "TacticalReloadFixation": 0.95,
+      "TacticalReloadStiffnes": {
+        "x": 0.95,
+        "y": 0.33,
+        "z": 0.95
+      },
+      "UseAltMountBone": false,
+      "Velocity": 0,
+      "WeaponRecoilSettings": {
+        "Enable": true,
+        "Values": [
+          {
+            "Enable": true,
+            "Target": "HandsRotation",
+            "Process": {
+              "ComponentType": "Y",
+              "CurveTimeMultiply": 2,
+              "CurveValueMultiply": 0.7,
+              "CurveAimingValueMultiply": 0.4,
+              "TransformationCurve": {
+                "Keys": [
+                  {
+                    "time": 0,
+                    "value": 0,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  },
+                  {
+                    "time": 0.1,
+                    "value": 2,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  },
+                  {
+                    "time": 0.3,
+                    "value": -0.75,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  },
+                  {
+                    "time": 1,
+                    "value": 0,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "Enable": true,
+            "Target": "HandsPosition",
+            "Process": {
+              "ComponentType": "Y",
+              "CurveTimeMultiply": 4,
+              "CurveValueMultiply": 0.003,
+              "CurveAimingValueMultiply": 0.002,
+              "TransformationCurve": {
+                "Keys": [
+                  {
+                    "time": 0,
+                    "value": 0,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  },
+                  {
+                    "time": 0.1,
+                    "value": 2,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  },
+                  {
+                    "time": 0.3,
+                    "value": -0.75,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  },
+                  {
+                    "time": 1,
+                    "value": 0,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "Enable": true,
+            "Target": "CameraRotation",
+            "Process": {
+              "ComponentType": "Z",
+              "CurveTimeMultiply": 1,
+              "CurveValueMultiply": 0.15,
+              "CurveAimingValueMultiply": 0.09,
+              "TransformationCurve": {
+                "Keys": [
+                  {
+                    "time": 0,
+                    "value": 0,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  },
+                  {
+                    "time": 0.1,
+                    "value": 2,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  },
+                  {
+                    "time": 0.3,
+                    "value": -0.75,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  },
+                  {
+                    "time": 1,
+                    "value": 0,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "ammoCaliber": "Caliber556x45NATO",
+      "bEffDist": 500,
+      "bFirerate": 800,
+      "bHearDist": 80,
+      "chamberAmmoCount": 1,
+      "defAmmo": "54527a984bdc2d4e668b4567",
+      "defMagType": "55d4887d4bdc2d962f8b4570",
+      "durabSpawnMax": 75,
+      "durabSpawnMin": 25,
+      "shotgunDispersion": 0,
+      "weapClass": "assaultRifle",
+      "weapFireType": [
+        "single"
+      ],
+      "weapUseType": "primary"
+    },
+    "locales": {
+      "en": {
+        "name": "Gun Runners 5.56x45mm Service rifle",
+        "shortName": "Service rifle",
+        "description": "A pre-War model of lightweight, air-cooled, magazine-fed, gas-operated rifle. Its simplistic assembly design allows for each unit to be easily broken down for cleaning or replacing with a new unit as well as for mass production in times of large-scale military response. By 2281, the weapon serves as the standard-issue armament of the New California Republic Army. Most service rifles present in the Mojave Wasteland were manufactured pre-War, with the only post-War supplier being the Gun Runners, who also provide post-War production and logistical support for the NCR."
+      }
+    },
+    "addtoInventorySlots": [],
+    "fleaPriceRoubles": 109250,
+    "handbookPriceRoubles": 17650,
+    "addtoBots": false,
+    "hallOfFameSlots": [],
+    "masteries": true,
+    "masterySections": [
+      {
+        "Level2": 1600,
+        "Level3": 2000,
+        "Name": "M4",
+        "Templates": [
+          "6a12fc8c85361c813922b583"
+        ]
+      }
+    ],
+
+    "addtoTraders": false,
+    "traders": {},
+    "addWeaponPreset": true,
+    "weaponPresets": [
+        {
+          "_id": "6a131a5e1a17527d383876a4",
+          "_type": "Preset",
+          "_changeWeaponName": false,
+          "_name": "Service Rifle",
+          "_parent": "6a131a5e1a17527d383876a5",
+          "_items": [
+            {
+              "_id": "6a131a5e1a17527d383876a5",
+              "_tpl": "6a12fc8c85361c813922b583",
+              "upd": {
+                "Repairable": {
+                  "Durability": 100,
+                  "MaxDurability": 100
+                },
+                "FireMode": {
+                  "FireMode": "single"
+                }
+              }
+            },
+            {
+              "_id": "6a131a5a1a17527d38387561",
+              "_tpl": "6a130f5585361c813922b58a",
+              "parentId": "6a131a5e1a17527d383876a5",
+              "slotId": "mod_pistol_grip"
+            },
+            {
+              "_id": "6a131a5a1a17527d38387562",
+              "_tpl": "6a1310af85361c813922b58b",
+              "parentId": "6a131a5e1a17527d383876a5",
+              "slotId": "mod_magazine"
+            },
+            {
+              "_id": "6a131a5a1a17527d38387563",
+              "_tpl": "6a12fe5b85361c813922b585",
+              "parentId": "6a131a5e1a17527d383876a5",
+              "slotId": "mod_reciever"
+            },
+            {
+              "_id": "6a131a5a1a17527d38387564",
+              "_tpl": "6a130d7385361c813922b588",
+              "parentId": "6a131a5e1a17527d383876a5",
+              "slotId": "mod_stock"
+            },
+            {
+              "_id": "6a131a5a1a17527d38387565",
+              "_tpl": "6a130f5585361c813922b589",
+              "parentId": "6a131a5e1a17527d383876a5",
+              "slotId": "mod_charge"
+            },
+            {
+              "_id": "6a131a5a1a17527d38387566",
+              "_tpl": "6a13111985361c813922b58d",
+              "parentId": "6a131a5a1a17527d38387563",
+              "slotId": "mod_barrel"
+            },
+            {
+              "_id": "6a131a5a1a17527d38387567",
+              "_tpl": "6a12fe5b85361c813922b586",
+              "parentId": "6a131a5a1a17527d38387563",
+              "slotId": "mod_handguard"
+            },
+            {
+              "_id": "6a131a5a1a17527d38387568",
+              "_tpl": "6a130d7385361c813922b587",
+              "parentId": "6a131a5a1a17527d38387564",
+              "slotId": "mod_stock"
+            },
+            {
+              "_id": "6a131a5a1a17527d38387569",
+              "_tpl": "544a38634bdc2d58388b4568",
+              "parentId": "6a131a5a1a17527d38387566",
+              "slotId": "mod_muzzle"
+            },
+            {
+              "_id": "6a131a5a1a17527d3838756a",
+              "_tpl": "5ae30e795acfc408fb139a0b",
+              "parentId": "6a131a5a1a17527d38387566",
+              "slotId": "mod_gas_block"
+            }
+          ],
+          "_encyclopedia": "6a12fc8c85361c813922b583"
+        }
+    ]
+  },
+  "6a12fe5b85361c813922b585": {
+    "itemTplToClone": "55d355e64bdc2d962f8b4569",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+        "Prefab": {
+          "path": "Mods/Service_Rifle/service_rifle_receiver.bundle",
+          "rcid": ""
+        },
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "ExamineExperience": 2,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "Height": 1,
+      "Weight": 0.37,
+      "Width": 2,
+      "Grids": [],
+      "Slots": [
+      {
+        "_name": "mod_scope",
+        "_id": "5ae9c31e5acfc4039d663545",
+        "_parent": "5ae30bad5acfc400185c2dc4",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5c1cdd512e22161b267d91ae",
+                "5c05293e0db83400232fff80",
+                "5c052a900db834001a66acbd",
+                "59db7e1086f77448be30ddf3"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_barrel",
+        "_id": "5c0e2f26d174af02a9625117",
+        "_parent": "5c0e2f26d174af02a9625114",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "55d35ee94bdc2d61338b4568",
+                "55d3632e4bdc2d972f8b4569",
+                "5d440b93a4b9364276578d4b",
+                "5d440b9fa4b93601354d480c",
+                "5c0e2f94d174af029f650d56",
+                "63d3ce0446bd475bcb50f55f",
+                "63d3d44a2a49307baf09386d",
+                "6a13111985361c813922b58d"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": true,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_handguard",
+        "_id": "5c0e2f26d174af02a9625118",
+        "_parent": "5c0e2f26d174af02a9625114",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5c0e2f5cd174af02a012cfc9",
+                "619b5db699fb192e7430664f",
+                "5b2cfa535acfc432ff4db7a0",
+                "5ae30db85acfc408fb139a05",
+                "5c9a25172e2216000f20314e",
+                "55f84c3c4bdc2d5f408b4576",
+                "588b56d02459771481110ae2",
+                "5c9a26332e2216001219ea70",
+                "5ea16ada09aa976f2e7a51be",
+                "5ea16acdfadf1d18c87b0784",
+                "55d459824bdc2d892f8b4573",
+                "5d122e7bd7ad1a07102d6d7f",
+                "5d123102d7ad1a004e475fe5",
+                "5d4405f0a4b9361e6a4e6bd9",
+                "5c78f2792e221600106f4683",
+                "5c78f26f2e221601da3581d1",
+                "5c78f2492e221600114c9f04",
+                "5c78f2612e221600114c9f0d",
+                "6034e3e20ddce744014cb878",
+                "6034e3d953a60014f970617b",
+                "6034e3cb0ddce744014cb870",
+                "5c6d5d8b2e221644fc630b39",
+                "5d00e0cbd7ad1a6c6566a42d",
+                "5d00f63bd7ad1a59283b1c1e",
+                "6087e0336d0bd7580617bb7a",
+                "595cfa8b86f77427437e845b",
+                "595cf16b86f77427440c32e2",
+                "63888bbd28e5cc32cc09d2b6",
+                "63f4ba71f31d4a33b87bd046",
+                "640b20359ab20e15ee445fa9",
+                "647de824196bf69818044c93",
+                "6a12fe5b85361c813922b586"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": true,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      }
+      ],
+      "Accuracy": 0,
+      "CategoryAnimationModId": 0,
+      "DoubleActionAccuracyPenaltyMult": 1,
+      "Durability": 100,
+      "EffectiveDistance": 0,
+      "Ergonomics": 4,
+      "Loudness": 0,
+      "Recoil": -1.5,
+      "SightingRange": 0,
+      "UniqueAnimationModID": 0,
+      "Velocity": 0,
+      "CoolFactor": 1.009,
+      "DurabilityBurnModificator": 1.017,
+      "HeatFactor": 0.994
+    },
+    "locales": {
+      "en": {
+        "name": "Service Rifle Wooden Handguard",
+        "shortName": "SR",
+        "description": "An upper receiver for the service rifle manufactured by the Gun Runners."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_reciever"
+    ],
+    "fleaPriceRoubles": 6800,
+    "handbookPriceRoubles": 4417,
+    "masteries": false,
+    "masterySections": [],
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "6a12fe5b85361c813922b586": {
+    "itemTplToClone": "55d459824bdc2d892f8b4573",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+        "Prefab": {
+          "path": "Mods/Service_Rifle/service_rifle_handguard.bundle",
+          "rcid": ""
+        },
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "ConflictingItems": [
+        "6357c98711fb55120211f7e1",
+        "55d35ee94bdc2d61338b4568",
+        "5d440b93a4b9364276578d4b",
+        "5c0e2f94d174af029f650d56",
+        "5d440b9fa4b93601354d480c",
+        "55d3632e4bdc2d972f8b4569",
+        "63d3d44a2a49307baf09386d",
+        "63d3ce0446bd475bcb50f55f"
+      ],
+      "ExamineExperience": 5,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "Height": 1,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Weight": 0.221,
+      "Width": 3,
+      "Slots": [],
+      "Accuracy": 0,
+      "CategoryAnimationModId": 0,
+      "DoubleActionAccuracyPenaltyMult": 1,
+      "Durability": 100,
+      "EffectiveDistance": 0,
+      "Ergonomics": 7,
+      "Loudness": 0,
+      "Recoil": 0,
+      "SightingRange": 0,
+      "Velocity": 0,
+      "CoolFactor": 0.995,
+      "HeatFactor": 1.028
+    },
+    "locales": {
+      "en": {
+        "name": "Service Rifle Wooden Handguard",
+        "shortName": "Wood",
+        "description": "A triangular fiberglass rifle handguard manufactured by the Gun Runners. Standard-issue handguard for Service Rifles."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "fleaPriceRoubles": 8409,
+    "handbookPriceRoubles": 1650
+  },
+  "6a130d7385361c813922b588": {
+    "itemTplToClone": "5649be884bdc2d79388b4577",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+        "Prefab": {
+          "path": "Mods/Service_Rifle/service_rifle_buffertube.bundle",
+          "rcid": ""
+        },
+      "AnimationVariantsNumber": 0,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "ConflictingItems": [
+        "5a33e75ac4a2826c6e06d759",
+        "5c0e2ff6d174af02a1659d4a"
+      ],
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "DropSoundType": "None",
+      "ExamineExperience": 5,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": true,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 1,
+      "ExtraSizeUp": 0,
+      "Height": 1,
+      "LeftHandItem": false,
+      "LootExperience": 10,
+      "MergesWithChildren": true,
+      "NotShownInSlot": false,
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Rare",
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.162,
+      "Width": 2,
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ForbidMissingVitalParts": false,
+      "ForbidNonEmptyContainers": false,
+      "Grids": [],
+      "Slots": [
+        {
+          "_name": "mod_stock",
+          "_id": "68a63c5ce1fb670852024663",
+          "_parent": "68a63c5ce1fb670852024661",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a33cae9c4a28232980eb086",
+                  "5d44069ca4b9361ebd26fc37",
+                  "5d4406a8a4b9361e4f6eb8b7",
+                  "6a130d7385361c813922b587"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "Accuracy": 0,
+      "BlocksCollapsible": false,
+      "BlocksFolding": false,
+      "CategoryAnimationModId": 0,
+      "DoubleActionAccuracyPenaltyMult": 1,
+      "Durability": 100,
+      "EffectiveDistance": 0,
+      "Ergonomics": 0,
+      "HasShoulderContact": true,
+      "IsAnimated": false,
+      "Loudness": 0,
+      "MetascoreGroup": "Firepower",
+      "RaidModdable": false,
+      "Recoil": -1,
+      "SightingRange": 0,
+      "ToolModdable": true,
+      "UniqueAnimationModID": 0,
+      "Velocity": 0,
+      "CoolFactor": 1,
+      "DurabilityBurnModificator": 0.99,
+      "Foldable": false,
+      "HeatFactor": 1,
+      "IsShoulderContact": false,
+      "Retractable": false,
+      "SizeReduceRight": 0
+    },
+    "locales": {
+      "en": {
+        "name": "Service Rifle buffer tube",
+        "shortName": "SR",
+        "description": "Service Rifle Receiver Extension Buffer Tube, Mil-Spec diameter will fit any AR-15-based carbine or rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_stock",
+      "mod_stock_000"
+    ],
+    "fleaPriceRoubles": 12024,
+    "handbookPriceRoubles": 2147,
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "6a130d7385361c813922b587": {
+    "itemTplToClone": "5a33cae9c4a28232980eb086",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+        "Prefab": {
+          "path": "Mods/Service_Rifle/service_rifle_stock.bundle",
+          "rcid": ""
+        },
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "ConflictingItems": [
+        "5a33e75ac4a2826c6e06d759",
+        "5c0e2ff6d174af02a1659d4a"
+      ],
+      "DiscardLimit": -1,
+      "ExamineExperience": 4,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 1,
+      "ItemSound": "mod",
+      "LeftHandItem": false,
+      "LootExperience": 10,
+      "MergesWithChildren": true,
+      "Name": "stock_ar15_colt_m16a1_type_7",
+      "NotShownInSlot": false,
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Rare",
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "stock_ar15_colt_m16a1_type_7",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.48,
+      "Width": 2,
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "Grids": [],
+      "Slots": [],
+      "Accuracy": 0,
+      "BlocksCollapsible": false,
+      "BlocksFolding": false,
+      "CategoryAnimationModId": 0,
+      "DoubleActionAccuracyPenaltyMult": 1,
+      "Durability": 100,
+      "EffectiveDistance": 0,
+      "Ergonomics": 4,
+      "HasShoulderContact": true,
+      "IsAnimated": false,
+      "Loudness": 0,
+      "MetascoreGroup": "Firepower",
+      "RaidModdable": true,
+      "Recoil": -22,
+      "SightingRange": 0,
+      "ToolModdable": false,
+      "UniqueAnimationModID": 0,
+      "Velocity": 0,
+      "CoolFactor": 1,
+      "DurabilityBurnModificator": 1,
+      "Foldable": false,
+      "HeatFactor": 1,
+      "IsShoulderContact": false,
+      "Retractable": false,
+      "SizeReduceRight": 0
+    },
+    "locales": {
+      "en": {
+        "name": "Service rifle Wooden stock",
+        "shortName": "Wood",
+        "description": "A standard-issue buttstock for the Service rifle, compatible with AR-15 and AR-10 platforms."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": ["mod_stock_000"],
+    "fleaPriceRoubles": 13152,
+    "handbookPriceRoubles": 9980,
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "6a130f5585361c813922b589": {
+    "itemTplToClone": "5b2240bf5acfc40dc528af69",
+    "parentId": "55818a6f4bdc2db9688b456b",
+    "handbookParentId": "5b5f751486f77447ec5d770c",
+    "overrideProperties": {
+        "Prefab": {
+          "path": "Mods/Service_Rifle/service_rifle_charge.bundle",
+          "rcid": ""
+        },
+        "AnimationVariantsNumber": 0,
+      "BackgroundColor": "blue",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "ConflictingItems": [],
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "ExamineExperience": 2,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 1,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "LeftHandItem": false,
+      "LootExperience": 5,
+      "MergesWithChildren": true,
+      "NotShownInSlot": false,
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "Weight": 0.035,
+      "Width": 1,
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ForbidMissingVitalParts": false,
+      "ForbidNonEmptyContainers": false,
+      "Grids": [],
+      "Slots": [],
+      "Accuracy": 0,
+      "BlocksCollapsible": false,
+      "BlocksFolding": false,
+      "CategoryAnimationModId": 0,
+      "DoubleActionAccuracyPenaltyMult": 1,
+      "Durability": 100,
+      "EffectiveDistance": 0,
+      "Ergonomics": 0,
+      "HasShoulderContact": false,
+      "IsAnimated": false,
+      "Loudness": 0,
+      "MetascoreGroup": "Firepower",
+      "RaidModdable": false,
+      "Recoil": 0,
+      "SightingRange": 0,
+      "ToolModdable": false,
+      "UniqueAnimationModID": 0,
+      "Velocity": 0,
+      "DurabilityBurnModificator": 1
+    },
+    "locales": {
+      "en": {
+        "name": "Service rifle charging handle",
+        "shortName": "SR CH",
+        "description": "An early type charging handle for the Service rifle and compatible systems, manufactured by the Gun Runners."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_charge"
+    ],
+    "fleaPriceRoubles": 2224,
+    "handbookPriceRoubles": 1114,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 326
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 219
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 405
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 337
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE_5X2_2",
+        "probability": 105
+      },
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 138
+      }
+    ],
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "6a130f5585361c813922b58a": {
+    "itemTplToClone": "55d4b9964bdc2d1d4e8b456e",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+        "Prefab": {
+          "path": "Mods/Service_Rifle/service_rifle_grip.bundle",
+          "rcid": ""
+        },
+        "AnimationVariantsNumber": 0,
+      "BackgroundColor": "blue",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "ConflictingItems": [],
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "DropSoundType": "None",
+      "ExamineExperience": 2,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 1,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 1,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "LeftHandItem": false,
+      "LootExperience": 5,
+      "MergesWithChildren": true,
+      "NotShownInSlot": false,
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "pistolgrip_ar15_colt_a1",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.113,
+      "Width": 1,
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ForbidMissingVitalParts": false,
+      "ForbidNonEmptyContainers": false,
+      "Grids": [],
+      "Slots": [],
+      "Accuracy": 0,
+      "BlocksCollapsible": false,
+      "BlocksFolding": false,
+      "CategoryAnimationModId": 0,
+      "DoubleActionAccuracyPenaltyMult": 1,
+      "Durability": 100,
+      "EffectiveDistance": 0,
+      "Ergonomics": 5.5,
+      "HasShoulderContact": false,
+      "IsAnimated": false,
+      "Loudness": 0,
+      "MetascoreGroup": "Firepower",
+      "RaidModdable": false,
+      "Recoil": 0,
+      "SightingRange": 0,
+      "ToolModdable": true,
+      "UniqueAnimationModID": 0,
+      "Velocity": 0
+    },
+    "locales": {
+      "en": {
+        "name": "Service rifle wooden pistol grip",
+        "shortName": "Wood",
+        "description": "An older style wooden pistol grip manufactured by the Gun Runners."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": ["mod_pistol_grip"],
+    "fleaPriceRoubles": 5732,
+    "handbookPriceRoubles": 1327,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 450
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 350
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 350
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 350
+      },
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 350
+      }
+    ],
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "6a1310af85361c813922b58b": {
+    "itemTplToClone": "5448c1d04bdc2dff2f8b4569",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+        "Prefab": {
+          "path": "Mods/Service_Rifle/service_rifle_20rd_magazine.bundle",
+          "rcid": ""
+        },
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "yellow",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "ConflictingItems": [],
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "DropSoundType": "None",
+      "ExamineExperience": 2,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 1,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 1,
+      "LootExperience": 10,
+      "MergesWithChildren": true,
+      "NotShownInSlot": false,
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Common",
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Weight": 0.17,
+      "Width": 1,
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ForbidMissingVitalParts": false,
+      "ForbidNonEmptyContainers": false,
+      "Grids": [],
+      "Slots": [],
+      "Accuracy": 0,
+      "BlocksCollapsible": false,
+      "BlocksFolding": false,
+      "CategoryAnimationModId": 0,
+      "DoubleActionAccuracyPenaltyMult": 1,
+      "Durability": 100,
+      "EffectiveDistance": 0,
+      "Ergonomics": 2,
+      "HasShoulderContact": false,
+      "IsAnimated": false,
+      "Loudness": 0,
+      "MetascoreGroup": "Firepower",
+      "RaidModdable": true,
+      "Recoil": 0,
+      "SightingRange": 0,
+      "ToolModdable": false,
+      "UniqueAnimationModID": 0,
+      "Velocity": 0,
+      "BeltMagazineRefreshCount": 0,
+      "Cartridges": [
+        {
+          "_name": "cartridges",
+          "_id": "68a63b73c92ee33ffa01bf59",
+          "_parent": "68a63b73c92ee33ffa01bf57",
+          "_max_count": 20,
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "59e6920f86f77411d82aa167",
+                  "59e6927d86f77411da468256",
+                  "54527a984bdc2d4e668b4567",
+                  "54527ac44bdc2d36668b4567",
+                  "59e68f6f86f7746c9f75e846",
+                  "59e6906286f7746c9f75e847",
+                  "59e690b686f7746c9f75e848",
+                  "59e6918f86f7746c9f75e849",
+                  "60194943740c5d77f6705eea",
+                  "601949593ae8f707c4608daa",
+                  "5c0d5ae286f7741e46554302",
+                  "5fbe3ffdf8b6a877a729ea82",
+                  "5fd20ff893a8961fc660a954",
+                  "619636be6db0f2477964e710",
+                  "6196364158ef8c428c287d9f",
+                  "6196365d58ef8c428c287da1",
+                  "64b8725c4b75259c590fa899"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ],
+      "CheckOverride": 0,
+      "CheckTimeModifier": 0,
+      "IsMagazineForStationaryWeapon": false,
+      "LoadUnloadModifier": 0,
+      "MagazineWithBelt": false,
+      "MalfunctionChance": 0.06
+    },
+    "locales": {
+      "en": {
+        "name": "Service Rifle 5.56x45 STANAG 20-round magazine",
+        "shortName": "STANAG",
+        "description": "A classic 20-round 5.56x45 magazine for Service Rifle. Manufactured by the Gun Runners."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 12500,
+    "handbookPriceRoubles": 2006,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 450
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 350
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 350
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 350
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE_5X2_2",
+        "probability": 350
+      }
+    ],
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "6a13111985361c813922b58d": {
+    "itemTplToClone": "5d440b9fa4b93601354d480c",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+        "Prefab": {
+          "path": "Mods/Service_Rifle/service_rifle_barrel.bundle",
+          "rcid": ""
+        },
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "blue",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "ConflictingItems": [
+        "5c0e2f5cd174af02a012cfc9",
+        "68a63ccc8a85019a82087956",
+        "5ae30db85acfc408fb139a05",
+        "55d459824bdc2d892f8b4573",
+        "5d00e0cbd7ad1a6c6566a42d",
+        "5d00f63bd7ad1a59283b1c1e",
+        "5c78f2792e221600106f4683",
+        "5c78f26f2e221601da3581d1",
+        "647de824196bf69818044c93"
+      ],
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "DropSoundType": "None",
+      "ExamineExperience": 6,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 4,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 1,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "mod",
+      "LeftHandItem": false,
+      "LootExperience": 15,
+      "MergesWithChildren": true,
+      "NotShownInSlot": false,
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.509,
+      "Width": 4,
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ForbidMissingVitalParts": false,
+      "ForbidNonEmptyContainers": false,
+      "Grids": [],
+      "Slots": [
+        {
+          "_name": "mod_muzzle",
+          "_id": "68a63ac58e1fe612970728f4",
+          "_parent": "68a63ac58e1fe612970728f2",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b3a16655acfc40016387a2a",
+                  "5c7e5f112e221600106f4ede",
+                  "5c0fafb6d174af02a96260ba",
+                  "612e0cfc8004cc50514c2d9e",
+                  "5cf6937cd7f00c056c53fb39",
+                  "544a38634bdc2d58388b4568",
+                  "5cff9e5ed7ad1a09407397d4",
+                  "5c48a2a42e221602b66d1e07",
+                  "5f6372e2865db925d54f3869",
+                  "615d8e2f1cb55961fa0fd9a4",
+                  "56ea8180d2720bf2698b456a",
+                  "5d02676dd7ad1a049e54f6dc",
+                  "56ea6fafd2720b844b8b4593",
+                  "5943ee5a86f77413872d25ec",
+                  "609269c3b0e443224b421cc1",
+                  "5c7fb51d2e2216001219ce11",
+                  "5ea172e498dacb342978818e",
+                  "5c6d710d2e22165df16b81e7",
+                  "612e0e55a112697a4b3a66e7",
+                  "5d440625a4b9361eec4ae6c5",
+                  "5cc9b815d7f00c000e2579d6",
+                  "5a7c147ce899ef00150bd8b8",
+                  "5c7954d52e221600106f4cc7",
+                  "59bffc1f86f77435b128b872",
+                  "5a9fbb84a2750c00137fa685",
+                  "626667e87379c44d557b7550",
+                  "62669bccdb9ebb4daa44cd14",
+                  "626a74340be03179a165e30c",
+                  "6386120cd6baa055ad1e201c",
+                  "63ac5c9658d0485fc039f0b8",
+                  "6405ff6bd4578826ec3e377a",
+                  "64943b74e9998d641b0412ed",
+                  "6621455e3aceea9e2b0b01e7",
+                  "664301213dd83ddae20dda18",
+                  "68a63b03e1fb670852024656",
+                  "68c294b9eb59c46bf6070536",
+                  "68caac500bfe742288085e1e"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_gas_block",
+          "_id": "68a63ac58e1fe612970728f5",
+          "_parent": "68a63ac58e1fe612970728f2",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ae30e795acfc408fb139a0b",
+                  "56eabcd4d2720b66698b4574",
+                  "5d00ec68d7ad1a04a067e5be",
+                  "56ea8d2fd2720b7c698b4570",
+                  "63d3ce281fe77d0f2801859e",
+                  "68caac02269e10396503acfa",
+                  "68c16f6883e2d814b0093f7a"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_launcher",
+          "_id": "68a63ac58e1fe612970728f6",
+          "_parent": "68a63ac58e1fe612970728f2",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6357c98711fb55120211f7e1"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "Accuracy": 0,
+      "BlocksCollapsible": false,
+      "BlocksFolding": false,
+      "CategoryAnimationModId": 0,
+      "DoubleActionAccuracyPenaltyMult": 1,
+      "Durability": 100,
+      "EffectiveDistance": 0,
+      "Ergonomics": -30,
+      "HasShoulderContact": false,
+      "IsAnimated": false,
+      "Loudness": 0,
+      "MetascoreGroup": "Firepower",
+      "RaidModdable": false,
+      "Recoil": -5,
+      "SightingRange": 0,
+      "ToolModdable": true,
+      "UniqueAnimationModID": 0,
+      "Velocity": -3.4,
+      "CenterOfImpact": 0.036,
+      "CoolFactor": 0.95,
+      "DeviationCurve": 1.36,
+      "DeviationMax": 24,
+      "DurabilityBurnModificator": 1.09,
+      "HeatFactor": 0.95,
+      "IsSilencer": false,
+      "ShotgunDispersion": 1
+    },
+    "locales": {
+      "en": {
+        "name": "Service rifle 5.56x45 A1 type 20 inch barrel",
+        "shortName": "SR A1 20\"",
+        "description": "A 20 inch (508mm) barrel for AR-15 platform weapons for 5.56x45 NATO ammo."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "fleaPriceRoubles": 41049,
+    "handbookPriceRoubles": 33990,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 378
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 305
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 254
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 133
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE_5X2_2",
+        "probability": 401
+      },
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 363
+      }
+    ],
+    "addtoTraders": false,
+    "traders": {}
+  }
+}

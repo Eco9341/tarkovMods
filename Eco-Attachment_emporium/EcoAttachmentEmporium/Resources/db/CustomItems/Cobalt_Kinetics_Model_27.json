@@ -324,11 +324,11 @@
     "staticLootContainers": [],
     "masterySections": [
       {
-        "Level2": 150,
-        "Level3": 200,
-        "Name": "M4A1",
+        "Level2": 1600,
+        "Level3": 2000,
+        "Name": "M4",
         "Templates": [
-          "6902633fbfd8894b780f71b5"
+          "69fbe2205f919280cea5c188"
         ]
       }
     ]
@@ -1076,15 +1076,7 @@
           ]
         }
       }
-    },
-    "masterySections": [
-      {
-        "Name": "M4",
-        "Templates": [
-          "4b81488c78c8a8ac7d37f9b9"
-        ]
-      }
-    ]
+    }
   },
   "69fc85719d6fca325ed51943": {
     "itemTplToClone": "5c793fb92e221644f31bfb64",

@@ -1,0 +1,338 @@
+{
+  "6a1e999809ef9baf4bd31935": {
+    "itemTplToClone": "620109578d82e67e7911abf2",
+    "parentId": "5447bedf4bdc2d87278b4568",
+    "handbookParentId": "5b5f79eb86f77447ed5636b7",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Tulyak/weapon_tulyak_container.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": true,
+      "CanRequireOnRagfair": false,
+      "Weight": 2.0,
+      "RecoilForceBack": 839,
+      "RecoilForceUp": 687,
+      "DurabilityBurnRatio": 2,
+      "IsFlareGun": false,
+      "weapClass": "specialWeapon",
+      "defAmmo": "5e85aa1a988a8701445df1f5",
+      "defMagType": "5448bc234bdc2d3c308b4569",
+      "ammoCaliber": "Caliber23x75",
+      "Chambers": [
+        {
+          "_id": "5e848cc2988a8701445df1ef",
+          "_mergeSlotWithChildren": false,
+          "_name": "patron_in_weapon",
+          "_parent": "5e848cc2988a8701445df1e8",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5e85aa1a988a8701445df1f5",
+                  "5e85aac65505fa48730d8af2",
+                  "5e85a9a6eacf8c039e4e2ac1",
+                  "5f647f31b6238e5dd066e196",
+                  "5e85a9f4add9fe03027d9bf1",
+                  "5f647fd3f6e4ab66c82faed6"
+                ]
+              }
+            ]
+          },
+          "_proto": "55d4af244bdc2d962f8b4571",
+          "_required": false
+        }
+      ],
+      "Slots": [
+        {
+          "_name": "mod_stock",
+          "_id": "5ac66d725acfc43b321d4b69",
+          "_parent": "5ac66d725acfc43b321d4b60",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a1ec3a509ef9baf4bd31937"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "ShotsGroupSettings": [
+        {
+          "EndShotIndex": 99,
+          "ShotRecoilPositionStrength": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "ShotRecoilRadianRange": {
+            "x": -20,
+            "y": 20,
+            "z": 0
+          },
+          "ShotRecoilRotationStrength": {
+            "x": 0,
+            "y": 2,
+            "z": 0
+          },
+          "StartShotIndex": 4
+        }
+      ],
+      "WeaponRecoilSettings": {
+        "Enable": true,
+        "Values": [
+          {
+            "Enable": true,
+            "Process": {
+              "ComponentType": "Y",
+              "CurveAimingValueMultiply": 3,
+              "CurveTimeMultiply": 1,
+              "CurveValueMultiply": 3,
+              "TransformationCurve": {
+                "Keys": [
+                  {
+                    "inTangent": 0,
+                    "outTangent": 0,
+                    "time": 0,
+                    "value": 0
+                  },
+                  {
+                    "inTangent": 0,
+                    "outTangent": 0,
+                    "time": 0.1,
+                    "value": 2
+                  },
+                  {
+                    "inTangent": 0,
+                    "outTangent": 0,
+                    "time": 0.3,
+                    "value": -0.75
+                  },
+                  {
+                    "inTangent": 0,
+                    "outTangent": 0,
+                    "time": 1,
+                    "value": 0
+                  }
+                ]
+              }
+            },
+            "Target": "HandsRotation"
+          },
+          {
+            "Enable": true,
+            "Process": {
+              "ComponentType": "X",
+              "CurveAimingValueMultiply": 3,
+              "CurveTimeMultiply": 2,
+              "CurveValueMultiply": 4,
+              "TransformationCurve": {
+                "Keys": [
+                  {
+                    "inTangent": 0,
+                    "outTangent": 0,
+                    "time": 0,
+                    "value": 0
+                  },
+                  {
+                    "inTangent": 0,
+                    "outTangent": 0,
+                    "time": 0.1,
+                    "value": 2
+                  },
+                  {
+                    "inTangent": 0,
+                    "outTangent": 0,
+                    "time": 0.3,
+                    "value": -0.75
+                  },
+                  {
+                    "inTangent": 0,
+                    "outTangent": 0,
+                    "time": 1,
+                    "value": 0
+                  }
+                ]
+              }
+            },
+            "Target": "HandsRotation"
+          },
+          {
+            "Enable": true,
+            "Process": {
+              "ComponentType": "Z",
+              "CurveAimingValueMultiply": 0.1,
+              "CurveTimeMultiply": 1,
+              "CurveValueMultiply": 1,
+              "TransformationCurve": {
+                "Keys": [
+                  {
+                    "inTangent": 0,
+                    "outTangent": 0,
+                    "time": 0,
+                    "value": 0
+                  },
+                  {
+                    "inTangent": 0,
+                    "outTangent": 0,
+                    "time": 0.1,
+                    "value": 2
+                  },
+                  {
+                    "inTangent": 0,
+                    "outTangent": 0,
+                    "time": 0.3,
+                    "value": -0.75
+                  },
+                  {
+                    "inTangent": 0,
+                    "outTangent": 0,
+                    "time": 1,
+                    "value": 0
+                  }
+                ]
+              }
+            },
+            "Target": "HandsRotation"
+          },
+          {
+            "Enable": true,
+            "Process": {
+              "ComponentType": "Z",
+              "CurveAimingValueMultiply": 0.004,
+              "CurveTimeMultiply": 0.5,
+              "CurveValueMultiply": 0.005,
+              "TransformationCurve": {
+                "Keys": [
+                  {
+                    "inTangent": 0,
+                    "outTangent": 0,
+                    "time": 0,
+                    "value": 0
+                  },
+                  {
+                    "inTangent": 0,
+                    "outTangent": 0,
+                    "time": 0.1,
+                    "value": 2
+                  },
+                  {
+                    "inTangent": 0,
+                    "outTangent": 0,
+                    "time": 0.3,
+                    "value": -0.75
+                  },
+                  {
+                    "inTangent": 0,
+                    "outTangent": 0,
+                    "time": 1,
+                    "value": 0
+                  }
+                ]
+              }
+            },
+            "Target": "HandsPosition"
+          }
+        ]
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "OF-93 Tulyak 23x75mm pistol",
+        "shortName": "OF-93",
+        "description": "The OF-93 is a Russian-made single-shot break-action shotgun, developed in the early 1990s as a weapon meant primarily for farm use. It notably featured a 4-gauge (by European measurements) barrel with an optional screw-in 12-gauge insert that stuck out beyond it, allowing the weapon to fire either standard 12-gauge shells with the insert, or the 26.5mm flares used by the SPSh Flare Pistol (or apparently the 4-gauge rubber slug shells from the TOZ-123 \"Drake-4\") without. Additionally, despite being single-action only, it lacks an external hammer spur or striker extension; instead, the large wedge on the front of the grip must be squeezed in to cock the weapon, similarly to the Heckler & Koch P7. Ultimately, the weapon didn't see any substantial success."
+      }
+    },
+    "addtoInventorySlots": [
+        "Holster"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 11234,
+    "handbookPriceRoubles": 7431,
+    "addtoTraders": true,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6a1e999809ef9baf4bd31936": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 14733,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": [],
+    "masterySections": [
+      {
+        "Level2": 250,
+        "Level3": 300,
+        "Name": "OF-93 Tulyak",
+        "Templates": [
+          "6a1e999809ef9baf4bd31935"
+        ]
+      }
+    ]
+  },
+  "6a1ec3a509ef9baf4bd31937": {
+    "itemTplToClone": "5e848dc4e4dbc5266a4ec63d",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Tulyak/tulyak_stock.bundle",
+        "rcid": ""
+      },
+      "Recoil": -24
+    },
+    "locales": {
+      "en": {
+        "name": "OF-93 Tulyak stock",
+        "shortName": "Tulyak S",
+        "description": "The standard stock for the OF-93 Tulyak."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 9200,
+    "handbookPriceRoubles": 5463,
+    "addtoTraders": true,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "6a1ec3a509ef9baf4bd31938": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 17020,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": []
+  }
+}
