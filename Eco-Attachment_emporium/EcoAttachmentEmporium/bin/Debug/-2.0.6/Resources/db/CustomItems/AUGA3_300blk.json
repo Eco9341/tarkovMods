@@ -188,7 +188,7 @@
       },
       "Slots": [
         {
-          "_name": "mod_muzzle",
+          "_name": "mod_muzzle_000",
           "_id": "5df917564a9f347bc92edca5",
           "_parent": "5df917564a9f347bc92edca3",
           "_props": {

@@ -2460,11 +2460,11 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle",
-                "assets/content/textures/holemanager/glow_particle_bright.bundle",
                 "assets/systems/effects/laserbeam/laser.bundle",
                 "assets/systems/effects/collimator.bundle",
-                "assets/systems/effects/nightvision.bundle"
+                "epicaio_common_textures.bundle",
+                "assets/content/textures/holemanager/glow_particle_bright.bundle",
+                "assets/standard assets/effects/lightcookies/textures/flashlightcookie.bundle"
             ]
         },
         {
@@ -4835,6 +4835,163 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps"
+            ]
+        },
+        {
+            "key": "Mods/Stoner_63A/weapon_stoner63_container.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+                "assets/systems/effects/heathaze/defaultheathaze.bundle",
+                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle",
+                "Mods/Stoner_63A/stoner63_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Stoner_63A/stoner63_textures.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps"
+            ]
+        },
+        {
+            "key": "Mods/Stoner_63A/stoner63_barrel.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/Stoner_63A/stoner63_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Stoner_63A/stoner63_barrel_short.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/Stoner_63A/stoner63_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Stoner_63A/stoner63_stock.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/Stoner_63A/stoner63_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Stoner_63A/stoner63_rear.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/Stoner_63A/stoner63_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Stoner_63A/stoner63_mag.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/Stoner_63A/stoner63_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Stoner_63A/stoner63_drum.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/Stoner_63A/stoner63_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/AUG_Parts/aug_rail_textures.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps"
+            ]
+        },
+        {
+            "key": "Mods/AUG_Parts/aug_special_rail.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/AUG_Parts/aug_rail_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/AUG_Parts/aug_mlok_handguard_long.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/AUG_Parts/aug_rail_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/AUG_Parts/aug_mlok_handguard_short.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/AUG_Parts/aug_rail_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/AUG_Parts/aug_keymod_handguard_short.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/AUG_Parts/aug_rail_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/GHM9_Gen1/weapon_ghm9_gen1_container.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+                "assets/systems/effects/heathaze/defaultheathaze.bundle",
+                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle",
+                "Mods/GHM9_Gen1/ghm9_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/GHM9_Gen1/ghm9_textures.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps"
+            ]
+        },
+        {
+            "key": "Mods/GHM9_Gen1/ghm9_gen1_barrel.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/GHM9_Gen1/ghm9_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/GHM9_Gen1/ghm9_gen1_handguard.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/GHM9_Gen1/ghm9_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/GHM9_Gen1/ghm9_gen1_stock.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/GHM9_Gen1/ghm9_textures.bundle"
             ]
         }
     ]

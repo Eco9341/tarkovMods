@@ -1,0 +1,700 @@
+{
+  "6a49b5217faaa18d0042327b": {
+    "itemTplToClone": "5de7bd7bfd6b4e6e2276dc25",
+    "parentId": "5447b5e04bdc2d62278b4567",
+    "handbookParentId": "5b5f796a86f774093f2ed3c0",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/GHM9_Gen1/weapon_ghm9_gen1_container.bundle",
+        "rcid": ""
+      },
+    "weapFireType": [
+      "single"
+    ],
+    "Foldable": false,
+    "CompactHandling": false,
+    "Slots": [
+      {
+        "_id": "5de7bd7bfd6b4e6e2276dc27",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_magazine",
+        "_parent": "5de7bd7bfd6b4e6e2276dc25",
+        "_props": {
+          "filters": [
+            {
+              "AnimationIndex": -1,
+              "Filter": [
+                "5de8e8dafd6b4e6e2276dc32",
+                "5de8ea8ffd6b4e6e2276dc35",
+                "5de8eaadbbaf010b10528a6d",
+                "5de8eac42a78646d96665d91"
+              ]
+            }
+          ]
+        },
+        "_proto": "55d30c394bdc2dae468b4577",
+        "_required": false
+      },
+      {
+        "_id": "5de7bd7bfd6b4e6e2276dc2f",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_stock",
+        "_parent": "5de7bd7bfd6b4e6e2276dc25",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6a4a57cd786e8370ad0ff910"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "602e63fb6335467b0c5ac94f",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_scope_000",
+        "_parent": "602e63fb6335467b0c5ac94d",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57ac965c24597706be5f975c",
+                "57aca93d2459771f2c7e26db",
+                "544a3f024bdc2d1d388b4568",
+                "544a3a774bdc2d3a388b4567",
+                "5d2dc3e548f035404a1a4798",
+                "57adff4f24597737f373b6e6",
+                "5c0517910db83400232ffee5",
+                "591c4efa86f7741030027726",
+                "570fd79bd2720bc7458b4583",
+                "570fd6c2d2720bc6458b457f",
+                "558022b54bdc2dac148b458d",
+                "5c07dd120db834001c39092d",
+                "5c0a2cec0db834001b7ce47d",
+                "58491f3324597764bc48fa02",
+                "584924ec24597768f12ae244",
+                "5b30b0dc5acfc400153b7124",
+                "6165ac8c290d254f5e6b2f6c",
+                "60a23797a37c940de7062d02",
+                "5d2da1e948f035477b1ce2ba",
+                "5c0505e00db834001b735073",
+                "609a63b6e2ff132951242d09",
+                "584984812459776a704a82a6",
+                "59f9d81586f7744c7506ee62",
+                "570fd721d2720bc5458b4596",
+                "57ae0171245977343c27bfcf",
+                "5dfe6104585a0c3e995c7b82",
+                "544a3d0a4bdc2d1b388b4567",
+                "5d1b5e94d7ad1a2b865a96b0",
+                "609bab8b455afd752b2e6138",
+                "58d39d3d86f77445bb794ae7",
+                "616554fe50224f204c1da2aa",
+                "5c7d55f52e221644f31bff6a",
+                "616584766ef05c2ce828ef57",
+                "5b3b6dc75acfc47a8773fb1e",
+                "615d8d878004cc50514c3233",
+                "5b2389515acfc4771e1be0c0",
+                "577d128124597739d65d0e56",
+                "618b9643526131765025ab35",
+                "618bab21526131765025ab3f",
+                "5c86592b2e2216000e69e77c",
+                "5a37ca54c4a282000d72296a",
+                "5d0a29fed7ad1a002769ad08",
+                "5c064c400db834001d23f468",
+                "58d2664f86f7747fec5834f6",
+                "57c69dd424597774c03b7bbc",
+                "5b3b99265acfc4704b4a1afb",
+                "5aa66a9be5b5b0214e506e89",
+                "5aa66c72e5b5b00016327c93",
+                "5c1cdd302e221602b3137250",
+                "61714b2467085e45ef140b2c",
+                "6171407e50224f204c1da3c5",
+                "61713cc4d8e3106d9806c109",
+                "5b31163c5acfc400153b71cb",
+                "5a33b652c4a28232996e407c",
+                "5a33b2c9c4a282000c5a9511",
+                "59db7eed86f77461f8380365",
+                "5a1ead28fcdbcb001912fa9f",
+                "5dff77c759400025ea5150cf",
+                "626bb8532c923541184624b4",
+                "62811f461d5df4475f46a332",
+                "63fc449f5bd61c6cf3784a88",
+                "6477772ea8a38bb2050ed4db",
+                "6478641c19d732620e045e17",
+                "64785e7c19d732620e045e15",
+                "65392f611406374f82152ba5",
+                "653931da5db71d30ab1d6296",
+                "655f13e0a246670fb0373245",
+                "6567e751a715f85433025998",
+                "67641a851b2899700609901a"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "602e63fb6335467b0c5ac950",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_barrel",
+        "_parent": "602e63fb6335467b0c5ac94d",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6a4a51ab786e8370ad0ff90c"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": true
+      },
+      {
+        "_id": "602e63fb6335467b0c5ac951",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_handguard",
+        "_parent": "602e63fb6335467b0c5ac94d",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6a4a538a786e8370ad0ff90e"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": true
+      },
+      {
+        "_id": "602e63fb6335467b0c5ac952",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_sight_rear",
+        "_parent": "602e63fb6335467b0c5ac94d",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5bb20e49d4351e3bac1212de",
+                "5ba26b17d4351e00367f9bdd",
+                "5dfa3d7ac41b2312ea33362a",
+                "5c1780312e221602b66cc189",
+                "5fb6564947ce63734e3fa1da",
+                "5bc09a18d4351e003562b68e",
+                "5c18b9192e2216398b5a8104",
+                "5fc0fa957283c4046c58147e",
+                "5894a81786f77427140b8347",
+                "55d5f46a4bdc2d1b198b4567",
+                "5ae30bad5acfc400185c2dc4"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      }
+    ]
+    },
+    "locales": {
+      "en": {
+        "name": "B&T GHM9 Gen1 9x19 carbine",
+        "shortName": "GHM9 Gen1",
+        "description": "The GHM product family stands for user-friendly, modular and cost-effective weapon solutions – ideal for sport, training and plinking. Thanks to its simple handling, sophisticated design and availability in various pistol calibers, the GHM series offers maximum flexibility with low maintenance. Precise. Robust. Versatile."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 14482,
+    "handbookPriceRoubles": 8653,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
+      }
+    ],
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+        {
+          "_id": "6a4a70116bc19181947762b3",
+          "_type": "Preset",
+          "_changeWeaponName": false,
+          "_name": "GHM9",
+          "_parent": "6a4a70116bc19181947762b4",
+          "_items": [
+            {
+              "_id": "6a4a70116bc19181947762b4",
+              "_tpl": "6a49b5217faaa18d0042327b",
+              "upd": {
+                "Repairable": {
+                  "Durability": 100,
+                  "MaxDurability": 100
+                },
+                "FireMode": {
+                  "FireMode": "single"
+                },
+                "Foldable": {
+                  "Folded": false
+                }
+              }
+            },
+            {
+              "_id": "6a4a700e6bc191819477526a",
+              "_tpl": "5de8eac42a78646d96665d91",
+              "parentId": "6a4a70116bc19181947762b4",
+              "slotId": "mod_magazine"
+            },
+            {
+              "_id": "6a4a700e6bc191819477526b",
+              "_tpl": "6a4a57cd786e8370ad0ff910",
+              "parentId": "6a4a70116bc19181947762b4",
+              "slotId": "mod_stock"
+            },
+            {
+              "_id": "6a4a700e6bc191819477526c",
+              "_tpl": "6a4a51ab786e8370ad0ff90c",
+              "parentId": "6a4a70116bc19181947762b4",
+              "slotId": "mod_barrel"
+            },
+            {
+              "_id": "6a4a700e6bc191819477526d",
+              "_tpl": "6a4a538a786e8370ad0ff90e",
+              "parentId": "6a4a70116bc19181947762b4",
+              "slotId": "mod_handguard"
+            },
+            {
+              "_id": "6a4a700e6bc191819477526e",
+              "_tpl": "5bc09a18d4351e003562b68e",
+              "parentId": "6a4a70116bc19181947762b4",
+              "slotId": "mod_sight_rear",
+              "upd": {
+                "Sight": {
+                  "ScopesCurrentCalibPointIndexes": [
+                    0
+                  ],
+                  "ScopesSelectedModes": [
+                    0
+                  ],
+                  "SelectedScope": 0,
+                  "ScopeZoomValue": 0
+                }
+              }
+            },
+            {
+              "_id": "6a4a700e6bc191819477526f",
+              "_tpl": "5bc09a30d4351e00367fb7c8",
+              "parentId": "6a4a700e6bc191819477526d",
+              "slotId": "mod_sight_front",
+              "upd": {
+                "Sight": {
+                  "ScopesCurrentCalibPointIndexes": [
+                    0
+                  ],
+                  "ScopesSelectedModes": [
+                    0
+                  ],
+                  "SelectedScope": 0,
+                  "ScopeZoomValue": 0
+                }
+              }
+            }
+          ],
+          "_encyclopedia": "6a49b5217faaa18d0042327b"
+        }
+    ],
+    "traders": {
+      "MECHANIC": {
+        "6a49b5217faaa18d0042327c": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 30862,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Level2": 150,
+        "Level3": 300,
+        "Name": "GHM9 Gen1",
+        "Templates": [
+          "69c6c3ceb74c2d039e07b269"
+        ]
+      }
+    ]
+  },
+  "6a4a51ab786e8370ad0ff90c": {
+    "itemTplToClone": "603372b4da11d6478d5a07ff",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/GHM9_Gen1/ghm9_gen1_barrel.bundle",
+        "rcid": ""
+      },
+      "ExtraSizeLeft": 0,
+      "Width": 1,
+      "Slots": [
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "B&T GHM9 9x19 4 inch barrel",
+        "shortName": "GHM9 9x19",
+        "description": "A 4(100mm) inch barrel for the GHM9 carbine, chambered in 9x19mm Parabellum."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 7000,
+    "handbookPriceRoubles": 3574,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 98
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 98
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 98
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 98
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 98
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 98
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "6a4a51ab786e8370ad0ff90d": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 8050,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a4a538a786e8370ad0ff90e": {
+    "itemTplToClone": "63f4ba71f31d4a33b87bd046",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/GHM9_Gen1/ghm9_gen1_handguard.bundle",
+        "rcid": ""
+      },
+      "ExtraSizeLeft": 0,
+      "Slots": [
+        {
+          "_id": "5ea16ada09aa976f2e7a51c0",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_000",
+          "_parent": "5ea16ada09aa976f2e7a51be",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "5ea16ada09aa976f2e7a51c1",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_001",
+          "_parent": "5ea16ada09aa976f2e7a51be",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "5ea16ada09aa976f2e7a51c3",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_tactical_000",
+          "_parent": "5ea16ada09aa976f2e7a51be",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "5c06595c0db834001a66af6c",
+                  "5a7b483fe899ef0016170d15",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5c5952732e2216398b5abda2",
+                  "644a3df63b0b6f03e101e065"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "5ea16ada09aa976f2e7a51c5",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_tactical_001",
+          "_parent": "5ea16ada09aa976f2e7a51be",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5c06595c0db834001a66af6c",
+                  "5a7b483fe899ef0016170d15",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5c5952732e2216398b5abda2",
+                  "644a3df63b0b6f03e101e065"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "5ea16ada09aa976f2e7a51c6",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_sight_front",
+          "_parent": "5ea16ada09aa976f2e7a51be",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ba26b01d4351e0085325a51",
+                  "5dfa3d950dee1b22f862eae0",
+                  "5c17804b2e2216152006c02f",
+                  "5fb6567747ce63734e3fa1dc",
+                  "5bc09a30d4351e00367fb7c8",
+                  "5c18b90d2e2216152142466b",
+                  "5fc0fa362770a0045c59c677",
+                  "5894a73486f77426d259076c",
+                  "55d4af3a4bdc2d972f8b456f"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "B&T GHM9 4 inch handguard",
+        "shortName": "GHM9",
+        "description": "A 4 inch handguard for the GHM9 carbine, chambered in 9x19mm Parabellum."
+      }
+    },
+  "addtoInventorySlots": [],
+  "addtoModSlots": false,
+  "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 16100,
+    "handbookPriceRoubles": 6323,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 9
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "6a4a538a786e8370ad0ff90f": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 16100,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a4a57cd786e8370ad0ff910": {
+    "itemTplToClone": "5de910da8b6c4240ba2651b5",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/GHM9_Gen1/ghm9_gen1_stock.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "B&T GHM9 Retracting stock",
+        "shortName": "GHM9",
+        "description": "A retracting stock for the GHM9 carbine, chambered in 9x19mm Parabellum."
+      }
+    },
+  "addtoInventorySlots": [],
+  "addtoModSlots": false,
+  "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 2350,
+    "handbookPriceRoubles": 1211,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 9
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "6a4a57cd786e8370ad0ff911": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 2677,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

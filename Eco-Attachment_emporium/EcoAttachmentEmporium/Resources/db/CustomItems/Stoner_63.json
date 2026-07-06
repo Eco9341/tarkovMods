@@ -1,0 +1,813 @@
+{
+  "6a4125b3ea8249d6b9575889": {
+    "itemTplToClone": "6184055050224f204c1da540",
+    "parentId": "5447b5f14bdc2d61278b4567",
+    "handbookParentId": "5b5f78fc86f77409407a7f90",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Stoner_63A/weapon_stoner63_container.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+      {
+        "_id": "618405198004cc50514c3597",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_barrel",
+        "_parent": "618405198004cc50514c3594",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6a41339eea8249d6b957588a",
+                "6a416bd1ea8249d6b9575892"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": true
+      },
+      {
+        "_id": "6184055050224f204c1da545",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_stock_000",
+        "_parent": "6184055050224f204c1da540",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6a41341bea8249d6b957588c"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "618405198004cc50514c3598",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_sight_rear",
+        "_parent": "618405198004cc50514c3594",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6a41359bea8249d6b9575890"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "6184055050224f204c1da543",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_magazine",
+        "_parent": "6184055050224f204c1da540",
+        "_props": {
+          "filters": [
+            {
+              "AnimationIndex": -1,
+              "Filter": [
+                "6a413529ea8249d6b957588e",
+                "6a41ac8cea8249d6b9575894"
+              ]
+            }
+          ]
+        },
+        "_proto": "55d30c394bdc2dae468b4577",
+        "_required": false
+      },
+      {
+        "_name": "mod_tactical_000",
+        "_id": "685b0d759601b00d3f96ce6a",
+        "_parent": "685b0d680624e87899344355",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "68d06cc7bc54e7c1b40cb9dd"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      }
+    ],
+    "Foldable": false,
+    "Height": 1,
+    "Width": 4,
+    "bFirerate": 800,
+    "Ergonomics": 55,
+    "RecoilForceBack": 312,
+    "RecoilForceUp": 100,
+    "Weight": 1.877,
+    "weapFireType": [
+      "fullauto"
+    ]
+    },
+    "locales": {
+      "en": {
+        "name": "Stoner 63 5.56x45 assault rifle",
+        "shortName": "Stoner 63",
+        "description": "The Stoner 63 was an American 5.56×45mm NATO modular weapons platform designed by Eugene Stoner, Jim Sullivan and Bob Fremont in 1963 and manufactured by Cadillac Gage from 1963 to 1971 in very limited quantities. One of the earliest concepts for a modular weapons platform, the Stoner 63 saw limited service with certain United States forces, particularly during the Vietnam War."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 32344,
+    "handbookPriceRoubles": 15732,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
+      }
+    ],
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "6a413f089c144784e4468099",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Stoner 63",
+        "_parent": "6a413f089c144784e446809a",
+        "_items": [
+          {
+            "_id": "6a413f089c144784e446809a",
+            "_tpl": "6a4125b3ea8249d6b9575889",
+            "upd": {
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              },
+              "FireMode": {
+                "FireMode": "fullauto"
+              },
+              "Foldable": {
+                "Folded": false
+              }
+            }
+          },
+          {
+            "_id": "6a413f069c144784e4467f48",
+            "_tpl": "6a41339eea8249d6b957588a",
+            "parentId": "6a413f089c144784e446809a",
+            "slotId": "mod_barrel"
+          },
+          {
+            "_id": "6a413f069c144784e4467f49",
+            "_tpl": "6a41341bea8249d6b957588c",
+            "parentId": "6a413f089c144784e446809a",
+            "slotId": "mod_stock_000"
+          },
+          {
+            "_id": "6a413f069c144784e4467f4a",
+            "_tpl": "6a41359bea8249d6b9575890",
+            "parentId": "6a413f089c144784e446809a",
+            "slotId": "mod_sight_rear",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          },
+          {
+            "_id": "6a413f069c144784e4467f4b",
+            "_tpl": "6a413529ea8249d6b957588e",
+            "parentId": "6a413f089c144784e446809a",
+            "slotId": "mod_magazine"
+          }
+        ],
+        "_encyclopedia": "6a4125b3ea8249d6b9575889"
+      }
+    ],
+    "traders": {
+      "MECHANIC": {
+        "6a4125b3ea8249d6b9575888": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 30862,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Level2": 2000,
+        "Level3": 2200,
+        "Name": "Stoner 63",
+        "Templates": [
+          "69c6c3ceb74c2d039e07b269"
+        ]
+      }
+    ]
+  },
+  "6a41339eea8249d6b957588a": {
+    "itemTplToClone": "6183fd9e8004cc50514c358f",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Stoner_63A/stoner63_barrel.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "Slots": [
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Stoner 63 5.56x45 18 inch barrel",
+        "shortName": "Stoner 18",
+        "description": "An 18 inch (457mm) barrel for the Stoner 63 weapons chambered in 5.56x45 NATO ammo."
+      }
+    },
+  "addtoInventorySlots": [],
+  "addtoModSlots": false,
+  "modSlot": [
+      "mod_barrel"
+    ],
+    "fleaPriceRoubles": 26300,
+    "handbookPriceRoubles": 21000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "6a41339eea8249d6b957588b": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 36820,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a416bd1ea8249d6b9575892": {
+    "itemTplToClone": "6183fd9e8004cc50514c358f",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Stoner_63A/stoner63_barrel_short.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "Slots": [
+      ],
+      "Accuracy": 0,
+      "CenterOfImpact": 0.04,
+      "ExtraSizeLeft": 1,
+      "CoolFactor": 0.97,
+      "DeviationCurve": 1.3,
+      "DeviationMax": 21,
+      "Ergonomics": -15,
+      "HeatFactor": 0.97,
+      "Recoil": -4,
+      "Velocity": -2.5,
+      "Weight": 0.85,
+      "Width": 2
+    },
+    "locales": {
+      "en": {
+        "name": "Stoner 63 5.56x45 16 inch barrel",
+        "shortName": "Stoner 16",
+        "description": "A 16 inch (406mm) barrel for the Stoner 63 weapons chambered in 5.56x45 NATO ammo."
+      }
+    },
+  "addtoInventorySlots": [],
+  "addtoModSlots": false,
+  "modSlot": [
+      "mod_barrel"
+    ],
+    "fleaPriceRoubles": 26300,
+    "handbookPriceRoubles": 21000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "6a416bd1ea8249d6b9575893": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 36820,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a41341bea8249d6b957588c": {
+    "itemTplToClone": "5a33cae9c4a28232980eb086",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+        "Prefab": {
+          "path": "Mods/Stoner_63A/stoner63_stock.bundle",
+          "rcid": ""
+        },
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "DiscardLimit": -1,
+      "ExamineExperience": 4,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 1,
+      "ItemSound": "mod",
+      "LeftHandItem": false,
+      "LootExperience": 10,
+      "MergesWithChildren": true,
+      "NotShownInSlot": false,
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Rare",
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "Weight": 0.48,
+      "Width": 2,
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "Grids": [],
+      "Slots": [],
+      "Accuracy": 0,
+      "BlocksCollapsible": false,
+      "BlocksFolding": false,
+      "CategoryAnimationModId": 0,
+      "DoubleActionAccuracyPenaltyMult": 1,
+      "Durability": 100,
+      "EffectiveDistance": 0,
+      "Ergonomics": 4,
+      "HasShoulderContact": true,
+      "IsAnimated": false,
+      "Loudness": 0,
+      "MetascoreGroup": "Firepower",
+      "RaidModdable": true,
+      "Recoil": -22,
+      "SightingRange": 0,
+      "ToolModdable": false,
+      "UniqueAnimationModID": 0,
+      "Velocity": 0,
+      "CoolFactor": 1,
+      "DurabilityBurnModificator": 1,
+      "Foldable": false,
+      "HeatFactor": 1,
+      "IsShoulderContact": false,
+      "Retractable": false,
+      "SizeReduceRight": 0
+    },
+    "locales": {
+      "en": {
+        "name": "Stoner 63 polymer stock",
+        "shortName": "Stoner",
+        "description": "A standard-issue buttstock for the Stoner 63."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": ["mod_stock_000"],
+    "fleaPriceRoubles": 13152,
+    "handbookPriceRoubles": 9980,
+    "addtoTraders": true,
+    "traders": {
+      "SKIER": {
+        "6a41341bea8249d6b957588d": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 32102,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a413529ea8249d6b957588e": {
+    "itemTplToClone": "55d4887d4bdc2d962f8b4570",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Stoner_63A/stoner63_mag.bundle",
+        "rcid": ""
+      },
+      "Cartridges": [
+        {
+          "_id": "574880192459771f661283c3",
+          "_max_count": 30,
+          "_name": "cartridges",
+          "_parent": "55d4887d4bdc2d962f8b4570",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "59e6920f86f77411d82aa167",
+                  "59e6927d86f77411da468256",
+                  "54527a984bdc2d4e668b4567",
+                  "54527ac44bdc2d36668b4567",
+                  "59e68f6f86f7746c9f75e846",
+                  "59e6906286f7746c9f75e847",
+                  "59e690b686f7746c9f75e848",
+                  "59e6918f86f7746c9f75e849",
+                  "60194943740c5d77f6705eea",
+                  "601949593ae8f707c4608daa",
+                  "5c0d5ae286f7741e46554302",
+                  "5fbe3ffdf8b6a877a729ea82",
+                  "5fd20ff893a8961fc660a954",
+                  "619636be6db0f2477964e710",
+                  "6196364158ef8c428c287d9f",
+                  "6196365d58ef8c428c287da1",
+                  "64b8725c4b75259c590fa899"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ],
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Stoner 63 5.56x45mm 30-round magazine",
+        "shortName": "Stoner 30rd",
+        "description": "A 30-round magazine for the Stoner 63 assault rifle chambered in 5.56x45mm NATO ammo."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 2012,
+    "handbookPriceRoubles": 1023,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "6a413529ea8249d6b957588f": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 2753,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a41ac8cea8249d6b9575894": {
+    "itemTplToClone": "5bed625c0db834001c062946",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Stoner_63A/stoner63_drum.bundle",
+        "rcid": ""
+      },
+      "Cartridges": [
+        {
+          "_id": "574880192459771f661283c3",
+          "_max_count": 100,
+          "_name": "cartridges",
+          "_parent": "55d4887d4bdc2d962f8b4570",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "59e6920f86f77411d82aa167",
+                  "59e6927d86f77411da468256",
+                  "54527a984bdc2d4e668b4567",
+                  "54527ac44bdc2d36668b4567",
+                  "59e68f6f86f7746c9f75e846",
+                  "59e6906286f7746c9f75e847",
+                  "59e690b686f7746c9f75e848",
+                  "59e6918f86f7746c9f75e849",
+                  "60194943740c5d77f6705eea",
+                  "601949593ae8f707c4608daa",
+                  "5c0d5ae286f7741e46554302",
+                  "5fbe3ffdf8b6a877a729ea82",
+                  "5fd20ff893a8961fc660a954",
+                  "619636be6db0f2477964e710",
+                  "6196364158ef8c428c287d9f",
+                  "6196365d58ef8c428c287da1",
+                  "64b8725c4b75259c590fa899"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ],
+      "magAnimationIndex": 6,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Stoner 63 5.56x45mm 100-round drum magazine",
+        "shortName": "Stoner 100rd",
+        "description": "A 100-round drum magazine for the Stoner 63 assault rifle chambered in 5.56x45mm NATO ammo."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 35600,
+    "handbookPriceRoubles": 21342,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "6a41ac8cea8249d6b9575895": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 35600,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a41359bea8249d6b9575890": {
+    "itemTplToClone": "5abcbb20d8ce87001773e258",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Stoner_63A/stoner63_rear.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true
+    },
+    "locales": {
+      "en": {
+        "name": "Stoner 63 Rear Sight",
+        "shortName": "Stoner",
+        "description": "The rear sight for the Stoner 63 assault rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_sight_rear"
+    ],
+    "fleaPriceRoubles": 920,
+    "handbookPriceRoubles": 876,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "6a41359bea8249d6b9575891": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1518,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  }
+}
