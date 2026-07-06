@@ -196,3 +196,17 @@ What this mod adds:
 -T2 Carryhandle mount
 
 -G95K1 Handguards
+
+-Stoner 63 Assault rifle
+
+-Gun Runners Service Rifle
+
+-B&T GHM9
+
+-Bushmaster M17S
+
+-Beretta CX4
+
+-OF-93 Tulyak
+
+-AUG A3 new rail and handguards
