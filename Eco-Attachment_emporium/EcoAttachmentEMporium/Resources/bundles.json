@@ -2444,7 +2444,11 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+                "assets/systems/effects/laserbeam/laser.bundle",
+                "assets/systems/effects/collimator.bundle",
+                "epicaio_common_textures.bundle",
+                "assets/content/textures/holemanager/glow_particle_bright.bundle",
+                "assets/standard assets/effects/lightcookies/textures/flashlightcookie.bundle"
             ]
         },
         {
@@ -2472,7 +2476,11 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+                "assets/systems/effects/laserbeam/laser.bundle",
+                "assets/systems/effects/collimator.bundle",
+                "epicaio_common_textures.bundle",
+                "assets/content/textures/holemanager/glow_particle_bright.bundle",
+                "assets/standard assets/effects/lightcookies/textures/flashlightcookie.bundle"
             ]
         },
         {
@@ -2480,7 +2488,11 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+                "assets/systems/effects/laserbeam/laser.bundle",
+                "assets/systems/effects/collimator.bundle",
+                "epicaio_common_textures.bundle",
+                "assets/content/textures/holemanager/glow_particle_bright.bundle",
+                "assets/standard assets/effects/lightcookies/textures/flashlightcookie.bundle"
             ]
         },
         {
