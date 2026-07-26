@@ -112,6 +112,121 @@
       }
     }
   },
+  "6a4eccba13452e84ea5586d2": {
+    "itemTplToClone": "59e5f5a486f7746c530b3ce2",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/AK_Mags/akm_curly_mag.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+      ],
+      "ExtraSizeLeft": 2,
+      "Width": 5,
+      "Ergonomics": -86,
+      "Recoil": -10,
+      "Height": 3,
+      "Weight": 5.878,
+        "Cartridges": [
+        {
+            "_name": "cartridges",
+            "_id": "59e5f5a486f7746c530b3ce3",
+            "_parent": "59e5f5a486f7746c530b3ce2",
+            "_max_count": 1360,
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "59e655cb86f77411dc52a77b",
+                    "59e6542b86f77411dc52a77a",
+                    "59e6658b86f77411d949b250",
+                    "5f0596629e22f464da6bbdd9",
+                    "59e0d99486f7744a32234762",
+                    "59e4d3d286f774176a36250a",
+                    "5656d7c34bdc2d9d198b4587",
+                    "59e4cf5286f7741778269d8a",
+                    "59e4d24686f7741776641ac7",
+                    "601aa3d2b2bcb34913271e6d",
+                    "64b7af5a8532cf95ee0a0dbd",
+                    "64b7af734b75259c590fa895",
+                    "64b7af434b75259c590fa893"
+                ]
+                }
+            ]
+            },
+            "_proto": "5748538b2459770af276a261"
+        }
+        ],
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "AK 7.62x39 1360-round Curly magazine",
+        "shortName": "AK 1360",
+        "description": "High-capacity 1360-round magazine for AK series rifles chambered in 7.62x39mm. compatible weapons from 1955 onward. Can also be supplied with .366 TKM ammo for use with the corresponding caliber AK-compatible weapons."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 200344,
+    "handbookPriceRoubles": 143532,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "6a4eccba13452e84ea5586d3": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 200344,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
   "69765407a27ed68e280b49b5": {
     "itemTplToClone": "5a9e81fba2750c00164f6b11",
     "parentId": "5448bc234bdc2d3c308b4569",

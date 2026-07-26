@@ -1,0 +1,1107 @@
+{
+  "6a5139501e96275a530c3e3d": {
+    "itemTplToClone": "6499849fc93611967b034949",
+    "parentId": "5447b5f14bdc2d61278b4567",
+    "handbookParentId": "5b5f78fc86f77409407a7f90",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/AK12_Zublin/weapon_ak12_zublin_container.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": 31,
+      "Weight": 2.002,
+      "Foldable": false,
+      "CanSellOnRagfair": true,
+      "CanRequireOnRagfair": false,
+    "Slots": [
+      {
+        "_id": "6499849fc93611967b03494b",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_gas_block",
+        "_parent": "6499849fc93611967b034949",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6a51835d1e96275a530c3e47"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": true
+      },
+      {
+        "_id": "6499849fc93611967b03494c",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_launcher",
+        "_parent": "6499849fc93611967b034949",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5648b62b4bdc2d9d488b4585",
+                "62e7e7bbe6da9612f743f1e0"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "6499849fc93611967b03494d",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_muzzle",
+        "_parent": "6499849fc93611967b034949",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6a5183c11e96275a530c3e49",
+                "564caa3d4bdc2d17108b458e"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "6499849fc93611967b03494e",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_pistol_grip",
+        "_parent": "6499849fc93611967b034949",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5f6341043ada5942720e2dc5",
+                "6087e663132d4d12c81fd96b",
+                "623c3be0484b5003161840dc",
+                "5beec8ea0db834001a6f9dbf",
+                "5649ad3f4bdc2df8348b4585",
+                "5649ade84bdc2d1b2b8b4587",
+                "59e62cc886f77440d40b52a1",
+                "5a0071d486f77404e23a12b2",
+                "57e3dba62459770f0c32322b",
+                "5cf54404d7f00c108840b2ef",
+                "5e2192a498a36665e8337386",
+                "5b30ac585acfc433000eb79c",
+                "59e6318286f77444dd62c4cc",
+                "5cf50850d7f00c056e24104c",
+                "5cf508bfd7f00c056e24104e",
+                "628a664bccaab13006640e47",
+                "628c9ab845c59e5b80768a81",
+                "5947f92f86f77427344a76b1",
+                "5947fa2486f77425b47c1a9b",
+                "5c6bf4aa2e2216001219b0ae",
+                "5649ae4a4bdc2d1b2b8b4588",
+                "5998517986f7746017232f7e",
+                "63f4da90f31d4a33b87bd054",
+                "648ae3e356c6310a830fc291",
+                "651580dc71a4f10aec4b6056"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": true
+      },
+      {
+        "_id": "6499849fc93611967b03494f",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_reciever",
+        "_parent": "6499849fc93611967b034949",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6a5181361e96275a530c3e3f"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": true
+      },
+      {
+        "_id": "6499849fc93611967b034951",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_stock_000",
+        "_parent": "6499849fc93611967b034949",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6a5182841e96275a530c3e43"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": true
+      },
+      {
+        "_id": "6499849fc93611967b034952",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_magazine",
+        "_parent": "6499849fc93611967b034949",
+        "_props": {
+          "filters": [
+            {
+              "AnimationIndex": -1,
+              "Filter": [
+                "564ca9df4bdc2d35148b4569",
+                "564ca99c4bdc2d16268b4589",
+                "55d480c04bdc2d1d4e8b456a",
+                "5cbdaf89ae9215000e5b9c94",
+                "55d481904bdc2d8c2f8b456a",
+                "55d482194bdc2d1d4e8b456b",
+                "55d4837c4bdc2d1d4e8b456c",
+                "5aaa4194e5b5b055d06310a5",
+                "5bed61680db834001d2c45ab",
+                "5bed625c0db834001c062946",
+                "649ec30cb013f04a700e60fb",
+                "64b9e265c94d0d15c5027e35"
+              ]
+            }
+          ]
+        },
+        "_proto": "55d30c394bdc2dae468b4577",
+        "_required": false
+      },
+      {
+        "_id": "649ed407b013f04a700e60fe",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_handguard",
+        "_parent": "6499849fc93611967b034949",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6a5181a41e96275a530c3e41"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": true
+      },
+      {
+        "_id": "5ea16ada09aa976f2e7a51c3",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_tactical",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5d10b49bd7ad1a1a560708b0",
+                "5c06595c0db834001a66af6c",
+                "5a7b483fe899ef0016170d15",
+                "61605d88ffa6e502ac5e7eeb",
+                "5c5952732e2216398b5abda2",
+                "644a3df63b0b6f03e101e065"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      }
+    ]
+    },
+    "locales": {
+      "en": {
+        "name": "Kalashnikov AK-12 Zlobin 5.45x39 assault rifle",
+        "shortName": "AK-12 Zlobin",
+        "description": "The AK-12 project first started in 2011 as a private venture in an attempt to participate in the “Ratnik” trials held by the Russian military. Throughout its development, the AK-12 has received various modifications and changes to meet the standards of the Russian military, and to address various issues as seen with earlier prototypes."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 63211,
+    "handbookPriceRoubles": 32454,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
+      }
+    ],
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+        {
+          "_id": "6a523731daa23a214c9ae2fd",
+          "_type": "Preset",
+          "_changeWeaponName": false,
+          "_name": "AK12 Zoblin",
+          "_parent": "6a523731daa23a214c9ae2fe",
+          "_items": [
+            {
+              "_id": "6a523731daa23a214c9ae2fe",
+              "_tpl": "6a5139501e96275a530c3e3d",
+              "upd": {
+                "Repairable": {
+                  "Durability": 100,
+                  "MaxDurability": 100
+                },
+                "FireMode": {
+                  "FireMode": "single"
+                }
+              }
+            },
+            {
+              "_id": "6a52372edaa23a214c9ae19e",
+              "_tpl": "6a51835d1e96275a530c3e47",
+              "parentId": "6a523731daa23a214c9ae2fe",
+              "slotId": "mod_gas_block"
+            },
+            {
+              "_id": "6a52372edaa23a214c9ae19f",
+              "_tpl": "6a5183c11e96275a530c3e49",
+              "parentId": "6a523731daa23a214c9ae2fe",
+              "slotId": "mod_muzzle"
+            },
+            {
+              "_id": "6a52372edaa23a214c9ae1a0",
+              "_tpl": "5649ae4a4bdc2d1b2b8b4588",
+              "parentId": "6a523731daa23a214c9ae2fe",
+              "slotId": "mod_pistol_grip"
+            },
+            {
+              "_id": "6a52372edaa23a214c9ae1a1",
+              "_tpl": "6a5181361e96275a530c3e3f",
+              "parentId": "6a523731daa23a214c9ae2fe",
+              "slotId": "mod_reciever"
+            },
+            {
+              "_id": "6a52372edaa23a214c9ae1a2",
+              "_tpl": "6a5182841e96275a530c3e43",
+              "parentId": "6a523731daa23a214c9ae2fe",
+              "slotId": "mod_stock_000"
+            },
+            {
+              "_id": "6a52372edaa23a214c9ae1a3",
+              "_tpl": "649ec30cb013f04a700e60fb",
+              "parentId": "6a523731daa23a214c9ae2fe",
+              "slotId": "mod_magazine"
+            },
+            {
+              "_id": "6a52372edaa23a214c9ae1a4",
+              "_tpl": "6a5181a41e96275a530c3e41",
+              "parentId": "6a523731daa23a214c9ae2fe",
+              "slotId": "mod_handguard"
+            },
+            {
+              "_id": "6a52372edaa23a214c9ae1a5",
+              "_tpl": "6a51830c1e96275a530c3e45",
+              "parentId": "6a52372edaa23a214c9ae1a1",
+              "slotId": "mod_sight_rear",
+              "upd": {
+                "Sight": {
+                  "ScopesCurrentCalibPointIndexes": [
+                    0
+                  ],
+                  "ScopesSelectedModes": [
+                    0
+                  ],
+                  "SelectedScope": 0,
+                  "ScopeZoomValue": 0
+                }
+              }
+            }
+          ],
+          "_encyclopedia": "6a5139501e96275a530c3e3d"
+        }
+    ],
+    "traders": {
+      "PRAPOR": {
+        "6a5139501e96275a530c3e3e": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 45828,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Level2": 2000,
+        "Level3": 2200,
+        "Name": "AK74",
+        "Templates": [
+          "6a5139501e96275a530c3e3d"
+        ]
+      }
+    ]
+  },
+  "6a5181361e96275a530c3e3f": {
+    "itemTplToClone": "649ec2f3961514b22506b111",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/AK12_Zublin/ak12_zublin_dustcover.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_sight_rear",
+          "_id": "649ec2f3961514b22506b113",
+          "_parent": "649ec2f3961514b22506b111",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a51830c1e96275a530c3e45"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_scope_000",
+          "_id": "649ec2f3961514b22506b112",
+          "_parent": "649ec2f3961514b22506b111",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57ac965c24597706be5f975c",
+                  "57aca93d2459771f2c7e26db",
+                  "544a3f024bdc2d1d388b4568",
+                  "544a3a774bdc2d3a388b4567",
+                  "5d2dc3e548f035404a1a4798",
+                  "57adff4f24597737f373b6e6",
+                  "5c0517910db83400232ffee5",
+                  "591c4efa86f7741030027726",
+                  "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f",
+                  "558022b54bdc2dac148b458d",
+                  "5c07dd120db834001c39092d",
+                  "5c0a2cec0db834001b7ce47d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "5c0505e00db834001b735073",
+                  "609a63b6e2ff132951242d09",
+                  "584984812459776a704a82a6",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "5dfe6104585a0c3e995c7b82",
+                  "544a3d0a4bdc2d1b388b4567",
+                  "5d1b5e94d7ad1a2b865a96b0",
+                  "609bab8b455afd752b2e6138",
+                  "58d39d3d86f77445bb794ae7",
+                  "616554fe50224f204c1da2aa",
+                  "5c7d55f52e221644f31bff6a",
+                  "616584766ef05c2ce828ef57",
+                  "5b3b6dc75acfc47a8773fb1e",
+                  "615d8d878004cc50514c3233",
+                  "5b2389515acfc4771e1be0c0",
+                  "577d128124597739d65d0e56",
+                  "618b9643526131765025ab35",
+                  "618bab21526131765025ab3f",
+                  "5c86592b2e2216000e69e77c",
+                  "5a37ca54c4a282000d72296a",
+                  "5d0a29fed7ad1a002769ad08",
+                  "5c064c400db834001d23f468",
+                  "58d2664f86f7747fec5834f6",
+                  "57c69dd424597774c03b7bbc",
+                  "5b3b99265acfc4704b4a1afb",
+                  "5aa66a9be5b5b0214e506e89",
+                  "5aa66c72e5b5b00016327c93",
+                  "5c1cdd302e221602b3137250",
+                  "61714b2467085e45ef140b2c",
+                  "6171407e50224f204c1da3c5",
+                  "61713cc4d8e3106d9806c109",
+                  "5b31163c5acfc400153b71cb",
+                  "5a33b652c4a28232996e407c",
+                  "5a33b2c9c4a282000c5a9511",
+                  "59db7eed86f77461f8380365",
+                  "5a1ead28fcdbcb001912fa9f",
+                  "5dff77c759400025ea5150cf",
+                  "626bb8532c923541184624b4",
+                  "62811f461d5df4475f46a332",
+                  "63fc449f5bd61c6cf3784a88",
+                  "6478641c19d732620e045e17",
+                  "6477772ea8a38bb2050ed4db",
+                  "64785e7c19d732620e045e15",
+                  "65392f611406374f82152ba5",
+                  "653931da5db71d30ab1d6296",
+                  "655f13e0a246670fb0373245",
+                  "6567e751a715f85433025998",
+                  "67641a851b2899700609901a",
+                  "6761759e7ee06333f108bf86"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_id": "5ea16ada09aa976f2e7a51c4",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_scope",
+          "_parent": "5ea16ada09aa976f2e7a51be",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5649a2464bdc2d91118b45a8"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Kalashnikov AK-12 Zlobin dust cover",
+        "shortName": "Zlobin",
+        "description": "Dust cover for the Kalashnikov AK-12 Zlobin assault rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_reciever"
+    ],
+    "fleaPriceRoubles": 3694,
+    "handbookPriceRoubles": 2321,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 10
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6a5181361e96275a530c3e40": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 6096,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "AK",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6a5181a41e96275a530c3e41": {
+    "itemTplToClone": "649ec127c93611967b034957",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/AK12_Zublin/ak12_zublin_handguard.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+      {
+        "_id": "5ea16ada09aa976f2e7a51c0",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_mount_000",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5a800961159bd4315e3a1657",
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5c06595c0db834001a66af6c",
+                "5cc9c20cd7f00c001336c65d",
+                "5d2369418abbc306c62e0c80",
+                "5b07dd285acfc4001754240d",
+                "56def37dd2720bec348b456a",
+                "5a7b483fe899ef0016170d15",
+                "61605d88ffa6e502ac5e7eeb",
+                "5a5f1ce64f39f90b401987bc",
+                "560d657b4bdc2da74d8b4572",
+                "5b3a337e5acfc4704b4a19a0",
+                "5c5952732e2216398b5abda2",
+                "57d17e212459775a1179a0f5",
+                "6267c6396b642f77f56f5c1c",
+                "6272370ee4013c5d7e31f418",
+                "6272379924e29f06af4d5ecb",
+                "626becf9582c3e319310b837",
+                "644a3df63b0b6f03e101e065",
+                "646f6322f43d0c5d62063715"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5ea16ada09aa976f2e7a51c1",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_mount_001",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5a800961159bd4315e3a1657",
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5c06595c0db834001a66af6c",
+                "5cc9c20cd7f00c001336c65d",
+                "5d2369418abbc306c62e0c80",
+                "5b07dd285acfc4001754240d",
+                "56def37dd2720bec348b456a",
+                "5a7b483fe899ef0016170d15",
+                "61605d88ffa6e502ac5e7eeb",
+                "5a5f1ce64f39f90b401987bc",
+                "560d657b4bdc2da74d8b4572",
+                "5b3a337e5acfc4704b4a19a0",
+                "5c5952732e2216398b5abda2",
+                "57d17e212459775a1179a0f5",
+                "6267c6396b642f77f56f5c1c",
+                "6272370ee4013c5d7e31f418",
+                "6272379924e29f06af4d5ecb",
+                "626becf9582c3e319310b837",
+                "644a3df63b0b6f03e101e065",
+                "646f6322f43d0c5d62063715"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5ea16ada09aa976f2e7a51c3",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_tactical_000",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5d10b49bd7ad1a1a560708b0",
+                "5c06595c0db834001a66af6c",
+                "5a7b483fe899ef0016170d15",
+                "61605d88ffa6e502ac5e7eeb",
+                "5c5952732e2216398b5abda2",
+                "644a3df63b0b6f03e101e065"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5649d4c04bdc2d3d1c8b4586",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_foregrip",
+        "_parent": "5648ae314bdc2d3d1c8b457f",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5c7fc87d2e221644f31c0298",
+                "5cda9bcfd7f00c0c0b53e900",
+                "59f8a37386f7747af3328f06",
+                "619386379fb0c665d5490dbe",
+                "5c87ca002e221600114cb150",
+                "588226d124597767ad33f787",
+                "588226dd24597767ad33f789",
+                "588226e62459776e3e094af7",
+                "588226ef24597767af46e39c",
+                "59fc48e086f77463b1118392",
+                "5fce0cf655375d18a253eff0",
+                "5cf4fb76d7f00c065703d3ac",
+                "5b057b4f5acfc4771e1bd3e9",
+                "5c791e872e2216001219c40a",
+                "558032614bdc2de7118b4585",
+                "58c157be86f77403c74b2bb6",
+                "58c157c886f774032749fb06",
+                "5f6340d3ca442212f4047eb2",
+                "591af28e86f77414a27a9e1d",
+                "5c1cd46f2e22164bef5cfedb",
+                "5c1bc4812e22164bef5cfde7",
+                "5c1bc5612e221602b5429350",
+                "5c1bc5af2e221602b412949b",
+                "5c1bc5fb2e221602b1779b32",
+                "5c1bc7432e221602b412949d",
+                "5c1bc7752e221602b1779b34",
+                "64806bdd26c80811d408d37a",
+                "64807a29e5ffe165600abc97",
+                "648067db042be0705c0b3009",
+                "65169d5b30425317755f8e25",
+                "655df24fdf80b12750626d0a",
+                "655dccfdbdcc6b5df71382b6",
+                "661e53149c8b4dadef008579",
+                "661e52e29c8b4dadef008577",
+                "661e52415be02310ed07a07a",
+                "661e52b5b099f32c28003586"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      }
+    ]
+    },
+    "locales": {
+      "en": {
+        "name": "Kalashnikov AK-12 Zlobin handguard",
+        "shortName": "Zlobin",
+        "description": "Handguard for the Kalashnikov AK-12 Zlobin assault rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 8913,
+    "handbookPriceRoubles": 5754,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PRAPOR": {
+        "6a5181a41e96275a530c3e42": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 14707,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a5182841e96275a530c3e43": {
+    "itemTplToClone": "6761779c48fa5c377e06fc3f",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/AK12_Zublin/ak12_zublin_stock.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Kalashnikov AK-12 Zlobin Stock",
+        "shortName": "AK-12 Zlobin",
+        "description": "Stock for the Kalashnikov AK-12 Zlobin assault rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_stock_001"
+    ],
+    "fleaPriceRoubles": 21523,
+    "handbookPriceRoubles": 18954,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 9
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6a5182841e96275a530c3e44": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 27919,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "AK",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6a51830c1e96275a530c3e45": {
+    "itemTplToClone": "5bc09a18d4351e003562b68e",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/AK12_Zublin/ak12_zublin_rear.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true
+    },
+    "locales": {
+      "en": {
+        "name": "Kalashnikov AK-12 Zlobin rear sight",
+        "shortName": "AK-12 Zlobin",
+        "description": "Rear sight for the Kalashnikov AK-12 Zlobin assault rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_sight_rear"
+    ],
+    "fleaPriceRoubles": 920,
+    "handbookPriceRoubles": 876,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6a51830c1e96275a530c3e46": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1518,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a51835d1e96275a530c3e47": {
+    "itemTplToClone": "649ec107961514b22506b10c",
+    "parentId": "56ea9461d2720b67698b456f",
+    "handbookParentId": "5b5f760586f774093e6cb509",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/AK12_Zublin/ak12_zublin_gasblock.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true
+    },
+    "locales": {
+      "en": {
+        "name": "Kalashnikov AK-12 Zlobin gas block",
+        "shortName": "Zlobin",
+        "description": "Gas block for the AK-12 Zlobin assault rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_gasblock"
+    ],
+    "fleaPriceRoubles": 2384,
+    "handbookPriceRoubles": 876,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6a51835d1e96275a530c3e48": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3934,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+    ]
+  },
+  "6a5183c11e96275a530c3e49": {
+    "itemTplToClone": "5cc9a96cd7f00c011c04e04a",
+    "parentId": "550aa4bf4bdc2dd6348b456b",
+    "handbookParentId": "5b5f724c86f774093f2ecf15",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/AK12_Zublin/ak12_zublin_muzzle.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.102,
+      "ExaminedByDefault": true
+    },
+    "locales": {
+      "en": {
+        "name": "Kalashnikov AK-12 Zlobin 5.45x39 muzzle brake",
+        "shortName": "Zlobin",
+        "description": "Muzzle for the AK-12 Zlobin assault rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_gasblock"
+    ],
+    "fleaPriceRoubles": 2384,
+    "handbookPriceRoubles": 876,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6a5183c11e96275a530c3e4a": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3934,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+    ]
+  }
+}

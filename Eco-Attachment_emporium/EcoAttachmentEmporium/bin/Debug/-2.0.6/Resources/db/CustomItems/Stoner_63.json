@@ -102,6 +102,7 @@
         "_proto": "55d30c4c4bdc2db4468b457e"
       }
     ],
+    "defMagType": "6a413529ea8249d6b957588e",
     "Foldable": false,
     "Height": 1,
     "Width": 4,
@@ -228,7 +229,7 @@
         "Level3": 2200,
         "Name": "Stoner 63",
         "Templates": [
-          "69c6c3ceb74c2d039e07b269"
+          "6a4125b3ea8249d6b9575889"
         ]
       }
     ]

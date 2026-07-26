@@ -35,6 +35,7 @@ namespace EcoAttachmentEmporium.Helpers
         private const string VPO185 = "6992dc7e206da73f74008a8b";
         private const string THOMPSON_TOKAREV= "69ff690473bcef4c7fbb4cee";
         private const string BERETTA_CX4= "6a1d79f6c6f19755101fa7dc";
+        private const string BERETTA_MX4= "6a65f440cc2f2fc5041fe2c6";
         private const string GHM9= "6a49b5217faaa18d0042327b";
         
         //pistols
@@ -74,6 +75,7 @@ namespace EcoAttachmentEmporium.Helpers
         private const string M17S= "6a1aadcb3bb20aa783f8f87d";
         private const string STONER_63= "6a4125b3ea8249d6b9575889";
         private const string SERVICE_RIFLE= "6a12fc8c85361c813922b583";
+        private const string AK12_ZLOBIN= "6a5139501e96275a530c3e3d";
         
         //dmr
         private const string M700_AUTO = "6923adaa56bff0144c0a9aa3";
@@ -99,7 +101,7 @@ namespace EcoAttachmentEmporium.Helpers
 
             // Tickets, Please (64e7b9a4aac4cd0a726562cb)
             questHelper.AddWeaponsToKillCondition(quests, "64e7b9a4aac4cd0a726562cb", [
-                PPK20, VPO185, THOMPSON_TOKAREV, BERETTA_CX4, GHM9
+                PPK20, VPO185, THOMPSON_TOKAREV, BERETTA_CX4, GHM9, BERETTA_MX4
             ]);
 
             // District Patrol (64e7b9bffd30422ed03dad38)
@@ -107,7 +109,7 @@ namespace EcoAttachmentEmporium.Helpers
                 AK12K, AK12M1, AK12SK, AK74_NO_ROD, AK105_NO_ROD, AK105_SAG, AK_KOCHEVNIK, AK_KOCHEVNIK_FDE, SAK21, 
                 SAK21_BLACK, ZASTAVA_M19, ZASTAVA_M19_FDE, AS_1, AS_2, AUG_300BLK, BRN180, BRN180_FDE, LR300, LR300_FDE, 
                 SL8, NORINCO_M305A, SR1, SR1_FDE, TT_TR1, M700_AUTO, PSA_JAKL, PSA_JAKL_FDE, PSA_JAKL_HONEYB, BRO_COMMANDO, COBALT_KINETICS,
-                M17S, STONER_63, SERVICE_RIFLE
+                M17S, STONER_63, SERVICE_RIFLE, AK12_ZLOBIN
             ]);
 
             // ====================== SKIER QUESTS ======================

@@ -1296,5 +1296,330 @@
       }
     },
     "staticLootContainers": []
+  },
+  "6a5395dbe4591bb32737e4c5": {
+    "itemTplToClone": "5fb655b748c711690e3a8d5a",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Mounts/vector_1913_stock_adapter.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+      {
+        "_id": "5fbcc1d9016cce60e8341ab8",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_stock_000",
+        "_parent": "5fbcc1d9016cce60e8341ab3",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "58ac1bf086f77420ed183f9f",
+                "5894a13e86f7742405482982",
+                "5fbcc429900b1d5091531dd7",
+                "5fbcc437d724d907e2077d5c",
+                "5c5db6ee2e221600113fba54",
+                "5c5db6f82e2216003a0fe914",
+                "6529348224cbe3c74a05e5c4",
+                "6761496fe2cf1419500357e9"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      }
+    ]
+    },
+    "locales": {
+      "en": {
+        "name": "KRISS Vector non-folding 1913 Stock Adapter",
+        "shortName": "Vector 1913",
+        "description": "A non-folding adapter for the installation of picatinny stocks on the KRISS Vector submachine gun"
+      }
+    },
+  "addtoInventorySlots": [],
+  "addtoModSlots": true,
+  "modSlot": [
+      "mod_stock"
+    ],
+    "fleaPriceRoubles": 3900,
+    "handbookPriceRoubles": 1700,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 9
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6a5395dbe4591bb32737e4c6": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 4485,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+    ]
+  },
+  "6a53aa39e4591bb32737e4c9": {
+    "itemTplToClone": "5bcf0213d4351e0085327c17",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Mounts/mp7_picatinny_stock_adapter.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+      {
+        "_id": "5fbcc1d9016cce60e8341ab8",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_stock",
+        "_parent": "5fbcc1d9016cce60e8341ab3",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "58ac1bf086f77420ed183f9f",
+                "5894a13e86f7742405482982",
+                "5fbcc429900b1d5091531dd7",
+                "5fbcc437d724d907e2077d5c",
+                "5c5db6ee2e221600113fba54",
+                "5c5db6f82e2216003a0fe914",
+                "6529348224cbe3c74a05e5c4",
+                "6761496fe2cf1419500357e9"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      }
+    ],
+    "Weight": 0.25,
+    "Ergonomics": -2,
+    "Recoil": 0
+    },
+    "locales": {
+      "en": {
+        "name": "HK MP7 non-folding 1913 Stock Adapter",
+        "shortName": "MP7 1913",
+        "description": "A non-folding adapter for the installation of picatinny stocks on the HK MP7 submachine gun"
+      }
+    },
+  "addtoInventorySlots": [],
+  "addtoModSlots": true,
+  "modSlot": [
+      "mod_stock"
+    ],
+    "fleaPriceRoubles": 3900,
+    "handbookPriceRoubles": 1700,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 9
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6a53aa39e4591bb32737e4ca": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 4485,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+    ]
+  },
+  "6a53aa6ce4591bb32737e4cb": {
+    "itemTplToClone": "5bcf0213d4351e0085327c17",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Mounts/mp7_tube_stock_adapter.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+      {
+        "_id": "5fbcc1d9016cce60e8341ab8",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_stock",
+        "_parent": "5fbcc1d9016cce60e8341ab3",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5a33ca0fc4a282000d72292f",
+                "5c0faeddd174af02a962601f",
+                "5649be884bdc2d79388b4577",
+                "5d120a10d7ad1a4e1026ba85",
+                "5b0800175acfc400153aebd4",
+                "5947e98b86f774778f1448bc",
+                "5947eab886f77475961d96c5",
+                "602e3f1254072b51b239f713",
+                "5c793fb92e221644f31bfb64",
+                "5c793fc42e221600114ca25d",
+                "591aef7986f774139d495f03",
+                "591af10186f774139d495f0e",
+                "627254cc9c563e6e442c398f",
+                "638de3603a1a4031d8260b8c",
+                "6761777a1f08ed5e8800b7ac"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      }
+    ],
+    "Ergonomics": -2,
+    "Weight": 0.26,
+    "Recoil": 0
+    },
+    "locales": {
+      "en": {
+        "name": "HK MP7 non-folding Buffer-tube Stock Adapter",
+        "shortName": "MP7 M4",
+        "description": "A non-folding adapter for the installation of Buffer-tubes on the HK MP7 submachine gun"
+      }
+    },
+  "addtoInventorySlots": [],
+  "addtoModSlots": true,
+  "modSlot": [
+      "mod_stock"
+    ],
+    "fleaPriceRoubles": 3900,
+    "handbookPriceRoubles": 1700,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 9
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 9
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6a53aa6ce4591bb32737e4cc": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 4485,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+    ]
   }
 }

@@ -11,7 +11,7 @@
       },
       "CanSellOnRagfair": true,
       "CanRequireOnRagfair": false,
-      "Ergonomics": 42,
+      "Ergonomics": 32,
       "Slots": [
         {
           "_name": "mod_gas_block",

@@ -216,10 +216,33 @@
             "_required": false,
             "_mergeSlotWithChildren": false,
             "_proto": "55d30c4c4bdc2db4468b457e"
-        }
+        },
+      {
+        "_id": "5cadc1c6ae9215000f2775a6",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_muzzle",
+        "_parent": "5cadc1c6ae9215000f2775a4",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5c7e8fab2e22165df16b889b",
+                "5a33a8ebc4a282000c5a950d",
+                "5c6165902e22160010261b28",
+                "5a32a064c4a28200741e22de"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      }
       ],
+      "Ergonomics": 50,
       "CompactHandling": false,
       "Foldable": false,
+      "defMagType": "5cadc2e0ae9215051e1c21e7",
         "weapFireType": [
         "single"
         ],
@@ -239,8 +262,8 @@
     "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
-    "fleaPriceRoubles": 42344,
-    "handbookPriceRoubles": 20632,
+    "fleaPriceRoubles": 32342,
+    "handbookPriceRoubles": 9753,
     "addtoTraders": false,
     "masteries": false,
     "addWeaponPreset": true,
@@ -300,6 +323,340 @@
         "Name": "Beretta Cx4 Storm",
         "Templates": [
           "6a1d79f6c6f19755101fa7dc"
+        ]
+      }
+    ]
+  },
+  "6a65f440cc2f2fc5041fe2c6": {
+    "itemTplToClone": "6680304edadb7aa61d00cef0",
+    "parentId": "5447b5e04bdc2d62278b4567",
+    "handbookParentId": "5b5f796a86f774093f2ed3c0",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Beretta_CX4/weapon_mx4_container.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_id": "6868d25253f603fdeb5f65e0",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_magazine",
+          "_parent": "6868d249cdee524f8c0ba45f",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex": 0,
+                "Filter": [
+                  "5cadc2e0ae9215051e1c21e7",
+                  "676176b762e0497044079f49"
+                ]
+              }
+            ]
+          },
+          "_proto": "55d30c394bdc2dae468b4577",
+          "_required": false
+        },
+        {
+            "_name": "mod_scope",
+            "_id": "6529119424cbe3c74a05e5bc",
+            "_parent": "6529119424cbe3c74a05e5bb",
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "57ac965c24597706be5f975c",
+                    "57aca93d2459771f2c7e26db",
+                    "544a3f024bdc2d1d388b4568",
+                    "544a3a774bdc2d3a388b4567",
+                    "5d2dc3e548f035404a1a4798",
+                    "57adff4f24597737f373b6e6",
+                    "5c0517910db83400232ffee5",
+                    "591c4efa86f7741030027726",
+                    "570fd79bd2720bc7458b4583",
+                    "570fd6c2d2720bc6458b457f",
+                    "558022b54bdc2dac148b458d",
+                    "5c07dd120db834001c39092d",
+                    "5c0a2cec0db834001b7ce47d",
+                    "58491f3324597764bc48fa02",
+                    "584924ec24597768f12ae244",
+                    "5b30b0dc5acfc400153b7124",
+                    "6165ac8c290d254f5e6b2f6c",
+                    "60a23797a37c940de7062d02",
+                    "5d2da1e948f035477b1ce2ba",
+                    "5c0505e00db834001b735073",
+                    "609a63b6e2ff132951242d09",
+                    "584984812459776a704a82a6",
+                    "59f9d81586f7744c7506ee62",
+                    "570fd721d2720bc5458b4596",
+                    "57ae0171245977343c27bfcf",
+                    "5dfe6104585a0c3e995c7b82",
+                    "544a3d0a4bdc2d1b388b4567",
+                    "5d1b5e94d7ad1a2b865a96b0",
+                    "609bab8b455afd752b2e6138",
+                    "58d39d3d86f77445bb794ae7",
+                    "616554fe50224f204c1da2aa",
+                    "5c7d55f52e221644f31bff6a",
+                    "616584766ef05c2ce828ef57",
+                    "5b3b6dc75acfc47a8773fb1e",
+                    "615d8d878004cc50514c3233",
+                    "5b2389515acfc4771e1be0c0",
+                    "577d128124597739d65d0e56",
+                    "618b9643526131765025ab35",
+                    "618bab21526131765025ab3f",
+                    "5c86592b2e2216000e69e77c",
+                    "5a37ca54c4a282000d72296a",
+                    "5d0a29fed7ad1a002769ad08",
+                    "5c064c400db834001d23f468",
+                    "58d2664f86f7747fec5834f6",
+                    "57c69dd424597774c03b7bbc",
+                    "5b3b99265acfc4704b4a1afb",
+                    "5aa66a9be5b5b0214e506e89",
+                    "5aa66c72e5b5b00016327c93",
+                    "5c1cdd302e221602b3137250",
+                    "61714b2467085e45ef140b2c",
+                    "6171407e50224f204c1da3c5",
+                    "61713cc4d8e3106d9806c109",
+                    "5b31163c5acfc400153b71cb",
+                    "5a33b652c4a28232996e407c",
+                    "5a33b2c9c4a282000c5a9511",
+                    "59db7eed86f77461f8380365",
+                    "5a1ead28fcdbcb001912fa9f",
+                    "5dff77c759400025ea5150cf",
+                    "626bb8532c923541184624b4",
+                    "62811f461d5df4475f46a332",
+                    "63fc449f5bd61c6cf3784a88",
+                    "6477772ea8a38bb2050ed4db",
+                    "6478641c19d732620e045e17",
+                    "64785e7c19d732620e045e15",
+                    "6567e751a715f85433025998",
+                    "655f13e0a246670fb0373245",
+                    "65392f611406374f82152ba5",
+                    "653931da5db71d30ab1d6296",
+                    "67641a851b2899700609901a",
+                    "6761759e7ee06333f108bf86"
+                ],
+                "Shift": 0
+                }
+            ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_001",
+            "_id": "5c9a26332e2216001219ea74",
+            "_parent": "5c9a26332e2216001219ea70",
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "5a800961159bd4315e3a1657",
+                    "57fd23e32459772d0805bcf1",
+                    "544909bb4bdc2d6f028b4577",
+                    "5d10b49bd7ad1a1a560708b0",
+                    "5c06595c0db834001a66af6c",
+                    "5cc9c20cd7f00c001336c65d",
+                    "5d2369418abbc306c62e0c80",
+                    "5b07dd285acfc4001754240d",
+                    "56def37dd2720bec348b456a",
+                    "5a7b483fe899ef0016170d15",
+                    "61605d88ffa6e502ac5e7eeb",
+                    "5a5f1ce64f39f90b401987bc",
+                    "560d657b4bdc2da74d8b4572",
+                    "5b3a337e5acfc4704b4a19a0",
+                    "5c5952732e2216398b5abda2",
+                    "57d17e212459775a1179a0f5",
+                    "6267c6396b642f77f56f5c1c",
+                    "6272370ee4013c5d7e31f418",
+                    "6272379924e29f06af4d5ecb",
+                    "626becf9582c3e319310b837",
+                    "644a3df63b0b6f03e101e065",
+                    "646f6322f43d0c5d62063715"
+                ],
+                "Shift": 0
+                }
+            ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_000",
+            "_id": "5c9a26332e2216001219ea75",
+            "_parent": "5c9a26332e2216001219ea70",
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "5a800961159bd4315e3a1657",
+                    "57fd23e32459772d0805bcf1",
+                    "544909bb4bdc2d6f028b4577",
+                    "5c06595c0db834001a66af6c",
+                    "5cc9c20cd7f00c001336c65d",
+                    "5d2369418abbc306c62e0c80",
+                    "5b07dd285acfc4001754240d",
+                    "56def37dd2720bec348b456a",
+                    "5a7b483fe899ef0016170d15",
+                    "61605d88ffa6e502ac5e7eeb",
+                    "5a5f1ce64f39f90b401987bc",
+                    "560d657b4bdc2da74d8b4572",
+                    "5b3a337e5acfc4704b4a19a0",
+                    "5c5952732e2216398b5abda2",
+                    "57d17e212459775a1179a0f5",
+                    "6267c6396b642f77f56f5c1c",
+                    "6272370ee4013c5d7e31f418",
+                    "6272379924e29f06af4d5ecb",
+                    "626becf9582c3e319310b837",
+                    "644a3df63b0b6f03e101e065",
+                    "646f6322f43d0c5d62063715"
+                ],
+                "Shift": 0
+                }
+            ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_tactical_000",
+            "_id": "5c9a26332e2216001219ea77",
+            "_parent": "5c9a26332e2216001219ea70",
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "57fd23e32459772d0805bcf1",
+                    "544909bb4bdc2d6f028b4577",
+                    "5d10b49bd7ad1a1a560708b0",
+                    "5c06595c0db834001a66af6c",
+                    "5a7b483fe899ef0016170d15",
+                    "61605d88ffa6e502ac5e7eeb",
+                    "5c5952732e2216398b5abda2",
+                    "644a3df63b0b6f03e101e065"
+                ],
+                "Shift": 0
+                }
+            ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_id": "5b7be8fd5acfc400161d0835",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_tactical_002",
+          "_parent": "5b7be4895acfc400170e2dd5",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5d10b49bd7ad1a1a560708b0",
+                "5c06595c0db834001a66af6c",
+                "5a7b483fe899ef0016170d15",
+                "61605d88ffa6e502ac5e7eeb",
+                "5c5952732e2216398b5abda2",
+                "644a3df63b0b6f03e101e065"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "bFirerate": 800,
+      "Ergonomics": 54,
+      "CompactHandling": false,
+      "Foldable": false,
+      "defMagType": "5cadc2e0ae9215051e1c21e7",
+      "weapFireType": [
+        "single",
+        "fullauto"
+      ],
+      "RecoilForceBack": 243,
+      "RecoilForceUp": 76,
+      "CenterOfImpact": 0.13,
+      "Weight": 2.3,
+      "Width": 4
+    },
+    "locales": {
+      "en": {
+        "name": "Beretta Mx4 Storm 9x19 submachine gun",
+        "shortName": "Mx4 Storm",
+        "description": "The fully automatic version of the Cx4 Storm."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 42344,
+    "handbookPriceRoubles": 20632,
+    "addtoTraders": false,
+    "masteries": false,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "6a6605a2db7d13923833cbe4",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "MX4",
+        "_parent": "6a6605a2db7d13923833cbe5",
+        "_items": [
+          {
+            "_id": "6a6605a2db7d13923833cbe5",
+            "_tpl": "6a65f440cc2f2fc5041fe2c6",
+            "upd": {
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              },
+              "FireMode": {
+                "FireMode": "single"
+              }
+            }
+          },
+          {
+            "_id": "6a66059fdb7d13923833ca87",
+            "_tpl": "676176b762e0497044079f49",
+            "parentId": "6a6605a2db7d13923833cbe5",
+            "slotId": "mod_magazine"
+          }
+        ],
+        "_encyclopedia": "6a65f440cc2f2fc5041fe2c6"
+      }
+    ],
+    "traders": {
+      "PRAPOR": {
+        "6a65f440cc2f2fc5041fe2c7": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 54677,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": [],
+    "masterySections": [
+      {
+        "Level2": 200,
+        "Level3": 300,
+        "Name": "Beretta Cx4 Storm",
+        "Templates": [
+          "6a65f440cc2f2fc5041fe2c6"
         ]
       }
     ]

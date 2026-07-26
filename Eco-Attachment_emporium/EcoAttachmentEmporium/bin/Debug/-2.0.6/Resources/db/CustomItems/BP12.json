@@ -754,9 +754,9 @@
       },
       "locales": {
       "en": {
-          "name": "Panzer Arms BP12 12-round 12/70 magazine",
-          "shortName": "BP12 12rd Mag",
-          "description": "A 12-round 12/70 magazine for the Panzer Arms BP12 12ga Shotgun."
+          "name": "Panzer Arms BP12 10-round 12/70 magazine",
+          "shortName": "BP12 10rd Mag",
+          "description": "A 10-round 12/70 magazine for the Panzer Arms BP12 12ga Shotgun."
       }
       },
       "addtoInventorySlots": [],

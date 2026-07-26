@@ -354,6 +354,14 @@
             ]
         },
         {
+            "key": "Mods/AK_Mags/akm_curly_mag.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
             "key": "Mods/AK_Mags/asval_45rd.bundle",
             "dependencyKeys": [
                 "shaders",
@@ -4815,6 +4823,22 @@
                 "assets/systems/effects/muzzleflash/muzzleflash.bundle",
                 "assets/content/audio/weapons/generic",
                 "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle",
+                "Mods/Beretta_CX4/weapon_mx4_container.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Beretta_CX4/weapon_mx4_container.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+                "assets/systems/effects/heathaze/defaultheathaze.bundle",
+                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
                 "assets/content/weapons/additional_hands/client_assets.bundle"
             ]
         },
@@ -5004,6 +5028,99 @@
                 "shaders",
                 "cubemaps",
                 "Mods/GHM9_Gen1/ghm9_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/AK12_Zublin/weapon_ak12_zublin_container.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+                "assets/systems/effects/heathaze/defaultheathaze.bundle",
+                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle",
+                "Mods/AK12_Zublin/zublin_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/AK12_Zublin/zublin_textures.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps"
+            ]
+        },
+        {
+            "key": "Mods/AK12_Zublin/ak12_zublin_gasblock.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/AK12_Zublin/zublin_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/AK12_Zublin/ak12_zublin_handguard.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/AK12_Zublin/zublin_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/AK12_Zublin/ak12_zublin_stock.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/AK12_Zublin/zublin_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/AK12_Zublin/ak12_zublin_rear.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/AK12_Zublin/zublin_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/AK12_Zublin/ak12_zublin_dustcover.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/AK12_Zublin/zublin_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/AK12_Zublin/ak12_zublin_muzzle.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/AK12_Zublin/zublin_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Mounts/vector_1913_stock_adapter.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/content/items/mods/stocks/stock_vector_kriss_gen_2_folding_stock.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Mounts/mp7_picatinny_stock_adapter.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps"
+            ]
+        },
+        {
+            "key": "Mods/Mounts/mp7_tube_stock_adapter.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps"
             ]
         }
     ]

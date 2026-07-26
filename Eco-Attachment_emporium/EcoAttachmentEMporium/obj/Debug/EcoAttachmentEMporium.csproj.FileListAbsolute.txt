@@ -180,3 +180,4 @@ C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\
 C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\AUG_Parts.json
 C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\GHM9_Gen1.json
 C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\Stoner_63.json
+C:\SPT 4.0\MOD_DEV\tarkovMods\Eco-Attachment_emporium\EcoAttachmentEMporium\bin\Debug\-2.0.6\Resources\db\CustomItems\AK12_Zublin.json
