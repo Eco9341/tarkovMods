@@ -1,0 +1,616 @@
+{
+  "6a6b33bc8e8486e0a81a87eb": {
+    "itemTplToClone": "5d010d1cd7ad1a59283b1ce7",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/MP5_Parts/utg_mp5_mono_handguard.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+      {
+        "_id": "5ea16ada09aa976f2e7a51c0",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_mount_000",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5b7be47f5acfc400170e2dd2",
+                "6269220d70b6c02e665f2635",
+                "6269545d0e57f218e4548ca2",
+                "669a6a4a525be1d2d004b8eb"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5ea16ada09aa976f2e7a51c1",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_mount_001",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5b7be47f5acfc400170e2dd2",
+                "6269220d70b6c02e665f2635",
+                "6269545d0e57f218e4548ca2",
+                "669a6a4a525be1d2d004b8eb"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5ea16ada09aa976f2e7a51c2",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_mount_002",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5b7be47f5acfc400170e2dd2",
+                "6269220d70b6c02e665f2635",
+                "6269545d0e57f218e4548ca2",
+                "669a6a4a525be1d2d004b8eb",
+                "671126b049e181972e0681fa"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5ea16ada09aa976f2e7a51c3",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_tactical_000",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5b7be47f5acfc400170e2dd2",
+                "6269220d70b6c02e665f2635",
+                "6269545d0e57f218e4548ca2",
+                "669a6a4a525be1d2d004b8eb"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5c0e2f26d174af02a9625116",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_scope",
+        "_parent": "5c0e2f26d174af02a9625114",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57ac965c24597706be5f975c",
+                "57aca93d2459771f2c7e26db",
+                "544a3f024bdc2d1d388b4568",
+                "544a3a774bdc2d3a388b4567",
+                "5d2dc3e548f035404a1a4798",
+                "57adff4f24597737f373b6e6",
+                "5c0517910db83400232ffee5",
+                "591c4efa86f7741030027726",
+                "570fd79bd2720bc7458b4583",
+                "570fd6c2d2720bc6458b457f",
+                "558022b54bdc2dac148b458d",
+                "5c07dd120db834001c39092d",
+                "5c0a2cec0db834001b7ce47d",
+                "58491f3324597764bc48fa02",
+                "584924ec24597768f12ae244",
+                "5b30b0dc5acfc400153b7124",
+                "6165ac8c290d254f5e6b2f6c",
+                "60a23797a37c940de7062d02",
+                "5d2da1e948f035477b1ce2ba",
+                "5c0505e00db834001b735073",
+                "609a63b6e2ff132951242d09",
+                "584984812459776a704a82a6",
+                "59f9d81586f7744c7506ee62",
+                "570fd721d2720bc5458b4596",
+                "57ae0171245977343c27bfcf",
+                "5dfe6104585a0c3e995c7b82",
+                "544a3d0a4bdc2d1b388b4567",
+                "5d1b5e94d7ad1a2b865a96b0",
+                "609bab8b455afd752b2e6138",
+                "58d39d3d86f77445bb794ae7",
+                "616554fe50224f204c1da2aa",
+                "5c7d55f52e221644f31bff6a",
+                "616584766ef05c2ce828ef57",
+                "5b3b6dc75acfc47a8773fb1e",
+                "615d8d878004cc50514c3233",
+                "5b2389515acfc4771e1be0c0",
+                "577d128124597739d65d0e56",
+                "618b9643526131765025ab35",
+                "618bab21526131765025ab3f",
+                "5c86592b2e2216000e69e77c",
+                "5a37ca54c4a282000d72296a",
+                "5d0a29fed7ad1a002769ad08",
+                "5c064c400db834001d23f468",
+                "58d2664f86f7747fec5834f6",
+                "57c69dd424597774c03b7bbc",
+                "5b3b99265acfc4704b4a1afb",
+                "5aa66a9be5b5b0214e506e89",
+                "5aa66c72e5b5b00016327c93",
+                "5c1cdd302e221602b3137250",
+                "61714b2467085e45ef140b2c",
+                "6171407e50224f204c1da3c5",
+                "61713cc4d8e3106d9806c109",
+                "5b31163c5acfc400153b71cb",
+                "5a33b652c4a28232996e407c",
+                "5a33b2c9c4a282000c5a9511",
+                "59db7eed86f77461f8380365",
+                "5a1ead28fcdbcb001912fa9f",
+                "5dff77c759400025ea5150cf",
+                "626bb8532c923541184624b4",
+                "62811f461d5df4475f46a332",
+                "63fc449f5bd61c6cf3784a88",
+                "6477772ea8a38bb2050ed4db",
+                "6478641c19d732620e045e17",
+                "64785e7c19d732620e045e15",
+                "65392f611406374f82152ba5",
+                "653931da5db71d30ab1d6296",
+                "655f13e0a246670fb0373245",
+                "6567e751a715f85433025998",
+                "6761759e7ee06333f108bf86",
+                "67641a851b2899700609901a"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5ea16ada09aa976f2e7a51c5",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_foregrip",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57cffb66245977632f391a99",
+                "57cffcd624597763133760c5",
+                "57cffcdd24597763f5110006",
+                "57cffce524597763b31685d8",
+                "5b7be4895acfc400170e2dd5",
+                "651a8bf3a8520e48047bf708",
+                "651a8e529829226ceb67c319",
+                "665d5d9e338229cfd6078da1",
+                "665edce564fb556f940ab32a"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      }
+    ],
+    "ConflictingItems": [
+      "5926dad986f7741f82604363",
+      "5a966ec8a2750c00171b3f36"
+    ],
+    "Ergonomics": 14,
+    "Weight": 0.270
+    },
+    "locales": {
+      "en": {
+        "name": "Leapers UTG Pro® Monolithic M-LOK® Handguard",
+        "shortName": "MP5 UTG",
+        "description": "Modernize the classic MP5® platform with the UTG PRO® Monolithic Handguard, combining your optics real estate and your handguard, all in one. Easy-to-install locking interface, extra ergonomics to prevent hot spots and snag points, topped with an extended 16 slot picatinny rail and cutout for serial number identification. Tested, featured, and loved by MP5® aficionados across the globe."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "fleaPriceRoubles": 16452,
+    "handbookPriceRoubles": 7200,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "6a6b33bc8e8486e0a81a87ea": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 16452,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": []
+  },
+  "6a6b350a8e8486e0a81a87ec": {
+    "itemTplToClone": "5d19cd96d7ad1a4a992c9f52",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/MP5_Parts/midwest_mp5_mlok_handguard.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+      {
+        "_id": "5ea16ada09aa976f2e7a51c0",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_mount_000",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5b7be47f5acfc400170e2dd2",
+                "6269220d70b6c02e665f2635",
+                "6269545d0e57f218e4548ca2",
+                "669a6a4a525be1d2d004b8eb"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5ea16ada09aa976f2e7a51c1",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_mount_001",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5b7be47f5acfc400170e2dd2",
+                "6269220d70b6c02e665f2635",
+                "6269545d0e57f218e4548ca2",
+                "669a6a4a525be1d2d004b8eb"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5ea16ada09aa976f2e7a51c5",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_foregrip",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57cffb66245977632f391a99",
+                "57cffcd624597763133760c5",
+                "57cffcdd24597763f5110006",
+                "57cffce524597763b31685d8",
+                "5b7be4895acfc400170e2dd5",
+                "651a8bf3a8520e48047bf708",
+                "651a8e529829226ceb67c319",
+                "665d5d9e338229cfd6078da1",
+                "665edce564fb556f940ab32a"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      }
+    ],
+    "Ergonomics": 15,
+    "Weight": 0.136
+    },
+    "locales": {
+      "en": {
+        "name": "Midwest Industries HK MP5 Handguard, M-LOK™",
+        "shortName": "MP5 MI",
+        "description": "A handguard for HK MP5 SMG manufactured by Midwest Industries, equipped with 3 M-LOK mounts for installation of additional tactical devices."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "fleaPriceRoubles": 14572,
+    "handbookPriceRoubles": 7200,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "6a6b350a8e8486e0a81a87ed": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 14572,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": []
+  },
+  "6a6b37dc8e8486e0a81a87f0": {
+    "itemTplToClone": "5c07c9660db834001a66b588",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/MP5_Parts/fab_mp5_stock_cap.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+      {
+        "_id": "5926c1c786f774641f04af45",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_stock",
+        "_parent": "5926c0df86f77462f647f764",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6a6b36fb8e8486e0a81a87ee"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      }
+    ]
+    },
+    "locales": {
+      "en": {
+        "name": "F.A.B Defense MP5 Anti Riot Helmet Visor Stock cap",
+        "shortName": "MP5 ARS",
+        "description": "F.A.B Defense MP5 Anti Riot Helmet Visor Stock Our New ARS Helmet Visor Stock is an extremely durable, tactical folding and collapsible Helmet Visor Stock, enables faster eye to sight alignment, designed specifically for visored helmet operations. Convenient for tactical concealment."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_stock"
+    ],
+    "fleaPriceRoubles": 3422,
+    "handbookPriceRoubles": 632,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "6a6b37dc8e8486e0a81a87f1": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3422,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a6b36fb8e8486e0a81a87ee": {
+    "itemTplToClone": "5926d40686f7740f152b6b7e",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/MP5_Parts/fab_mp5_stock.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.25,
+      "Width": 2,
+      "Accuracy": 3,
+      "Ergonomics": 8,
+      "Recoil": -10,
+      "SightingRange": 0,
+      "Velocity": 0,
+      "CoolFactor": 1,
+      "DurabilityBurnModificator": 1,
+      "ExtraSizeDown": 0,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 1,
+      "ExtraSizeUp": 0,
+      "Height": 1
+    },
+    "locales": {
+      "en": {
+        "name": "F.A.B Defense MP5 Anti Riot Helmet Visor Stock",
+        "shortName": "MP5 ARS",
+        "description": "F.A.B Defense MP5 Anti Riot Helmet Visor Stock Our New ARS Helmet Visor Stock is an extremely durable, tactical folding and collapsible Helmet Visor Stock, enables faster eye to sight alignment, designed specifically for visored helmet operations. Convenient for tactical concealment."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_stock"
+    ],
+    "fleaPriceRoubles": 31065,
+    "handbookPriceRoubles": 16788,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "6a6b36fb8e8486e0a81a87ef": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 31065,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

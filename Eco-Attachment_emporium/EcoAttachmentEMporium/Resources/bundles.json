@@ -5122,6 +5122,34 @@
                 "shaders",
                 "cubemaps"
             ]
+        },
+        {
+            "key": "Mods/MP5_Parts/utg_mp5_mono_handguard.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps"
+            ]
+        },
+        {
+            "key": "Mods/MP5_Parts/midwest_mp5_mlok_handguard.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps"
+            ]
+        },
+        {
+            "key": "Mods/MP5_Parts/fab_mp5_stock_cap.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps"
+            ]
+        },
+        {
+            "key": "Mods/MP5_Parts/fab_mp5_stock.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps"
+            ]
         }
     ]
 }
