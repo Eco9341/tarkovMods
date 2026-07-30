@@ -4,11 +4,7 @@ CREDITS
 
 A big thanks to GrooveypenguinX for the codebase.
 
-EpicRangeTime for teaching me SPT modding and creating the compatibility patch.
-
-ProbablyEukyre for providing the Keymod Handguard and convincing me to start modding.
-
-Crypluto! for helping with texture and blender work.
+EpicRangeTime for teaching me SPT modding.
 
 and the WTT Team for helping me with various stuff
 
