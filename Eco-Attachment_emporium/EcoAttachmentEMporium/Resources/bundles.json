@@ -5150,6 +5150,27 @@
                 "shaders",
                 "cubemaps"
             ]
+        },
+        {
+            "key": "Mods/MP9_Parts/mp9_brace_stock.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps"
+            ]
+        },
+        {
+            "key": "Mods/MP9_Parts/mp9_brace_stock_adapter.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps"
+            ]
+        },
+        {
+            "key": "Mods/MP9_Parts/mp9_picatinny_adapter.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps"
+            ]
         }
     ]
 }
