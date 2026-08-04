@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SPT 4.0\\MOD_DEV\\tarkovMods\\Eco-Attachment_emporium\\EcoAttachmentEMporium\\EcoAttachmentEMporium.csproj": {}
+    "C:\\SPT 4.0\\MOD_DEV\\Eco-Attachment-Emporium\\tarkovMods\\Eco-Attachment_emporium\\EcoAttachmentEMporium\\EcoAttachmentEMporium.csproj": {}
   },
   "projects": {
-    "C:\\SPT 4.0\\MOD_DEV\\tarkovMods\\Eco-Attachment_emporium\\EcoAttachmentEMporium\\EcoAttachmentEMporium.csproj": {
+    "C:\\SPT 4.0\\MOD_DEV\\Eco-Attachment-Emporium\\tarkovMods\\Eco-Attachment_emporium\\EcoAttachmentEMporium\\EcoAttachmentEMporium.csproj": {
       "version": "2.0.6",
       "restore": {
-        "projectUniqueName": "C:\\SPT 4.0\\MOD_DEV\\tarkovMods\\Eco-Attachment_emporium\\EcoAttachmentEMporium\\EcoAttachmentEMporium.csproj",
+        "projectUniqueName": "C:\\SPT 4.0\\MOD_DEV\\Eco-Attachment-Emporium\\tarkovMods\\Eco-Attachment_emporium\\EcoAttachmentEMporium\\EcoAttachmentEMporium.csproj",
         "projectName": "Eco-Attachment-Emporium",
-        "projectPath": "C:\\SPT 4.0\\MOD_DEV\\tarkovMods\\Eco-Attachment_emporium\\EcoAttachmentEMporium\\EcoAttachmentEMporium.csproj",
+        "projectPath": "C:\\SPT 4.0\\MOD_DEV\\Eco-Attachment-Emporium\\tarkovMods\\Eco-Attachment_emporium\\EcoAttachmentEMporium\\EcoAttachmentEMporium.csproj",
         "packagesPath": "C:\\Users\\mastr\\.nuget\\packages\\",
-        "outputPath": "C:\\SPT 4.0\\MOD_DEV\\tarkovMods\\Eco-Attachment_emporium\\EcoAttachmentEMporium\\obj\\",
+        "outputPath": "C:\\SPT 4.0\\MOD_DEV\\Eco-Attachment-Emporium\\tarkovMods\\Eco-Attachment_emporium\\EcoAttachmentEMporium\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mastr\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -24,6 +24,7 @@
         },
         "frameworks": {
           "net9.0": {
+            "framework": "net9.0",
             "targetAlias": "net9.0",
             "projectReferences": {}
           }
@@ -38,10 +39,11 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net9.0": {
+          "framework": "net9.0",
           "targetAlias": "net9.0",
           "dependencies": {
             "SPTarkov.Common": {
@@ -72,6 +74,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[9.0.18, 9.0.18]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[9.0.18, 9.0.18]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[9.0.18, 9.0.18]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -80,7 +96,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\mastr\\.dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\mastr\\.dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
