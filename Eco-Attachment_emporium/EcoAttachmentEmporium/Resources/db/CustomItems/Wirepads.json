@@ -1,0 +1,921 @@
+{
+  "68d7db2929420f94ff04cb16": {
+    "itemTplToClone": "544909bb4bdc2d6f028b4577",
+    "parentId": "55818b164bdc2ddc698b456c",
+    "handbookParentId": "5b5f737886f774093e6cb4fb",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Lasers/dbal_a4_pressurepad.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.05,
+      "Ergonomics": 2,
+      "Slots": [
+        {
+          "_id": "63828e48d94d972c8458f3bb",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_tactical_000",
+          "_parent": "2d354131a3d7dfa66a6b7d11",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6989305de267989d260aeef0",
+                  "6989305de267989d260aeef2"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Pressure pad for Steiner DBAL-A4",
+        "shortName": "DBAL Pad",
+        "description": "Pressure pad for Steiner DBAL-A4 laser aiming module. Allows remote activation of the laser and/or flashlight."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_tactical",
+      "mod_tactical002",
+      "mod_tactical001",
+      "mod_tactical_000",
+      "mod_tactical_001",
+      "mod_tactical_002",
+      "mod_tactical_003",
+      "mod_tactical_004",
+      "mod_equipment",
+      "mod_scope"
+    ],
+    "fleaPriceRoubles": 8957,
+    "handbookPriceRoubles": 4563,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2000
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "690a9521b92ab495d00df92c": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 15,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6a7251843bad29c7ac089611": {
+    "itemTplToClone": "544909bb4bdc2d6f028b4577",
+    "parentId": "55818b164bdc2ddc698b456c",
+    "handbookParentId": "5b5f737886f774093e6cb4fb",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Lasers/axon_pad_black.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.048,
+      "Ergonomics": 2,
+      "Slots": [
+        {
+          "_id": "63828e48d94d972c8458f3bb",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_tactical",
+          "_parent": "2d354131a3d7dfa66a6b7d11",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a7255c23bad29c7ac089613",
+                  "6a7256243bad29c7ac089615",
+                  "6a7258273bad29c7ac089617",
+                  "6a7258c23bad29c7ac089619",
+                  "6a7259033bad29c7ac08961b",
+                  "6a7259d03bad29c7ac08961d"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "AXON™ Remote Switch Pad",
+        "shortName": "AXON",
+        "description": "The pinnacle of remote switch design for weapon-mounted accessories, AXON™ provides complete control of lights and lasers in a single, compact and rugged housing."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_tactical",
+      "mod_tactical002",
+      "mod_tactical001",
+      "mod_tactical_000",
+      "mod_tactical_001",
+      "mod_tactical_002",
+      "mod_tactical_003",
+      "mod_tactical_004",
+      "mod_equipment",
+      "mod_scope"
+    ],
+    "fleaPriceRoubles": 8957,
+    "handbookPriceRoubles": 4563,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2000
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "6a7251843bad29c7ac089612": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 15,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6a7255c23bad29c7ac089613": {
+    "itemTplToClone": "544909bb4bdc2d6f028b4577",
+    "parentId": "55818b164bdc2ddc698b456c",
+    "handbookParentId": "5b5f737886f774093e6cb4fb",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Lasers/axon_salhup_wire.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.004,
+      "Ergonomics": 0,
+      "Slots": [
+        {
+          "_id": "63828e48d94d972c8458f3bb",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_tactical_010",
+          "_parent": "2d354131a3d7dfa66a6b7d11",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6989c980c4751ad87805e091"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "wire configuration for Meyers SAL-HUP",
+        "shortName": "Wire",
+        "description": "Wire configuration for the SAL-HUP to use with the AXON pad. Allows remote activation of the laser and/or flashlight."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_tactical",
+      "mod_tactical002",
+      "mod_tactical001",
+      "mod_tactical_000",
+      "mod_tactical_001",
+      "mod_tactical_002",
+      "mod_tactical_003",
+      "mod_tactical_004",
+      "mod_equipment",
+      "mod_scope"
+    ],
+    "fleaPriceRoubles": 1002,
+    "handbookPriceRoubles": 384,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2000
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "6a7255c23bad29c7ac089614": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6a7256243bad29c7ac089615": {
+    "itemTplToClone": "544909bb4bdc2d6f028b4577",
+    "parentId": "55818b164bdc2ddc698b456c",
+    "handbookParentId": "5b5f737886f774093e6cb4fb",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Lasers/axon_dbal_wire.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.004,
+      "Ergonomics": 0,
+      "Slots": [
+        {
+          "_id": "63828e48d94d972c8458f3bb",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_tactical_010",
+          "_parent": "2d354131a3d7dfa66a6b7d11",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6989305de267989d260aeef0",
+                  "6989305de267989d260aeef2"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "wire configuration for Steiner DBAL-A4",
+        "shortName": "Wire",
+        "description": "Wire configuration for the DBAL-A4 to use with the AXON pad. Allows remote activation of the laser and/or flashlight."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_tactical",
+      "mod_tactical002",
+      "mod_tactical001",
+      "mod_tactical_000",
+      "mod_tactical_001",
+      "mod_tactical_002",
+      "mod_tactical_003",
+      "mod_tactical_004",
+      "mod_equipment",
+      "mod_scope"
+    ],
+    "fleaPriceRoubles": 1002,
+    "handbookPriceRoubles": 384,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2000
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "6a7256243bad29c7ac089616": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6a7258273bad29c7ac089617": {
+    "itemTplToClone": "544909bb4bdc2d6f028b4577",
+    "parentId": "55818b164bdc2ddc698b456c",
+    "handbookParentId": "5b5f737886f774093e6cb4fb",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Lasers/axon_peq15_wire.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.004,
+      "Ergonomics": 0,
+      "Slots": [
+        {
+          "_id": "63828e48d94d972c8458f3bb",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_tactical_010",
+          "_parent": "2d354131a3d7dfa66a6b7d11",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "544909bb4bdc2d6f028b4577"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "wire configuration for L3 Harris AN-PEQ-15",
+        "shortName": "Wire",
+        "description": "Wire configuration for the PEQ-15 to use with the AXON pad. Allows remote activation of the laser and/or flashlight."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_tactical",
+      "mod_tactical002",
+      "mod_tactical001",
+      "mod_tactical_000",
+      "mod_tactical_001",
+      "mod_tactical_002",
+      "mod_tactical_003",
+      "mod_tactical_004",
+      "mod_equipment",
+      "mod_scope"
+    ],
+    "fleaPriceRoubles": 1002,
+    "handbookPriceRoubles": 384,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2000
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "6a7258273bad29c7ac089618": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6a7258c23bad29c7ac089619": {
+    "itemTplToClone": "544909bb4bdc2d6f028b4577",
+    "parentId": "55818b164bdc2ddc698b456c",
+    "handbookParentId": "5b5f737886f774093e6cb4fb",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Lasers/axon_ls321_wire.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.004,
+      "Ergonomics": 0,
+      "Slots": [
+        {
+          "_id": "63828e48d94d972c8458f3bb",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_tactical_010",
+          "_parent": "2d354131a3d7dfa66a6b7d11",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57fd23e32459772d0805bcf1"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "wire configuration for Holosun LS321",
+        "shortName": "Wire",
+        "description": "Wire configuration for the LS321 to use with the AXON pad. Allows remote activation of the laser and/or flashlight."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_tactical",
+      "mod_tactical002",
+      "mod_tactical001",
+      "mod_tactical_000",
+      "mod_tactical_001",
+      "mod_tactical_002",
+      "mod_tactical_003",
+      "mod_tactical_004",
+      "mod_equipment",
+      "mod_scope"
+    ],
+    "fleaPriceRoubles": 1002,
+    "handbookPriceRoubles": 384,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2000
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "6a7258c23bad29c7ac08961a": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6a7259033bad29c7ac08961b": {
+    "itemTplToClone": "544909bb4bdc2d6f028b4577",
+    "parentId": "55818b164bdc2ddc698b456c",
+    "handbookParentId": "5b5f737886f774093e6cb4fb",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Lasers/axon_raptar_wire.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.004,
+      "Ergonomics": 0,
+      "Slots": [
+        {
+          "_id": "63828e48d94d972c8458f3bb",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_tactical_010",
+          "_parent": "2d354131a3d7dfa66a6b7d11",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "61605d88ffa6e502ac5e7eeb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "wire configuration for Wilcox RAPTAR",
+        "shortName": "Wire",
+        "description": "Wire configuration for the Wilcox RAPTAR to use with the AXON pad. Allows remote activation of the laser and/or flashlight."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_tactical",
+      "mod_tactical002",
+      "mod_tactical001",
+      "mod_tactical_000",
+      "mod_tactical_001",
+      "mod_tactical_002",
+      "mod_tactical_003",
+      "mod_tactical_004",
+      "mod_equipment",
+      "mod_scope"
+    ],
+    "fleaPriceRoubles": 1002,
+    "handbookPriceRoubles": 384,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2000
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "6a7259033bad29c7ac08961c": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6a7259d03bad29c7ac08961d": {
+    "itemTplToClone": "544909bb4bdc2d6f028b4577",
+    "parentId": "55818b164bdc2ddc698b456c",
+    "handbookParentId": "5b5f737886f774093e6cb4fb",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Lasers/axon_perst3_wire.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.004,
+      "Ergonomics": 0,
+      "Slots": [
+        {
+          "_id": "63828e48d94d972c8458f3bb",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_tactical_010",
+          "_parent": "2d354131a3d7dfa66a6b7d11",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c5952732e2216398b5abda2"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "wire configuration for Zenit Perst-3",
+        "shortName": "Wire",
+        "description": "Wire configuration for the Zenit Perst-3 to use with the AXON pad. Allows remote activation of the laser and/or flashlight."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_tactical",
+      "mod_tactical002",
+      "mod_tactical001",
+      "mod_tactical_000",
+      "mod_tactical_001",
+      "mod_tactical_002",
+      "mod_tactical_003",
+      "mod_tactical_004",
+      "mod_equipment",
+      "mod_scope"
+    ],
+    "fleaPriceRoubles": 1002,
+    "handbookPriceRoubles": 384,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2000
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "6a7259d03bad29c7ac08961e": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  }
+}

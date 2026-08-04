@@ -5171,6 +5171,69 @@
                 "shaders",
                 "cubemaps"
             ]
+        },
+        {
+            "key": "Mods/Lasers/axon_textures.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps"
+            ]
+        },
+        {
+            "key": "Mods/Lasers/axon_pad_black.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/Lasers/axon_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Lasers/axon_dbal_wire.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/Lasers/axon_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Lasers/axon_ls321_wire.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/Lasers/axon_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Lasers/axon_peq15_wire.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/Lasers/axon_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Lasers/axon_perst3_wire.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/Lasers/axon_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Lasers/axon_raptar_wire.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/Lasers/axon_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Lasers/axon_salhup_wire.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/Lasers/axon_textures.bundle"
+            ]
         }
     ]
 }
