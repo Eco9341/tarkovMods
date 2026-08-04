@@ -13,9 +13,9 @@
     <SourceRoot Include="C:\Users\mastr\.nuget\packages\" />
   </ItemGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Content Include="$(NuGetPackageRoot)wtt-servercommonlib\2.0.18\contentFiles\any\net9.0\Resources\db\CustomLocales\en.json" Condition="Exists('$(NuGetPackageRoot)wtt-servercommonlib\2.0.18\contentFiles\any\net9.0\Resources\db\CustomLocales\en.json')">
+    <Content Include="$(NuGetPackageRoot)wtt-servercommonlib\3.0.3\contentFiles\any\net10.0\Resources\db\CustomLocales\en.json" Condition="Exists('$(NuGetPackageRoot)wtt-servercommonlib\3.0.3\contentFiles\any\net10.0\Resources\db\CustomLocales\en.json')">
       <NuGetPackageId>WTT-ServerCommonLib</NuGetPackageId>
-      <NuGetPackageVersion>2.0.18</NuGetPackageVersion>
+      <NuGetPackageVersion>3.0.3</NuGetPackageVersion>
       <NuGetItemType>Content</NuGetItemType>
       <Pack>false</Pack>
       <Private>False</Private>
@@ -23,6 +23,6 @@
     </Content>
   </ItemGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Import Project="$(NuGetPackageRoot)wtt-servercommonlib\2.0.18\build\WTT-ServerCommonLib.props" Condition="Exists('$(NuGetPackageRoot)wtt-servercommonlib\2.0.18\build\WTT-ServerCommonLib.props')" />
+    <Import Project="$(NuGetPackageRoot)wtt-servercommonlib\3.0.3\build\WTT-ServerCommonLib.props" Condition="Exists('$(NuGetPackageRoot)wtt-servercommonlib\3.0.3\build\WTT-ServerCommonLib.props')" />
   </ImportGroup>
 </Project>
