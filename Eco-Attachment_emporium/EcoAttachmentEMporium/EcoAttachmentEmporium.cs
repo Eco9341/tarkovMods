@@ -28,7 +28,7 @@ public record ModMetadata : IModMetadata
 
 
 [Injectable(TypePriority = OnLoadOrder.Preload + 2)]
-public class DoomArcadeServer(
+public class EcoAttachmentEmporium(
     WTTServerCommonLib.WTTServerCommonLib wttCommon,
     EcoQuestHelper ecoQuestHelper) : IOnLoad
 {
